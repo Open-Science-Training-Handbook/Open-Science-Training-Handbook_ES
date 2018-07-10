@@ -21,4 +21,4 @@
 * [Glossary](06Glossary/README.md)
 * [References](07References/README.md)
 * [About the Authors & Facilitators](08AboutTheAuthorsAndFacilitators/README.md)
-* [Translation Guide](Languages/README.md)
+* [Translation Guide](TranslationGuide/README.md)
