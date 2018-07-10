@@ -1,4 +1,6 @@
 ## Translation guide for the Open Science training handbook
+The translation into Spanish is coordinated by: Name + contact; 
+If you would like to contribute to the translation, you need to fork the repository to your own. There you can overwrite the content and send us a change/pull request with a short description of the change (e.g. translation of chapter...). The coordinator will check your suggestion and commit the change to the main version.
 
 # Translation progress
 
