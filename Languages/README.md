@@ -1,4 +1,4 @@
-##Translation guide for the Open Science training handbook
+## Translation guide for the Open Science training handbook
 
 #Translation progress
 | Chapter | Responsible | Status  |
