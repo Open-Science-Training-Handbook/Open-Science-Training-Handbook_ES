@@ -1,6 +1,6 @@
 ## <img src="/Images/Icons/book.png" width="200" height="200" />
 
-## Purpose of the book
+## Purpose of the book- proposito del manual
 
 _**"When all researchers are aware of Open Science, and are trained, supported and guided at all career stages to practice Open Science, the potential is there to fundamentally change the way research is performed and disseminated, fostering a scientific ecosystem in which research gains increased visibility, is shared more efficiently, and is performed with enhanced research integrity."**_ [Open Science Skills Working Group Report](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \(2017\)
 
