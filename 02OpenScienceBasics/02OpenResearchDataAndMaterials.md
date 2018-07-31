@@ -37,13 +37,13 @@ Research data are often the most valuable output of many research projects, they
 
 In 2014, a core set of principles were drafted in order to optimize the reusability of research data, named the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). They represent a community-developed set of guidelines and best practices to ensure that data or any digital object are **F**indable, **A**ccessible, **I**nteroperable and **R**e-usable:
 
-**Findable: **The first thing to be in place to make data reusable is the possibility to find them. It should be easy to find the data and the metadata for both humans and computers. Automatic and reliable discovery of datasets and services depends on machine-readable persistent identifiers \(PIDs\) and metadata.
+**Findable:** The first thing to be in place to make data reusable is the possibility to find them. It should be easy to find the data and the metadata for both humans and computers. Automatic and reliable discovery of datasets and services depends on machine-readable persistent identifiers \(PIDs\) and metadata.
 
-**Accessible: **The \(meta\)data should be retrievable by their identifier using a standardized and open communications protocol, possibly including authentication and authorisation. Also, metadata should be available even when the data are no longer available.
+**Accessible:** The \(meta\)data should be retrievable by their identifier using a standardized and open communications protocol, possibly including authentication and authorisation. Also, metadata should be available even when the data are no longer available.
 
 **Interoperable:** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
 
-**Re-usable: **Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
+**Re-usable:** Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
 
 Distinct from peer initiatives that focus on the human scholar, the FAIR principles put a specific emphasis on enhancing the ability of machines to automatically find and use data or any digital object, in addition to supporting its reuse by individuals. The FAIR principles are guiding principles, not standards. FAIR describes qualities or behaviours that are required to make data maximally reusable \(e.g., description, citation\). Those qualities can be achieved by different standards.
 
@@ -71,7 +71,7 @@ The CESSDA ERIC [Expert tour guide on Data Management](https://www.cessda.eu/Res
 
 2. If available, use an institutional research data repository, or your research group’s established data management facilities.
 
-3. Use a cost-free data repository such as [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://en.wikipedia.org/wiki/Figshare) or [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
+3. Use a cost-free data repository such as [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/).
 
 4. Search for other data repositories in [re3data](https://www.re3data.org/). There is no single filter option in re3data covering the FAIR principles, but considering the following filter options will help you to find FAIR-compatible repositories: access categories, data usage licenses, trustworthy data repositories \(with a certificate or explicitly adhering to archival standards\) and whether a repository gives the data a persistent identifier \(PID\). Another aspect to consider is whether the repository supports versioning.
 
