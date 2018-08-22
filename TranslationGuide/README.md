@@ -183,16 +183,24 @@ A continuación citamos algunas pautas de aplicación general entre los integran
 </ul>
 </br>
 <ol>
-5.	Finaliza la traducción </ol>
-<ul>
-<li>	Lee cuidadosamente la versión elaborada en el punto anterior pero ahora sin tener en cuenta el texto original. Examina el texto haciendo énfasis en los posibles errores cometidos (gramaticales y de ortografía, errores de digitación, posibles olvidos, etc.). En la mayoría de los casos (excepto quizás en traducción literaria) la traducción debería sonar como si hubiera sido escrita originalmente en el idioma de llegada.</li></ul>
-<ol>
-</br> 
-6.	Glosarios </ol>
+5.	Glosarios </ol>
 
 Es recomendable consultar diccionarios o artículos sobre Ciencia Abierta o temas relacionados
  <ul>
 <li>Sánchez Vargas, A. del P. (2017). Ciencia Abierta: elementos conceptuales (Documento de Trabajo - Unidad de Diseño y Evaluación de Políticas) (p. 13). Colciencias. Recuperado de  http://colciencias.gov.co/sites/default/files/ckeditor_files/Doc%20Trabajo%20Ciencia%20Abierta.pdf</li></ul>
+</br> 
+<ol>
+6.	Finaliza la traducción </ol>
+<ul>
+<li>	Lee cuidadosamente la versión elaborada en el punto anterior pero ahora sin tener en cuenta el texto original. Examina el texto haciendo énfasis en los posibles errores cometidos (gramaticales y de ortografía, errores de digitación, posibles olvidos, etc.). En la mayoría de los casos (excepto quizás en traducción literaria) la traducción debería sonar como si hubiera sido escrita originalmente en el idioma de llegada.</li></ul>
+</br>
+<ol>
+7.	Contacta al coordinador </ol>
+<ul>
+<li>	Avisa al coordinador que has finalizado la traducción, de modo que puede comenzar el proceso de edición y revisión final.</li></ul>
+</br>
+#Fecha deseable de entrega para traductores: 31 de Octubre de 2018
+
  
 
 
