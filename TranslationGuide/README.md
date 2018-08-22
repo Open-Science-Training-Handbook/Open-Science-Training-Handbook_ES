@@ -160,21 +160,21 @@ Selecciona el Capítulo y luego edita el texto usando el ícono (lápiz) localiz
 
 A continuación citamos algunas pautas de aplicación general entre los integrantes del grupo de traducción al español
 <ol>
-1.	Lee la totalidad del texto antes de comenzar</ol></br>
+<b>1.	Lee la totalidad del texto antes de comenzar</ol></b></br>
 <ul>
 <li>	Aunque en muchos casos puede ser tentador lanzarse en seguida a traducir, lo primero que debes hacer es leer la totalidad del texto (o al menos leerlo por encima).</li>
 <li>	Tener una copia impresa del texto, resaltar palabras desconocidas, escribir notas sobre la traducción.</li></ul>
 </br>
 <ol>
-2.	Identifica las palabras, expresiones o ideas que no conoces, investígalas y coméntalas con el grupo para usarlos consistentemente en la traducción.</ol>
+<b>2.	Identifica las palabras, expresiones o ideas que no conoces, investígalas y coméntalas con el grupo para usarlos consistentemente en la traducción.</b></ol>
 </br>
 <ol>
-3.	Elabora un primer borrador </ol></br>
+<b>3.	Elabora un primer borrador </ol></b></br>
 <ul>
 <li>	Comienza a traducir. Lee una frase entera del texto original y escribe su traducción. Continúa el proceso frase por frase hasta terminar una primera versión del texto. En esta etapa únicamente estás creando un primer borrador, el cual posteriormente será editado y perfeccionado.</li></ul>
 </br>
 <ol>
-4.	Revisa, edita y toma decisiones</ol></br>
+<b>4.	Revisa, edita y toma decisiones</ol></b></br>
 <ul>
 <li>	Idealmente es bueno dejar un poco de tiempo antes de retomar el borrador que elaboraste en el punto anterior. Esto te permitirá enfrentar el texto con una nueva mirada y te ayudará a determinar los cambios necesarios.</li>
 <li> Revisa tu traducción y compárala con el texto original para verificar que hayas traducido correctamente los términos y palabras difíciles.</li>
@@ -182,18 +182,18 @@ A continuación citamos algunas pautas de aplicación general entre los integran
 </ul>
 </br>
 <ol>
-5.	Glosarios </ol></br>
-Es recomendable consultar diccionarios o artículos sobre Ciencia Abierta o temas relacionados
+<b>5.	Glosarios </ol></b></br>
+Es recomendable consultar diccionarios o artículos sobre Ciencia Abierta o temas relacionados como:</br>
  <ul>
 <li>Sánchez Vargas, A. del P. (2017). Ciencia Abierta: elementos conceptuales (Documento de Trabajo - Unidad de Diseño y Evaluación de Políticas) (p. 13). Colciencias. Recuperado de  http://colciencias.gov.co/sites/default/files/ckeditor_files/Doc%20Trabajo%20Ciencia%20Abierta.pdf</li></ul>
 </br> 
 <ol>
-6.	Finaliza la traducción </ol></br>
+<b>6.	Finaliza la traducción </ol></b></br>
 <ul>
 <li>	Lee cuidadosamente la versión elaborada en el punto anterior pero ahora sin tener en cuenta el texto original. Examina el texto haciendo énfasis en los posibles errores cometidos (gramaticales y de ortografía, errores de digitación, posibles olvidos, etc.). En la mayoría de los casos (excepto quizás en traducción literaria) la traducción debería sonar como si hubiera sido escrita originalmente en el idioma de llegada.</li></ul>
 </br>
 <ol>
-7.	Contacta al coordinador </ol></br>
+<b>7.	Contacta al coordinador</ol></b></br>
 <ul>
 <li>	Avisa al coordinador que has finalizado la traducción, de modo que puede comenzar el proceso de edición y revisión final.</li></ul>
 </br>
