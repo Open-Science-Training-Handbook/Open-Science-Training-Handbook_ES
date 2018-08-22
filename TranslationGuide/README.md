@@ -15,7 +15,7 @@ You can edit on Github either using a the Desktop App or directly online (click 
   </tr>
   <tr>
     <td>Introduction</td>
-    <td>Benito Castro</td>
+    <td>Paloma Burgeois</td>
     <td></td>
     <td></td>
   </tr>
@@ -75,37 +75,37 @@ You can edit on Github either using a the Desktop App or directly online (click 
   </tr>
   <tr>
     <td>Open Science Policies</td>
-    <td>Alicia Gómez</td>
+    <td>Benito Castro</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Citizen Science</td>
-    <td>Alicia Gómez</td>
+    <td>Benito Castro</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Educational Resources</td>
-    <td>Paula Martínez</td>
+    <td>Benito Castro</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Advocacy</td>
-    <td>Paula Martínez</td>
+    <td>Benito Castro</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>On Learning and Training</td>
-    <td>Rosario Rogel</td>
+    <td>Paula Martínez</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Organizational Aspects</td>
-    <td>Paula Martínez</td>
+    <td>Rosario Rogel</td>
     <td></td>
     <td></td>
   </tr>
