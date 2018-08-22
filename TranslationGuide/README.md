@@ -159,29 +159,30 @@ Selecciona el Capítulo y luego edita el texto usando el ícono (lápiz) localiz
 ## ASPECTOS TÉCNICOS
 
 A continuación citamos algunas pautas de aplicación general entre los integrantes del grupo de traducción al español
-
-1.	Lee la totalidad del texto antes de comenzar
-
+<ol>
+1.	Lee la totalidad del texto antes de comenzar</ol>
+<ul>
 <li>	Aunque en muchos casos puede ser tentador lanzarse en seguida a traducir, lo primero que debes hacer es leer la totalidad del texto (o al menos leerlo por encima).</li>
-<li>	Tener una copia impresa del texto, resaltar palabras desconocidas, escribir notas sobre la traducción.</li>
-
-2.	Identifica las palabras, expresiones o ideas que no conoces, investígalas y coméntalas con el grupo para usarlos consistentemente en la traducción.
-
-3.	Elabora un primer borrador 
-
-<li>	Comienza a traducir. Lee una frase entera del texto original y escribe su traducción. Continúa el proceso frase por frase hasta terminar una primera versión del texto. En esta etapa únicamente estás creando un primer borrador, el cual posteriormente será editado y perfeccionado.</li>
-
-4.	Revisa, edita y toma decisiones
-
+<li>	Tener una copia impresa del texto, resaltar palabras desconocidas, escribir notas sobre la traducción.</li></ul>
+<ol>
+2.	Identifica las palabras, expresiones o ideas que no conoces, investígalas y coméntalas con el grupo para usarlos consistentemente en la traducción.</ol>
+<ol>
+3.	Elabora un primer borrador </ol>
+<ul>
+<li>	Comienza a traducir. Lee una frase entera del texto original y escribe su traducción. Continúa el proceso frase por frase hasta terminar una primera versión del texto. En esta etapa únicamente estás creando un primer borrador, el cual posteriormente será editado y perfeccionado.</li></ul>
+<ol>
+4.	Revisa, edita y toma decisiones</ol>
+<ul>
 <li>	Idealmente es bueno dejar un poco de tiempo antes de retomar el borrador que elaboraste en el punto anterior. Esto te permitirá enfrentar el texto con una nueva mirada y te ayudará a determinar los cambios necesarios.</li>
 <li> Revisa tu traducción y compárala con el texto original para verificar que hayas traducido correctamente los términos y palabras difíciles.</li>
 <li>	Toma las decisiones finales y realiza los cambios necesarios para obtener una segunda versión del texto más elaborada.</li>
-
-5.	Finaliza la traducción
-
-<li>	Lee cuidadosamente la versión elaborada en el punto anterior pero ahora sin tener en cuenta el texto original. Examina el texto haciendo énfasis en los posibles errores cometidos (gramaticales y de ortografía, errores de digitación, posibles olvidos, etc.). En la mayoría de los casos (excepto quizás en traducción literaria) la traducción debería sonar como si hubiera sido escrita originalmente en el idioma de llegada.</li>
-
-6.	Glosarios
+</ul>
+<ol>
+5.	Finaliza la traducción </ol>
+<ul>
+<li>	Lee cuidadosamente la versión elaborada en el punto anterior pero ahora sin tener en cuenta el texto original. Examina el texto haciendo énfasis en los posibles errores cometidos (gramaticales y de ortografía, errores de digitación, posibles olvidos, etc.). En la mayoría de los casos (excepto quizás en traducción literaria) la traducción debería sonar como si hubiera sido escrita originalmente en el idioma de llegada.</li></ul>
+<ol>
+6.	Glosarios </ol>
 
 Es recomendable consultar diccionarios o artículos sobre CA o temas relacionados
  
