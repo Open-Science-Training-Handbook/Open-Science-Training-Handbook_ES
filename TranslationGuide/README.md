@@ -4,7 +4,7 @@ La traducción al español es coordinada por: Claudia Vilches - Biblioteca de la
 Antes de comenzar la traducción revisa el(los) capítulo(s) que tiene(s) asignado(s). De ese modo evitamos la duplicación de esfuerzos. Como ya eres miembro de esta comunidad, puedes editar directamente en línea en Github o usando una aplicación en tu escritorio. 
 Selecciona el Capítulo y luego edita el texto usando el ícono (lápiz) localizado al lado derecho de la pantalla.
 
-# Avances de la traducción
+## Avances de la traducción
 
 <table>
   <tr>
@@ -143,13 +143,10 @@ Selecciona el Capítulo y luego edita el texto usando el ícono (lápiz) localiz
 <li>	Presentar posibilidades sobre cómo organizar capacitaciones.</li>
 <li>	Incluir listas de verificación y glosarios.</li></ul>
 
-## OBJETIVOS DE LA TRADUCCIÓN
-<ul>
-<li>	Manter el texto lo más apegado a la versión en inglés y mantener su características esenciales: ser un instrumento de apoyo a facilitadores, de fácil lectura y entretenido.</li>
-<li>	Incorporar inciativas, experiencias, ejemplos, referencias bibliográficas que reflejen  la perspectiva de la región latinoamericana y caribeña y de los países hispanoparlantes. Para ello, agregar una nota a pie de página con la siguiente leyenda: „(*) Información añadida a la versión en español“.</li></ul>
-
 ## CONSEJOS PRÁCTICOS PARA LA TRADUCCIÓN
 <ul>
+<li>	Manter el texto lo más apegado a la versión en inglés y mantener su características esenciales: ser un instrumento de apoyo a facilitadores, de fácil lectura y entretenido.</li>
+<li>	Incorporar inciativas, experiencias, ejemplos, referencias bibliográficas que reflejen  la perspectiva de la región latinoamericana y caribeña y de los países hispanoparlantes. Para ello, agregar una nota a pie de página con la siguiente leyenda: "(*) Información añadida a la versión en español“.</li>
 <li>	Utiliza un lenguaje simple.</li>
 <li>	Escribe textos cortos.</li>
 <li>	Estructura de capítulos con subtítulos y párrafos cortos.</li>
@@ -166,7 +163,7 @@ A continuación citamos algunas pautas de aplicación general entre los integran
 <li>	Tener una copia impresa del texto, resaltar palabras desconocidas, escribir notas sobre la traducción.</li></ul>
 </br>
 <ol>
-<b>2.	Identifica las palabras, expresiones o ideas que no conoces, investígalas y coméntalas con el grupo para usarlos consistentemente en la traducción.</b></ol>
+<b>2.	Identifica las palabras, expresiones o ideas que no conoces, investígalas y coméntalas con el grupo para usarlos consistentemente en la traducción. Recuerda citar las fuentes y poner la nota: "(*) Información añadida a la versión en español“</b></ol>
 </br>
 <ol>
 <b>3.	Elabora un primer borrador </ol></b></br>
@@ -185,6 +182,7 @@ A continuación citamos algunas pautas de aplicación general entre los integran
 <b>5.	Glosarios </ol></b></br>
 Es recomendable consultar diccionarios o artículos sobre Ciencia Abierta o temas relacionados como:</br>
  <ul>
+ </br>
 <li>Sánchez Vargas, A. del P. (2017). Ciencia Abierta: elementos conceptuales (Documento de Trabajo - Unidad de Diseño y Evaluación de Políticas) (p. 13). Colciencias. Recuperado de  http://colciencias.gov.co/sites/default/files/ckeditor_files/Doc%20Trabajo%20Ciencia%20Abierta.pdf</li></ul>
 </br> 
 <ol>
@@ -197,7 +195,7 @@ Es recomendable consultar diccionarios o artículos sobre Ciencia Abierta o tema
 <ul>
 <li>	Avisa al coordinador que has finalizado la traducción, de modo que puede comenzar el proceso de edición y revisión final.</li></ul>
 </br>
-# Fecha deseable de entrega para traductores: 31 de Octubre de 2018
+## Fecha deseable de entrega para traductores: 31 de Octubre de 2018
 
  
 
