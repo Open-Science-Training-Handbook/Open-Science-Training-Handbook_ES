@@ -3,14 +3,14 @@ La traducción al español es coordinada por: Claudia Vilches - Biblioteca de la
  
 Antes de comenzar la traducción revisa el o los capítulos que tienes asignados, en la sección “Guía para el traductor”. De ese modo evitamos la duplicación de esfuerzos. Como ya eres miembro de esta comunidad, ya puedes editar en Github usando una aplicación en tu escritorio o directamente en línea. Selecciona el Capítulo y luego edita usando el ícono (lápiz) localizado al lado derecho de la pantalla.
 
-# Translation progress
+# Avances de la traducción
 
 <table>
   <tr>
-    <td>CHAPTER</td>
-    <td>RESPONSIBLE PERSON</td>
-    <td>TRANSLATION STATUS</td>
-    <td>REVIEW STATUS</td>
+    <td>CAPÍTULO</td>
+    <td>RESPONSABLE</td>
+    <td>AVANCE</td>
+    <td>ESTADO REVISIÓN</td>
   </tr>
   <tr>
     <td>Introduction</td>
@@ -134,3 +134,10 @@ Antes de comenzar la traducción revisa el o los capítulos que tienes asignados
   </tr>
 
 </table>
+
+## OBJETIVOS DEL MANUAL / CONTENIDOS 
+•	Crear un manual de capacitación para capacitadores de Ciencia Abierta (CA), centrado en la enseñanza práctica de Ciencia Abierta y ayudar a los formadores a organizar sus propias sesiones de capacitación.
+•	Entregar conceptos y principios de Ciencia Abierta
+•	Presentar posibilidades sobre cómo organizar capacitaciones.
+•	Incluir listas de verificación y glosarios.
+
