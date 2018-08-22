@@ -1,7 +1,8 @@
 ## Guía de traducción - Manual de capacitación FOSTER de Ciencia Abierta
 La traducción al español es coordinada por: Claudia Vilches - Biblioteca de la CEPAL / claudia.vilches@un.org; 
  
-Antes de comenzar la traducción revisa el o los capítulos que tienes asignados, en la sección “Guía para el traductor”. De ese modo evitamos la duplicación de esfuerzos. Como ya eres miembro de esta comunidad, ya puedes editar en Github usando una aplicación en tu escritorio o directamente en línea. Selecciona el Capítulo y luego edita usando el ícono (lápiz) localizado al lado derecho de la pantalla.
+Antes de comenzar la traducción revisa el(los) capítulo(s) que tiene(s) asignado(s). De ese modo evitamos la duplicación de esfuerzos. Como ya eres miembro de esta comunidad, puedes editar directamente en línea en Github o usando una aplicación en tu escritorio. 
+Selecciona el Capítulo y luego edita el texto usando el ícono (lápiz) localizado al lado derecho de la pantalla.
 
 # Avances de la traducción
 
@@ -136,8 +137,9 @@ Antes de comenzar la traducción revisa el o los capítulos que tienes asignados
 </table>
 
 ## OBJETIVOS DEL MANUAL / CONTENIDOS 
+<ul>
 •	Crear un manual de capacitación para capacitadores de Ciencia Abierta (CA), centrado en la enseñanza práctica de Ciencia Abierta y ayudar a los formadores a organizar sus propias sesiones de capacitación.
 •	Entregar conceptos y principios de Ciencia Abierta
 •	Presentar posibilidades sobre cómo organizar capacitaciones.
-•	Incluir listas de verificación y glosarios.
+•	Incluir listas de verificación y glosarios.</ul>
 
