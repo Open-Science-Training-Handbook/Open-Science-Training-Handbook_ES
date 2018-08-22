@@ -163,7 +163,7 @@ A continuación citamos algunas pautas de aplicación general entre los integran
 1.	Lee la totalidad del texto antes de comenzar
 <ul>
 <li>	Aunque en muchos casos puede ser tentador lanzarse en seguida a traducir, lo primero que debes hacer es leer la totalidad del texto (o al menos leerlo por encima).</li>
-<li>	Tener una copia impresa del texto, resaltar palabras desconocidas, escribir notas sobre la traducción.</li>
+<li>	Tener una copia impresa del texto, resaltar palabras desconocidas, escribir notas sobre la traducción.</li></ul>
 
 2.	Identifica las palabras, expresiones o ideas que no conoces, investígalas y coméntalas con el grupo para usarlos consistentemente en la traducción.
 
