@@ -1,6 +1,7 @@
 ## Translation guide for the Open Science training handbook
-The translation into Spanish is coordinated by: Claudia Vilches - Biblioteca de la CEPAL / claudia.vilches@un.org; 
-
+La traducción al español es coordinada por: Claudia Vilches - Biblioteca de la CEPAL / claudia.vilches@un.org; 
+ 
+Antes de comenzar la traducción revisa el o los capítulos que tienes asignados, en la sección “Guía para el traductor”, y de ese modo evitar duplicación de esfuerzos. Como ya eres miembro de esta comunidad ya puedes editar en Github usando una aplicación en tu escritorio o directamente en línea. Selecciona el Capítulo y luego edita usando el ícono (lápiz) localizado al lado derecho de la pantalla.
 If you would like to contribute to the translation, you need to fork the repository to your own. There you can overwrite the content and send us a change/pull request with a short description of the change (e.g. translation of chapter...). The coordinator will check your suggestion and commit the change to the main version. Please contact the coordinator before you start to avoid duplication efforts.
 You can edit on Github either using a the Desktop App or directly online (click on the README.md and then edit on the right-hand side).
 
