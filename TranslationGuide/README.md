@@ -16,6 +16,20 @@ Total de palabras del Manual: 43.243.
     <td>AVANCE</td>
     <td>ESTADO REVISIÓN</td>
   </tr>
+ <tr>
+    <td>Summary</td>
+    <td>Paloma Burgeois</td>
+    <td>86</td>
+    <td></td>
+    <td></td>
+  </tr>
+ <tr>
+    <td>Readme</td>
+    <td>Paloma Burgeois</td>
+    <td>709</td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>Introduction</td>
     <td>Paloma Burgeois</td>
