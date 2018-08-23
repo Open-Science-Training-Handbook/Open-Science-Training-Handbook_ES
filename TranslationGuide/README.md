@@ -198,6 +198,13 @@ Es recomendable consultar diccionarios o artículos sobre Ciencia Abierta o tema
 </br>
 ## Fecha deseable de entrega para traductores: 31 de Octubre de 2018
 
+## Manuales para el traductor
+
+GNU Operating System. Recomendaciones para las traducciones. Recuperado 23 de agosto de 2018, de https://www.gnu.org/server/standards/translations/es/recomendaciones.html
+
+Naciones Unidas. Manual del traductor del Servicio de Traducción al Español de las Naciones Unidas. Recuperado 23 de agosto de 2018, de https://onutraduccion.wordpress.com/
+
+
  
 
 
