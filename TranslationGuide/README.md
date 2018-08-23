@@ -242,10 +242,15 @@ Si vas a la carpeta Open-Science-Training-Handbook_ES/Imagess vas a encontrar la
 
 Diseña y traduce la imagen con las herramientas que tengas disponible. </br>
 
-Guarda la nueva imagen agregando <b>_es</b> al nombre del archivo. Por ejemplo:  <b>image_6_es.png</b></br>
+Guarda la nueva imagen agregando <b>_es</b> al nombre del archivo. Por ejemplo:  <b>image_X_es.png</b></br>
+
 Sube el archivo de la nueva imagen a la carpeta <b>Images</b></br>
-Edita nuevamente el texto y duplica la instrucción: ![image alt text](/Images/ image_X.png) debajo de la ya existente</br>
+
+Edita nuevamente el texto y duplica la instrucción: <b>![image alt text](/Images/ image_X.png)</b> debajo de la ya existente</br>
+
 Edita la instrucción y corrige el nombre del archivo de la nueva imagen <b>"![image alt text](/Images/ image_X_es.png)"</b></br>
+
+Al visualizar el capítulo veras tanto la imagen en inglés como en español. El Coordinador realizará la eliminación de imagen en inglés, durante el proceso de edición y revisión final del Manual.
 </li></ul>
 </br>
 <ol>
