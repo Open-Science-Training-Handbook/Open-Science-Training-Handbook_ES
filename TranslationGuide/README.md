@@ -102,28 +102,28 @@ Total de palabras del Manual: 43.243.
   </tr>
   <tr>
     <td>Open Science Policies</td>
-    <td>Benito Castro</td>
+    <td>Rosario Rogel</td>
     <td>917</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Citizen Science</td>
-    <td>Benito Castro</td>
+    <td>Rosario Rogel</td>
     <td>922</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Educational Resources</td>
-    <td>Benito Castro</td>
+    <td>Rosario Rogel</td>
     <td>693</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Advocacy</td>
-    <td>Benito Castro</td>
+    <td>Rosario Rogel</td>
     <td>1.015</td>
     <td></td>
     <td></td>
@@ -137,7 +137,7 @@ Total de palabras del Manual: 43.243.
   </tr>
   <tr>
     <td>Organizational Aspects</td>
-    <td>Rosario Rogel</td>
+    <td>Benito Castro</td>
     <td>4.095</td>
     <td></td>
     <td></td>
