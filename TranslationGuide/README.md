@@ -173,7 +173,7 @@ Total de palabras del Manual: 43.243.
 
 </table>
 
-## OBJETIVOS DEL MANUAL / CONTENIDOS  prueba
+## OBJETIVOS DEL MANUAL / CONTENIDOS  
 <ul>
 <li>	Crear un manual de capacitación para capacitadores de Ciencia Abierta (CA), centrado en la enseñanza práctica de Ciencia Abierta y ayudar a los formadores a organizar sus propias sesiones de capacitación.</li>
 <li>	Entregar conceptos y principios de Ciencia Abierta</li>
