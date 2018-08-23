@@ -237,7 +237,7 @@ En la carpeta/capítulo:</br>
 Se encuentra el lenguaje de marcado que muestra la imagen: image_X.png</br>
 &nbsp; &nbsp; &nbsp; &nbsp; <b>![image alt text](/Images/ image_X.png)</b></br>
 
-Si vas a la carpeta Open-Science-Training-Handbook_ES/Imagess vas a encontrar la imagen:</br>
+Si vas a la carpeta <b>Open-Science-Training-Handbook_ES/Images</b> vas a encontrar la imagen:</br>
 &nbsp; &nbsp; &nbsp; &nbsp; <b>image_X.png</b></br>
 
 Diseña y traduce la imagen con las herramientas que tengas disponible. </br>
