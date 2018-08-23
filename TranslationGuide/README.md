@@ -206,7 +206,8 @@ A continuación citamos algunas pautas de aplicación general entre los integran
 <ol>
 <b>3.	Elabora un primer borrador </ol></b></br>
 <ul>
-<li>	Comienza a traducir. Lee una frase entera del texto original y escribe su traducción. Continúa el proceso frase por frase hasta terminar una primera versión del texto. En esta etapa únicamente estás creando un primer borrador, el cual posteriormente será editado y perfeccionado.</li></ul>
+<li>	Comienza a traducir. Lee una frase entera del texto original y escribe su traducción. Continúa el proceso frase por frase hasta terminar una primera versión del texto. En esta etapa únicamente estás creando un primer borrador, el cual posteriormente será editado y perfeccionado. <b>NO BORRES EL TEXTO EN INGLES</b>, de manera de facilitarte una segunda revisión y también el proceso de edición y revisión final que hará el coordinador.
+ </li></ul>
 </br>
 <ol>
 <b>4.	Revisa, edita y toma decisiones</ol></b></br>
