@@ -223,14 +223,38 @@ Es recomendable consultar diccionarios o artículos sobre Ciencia Abierta o tema
  <ul>
  </br>
 <li>Sánchez Vargas, A. del P. (2017). Ciencia Abierta: elementos conceptuales (Documento de Trabajo - Unidad de Diseño y Evaluación de Políticas) (p. 13). Colciencias. Recuperado de  http://colciencias.gov.co/sites/default/files/ckeditor_files/Doc%20Trabajo%20Ciencia%20Abierta.pdf</li></ul>
-</br> 
+</br>
 <ol>
-<b>6.	Finaliza la traducción </ol></b></br>
+<b>6.	Traducción de las imágenes</ol></b></br>
+
+Solamente debes traducir la imágenes con contenidos sustantivos, como tablas o cuadros. A continuación algunas instrucciones:
+<ul>
+<li>	Las imágenes están guardadas en la carpeta <b>Images</b> 
+</br>
+En la carpeta/capítulo:</br>
+&nbsp&nbsp&nbsp&nbsp<b>Open-Science-Training-Handbook_ES/05ExamplesAndPracticalGuidance/</b></br>
+
+Se encuentra el lenguaje de marcado que muestra la imagen: image_X.png</br>
+&nbsp; &nbsp; &nbsp; &nbsp; <b>![image alt text](/Images/ image_X.png)</b></br>
+
+Si vas a la carpeta Open-Science-Training-Handbook_ES/Imagess vas a encontrar la imagen:</br>
+&nbsp; &nbsp; &nbsp; &nbsp; <b>image_X.png</b></br>
+
+Diseña y traduce la imagen con las herramientas que tengas disponible. </br>
+
+Guarda la nueva imagen agregando <b>_es</b> al nombre del archivo. Por ejemplo:  <b>image_6_es.png</b></br>
+Sube el archivo de la nueva imagen a la carpeta <b>Images</b></br>
+Edita nuevamente el texto y duplica la instrucción: ![image alt text](/Images/ image_X.png) debajo de la ya existente</br>
+Edita la instrucción y corrige el nombre del archivo de la nueva imagen <b>"![image alt text](/Images/ image_X_es.png)"</b></br>
+</li></ul>
+</br>
+<ol>
+<b>7.	Finaliza la traducción </ol></b></br>
 <ul>
 <li>	Lee cuidadosamente la versión elaborada en el punto anterior pero ahora sin tener en cuenta el texto original. Examina el texto haciendo énfasis en los posibles errores cometidos (gramaticales y de ortografía, errores de digitación, posibles olvidos, etc.). En la mayoría de los casos (excepto quizás en traducción literaria) la traducción debería sonar como si hubiera sido escrita originalmente en el idioma de llegada.</li></ul>
 </br>
 <ol>
-<b>7.	Contacta al coordinador</ol></b></br>
+<b>8.	Contacta al coordinador</ol></b></br>
 <ul>
 <li>	Avisa al coordinador que has finalizado la traducción, de modo que puede comenzar el proceso de edición y revisión final.</li></ul>
 </br>
