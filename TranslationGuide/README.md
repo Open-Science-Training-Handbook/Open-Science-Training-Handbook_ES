@@ -2,14 +2,14 @@
 Coordinación y revisión final de la traducción al español: Claudia Vilches - Biblioteca de la CEPAL / claudia.vilches@un.org 
 
 Traductores colaboradores: 
-Alicia Gómez  - aliciaf.gomez@yahoo.com
-Ivonne Lujano - ivonne@doaj.org
-Lourdes Feria - lourdesferia@hotmail.com
-Paula Martínez -paml@dtu.dk
-Benito Castro - bibliobenito@gmail.com
-Paloma Burgeois - pbg.034@gmail.com
-Rosario Rogel - rosariorogel@gmail.com
-Ricardo Hartley - aufschieben@icloud.com
+Alicia Gómez  - aliciaf.gomez@yahoo.com / 
+Ivonne Lujano - ivonne@doaj.org / 
+Lourdes Feria - lourdesferia@hotmail.com / 
+Paula Martínez -paml@dtu.dk / 
+Benito Castro - bibliobenito@gmail.com / 
+Paloma Burgeois - pbg.034@gmail.com / 
+Rosario Rogel - rosariorogel@gmail.com / 
+Ricardo Hartley - aufschieben@icloud.com /
 
 Antes de comenzar la traducción revisa el(los) capítulo(s) que tiene(s) asignado(s). De ese modo evitamos la duplicación de esfuerzos. Como ya eres miembro de esta comunidad, puedes editar directamente en línea en Github o usando una aplicación en tu escritorio. 
 Selecciona el Capítulo y luego edita el texto usando el ícono (lápiz) localizado al lado derecho de la pantalla.
