@@ -1,135 +1,158 @@
 ## Guía de traducción - Manual de capacitación FOSTER de Ciencia Abierta
-La traducción al español es coordinada por: Claudia Vilches - Biblioteca de la CEPAL / claudia.vilches@un.org; 
+La traducción al español es coordinada por: Claudia Vilches - Biblioteca de la CEPAL / claudia.vilches@un.org 
  
 Antes de comenzar la traducción revisa el(los) capítulo(s) que tiene(s) asignado(s). De ese modo evitamos la duplicación de esfuerzos. Como ya eres miembro de esta comunidad, puedes editar directamente en línea en Github o usando una aplicación en tu escritorio. 
 Selecciona el Capítulo y luego edita el texto usando el ícono (lápiz) localizado al lado derecho de la pantalla.
 
-## Avances de la traducción
+Total de palabras del Manual: 43.243. 
+
+## Avances de la traducción 
 
 <table>
   <tr>
     <td>CAPÍTULO</td>
     <td>RESPONSABLE</td>
+    <td>No.Palabras</td>
     <td>AVANCE</td>
     <td>ESTADO REVISIÓN</td>
   </tr>
   <tr>
     <td>Introduction</td>
     <td>Paloma Burgeois</td>
+    <td>1.330</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Science Basics</td>
     <td>Paloma Burgeois</td>
+    <td>141</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Concepts and principles</td>
     <td>Paloma Burgeois</td>
+    <td>1.292</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Research Data and Materials</td>
     <td>Ricardo Hartley</td>
+    <td>3.207</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Research Software and Open Source</td>
     <td>Ricardo Hartley</td>
+    <td>2.087</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Reproducible Research and Data Analysis</td>
     <td>Ricardo Hartley</td>
+    <td>1.671</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Access to Published Research Results</td>
     <td>Ivonne Lujano</td>
+    <td>2.681</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Licensing and File Formats</td>
     <td>Ivonne Lujano</td>
+    <td>1.828</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Collaborative Platforms</td>
     <td>Ivonne Lujano</td>
+    <td>1.005</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Peer Review, Metrics and Evaluation</td>
     <td>Ricardo Hartley</td>
+    <td>1.137</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Science Policies</td>
     <td>Benito Castro</td>
+    <td>917</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Citizen Science</td>
     <td>Benito Castro</td>
+    <td>922</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Educational Resources</td>
     <td>Benito Castro</td>
+    <td>693</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Advocacy</td>
     <td>Benito Castro</td>
+    <td>1.015</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>On Learning and Training</td>
     <td>Paula Martínez</td>
+    <td>6.319</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Organizational Aspects</td>
     <td>Rosario Rogel</td>
+    <td>4.095</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Examples and Practical Guidance</td>
     <td>Lourdes Feria</td>
+    <td>10.355</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Glossary</td>
     <td>Alicia Gómez</td>
+    <td>1.753</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>References</td>
     <td>Claudia Vilches</td>
+    <td>Zotero</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>About the Authors & Facilitators</td>
     <td>Claudia Vilches</td>
+    <td>2.539</td>
     <td></td>
     <td></td>
   </tr>
