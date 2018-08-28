@@ -7,7 +7,7 @@ Ivonne Lujano - ivonne@doaj.org /
 Lourdes Feria - lourdesferia@hotmail.com / 
 Paula Martínez -paml@dtu.dk / 
 Benito Castro - bibliobenito@gmail.com / 
-Paloma Burgeois - pbg.034@gmail.com / 
+Paloma Bougeois - pbg.034@gmail.com / 
 Rosario Rogel - rosariorogel@gmail.com / 
 Ricardo Hartley - aufschieben@icloud.com /
 
@@ -28,35 +28,35 @@ Total de palabras del Manual: 43.243.
   </tr>
  <tr>
     <td>Summary</td>
-    <td>Paloma Burgeois</td>
+    <td>Paloma Bougeois</td>
     <td>86</td>
     <td></td>
     <td></td>
   </tr>
  <tr>
     <td>Readme</td>
-    <td>Paloma Burgeois</td>
+    <td>Paloma Bougeois</td>
     <td>709</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Introduction</td>
-    <td>Paloma Burgeois</td>
+    <td>Paloma Bougeois</td>
     <td>1.330</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Science Basics</td>
-    <td>Paloma Burgeois</td>
+    <td>Paloma Bougeois</td>
     <td>141</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Open Concepts and principles</td>
-    <td>Paloma Burgeois</td>
+    <td>Paloma Bougeois</td>
     <td>1.292</td>
     <td></td>
     <td></td>
