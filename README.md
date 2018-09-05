@@ -1,54 +1,55 @@
 ![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
 ## The Open Science Training Handbook - El Manual de Capacitación de Ciencia Abierta
 
-A group of fourteen authors came together in February 2018 at the TIB \(German National Library of Science and Technology\) in Hannover to create an open, living handbook on Open Science training. High-quality trainings are fundamental when aiming at a cultural change towards the implementation of Open Science principles. Teaching resources provide great support for Open Science instructors and trainers. The Open Science training handbook will be a key resource and a first step towards developing Open Access and Open Science curricula and andragogies. Supporting and connecting an emerging Open Science community that wishes to pass on their knowledge as multipliers, the handbook will enrich training activities and unlock the community’s full potential.
+Un grupo de 14 autores llegaron juntos en febrero 2018 en el TIB (Biblioteca Nacional Alemana de Ciencia y Tecnología) en Hannover para crear un manual abierto y viviente manual sobre entrenamiento de Ciencia Abierta. Los entrenamientos de alta calidad son fundamentales cuando se apunta a un cambio cultural hacia la implementación de los principios de Ciencia Abierta. Los recursos de enseñanza proporcionan un gran apoyo para los instructores y entrenadores de Ciencia Abierta. El manual de entrenamiento de Acceso Abierto será un recurso clave y un primer paso para desarrollar currículos y pedagogías de Acceso Abierto y Ciencia Abierta. Apoyando y conectando a una comunidad emergente de Ciencias abiertas que desea transmitir sus conocimientos como multiplicadores, el manual enriquecerá las actividades de capacitación y desbloqueará todo el potencial de la comunidad.
 
-Sharing their experience and skills of imparting Open Science principles, the authors \(see [below](#the-authors-and-the-book-sprint-facilitators)\) produced an open knowledge and educational resource oriented to practical teaching. The focus of the new handbook is not spreading the ideas of Open Science, but showing** how** to spread these ideas most effectively. The form of a book sprint as a collaborative writing process maximised creativity and innovation, and ensured the production of a valuable resource in just a few days.
+Al compartir su experiencia y habilidades para impartir los principios de Ciencia Abierta, los autores \ (ver [a continuación] (# the-authors-and-the-book-sprint-facilitators)) produjeron un conocimiento abierto y recurso educativo orientado a la enseñanza práctica.
+El enfoque del nuevo manual no es difundir las ideas de la Ciencia Abierta, sino mostrar ** cómo ** difundir estas ideas de manera más efectiva. La forma de un libro como un esfuerzo en el proceso de escritura colaborativa potencializa la creatividad y la innovación, y aseguró la producción de un recurso valioso en solo unos pocos días.
 
-Bringing together methods, techniques, and practices, the handbook aims at supporting educators of Open Science. The result is intended as a helpful guide on how to forward knowledge on Open Science principles to our networks, institutions, colleagues, and students. It will instruct and inspire trainers how to create high quality and engaging trainings. Addressing challenges and giving solutions, it will strengthen the community of Open Science trainers who are educating, informing, and inspiring themselves.
+Al juntar métodos, técnicas y prácticas, el manual se enfoca al apoyo de los educadores de la Ciencia abierta. El resultado pretende ser una guía útil sobre cómo reenviar el conocimiento sobre los principios de la ciencia Abierta a nuestras redes, instituciones, colegas y estudiantes. Instruirá e inspirará a los formadores a crear entrenamientos de alta calidad e interesantes. Al abordar los desafíos y dar soluciones, fortalecerá a la comunidad de entrenadores de la Ciencia Abierta que se están educando, informando e inspirándose.
 
-## Help us making the handbook better
+## Ayúdanos a mejorar el manual
 
-We welcome comments and feedback from everyone, irrespective of their expertise or background. The easiest way to do this is to leave a comment [right here](https://book.fosteropenscience.eu/) by touching any paragraph with your mouse pointer and then clicking on the plus sign appearing next to that paragraph. Also, you can create pull requests, either from within the Gitbook website or app, or with any tool you like. The handbook's content is maintained as [this GitHub repository](https://github.com/Open-Science-Training-Handbook).
+Recibimos comentarios y retroalimentación de todos, independientemente de su experiencia o antecedentes. La forma más sencilla de hacerlo es dejar un comentario [aquí] (https://book.fosteropenscience.eu/) tocando cualquier párrafo con el puntero del mouse y luego haciendo clic en el signo más que aparece al lado de ese párrafo. Además, puede crear solicitudes de extracción, ya sea desde el sitio web o aplicación de Gitbook, o con cualquier herramienta que desee. El contenido del manual se mantiene como [este repositorio de GitHub] (https://github.com/Open-Science- Training-Handbook).
 
-## Let's run an Open Science training together
+## Vamos a ejecutar un entrenamiento de Ciencia Abierta juntos
 
-Are you interested in running or attending trainings or webinars that make use of the Open Science Training Handbook? Get in touch with us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) - we'd love to hear from you.
+¿Está interesado en correr o asistir a capacitaciones o seminarios web que hagan uso del Manual de capacitación de Open Science? Póngase en contacto con nosotros en [elearning@fosteropenscience.eu] (mailto: elearning@fosteropenscience.eu) - nos encantaría saber de usted.
 
 ## <img src="/Images/Icons/research_group.png" width="150" height="150" />
 
-## How to refer to the handbook
+## Cómo citar el manual
 
-Please consider citing the handbook when using the content. To cite the book, we recommend that you either refer to 
+Considere citar el manual cuando use el contenido. Para citar el libro, le recomendamos que se refiera a: 
 
-* https://book.fosteropenscience.eu/, which is the most friendly way to read the book (also available as [PDF](https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book), [ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book) and [Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)), to comment and to suggest changes, _or_ 
+* https://book.fosteropenscience.eu/, el cuál es la manera más amigable de leer el libro (también disponible como [PDF](https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book), [ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book) y [Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)), para comentar y sugerir cambios, o 
 
-* https://doi.org/10.5281/zenodo.1212496, which is a citable DOI refering to a (hardly comprehensible) archived dump of the book.
+* https://doi.org/10.5281/zenodo.1212496, que es un DOI citable que se refiere a un (apenas comprensible) tiradero archivado del libro.
 
-## The Authors and the Book Sprint facilitators
+## Los autores y facilitadores del Book Sprint
 
-Learn more about the authors and the book sprint facilitators, their experiences and inspiration, as well as their affiliation, contact information, Twitter and ORCID profiles, in the [Handbook's last chapter](./08AboutTheAuthorsAndFacilitators).
+Obtenga más información sobre los autores y los facilitadores del sprint del libro, sus experiencias e inspiración, así como sus perfiles de afiliación, información de contacto, Twitter y ORCID, en el [último capítulo del Manual](./08AboutTheAuthorsAndFacilitators).
 
 ## <img src="/Images/Icons/heart.png" width="150" height="150" />
 
-## Thank you to
+## Gracias a tí
 
-* Gwen Franck \(EIFL, Belgium\) for covering social media during the book sprint & keeping us motivated with energizers
+* Gwen Franck \(EIFL, Bélgica\) para cubrir las redes sociales durante el sprint del libro y mantenernos motivados con energizantes.
 
-* Patrick Hochstenbach \(University of Gent, Belgium\) for drawing the awesome cartoons and images
+* Patrick Hochstenbach \(University of Gent, Universidad de Gent, Bélgica\) para dibujar las impresionantes caricaturas e imágenes
 
-* Vasso Kalaitzi \(LIBER, Netherlands\) for recording the really nice videos
+* Vasso Kalaitzi \(LIBER, Países Bajos\) por grabar los videos realmente agradables
 
-* Matteo Cancellieri \(Open University, UK\) for supporting us with all technical issues and creating the gitbook
+* Matteo Cancellieri \(Open University, Reino Unido\) por proporcionar asesoramiento con el mantenimiento y la conversión de metadatos bibliográficos
 
-* Simon Worthington \(TIB, Hannover, Germany\) for providing advice with maintaining and converting bibliographic metadata 
+* Simon Worthington \(TIB, Hannover, Alemania\) por proporcionar asesoramiento con el mantenimiento y la conversión de metadatos bibliográficos 
 
-## Copyright statement 
+## Declaración de los derechos de autor 
 
-The Open Science Training Handbook is an Open Educational Resource, and is therefore available under the [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). You do not have to ask our permission to re-use and copy information from this handbook. Take note that some of the materials referenced in this book might be copyright protected — if so, this will be indicated in the text. 
+El Open Science Training Handbook es un recurso educativo abierto, y por lo tanto está disponible bajo la licencia [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). No tiene que pedir permiso para volver a utilizar y copiar la información de este manual. Tenga en cuenta que algunos de los materiales a los que se hace referencia en este libro pueden estar protegidos por derechos de autor, de ser así, esto se indicará en el texto.
 
-We have tried to acknowledge all our sources. If for some reason we have forgotten to provide you with proper credits, it has not been done with malicious intent. Feel free to contact us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) for any corrections.
+Hemos tratado de reconocer todas nuestras fuentes. Si por alguna razón nos hemos olvidado de proporcionarle los créditos adecuados, no se ha hecho con intención maliciosa. No dude en contactarnos en  [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) para cualquier corrección.
 
-## Funding
+## Financiamiento
 
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 741839.
+Este proyecto ha recibido financiación del programa de investigación e innovación Horizon 2020 de la Unión Europea en virtud de un acuerdo de subvención 
