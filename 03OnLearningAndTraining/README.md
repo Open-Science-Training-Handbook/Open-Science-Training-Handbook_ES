@@ -9,7 +9,7 @@ This chapter providing context on training strategies, practical guidance in des
 
 3. Reflection
 
-Este capítulo brinda un contexto sobre las estrategias de capacitación, una guía práctica para disegnar un curso y una descripción general de teorías pedagógicas. Se enfocará en tres conceptos claves usados en educación y capacitación:
+Este capítulo brinda un contexto sobre las estrategias de capacitación, una guía práctica para diseñar un curso y una descripción general de teorías pedagógicas. Se enfocará en tres conceptos claves usados en educación y capacitación:
 
 1. Preparación
 2. Ejecución
