@@ -37,7 +37,7 @@ Total de palabras del Manual: 43.243.
     <td>Readme</td>
     <td>Paloma Bougeois</td>
     <td>709</td>
-    <td></td>
+    <td>03/09</td>
     <td></td>
   </tr>
   <tr>
