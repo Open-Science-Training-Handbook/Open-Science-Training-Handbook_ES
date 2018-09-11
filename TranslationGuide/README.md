@@ -1,5 +1,8 @@
 ## Guía de traducción - Manual de capacitación FOSTER de Ciencia Abierta
-Coordinación y revisión final de la traducción al español: Claudia Vilches - Biblioteca de la CEPAL / claudia.vilches@un.org 
+Coordinación de la traducción al español: Claudia Vilches - Biblioteca de la CEPAL claudia.vilches@un.org
+Edición y revisión final: Claudia Vilches - Biblioteca de la CEPAL 
+                          Nicolás Alessandroni - Universidad Autónoma de Madrid (UAM) - nicolas.alessandroni@uam.es
+
 
 Traductores colaboradores: 
 Alicia Gómez  - aliciaf.gomez@yahoo.com / 
