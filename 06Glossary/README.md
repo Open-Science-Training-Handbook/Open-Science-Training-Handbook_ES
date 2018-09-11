@@ -1,7 +1,10 @@
 ## <img src="/Images/Icons/idea.png" width="200" height="200" />
 ## Glossary
 
+**Altmétricas**
 **Altmetrics**
+
+* Las altmétricas o métricas alternativas son nuevas formas de evaluar el uso y el impacto de la actividad científica y la investigación. En lugar de limitarse a medir el número de veces que un documento ha sido citado en la literatura académica, las métricas alternativas también consideran y analizan otros aspectos como el impacto en medios de comunicación sociales -también denominados medios sociales- (como Facebook, Twitter, blogs, wikis, etc.), las descargas, los enlaces a investigación publicada o no publicada, así como otros usos de la investigación, para proporcionar así una medida más completa del alcance y el impacto de la producción científica.   
 
 * Altmetrics are alternative ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of reach and impact.
 
