@@ -76,38 +76,21 @@ Una concepción errónea común con relación a las políticas de datos de inves
 Al planificar una política es importante saber qué es lo que se quiere hacer, y qué es lo que se intenta lograr o solucionar. Algunas veces las políticas se elaboran imitando a otras iniciativas, sin pensar si son neesarias y si la nueva política se traslapará con otras que ya existen. El reto principal al crear una política es alinearla con otras iniciativas y evitar contradicciones con leyes o regulaciones pre existentes. 
 
 ## <img src="../Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
 ### Resultados del aprendizaje 
 
-1. Trainees would be able to identify the requirements of any policy that could affect them when performing Open Science.
-2. They would be able to distinguish among general policies like copyright or data protection and specific policies related to Open Science, for instance regarding how to disseminate research outputs. 
-3. They would be able to outline the steps to fulfill a certain policy.
-4. Trainees attending a session aimed at policy making would be able to plan an Open Science policy, establishing objectives and indicators to measure its implementation.
-
 Las personas que estén siendo entrenadas en el diseño de políticas de Ciencia Abierta, deberán ser capaces de:
+
 1.	Identificar los requisitos de cualquier política que pueda afectarlos, al llevar a cabo prácticas de Ciencia Abierta.
 2.	Distinguir entre las políticas generales –como Derechos de Autor o Protección de Datos– y políticas específicas relacionadas con la Ciencia Abierta; por ejemplo: cómo difundir los productos de investigación.
 3.	Esbozar los pasos para cumplir con una política determinada.
 4.	Planear una política de Ciencia Abierta estableciendo objetivos e indicadores para medir su implementación. 
 
 ## <img src="../Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further Reading
 ### Lecturas recomendadas
 
-* Providing researchers with the skills and competencies they need to practise Open Science. [Report of the Working Group on Education and Skills under Open Science](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg).
-
-* Resources available from [Pasteur4OA](http://www.pasteur4oa.eu/), and [LEARN](http://learn-rdm.eu)
-
-* The FOSTER courses [Designing Successful Open Access and Open Data Policies: Introductory](https://www.fosteropenscience.eu/node/2081) and [Designing Successful Open Access and Open Data Policies: Intermediate](https://www.fosteropenscience.eu/node/2075)
-
-* HowOpenIsIt?. [Guide to Research Funders Policies](http://www.orfg.org/resources/) by Open Research Funders Group & SPARC
-
-* Providing researchers with the skills and competencies they need to practise Open Science. Report of the Working Group on Education and Skills under Open Science.
-
-* How Open Is It? Guide to Research Funders Policies de Open Research Funders Group & SPARC.
-
-* Recursos disponibles a través de Pasteur4OA, y LEARN
-
-* Los cursos FOSTER Designing Successful Open Access and Open Data Policies: Introductory y Designing Successful Open Access and Open Data Policies: Intermediate
+* Proveer a investigadores de habilidades y competencias que requieren para practicar Ciencia Abierta. [Report of the Working Group on Education and Skills under Open Science](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg).
+* Recursos disponibles a través de [Pasteur4OA](http://www.pasteur4oa.eu/), y [LEARN](http://learn-rdm.eu).
+* Los cursos FOSTER [Designing Successful Open Access and Open Data Policies: Introductory](https://www.fosteropenscience.eu/node/2081) and [Designing Successful Open Access and Open Data Policies: Intermediate](https://www.fosteropenscience.eu/node/2075).
+* How Open Is It? [Guide to Research Funders Policies](http://www.orfg.org/resources/) por Open Research Funders Group & SPARC.
 
 
