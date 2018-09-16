@@ -1,18 +1,19 @@
 ## <img src="/Images/Icons/open_government.png" width="200" height="200" />
-## 9. Open Science Policies
 ## 9. Políticas de ciencia abierta
 
-### What is it?
 ### ¿Qué son?
 
-We could define Open Science policies as those strategies and actions aimed at promoting Open Science principles and at acknowledging Open Science practices. Those policies are usually established by research performing institutions, research funders, governments or publishers. The initial policies were aimed at requiring an open dissemination of the research results based on the idea that results achieved from publicly funded research should be available to the public without any restriction. However, now the scope of the policies has grown and we may find national policies fostering Open Science practices at any point of the research level. Moreover, we might find specific provisions in new and existing laws, regulations or directives.
 Las políticas de Ciencia Abierta se podrían definir como aquellas estrategias y acciones encaminadas a la promoción de los principios de la Ciencia Abierta y a reconocer las prácticas de Ciencia Abierta. Usialmente, estas políticas son establecidas por instituciones que llevan a cabo investigación, patrocinadores, gobiernos o editoriales. En un principio estas políticas estaban orientadas a la necesidad de difundir –de manera abierta– los resultados de investigación, partiendo del reconocimiento de que los hallazgos de la investigación financiada con recursos públicos, deberían estar disponibles para el público sin restricción alguna. No obstante, actualmente, el alcance de las políticas de Ciencia Abierta se ha ampliado de tal forma que podemos encontrar políticas nacionales que impulsan prácticas de Ciencia Abierta a partir de cualqueir tipo de investigación. Incluso podemos encontrar provisiones específicas en leyes, regulaciones o directrices nuevas y existentes.
 
 ## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
 
-–	¿Puedo asistir al seminario?
-–	Lo siento, tenemos una nueva política
-–	Primero necesita donar algunos datos abiertos. (Datos Abiertos)
+![02_open_policies](../Images/02 Open Science Basics/02_open_policies.png)
+
+> Los dialogos del cómic deben decir:
+>
+> –	¿Puedo asistir al seminario?
+> –	Lo siento, tenemos una nueva política
+> –	Primero necesita donar algunos datos abiertos. (Datos Abiertos)
 
 ### Rationale
 ### Fundamentos
