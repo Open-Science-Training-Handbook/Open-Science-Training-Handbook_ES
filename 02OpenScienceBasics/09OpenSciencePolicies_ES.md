@@ -15,25 +15,14 @@ Las políticas de Ciencia Abierta se podrían definir como aquellas estrategias 
 > –	Lo siento, tenemos una nueva política
 > –	Primero necesita donar algunos datos abiertos. (Datos Abiertos)
 
-### Rationale
 ### Fundamentos
 
-Since one of the main drivers to Open Science are the current policies established by institutions, funders, governments and publishers, it is important to know how they affect any researcher. If you are planning to design a policy aimed at the adoption and acknowledgement of Open Science practices is important to know the existing policies in order to avoid any overlapping or contradiction. Therefore researchers and policy makers should have a knowledge of the current policies and should be able to understand how they affect them.
 Dado que el principal motor de la Ciencia Abierta es la política establecida por instituciones, patrocinadores, gobiernos y editoriales, es importante conocer cómo ello afecta a todo investigador. Si estás planeando diseñar una política enfocada a la adopción y reconocimiento de prácticas de Ciencia Abierta es importante conocer las políticas existentes para evitar cualquier traslape o contradicción. Por tanto, investigadores y responsables de políticas públicas deben conocer las políticas actuales y entender cómo les afectan. 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+![imagen 2](../Images/Icons/finish.png)
+
 ### Objetivos de aprendizaje
-
-1. Depending on your audience the objectives of the training session would be different. We can make a broad division between researchers \(in a broad sense\) and policy makers \(within an institution or funders - in a broad sense\).
-
-2. If your training program is addressed mainly to researchers, including all "levels", then the main objective is to review how Open Science policies affect them.
-
-3. If your training program is addressed to policy makers, you might focus in designing and implement a policy to foster Open Science.
-
-4. If we want to train funders or policy makers within an institution then it should be important to show how to design, develop, implement and monitor a policy
-
-
 
 1.	Dependiendo del público, los objetivos de la sesión de capacitación serán diferentes. Podemos dividir de manera general a investigadores (en sentido amplio) y responsables de políticas (dentro de una institución o patrocinadores ¬–en un sentido amplio).
 
@@ -43,37 +32,33 @@ Dado que el principal motor de la Ciencia Abierta es la política establecida po
 
 4.	Si tu interés es capacitar a patrocinadores o responsables de política dentro de una institución, entonces sería importante mostrarles cómo diseñar, desarrollar, implementar y monitorear dichas políticas.
 
-
-### Key components
 ### Componentes esenciales
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+![brain](../Images/Icons/brain.png)
+
 #### Conocimiento
 
-You must review all the policies that affect your training audience. First of all check all the institutional policies at institutional level, for instance; copyright, intellectual property, open access, research data.
-
-Secondly you may review any national policy or law that can affect researchers when performing Open Science, for instance laws with open access provisions or decrees affecting PhD dissertations , Call for projects.
-
-At the national level there could be some laws or decrees that directly or indirectly could influence a policy or pose some requirements. For instance you could review the national open access policies in Europe available at [OpenAIRE](https://www.openaire.eu/member-states-overview).
-
-Since science is international, then we should review any international policy that could affect your audience, mainly coming from international funders. At the European level we have the policies coming from the [H2020 research Framework](https://www.google.com/url?q=https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf&sa=D&ust=1521447690441000&usg=AFQjCNHsEo1FZkHkLDRxIUQr7BpfirASbQ) regarding the dissemination of research outputs but we could have other policies affecting other parts of the research cycle.
-
-Also at the international level, some publishers have introduced new policies, especially regarding the publication of research data when submitting a paper.
-
-If your training audience is willing to develop a roadmap or agenda to implement a national Open Science policy it could be advisable to benchmark what has been done in other parts. It As a starting point, the 2016 Amsterdam Call for Action could show some of the issues that must be taken into account and to whom are addressed. Examples of the \([Netherlands](https://www.openscience.nl/)\), \([Portugal](http://www.ciencia-aberta.pt)\), or \([Finland](https://openscience.fi/)\) can help to plan national policies, outline some actions and find how to measure their implementation.
-
 Deben revisarse todas las políticas que atañen a quienes participan del proceso de capacitación. En particular se deben revisar las políticas institucionales a nivel interno; por ejemplo: derechos de autor, propiedad intelectual, acceso abierto, datos de investigación.
+
 En segundo lugar, es preciso revisar cualquier política o ley nacional que afecte a los investigadores al momento de llevar a cabo prácticas de Ciencia Abierta; por ejemplo, leyes con previsiones de acceso abierto o decretos que afecten tesis doctorales o convocatorias de proyectos. 
 
-A nivel nacional puede haber algunas leyes o decretos que directa o indirectamente pueden influir en alguna política o suponer algunos requisitos. Por ejemplo, en el caso europeo se podrían revisar las políticas de acceso abierto disponibles en OpenAIRE.
-Puesto que la ciencia es una labor internacional, es preciso revisar cualquier política internacional que pudiera afectar a tu público objetivo, principalmente aquellas que vienen de patrocinadores internacionales. A nivel Europeo, tenemos políticas que vienen del H2020 Research Framework con relación a la difusión de productos de investigación, pero puede haber otras políticas que afecten a otras partes del ciclo de investigación.
+A nivel nacional puede haber algunas leyes o decretos que directa o indirectamente pueden influir en alguna política o suponer algunos requisitos. Por ejemplo, en el caso europeo se podrían revisar las políticas de acceso abierto disponibles en [OPENAire](https://www.openaire.eu/member-states-overview).
+
+Puesto que la ciencia es una labor internacional, es preciso revisar cualquier política internacional que pudiera afectar a tu público objetivo, principalmente aquellas que vienen de patrocinadores internacionales. A nivel Europeo, tenemos políticas que vienen del [H2020 research Framework](https://www.google.com/url?q=https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf&sa=D&ust=1521447690441000&usg=AFQjCNHsEo1FZkHkLDRxIUQr7BpfirASbQ) con relación a la difusión de productos de investigación, pero puede haber otras políticas que afecten a otras partes del ciclo de investigación.
 
 Además, a nivel internacional algunos editores han introducido nuevas políticas, en especial relacionadas con la publicación de datos de investigación al momento de enviar un documento para su posible publicación.
-Si el público al cual estás capacitando está dispuesto a desarrollar una hoja de ruta –o agenda– para implementar una política nacional de Ciencia Abierta, sería recomendable hacer una evaluación comparativa de lo que se ha hecho en otras partes del mundo. Como punto de partida, Amsterdam Call for Action 2016 podría mostrar algunos de los problemas que deben considerarse y a quienes están dirigidos. Ejemplos de (Países Bajos), (Portugal) o (Finlandia) pueden ayudar a planear las políticas nacionales, esbozar algunas acciones y encontrar cómo medir su implementación (ACÁ SERÍA PERTINENTE MENCIONAR LA NORMATIVIDAD EN EL CASO DE LOS PAÍSES QUE CUENTAN CON LEYES DE ACCESO ABIERTO: PERÚ, ARGENTINA, MÉXICO)
 
+Si el público al cual estás capacitando está dispuesto a desarrollar una hoja de ruta –o agenda– para implementar una política nacional de Ciencia Abierta, sería recomendable hacer una evaluación comparativa de lo que se ha hecho en otras partes del mundo. Como punto de partida, Amsterdam Call for Action 2016 podría mostrar algunos de los problemas que deben considerarse y a quienes están dirigidos. Ejemplos de ([Países Bajos](https://www.openscience.nl/)\), \([Portugal](http://www.ciencia-aberta.pt)\), or \([Finlandia](https://openscience.fi/)) pueden ayudar a planear las políticas nacionales, esbozar algunas acciones y encontrar cómo medir su implementación 
+
+> COMENTARIO: 
+>
+> Acá sería pertinente mencionar la normatividad en el caso de los países que cuentan con leyes de acceso abierto: Perú, Argentina, México
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
+
+![gears](../Images/Icons/gears.png)
+
 #### Skills
 #### Habilidades
 
