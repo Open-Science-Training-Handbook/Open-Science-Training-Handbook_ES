@@ -5,9 +5,7 @@
 
 Las políticas de Ciencia Abierta se podrían definir como aquellas estrategias y acciones encaminadas a la promoción de los principios de la Ciencia Abierta y a reconocer las prácticas de Ciencia Abierta. Usialmente, estas políticas son establecidas por instituciones que llevan a cabo investigación, patrocinadores, gobiernos o editoriales. En un principio estas políticas estaban orientadas a la necesidad de difundir –de manera abierta– los resultados de investigación, partiendo del reconocimiento de que los hallazgos de la investigación financiada con recursos públicos, deberían estar disponibles para el público sin restricción alguna. No obstante, actualmente, el alcance de las políticas de Ciencia Abierta se ha ampliado de tal forma que podemos encontrar políticas nacionales que impulsan prácticas de Ciencia Abierta a partir de cualqueir tipo de investigación. Incluso podemos encontrar provisiones específicas en leyes, regulaciones o directrices nuevas y existentes.
 
-## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
-
-![02_open_policies](../Images/02 Open Science Basics/02_open_policies.png)
+## <img src="../Images/02 Open Science Basics/02_open_policies.png" />
 
 > Los dialogos del cómic deben decir:
 >
@@ -19,7 +17,8 @@ Las políticas de Ciencia Abierta se podrían definir como aquellas estrategias 
 
 Dado que el principal motor de la Ciencia Abierta es la política establecida por instituciones, patrocinadores, gobiernos y editoriales, es importante conocer cómo ello afecta a todo investigador. Si estás planeando diseñar una política enfocada a la adopción y reconocimiento de prácticas de Ciencia Abierta es importante conocer las políticas existentes para evitar cualquier traslape o contradicción. Por tanto, investigadores y responsables de políticas públicas deben conocer las políticas actuales y entender cómo les afectan. 
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
+
+
 ![imagen 2](../Images/Icons/finish.png)
 
 ### Objetivos de aprendizaje
@@ -34,9 +33,7 @@ Dado que el principal motor de la Ciencia Abierta es la política establecida po
 
 ### Componentes esenciales
 
-## <img src="/Images/Icons/brain.png" width="150" height="150" />
-![brain](../Images/Icons/brain.png)
-
+## <img src="../Images/Icons/brain.png" width="150" height="150" />
 #### Conocimiento
 
 Deben revisarse todas las políticas que atañen a quienes participan del proceso de capacitación. En particular se deben revisar las políticas institucionales a nivel interno; por ejemplo: derechos de autor, propiedad intelectual, acceso abierto, datos de investigación.
@@ -55,9 +52,7 @@ Si el público al cual estás capacitando está dispuesto a desarrollar una hoja
 >
 > Acá sería pertinente mencionar la normatividad en el caso de los países que cuentan con leyes de acceso abierto: Perú, Argentina, México
 
-## <img src="/Images/Icons/gears.png" width="150" height="150" />
-
-![gears](../Images/Icons/gears.png)
+## <img src="../Images/Icons/gears.png" width="150" height="150"/>
 
 #### Skills
 #### Habilidades
@@ -74,7 +69,7 @@ Puedes mostrarles cómo los investigadores pueden cumplir con las diferentes pol
 
 Las personas que estén participando de un proceso de capacitación en materia de Ciencia Abierta necesitan saber cómo definir los propósitos principales de dicha política, así como establecer las metas o cambios que se persiguen. Una vez definidos dichos propósitos, los participantes deben identificar indicadores clave del desempeño para medir si la política ha conseguido sus objetivos; asimismo, deben ser capaces de revisar y actualizar la política en caso de que los objetivos no se llegaran a cumplir.
 
-## <img src="/Images/Icons/questions.png" width="150" height="150" />
+## <img src="../Images/Icons/questions.png" width="150" height="150" />
 ### Questions, obstacles, and common misconceptions
 ### Preguntas, obstáculos y conceptos erróneos comunes
 
@@ -94,7 +89,7 @@ Una concepción errónea común con relación a las políticas de datos de inves
 
 Al planificar una política es importante saber qué es lo que se quiere hacer, y qué es lo que se intenta lograr o solucionar. Algunas veces las políticas se elaboran imitando a otras iniciativas, sin pensar si son neesarias y si la nueva política se traslapará con otras que ya existen. El reto principal al crear una política es alinearla con otras iniciativas y evitar contradicciones con leyes o regulaciones pre existentes. 
 
-## <img src="/Images/Icons/output.png" width="150" height="150" />
+## <img src="../Images/Icons/output.png" width="150" height="150" />
 ### Learning outcomes
 ### Resultados del aprendizaje 
 
@@ -109,7 +104,7 @@ Las personas que estén siendo entrenadas en el diseño de políticas de Ciencia
 3.	Esbozar los pasos para cumplir con una política determinada.
 4.	Planear una política de Ciencia Abierta estableciendo objetivos e indicadores para medir su implementación. 
 
-## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
+## <img src="../Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Further Reading
 ### Lecturas recomendadas
 
@@ -121,10 +116,12 @@ Las personas que estén siendo entrenadas en el diseño de políticas de Ciencia
 
 * HowOpenIsIt?. [Guide to Research Funders Policies](http://www.orfg.org/resources/) by Open Research Funders Group & SPARC
 
-•	Providing researchers with the skills and competencies they need to practise Open Science. Report of the Working Group on Education and Skills under Open Science.
+* Providing researchers with the skills and competencies they need to practise Open Science. Report of the Working Group on Education and Skills under Open Science.
 
-•	Recursos disponibles a través de Pasteur4OA, y LEARN
+* How Open Is It? Guide to Research Funders Policies de Open Research Funders Group & SPARC.
 
-•	Los cursos FOSTER Designing Successful Open Access and Open Data Policies: Introductory y Designing Successful Open Access and Open Data Policies: Intermediate
+* Recursos disponibles a través de Pasteur4OA, y LEARN
 
-•	How Open Is It? Guide to Research Funders Policies de Open Research Funders Group & SPARC.
+* Los cursos FOSTER Designing Successful Open Access and Open Data Policies: Introductory y Designing Successful Open Access and Open Data Policies: Intermediate
+
+
