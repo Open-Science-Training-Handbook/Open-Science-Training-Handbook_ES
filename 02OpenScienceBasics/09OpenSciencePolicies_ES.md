@@ -1,4 +1,4 @@
-## <img src="/Images/Icons/open_government.png" width="200" height="200" />
+## <img src="../Images/Icons/open_government.png" width="200" height="200" />
 ## 9. Políticas de ciencia abierta
 
 ### ¿Qué son?
