@@ -10,7 +10,9 @@ Las políticas de Ciencia Abierta se podrían definir como aquellas estrategias 
 > Los dialogos del cómic deben decir:
 >
 > –	¿Puedo asistir al seminario?
+>
 > –	Lo siento, tenemos una nueva política
+>
 > –	Primero necesita donar algunos datos abiertos. (Datos Abiertos)
 
 ### Fundamentos
