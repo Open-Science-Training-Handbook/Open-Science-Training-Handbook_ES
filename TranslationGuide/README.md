@@ -284,7 +284,7 @@ GNU Operating System. Recomendaciones para las traducciones. Recuperado 23 de ag
 Naciones Unidas. Manual del traductor del Servicio de Traducción al Español de las Naciones Unidas. Recuperado 23 de agosto de 2018, de https://onutraduccion.wordpress.com/
 
 
- 
+
 
 
 

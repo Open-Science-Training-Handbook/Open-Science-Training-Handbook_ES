@@ -40,11 +40,13 @@ Puesto que la ciencia es una labor internacional, es preciso revisar cualquier p
 
 Además, a nivel internacional algunos editores han introducido nuevas políticas, en especial relacionadas con la publicación de datos de investigación al momento de enviar un documento para su posible publicación.
 
-Si el público al cual estás capacitando está dispuesto a desarrollar una hoja de ruta –o agenda– para implementar una política nacional de Ciencia Abierta, sería recomendable hacer una evaluación comparativa de lo que se ha hecho en otras partes del mundo. Como punto de partida, Amsterdam Call for Action 2016 podría mostrar algunos de los problemas que deben considerarse y a quienes están dirigidos. Ejemplos de ([Países Bajos](https://www.openscience.nl/)\), \([Portugal](http://www.ciencia-aberta.pt)\), or \([Finlandia](https://openscience.fi/)) pueden ayudar a planear las políticas nacionales, esbozar algunas acciones y encontrar cómo medir su implementación 
+Si el público al cual estás capacitando está dispuesto a desarrollar una hoja de ruta –o agenda– para implementar una política nacional de Ciencia Abierta, sería recomendable hacer una evaluación comparativa de lo que se ha hecho en otras partes del mundo. Como punto de partida, **Amsterdam Call for Action 2016** podría mostrar algunos de los problemas que deben considerarse y a quienes están dirigidos. Ejemplos de \([Países Bajos](https://www.openscience.nl/)\), \([Portugal](http://www.ciencia-aberta.pt)\) o \([Finlandia](https://openscience.fi/)\) pueden ayudar a planear las políticas nacionales, esbozar algunas acciones y encontrar cómo medir su implementación. 
 
-> COMENTARIO: 
->
-> Acá sería pertinente mencionar la normatividad en el caso de los países que cuentan con leyes de acceso abierto: Perú, Argentina, México.
+En América Latina destacan tres países que, a la fecha, cuentan con legislaciones aprobadas en materia de Acceso Abierto: Perú con la [Ley que regula el Repositorio Nacional Digital de Ciencia, Tecnología e Innovación de Acceso Abierto](https://portal.concytec.gob.pe/images/stories/images2013/portal/areas-institucion/dsic/ley-30035.pdf) aprobada el 5 de junio del 2013; Argentina con la [Ley 26899: Creación de Repositorios Digitales Institucionales de Acceso Abierto, Propios o Compartidos](http://repositorios.mincyt.gob.ar/recursos.php) promulgada el 3 de diciembre del 2013 y México que mediante el [Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ciencia y Tecnología, de la Ley General de Educación y de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología](http://www.dof.gob.mx/nota_detalle.php?codigo=5345503&fecha=20/05/2014) –promulgado el 20 de mayo del 2014– legisló en torno al Acceso Abierto, Acceso a la Información Científica, Tecnológica y de Innovación y del Repositorio Nacional. 
+
+[^*]: (*) Información añadida a la versión en español.
+
+ 
 
 ## <img src="../Images/Icons/gears.png" width="150" height="150"/>
 
