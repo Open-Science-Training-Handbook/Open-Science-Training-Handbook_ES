@@ -194,7 +194,7 @@ Total de palabras del Manual: 43.243.
 
 ## CONSEJOS PRÁCTICOS PARA LA TRADUCCIÓN
 <ul>
-<li>	Manter el texto lo más apegado a la versión en inglés y mantener su características esenciales: ser un instrumento de apoyo a facilitadores, de fácil lectura y entretenido.</li>
+<li>	Manter el texto lo más apegado a la versión en inglés y mantener su características esenciales: ser un instrumento de apoyo a facilitadores, de fácil lectura y entretenido.U tiliza la segunda personal del singular.</li>
 <li>	Incorporar inciativas, experiencias, ejemplos, referencias bibliográficas que reflejen  la perspectiva de la región latinoamericana y caribeña y de los países hispanoparlantes. Para ello, agregar una nota a pie de página con la siguiente leyenda: "(*) Información añadida a la versión en español".</li>
 <li> Respecto de la incoporación de nuevas referencias bibliográficas, usar el estilo de citación APA. No olvidar colocar la nota "(*) Información añadida a la versión en español". El coordinador consolidará, en el proceso de edición final, la bibliografía incorporada por todos los colaboradores y las subirá a la bibliografía general y al grupo disponible en Zotero.</li>
 <li>	Utiliza un lenguaje simple.</li>
