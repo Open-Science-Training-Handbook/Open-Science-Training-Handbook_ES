@@ -22,9 +22,13 @@
 
 **Conductismo (Teoría del aprendizaje)**
 
-* El conductismo significa que el aprendizaje se rige por el ejercicio práctico y se realiza mejor con el uso de estímulos a los que responden los alumnos. Esto generalmente significa que  pides al alumno que haga un ejercicio para el cual hay una respuesta clara o un camino claro a seguir. La evaluación es clara y se puede hacer fácilmente con la ayuda de medidas simples.
+* El conductismo se refiere al aprendizajeque se rige por el ejercicio práctico y se realiza a través de los estímulos a los que responden los alumnos. Generalmente esto significa que se pide al alumno que haga un ejercicio para el cual hay una respuesta clara o un camino claro a seguir. La evaluación es clara y se puede llevar a cabo fácilmente con la ayuda de métricas simples.
 
 **Cognitivism**
+
+* Cognitivism is based on the interaction between the outer world and what the reflecting brain makes out of the information perceived in combination with the knowledge that it has already stored. Cognitivism concentrates therefore on problem solving.
+
+**Cognitivismo**
 
 * Cognitivism is based on the interaction between the outer world and what the reflecting brain makes out of the information perceived in combination with the knowledge that it has already stored. Cognitivism concentrates therefore on problem solving.
 
