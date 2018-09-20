@@ -87,13 +87,20 @@
 
 * A unique text string that is used to identify digital objects such as journal articles, data sets or open source software releases. A DOI is one type of Persistent Identifier (PID).
 
+**Documentación**
 **Documentation**
+
+* Documentación como la información detallada, así como antecedentes y enfoque metodológico sobre los datos o el código (por ejemplo, descripción del proyecto, variables e instrumentos de medición).
 
 * A documentation is detailed information as well as background and methodological approach about the data or code (e.g., description of the project, variables, and measuring instruments). 
 
+**Datos FAIR**
 **FAIR Data**
 
+* Los datos FAIR (de acuerdo con [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) y según los publicado en [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) son datos Encontrables, Accesibles, Interoperables y Reutilizables, con el fin de facilitar el descubrimiento de conocimiento con o sin ayuda de operadores humanos, así como el acceso, integración y análisis de datos científicos relevantes, y de los algoritmos y flujos de trabajo asociados a los mismos.
+
 * FAIR Data (according to [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) and published in [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
+
 
 **Gamificación**
 **Gamification**
