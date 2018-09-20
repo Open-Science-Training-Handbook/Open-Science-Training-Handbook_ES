@@ -48,26 +48,42 @@
 * Constructivism in the strict sense means the world is not as it is. Instead the world is primarily the product of our individual experiences and minds. In the context of teaching and learning this means that learners themselves create the path of learning. The focus is hence on the learner’s creativity and evaluation of progress is not based on the differentiation between right or wrong.
 
 **Copyright**
+**Copyright**
+
+* Se refiere a la parte de propiedad intelectual que otorga a los creadores el derecho de permitir (o no permitir) la reproducción de sus creaciones. Es distinto de la propiedad industrial, que abarca las patentes, diseños industriales y derechos de marca, o de los derechos morales.
 
 * The aspect of Intellectual property that grants creators the right to permit (or not permit) the reproduction of their creations. It is distinct from trademark rights or moral rights.
 
 **Creative Commons**
+**Creative Commons**
+
+* Conjunto de licencias estandarizadas que permiten a los titulares de derechos de autor otorgar algunos derechos a los usuarios de forma predeterminada. Las licencias CC son ampliamente utilizadas, fáciles de usar, legibles por máquina y han sido creadas por expertos legales. Hay diversos tipos de licencias CC, cada una de ellas incluye difernetes cláusulas. Algunas licencias son compatibles con el acceso abierto tal y como se entiende según la Declaración de Budapest (CC0 o aquellas que llevan las cláusulas BY, SA y ND), y otras no (con la cláusula NC).
 
 * A suite of standardized licences that allow copyright holders to grant some rights to users by default. CC licences are widely used, simple to use, machine readable, and have been created by legal experts. There are a variety of CC licences, each of which use one or more clauses. Some licences are compatible with Open Access in the Budapest sense (CC0 or those carrying the BY, SA, and ND clauses), and some are not (carrying the NC clause). 
 
 **Curriculum**
+**Curriculum**
+
+* Contenido docente o formativo que se enseña en un programa o curso específico con una estructura definida. 
 
 * Curriculum refers to the lessons and other training content taught in a school or in a specific course or program within a defined structure.
 
+**Datos**
 **Data**
 
-* Data in the sense used here are all digitally available objects (simple or complex) that emerge or are the result of the research process.
+* Se trata de datos como todos los objetos disponibles digitalmente (simples o complejos) que surgen o son el resultado del proceso de investigación.
 
+**Minería de datos**
 **Data Mining**
+
+* Proceso analítico diseñado para explorar datos en busca de patrones consistentes o relaciones sistemáticas entre variables, transformando datos en información para uso futuro.
 
 * An analytic process designed to explore data in search of consistent patterns or systematic relationships between variables, transforming data into information for future use.
 
+**Identificador de objeto digital (DOI por sus sigla en inglés Digital Object Identifier)**
 **Digital Object Identifier (DOI)**
+
+* Una cadena de texto única que se utiliza para identificar objetos digitales como artículos de revistas, conjuntos de datos o versiones de software de código abierto. Un DOI es un tipo de odentificador persistente (PID).
 
 * A unique text string that is used to identify digital objects such as journal articles, data sets or open source software releases. A DOI is one type of Persistent Identifier (PID).
 
