@@ -30,11 +30,15 @@
 
 **Cognitivismo**
 
-* Cognitivism is based on the interaction between the outer world and what the reflecting brain makes out of the information perceived in combination with the knowledge that it has already stored. Cognitivism concentrates therefore on problem solving.
+* El cognitivismo se basa en la interacción entre el mundo exterior y lo que la mente que recibe la información percibide en combinación con el conocimiento almacenado previamente. En definitiva, el cognitivismo se centra en la resolución de problemas.
 
 **Connectivism**
 
 * Connectivism is the integration of principles explored by chaos, network, complexity and self-organization theories. Connectivism is driven by the understanding that decisions are based on rapidly altering foundations, as new information is continually being acquired. 
+
+**Connectivismo**
+
+* El connectivismo es la integración de los principles explored by chaos, network, complexity and self-organization theories. Connectivism is driven by the understanding that decisions are based on rapidly altering foundations, as new information is continually being acquired. 
 
 **Constructivism**
 
@@ -76,9 +80,17 @@
 
 * The use of game design elements and game mechanics in non-game contexts, such as education where it can be used to bring extra engagement.
 
+**Gamificación**
+
+* Técnica que traslada el uso de elementos del diseño y de la mecánica de los juego a contextos no relacionados con el juego, como la educación, donde se puede utilizar para conseguir una mayor implicación o interés. 
+
 **GDPR**
 
 * (General Data Protection Regulation) seeks to create a harmonised data protection law framework across the EU. It aims to restitute the control of personal data to citizens, whilst imposing strict rules on those hosting and 'processing' these data, anywhere in the world. The Regulation also introduces rules relating to the free movement of personal data within and outside the EU.
+
+**GDPR o (o RGPD)**
+
+* La GDPR, por sus siglas en inglés (General Data Protection Regulation), o RGPD por sus siglas en español (Reglamento General de Protección de Datos) tiene por objetivo la creación busca de un marco armonizado para legislar la protección de datos en toda la UE. Su objetivo es restituir el control de los datos personales a los ciudadanos, a la vez que impone reglas estrictas sobre el alojamiento y procesamiento de estos datos en cualquier parte del mundo. El Reglamento también introduce normas relativas a la libre circulación de datos personales dentro y fuera de la UE.
 
 **Impact Factor**
 
