@@ -12,9 +12,17 @@
 
 * The group addressed by a communication (e.g., those in attendance of an Open Science training). The target audience is a group of individuals that will be addressed or affected by the training.
 
+**Audiencia**
+
+* El grupo al que se dirige una comunicación (por ejemplo, los que asisten a una formaciónm de Ciencia Abierta). El público objetivo es el grupo de personas al que se dirige dicha formación.
+
 **Behaviorism (Learning Theory)**
 
 * Behaviorism means that learning is governed by drill-and-practice and is best done with the use of stimuli to which the learners respond. This generally means that you ask the learner to do an exercise for which there is a clear answer or a clear path to follow. Evaluation is clear and can easily be done with the help of simple metrics.
+
+**Conductismo (Teoría del aprendizaje)**
+
+* El conductismo significa que el aprendizaje se rige por el ejercicio práctico y se realiza mejor con el uso de estímulos a los que responden los alumnos. Esto generalmente significa que  pides al alumno que haga un ejercicio para el cual hay una respuesta clara o un camino claro a seguir. La evaluación es clara y se puede hacer fácilmente con la ayuda de medidas simples.
 
 **Cognitivism**
 
