@@ -8,39 +8,42 @@
 
 * Altmetrics are alternative ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of reach and impact.
 
-**Audience**
-
-* The group addressed by a communication (e.g., those in attendance of an Open Science training). The target audience is a group of individuals that will be addressed or affected by the training.
 
 **Audiencia**
+**Audience**
 
 * El grupo al que se dirige una comunicación (por ejemplo, los que asisten a una formaciónm de Ciencia Abierta). El público objetivo es el grupo de personas al que se dirige dicha formación.
 
-**Behaviorism (Learning Theory)**
-
-* Behaviorism means that learning is governed by drill-and-practice and is best done with the use of stimuli to which the learners respond. This generally means that you ask the learner to do an exercise for which there is a clear answer or a clear path to follow. Evaluation is clear and can easily be done with the help of simple metrics.
+* The group addressed by a communication (e.g., those in attendance of an Open Science training). The target audience is a group of individuals that will be addressed or affected by the training.
 
 **Conductismo (Teoría del aprendizaje)**
+**Behaviorism (Learning Theory)**
 
 * El conductismo se refiere al aprendizajeque se rige por el ejercicio práctico y se realiza a través de los estímulos a los que responden los alumnos. Generalmente esto significa que se pide al alumno que haga un ejercicio para el cual hay una respuesta clara o un camino claro a seguir. La evaluación es clara y se puede llevar a cabo fácilmente con la ayuda de métricas simples.
 
-**Cognitivism**
+* Behaviorism means that learning is governed by drill-and-practice and is best done with the use of stimuli to which the learners respond. This generally means that you ask the learner to do an exercise for which there is a clear answer or a clear path to follow. Evaluation is clear and can easily be done with the help of simple metrics.
 
-* Cognitivism is based on the interaction between the outer world and what the reflecting brain makes out of the information perceived in combination with the knowledge that it has already stored. Cognitivism concentrates therefore on problem solving.
 
 **Cognitivismo**
+**Cognitivism**
 
 * El cognitivismo se basa en la interacción entre el mundo exterior y lo que la mente que recibe la información percibide en combinación con el conocimiento almacenado previamente. En definitiva, el cognitivismo se centra en la resolución de problemas.
 
+* Cognitivism is based on the interaction between the outer world and what the reflecting brain makes out of the information perceived in combination with the knowledge that it has already stored. Cognitivism concentrates therefore on problem solving.
+
+
+**Connectivismo**
 **Connectivism**
+
+* El connectivismo es la integración de los principios explorados por el caos, la red, la complejidad y las teorías de la auto-organización. Se fundamenta en que la comprensión de las decisiones se apoya en una base que cambian rápidamente, a medida que se adquiere nueva información.
 
 * Connectivism is the integration of principles explored by chaos, network, complexity and self-organization theories. Connectivism is driven by the understanding that decisions are based on rapidly altering foundations, as new information is continually being acquired. 
 
-**Connectivismo**
 
-* El connectivismo es la integración de los principles explored by chaos, network, complexity and self-organization theories. Connectivism is driven by the understanding that decisions are based on rapidly altering foundations, as new information is continually being acquired. 
-
+**Constructivismo**
 **Constructivism**
+
+* En sentido estricto el constructivismo se refiere a que el mundo no es como es. En cambio, el mundo es principalmente el producto de nuestras experiencias y mentes individuales. En el contexto de la enseñanza y el aprendizaje, esto significa que los propios alumnos crean su propio el camino de aprendizaje. Por lo tanto, la atención se centra en la creatividad del alumno, y la evaluación del progreso no se basa en la diferenciación entre lo correcto y lo incorrecto.
 
 * Constructivism in the strict sense means the world is not as it is. Instead the world is primarily the product of our individual experiences and minds. In the context of teaching and learning this means that learners themselves create the path of learning. The focus is hence on the learner’s creativity and evaluation of progress is not based on the differentiation between right or wrong.
 
@@ -76,21 +79,20 @@
 
 * FAIR Data (according to [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) and published in [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
 
-**Gamification**
-
-* The use of game design elements and game mechanics in non-game contexts, such as education where it can be used to bring extra engagement.
-
 **Gamificación**
+**Gamification**
 
 * Técnica que traslada el uso de elementos del diseño y de la mecánica de los juego a contextos no relacionados con el juego, como la educación, donde se puede utilizar para conseguir una mayor implicación o interés. 
 
-**GDPR**
+* The use of game design elements and game mechanics in non-game contexts, such as education where it can be used to bring extra engagement.
 
-* (General Data Protection Regulation) seeks to create a harmonised data protection law framework across the EU. It aims to restitute the control of personal data to citizens, whilst imposing strict rules on those hosting and 'processing' these data, anywhere in the world. The Regulation also introduces rules relating to the free movement of personal data within and outside the EU.
 
 **GDPR o (o RGPD)**
+**GDPR**
 
 * La GDPR, por sus siglas en inglés (General Data Protection Regulation), o RGPD por sus siglas en español (Reglamento General de Protección de Datos) tiene por objetivo la creación busca de un marco armonizado para legislar la protección de datos en toda la UE. Su objetivo es restituir el control de los datos personales a los ciudadanos, a la vez que impone reglas estrictas sobre el alojamiento y procesamiento de estos datos en cualquier parte del mundo. El Reglamento también introduce normas relativas a la libre circulación de datos personales dentro y fuera de la UE.
+
+* (General Data Protection Regulation) seeks to create a harmonised data protection law framework across the EU. It aims to restitute the control of personal data to citizens, whilst imposing strict rules on those hosting and 'processing' these data, anywhere in the world. The Regulation also introduces rules relating to the free movement of personal data within and outside the EU.
 
 **Impact Factor**
 
@@ -225,4 +227,7 @@
 * [Open Definition](http://opendefinition.org/)
 
 * [Lexicon-of-Learning (ASCD)](http://www.ascd.org/Publications/Lexicon-of-Learning/table-of-contents.aspx)
+
+* [¿Qué es el Conectivismo?: Teoría del Aprendizaje Para la Era Digital] (https://eduarea.wordpress.com/2014/03/19/que-es-el-conectivismo-teoria-del-aprendizaje-para-la-era-digital/)
+
 
