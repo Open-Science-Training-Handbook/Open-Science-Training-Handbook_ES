@@ -1,109 +1,109 @@
 ## <img src="/Images/Icons/peer_review.png" width="300" height="300" />
 
-## 8. Open Peer Review, Metrics, and Evaluation
+## 8. Revisión por pares abierta, métricas y evaluación 
 
-### What is it?
+### ¿En qué consiste?
 
-To be a researcher is to find oneself under constant evaluation. Academia is a "prestige economy", where an academic's worth is based on evaluations of the levels of esteem within which they and their contributions are held by their peers, decision-makers and others \(Blackmore and Kandiko, 2011\). In this section it will therefore be worthwhile distinguishing between evaluation of a piece of work and evaluation of the researcher themselves. Both research and researcher find themselves evaluated through two primary methods: peer review and metrics, the first qualitative and the latter quantitative. 
+Ser un investigador implica ser constantemente evaluado. La academia es una "economía del prestigio", donde el valor académico se basa en las evaluaciones de los niveles de valoración que los investigadores y sus colaboradores reciben de sus pares, tomadores de decisiones y otros es basado en evaluaciones de los niveles de estima que  \(Blackmore and Kandiko, 2011, traducción propia\). En esta sección será, por lo tanto, importante distinguir entre la evaluación de un trabajo y la evaluación de los investigadores mismos. Tanto la investigación como los investigadores son evaluados a través de dos métodos principales: revisión por pares y métricas, la primera de tipo cualitativo y la segunda, cuantitativo. 
 
-Peer review is used primarily to judge pieces of research. It is the formal quality assurance mechanism whereby scholarly manuscripts \(e.g., journal articles, books, grant applications and conference papers\) are made subject to the scrutiny of others, whose feedback and judgements are then used to improve works and make final decisions regarding selection \(for publication, grant allocation or speaking time\).  Open Peer Review means different things to different people and communities and has been defined as "an umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science" \(Ross-Hellauer, 2017\). Its two main traits are “open identities”, where both authors and reviewers are aware of each other’s identities \(i.e., non-blinded\), and “open reports”, where review reports are published alongside the relevant article. These traits can be combined, but need not be, and may be complemented by other innovations, such as “open participation”, where members of the wider community are able to contribute to the review process, “open interaction”, where direct reciprocal discussion between author\(s\) and reviewers, and/or between reviewers, is allowed and encouraged, and “open pre-review manuscripts”, where manuscripts are made immediately available in advance of any formal peer review procedures \(either internally as part of journal workflows or externally via preprint servers\). 
+La revisión por pares es usada principalmente para juzgar investigaciones. Es el mecanismo formal de aseguramiento de calidad donde los manuscritos académicos \(ej. artículos de revistas, libros, postulaciones a fondos de financiamiento y artículos de conferencias \) son sujeto de escrutinio por otros, cuya retroalimentación y juicio son utilizados para mejorar trabajos y tomas decisiones finales con respecto a selección \(de publicación, de adjudicación de fondos de financiamiento o de tiempo de presentación\).  La revisión por pares abierta tiene significados distintos para distintas personas y comunidades, y ha sido definido como "un término paraguas (umbrella term) para un número de formas coincidentes en que la revisión por pares busca ser adaptada para alinearse con los propósitos de la Ciencia Abierta" \(Ross-Hellauer, 2017, traducción propia\). Los dos principales elementos son "identidades abiertas", en la cual tanto los autores como los revisores están al tanto de la identidad del otro \(es decir, no ciego\), y "reportes abiertos", donde los reportes de revisión son publicados junto con el artículo correspondiente. Estos dos elementos pueden ser combinados, aunque no es totalmente necesario, y pueden ser complementados con otras innovaciones, como "participación abierta", donde los miembros de una comunidad ampliada son capaces de contribuir al proceso de revisión, o "interacción abierta", donde la discusión recíproca entre autor(es) y revisor(es) es fomentada, y "manuscritos de revisión por pares abierta", donde los manuscritos son puestos a disposición de manera inmediata antes de cualquier procedimiento formal de revisión por pares \(ya sea internamente como parte de los flujos de trabajo de una revista o externamente a través de un servidor de preprints\). 
 
-Once they have passed peer review, research publications are then often the primary measure of a researcher's work (hence the phrase "publish or perish"). However, assessing the quality of publications is difficult and subjective. Although some general assessment exercises like the UK's Research Excellence Framework use peer review, general assessment is often based on __metrics__ such as the number of citations publications garner (h-index), or even the perceived level of prestige of the journal it was published in (quantified by the Journal Impact Factor). The predominance of such metrics and the way they might distort incentives has been emphasised in recent years through statements like the Leiden Manifesto and the San Francisco Declaration on Research Assessment (DORA).
+Una vez que han pasado la revisión por pares, las publicaciones se convierten en la principal medida del trabajo de un investigador (de ahí la frase "publicar o perecer"). Sin embargo, evaluar la calidad de las publicaciones es difícil y subjetivo. Aunque algunas iniciativas de evaluación utilizan revisión por pares,  como el Marco de Excelencia de la Investigación del Reino Unido (Research Excellence Framework), las evaluaciones generalmente suelen estar basadas en __métricas__ como el número de citaciones generadas por publicación (índice h), o a través del nivel de prestigio percibido de una revista académica donde un artículo fue publicado (cuantificado a través del Factor de Impacto de Revistas). La predominancia de dichas métricas y la forma en que pueden distorsionar incentivos ha sido enfatizada en años recientes a través de declaraciones como el Manifiesto de Leiden y la Declaración de San Francisco sobre Evaluación de la Investigación (DORA). 
 
-In recent years “Alternative Metrics” or [altmetrics](https://www.altmetric.com) have become a topic in the debate about a balanced assessment of research efforts that complement citation counting by gauging other online measures of research impact, including bookmarks, links, blog posts, tweets, likes, shares, press coverage and the like. Underlying all of these issues with metrics is that they are very produced by commercial entities (e.g., Clarivate Analytics and Elsevier) based on proprietary systems, which can lead to some issues with transparency.
+En años reciente, las "Métricas Alternativas" o  [altmétricas](https://www.altmetric.com) se han vuelto un tema de debate en relación a los esfuerzos por realizar evaluaciones balanceadas de la investigación que complementen el número de citaciones, recopilando otras métricas de impacto de la investigación generadas en línea, incluyendo bookmarks, enlaces web, posteos de blogs, tweets, likes, shares, aparición en prensa y otros similares. Subyacente a todos estos temas asociados a métricas está el hecho de que son producidos por entidades con fines comerciales (ej., Clarivite Analytics y Elsevier), basados en sistemas privados, que puede generar problemas en relación a su transparencia. 
 
 ## <img src="/Images/Icons/umbrella.png" width="150" height="150" />
-### Rationale
+### Justificación
 
-#### Open peer review
-Beginning in the 17th century with the Royal Society of London (1662) and the Académie Royale des Sciences de Paris (1699) as the privilege of science to censor itself rather than through the church, it took many years for peer review to be properly established in science. Peer review, as a formal mechanism, is much younger than many assume. For example, the journal Nature only introduced it in 1967. Although surveys show that researchers value peer review they also think it could work better. There are often complaints that peer review takes too long, that it is inconsistent and often fails to detect errors, and that anonymity shields biases. Open peer review \(OPR\) hence aims to bring greater transparency and participation to formal and informal peer review processes. Being a peer reviewer presents researchers with opportunities for engaging with novel research, building academic networks and expertise, and refining their own writing skills. It is a crucial element of quality control for academic work. Yet, in general, researchers do not often receive formal training in how to do peer review. Even where researchers believe themselves confident with traditional peer review, however, the many forms of open peer review present new challenges and opportunities. As OPR covers such a diverse range of practices, there are many considerations for reviewers and authors to take into account. 
+#### Revisión por pares abierta 
+Comenzando en el siglo XVII en la Real Sociedad de Londres (Royal Society of London) (1662) y en la Academia Real de Ciencias de París (Académie Royale des Sciences de Paris ) (1699), y dado el privilegio de la ciencia de censurarse a sí misma en vez de a través de la iglesia, tomó muchos años para que la revisión por pares fuera establecida formalmente en el quehacer científico. La revisión por pares, como mecanismo formalizado, es mucho más joven de lo que muchos asumen. Por ejemplo, la revista Nature sólo la introdujo en el año 1967. Aunque algunas encuestas muestran que los investigadores valoran la revisión por pares, también piensan que podría ser mejorado. Muchas veces hay quejas de que las revisiones toman much tiempo, de que son inconsistentes y que muchas veces fallan en detectar errores, y que el anonimato sirve de escudo para sesgos. La revisión por pares abierta (Open peer review \(OPR\)) por tanto, busca promover mayor transparencia y participación en los procesos de revisión por pares, formales e informales. Ser un revisor es una oportunidad para los investigadores de involucrarse con investigación novedosa, crear redes académicas y experticia, y refinar su propia escritura. Es un elemento crucial del control de calidad del trabajo académico. Sin embargo, en general, los investigadores normalmente no reciben una capacitación formal sobre cómo realizar revisiones por pares. Incluso si los investigadores mismos se sienten confiados con la revisión por pares tradicional, las nuevas formas de revisión por pares abierta presentan nuevos desafíos y oportunidades. Como la OPR cubre un grupo de prácticas tan diverso, hay muchas consideraciones que tanto revisores como autores deben tomar en cuenta. 
 
 ## <img src="/Images/02 Open Science Basics/02_open_peer_review.png" />
 
-Regarding evaluation, current rewards and metrics in science and scholarship are not \(yet\) in line with Open Science. The metrics used to evaluate research \(e.g. Journal Impact Factor, h-index\) do not measure - and therefore do not reward - open research practices. Open peer review activity is not necessarily recognized as "scholarship" in professional advancement scenarios \(e.g. in many cases, grant reviewers don’t consider even the most brilliant open peer reviews to be scholarly objects unto themselves\). Furthermore, many evaluation metrics - especially certain types of bibliometrics - are not as open and transparent as the community would like.
+Con respecto a la evaluación, los sistemas de recompensa y métricas en la ciencia y la academia no están \(aun\) en línea con la Ciencia Abierta. Las métricas utilizadas para evaluar la investigación \(ej. Factor de Impacto, índice-h\) no miden -  y por tanto, no premian - las prácticas de ciencia abierta. La revisión por pares abierta no es necesariamente reconocida como un "objeto académico" en escenarios de avance de la carrera profesional (ej. en muchos casos, los revisores de concursos académicos no consideran como objetos académicos ni las revisiones por pares abiertas más brillantes\). Es más, muchas métricas de evaluación - especialmente cierto tipo de bibliometrías - no son tan abiertas y transparentes como la comunidad quisiera. 
 
-Under those circumstances, at best Open Science practices are seen as an additional burden without rewards. At worst, they are seen as actively damaging chances of future funding and promotion as well as tenure. A recent [report from the European Commission (2017)](https://doi.org/10.2777/75255) recognizes that there are basically two approaches to Open Science implementation and the way rewards and evaluation can support that:
+Bajo estas circunstancias, en el mejor de los casos las prácticas de Ciencia Abierta son vistas como una carga adicional que no tiene reconocimiento. En el peor, son vistas como actividades que perjudican las posibilidades futuras de financiamiento y promisión, así como de titularidad. Un [reporte reciente de la Comisión Europea (2017)](https://doi.org/10.2777/75255) reconoce que hay básicamente dos aproximaciones para la implementación de la Ciencia Abierta, y las formas en que reconocimientos y evaluaciones pueden apoyarla: 
 
-1. Simply support the status quo by encouraging more openness, building related metrics and quantifying outputs;
+1. Simplemente apoyar el status quo promoviendo mayor apertura, construyendo métricas relacionadas y cuantificando productos; 
 
-2. Experiment with alternative research practices and assessment, open data, citizen science and open education.
+2. Experimentar prácticas y evaluaciones alternativas de investigación, datos abiertos, ciencia ciudadana y educación abierta. 
 
-More and more funders and institutions are taking steps in these directions, for example by moving away from simple counts, and including narratives and indications of societal impact in their assessment exercises. Other steps funders are taking are allowing more types of research output \(such as preprints\) in applications and funding different types of research \(such as replication studies\).
+Cada vez más agencias de financiamiento e instituciones están dando algunos pasos en estas direcciones, por ejemplo, alejándose de evaluaciones simplemente numéricas, e incluyendo narrativas e indicadores de impacto social en sus ejercicios de evaluación. Otros pasos que estos financistas están tomando son el permitir más tipos de productos de investigación \(como preprints\) en postulaciones y el financiamiento de distintos tipos de investigación \(como estudios de repetibilidad\).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Objetivos de aprendizaje
 
-1. Recognise the key elements of open peer review and their potential advantages and disadvantages
-2. Understand the differences between types of metrics used to assess research and researchers
-3. Engage with the debate over the way in which evaluation schema affect the ways in which scholarship is performed
+1. Reconocer los principales elementos de la revisión por pares abierta y sus potenciales ventajas y desventajas.
+2. Entender las diferencias entre tipos de métricas utilizadas para evaluar la investigación y a los investigadores.
+3. Involucrarse en el debate sobre la forma en que los esquemas de evaluación afectan las maneras de funcionamiento de la academia. 
 
-### Key components
+### Componentes principales
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-### Knowledge
-#### Open peer review
+### Conocimiento
+#### Revisión por pares abierta 
 
-Popular venues for OPR include journals from publishers like Copernicus, Frontiers, BioMed Central, eLife and F1000research.
+Sitios populares para la OPR son editoriales de revistas científicas como Copernicus, Frontiers, BioMed Central, eLife y F1000research.
 
-Open peer review, in its different forms, has many potential advantages for reviewers and authors:
+La revisión por pares abierta, en sus distintas formas, tiene potenciales ventajas para los revisores y autores:
 
-* Open identities \(non-blinded\) review fosters greater accountability amongst reviewers and reduces the opportunities for bias or undisclosed conflicts of interest.
+* La revisión con identidades abiertas \(no-ciegas\) promueve mayor transparencia y accountability entre revisores y reduce las oportunidades de sesgos o conflictos de interés no explicitados. 
 
-* Open review reports add another layer of quality assurance, allowing the wider community to scrutinize reviews to examine decision-making processes.
+* Los reportes de revisión abierta agregan otra capa de control de calidad, permitiendo a la comunidad ampliada desmenuzar las revisiones y examinar los procesos de toma de decisiones.
 
-* In combination, open identities and open reports are theorized to lead to better reviews, as the thought of having their name publicly connected to a work or seeing their review published encourages reviewers to be more thorough.
+* Identidades abiertas y reportes abiertos, en combinación, se piensa que llevarán a mejores revisiones, dado que la idea de tener su nombre públicamente conectado a un trabajo o ver su revisión publicada, incentiva que los investigadores sean más rigurosos.
 
-* Open identities and open reports enable reviewers to gain public credit for their review work, thus incentivising this vital activity and allowing review work to be cited in other publications and in career development activities linked to promotion and tenure.
+* Identidades abiertas y reportes abiertos le permiten a los revisores ganar crédito público por su trabajo de revisión, por tanto incentivando esta vital actividad y permitiendo que el trabajo de revisión sea citado en otras publicaciones y en actividades de desarrollo de carrera asociadas a promoción y titularidad. 
 
-* Open participation could overcome problems associated with editorial selection of reviewers \(e.g., biases, closed-networks, elitism\). Especially for early career researchers who do not yet receive invitations to review, such open processes may also present a chance to build their research reputation and practice their review skills.
+* La participación abierta podría superar los problemas asociados con la selección editorial de revisores \(ej. sesgos, redes cerradas, elitismo\). Especialmente para investigadores jóvenes que no han recibido invitaciones par ser revisores, estos procesos abiertos pueden representar una oportunidad para construir su reputación académica y practicar sus competencias de revisión. 
 
-There are some potential pitfalls to watch out for, including:
+Existen algunos inconvenientes a los que se debe poner atención, incluyendo:
 
-* Open identities removes anonymity conditions for reviewers \(single-blind\) or authors and reviewers \(double-blind\) which are traditionally in place to counteract social biases \(although there is not strong-evidence that such anonymity has been effective\). It’s therefore important for reviewers to constantly question their assumptions to ensure their judgements reflect only the quality of the manuscript, and not the status, history, or affiliations of the author\(s\). Authors should do the same in receiving peer review comments.
+* Las identidades abiertas remueven las condiciones de anonimidad de los revisores \(a ciegas)\ o los autores y revisores \(doble ciego\) que tradicionalmente han sido implementados para contrarrestar sesgos sociales \(aunque no existe evidencia fuerte que este anonimato haya tenido el efecto deseado\). Es por tanto importante para los revisores cuestionar constantemente sus supuestos para asegurar que sus juicios reflejen sólo la calidad del manuscrito, y no el estatus, historia, o afiliación de el/los autor(es)\). Los autores deben hacer lo mismo al recibir comentarios de la revisión por pares.
 
-* Giving and receiving criticism is often a process fraught with unavoidably emotional reactions - authors and reviewers may subjectively agree or disagree on how to present the results and/or what needs improvement, amendment or correction. In open identities and/or open reports, the transparency could exacerbate such difficulties. It is therefore essential that reviewers ensure that they communicate their points in a clear and civil way, in order to maximise the chances that it will be received as valuable feedback by the author\(s\).
+* Dar y recibir criticismos es muchas veces un proceso que conlleva inevitablemente reacciones emocionales - los autores y los revisores pueden subjetivamente acordar o no cómo presentar los resultados y/o que es lo que necesita mejora, enmienda o corrección. En el caso de identidades abiertas y/o reportes abiertos, la transparencia podría exacerbar dichas dificultades. Es entonces esencial que los revisores aseguren comunicar los puntos de una manera clara y civilizada, de manera de maximizar las oportunidades de que sea recibido como retroalimentación valiosa por el autor\(es\).
 
-* Lack of anonymity for reviewers in open identities review might subvert the process by discouraging reviewers from making strong criticisms, especially against higher-status colleagues.
+* La falta de anonimidad de los revisores en el caso de identidades abiertas puede subvertir el proceso al desincentivar que los revisores hagan críticas fuertes, especialmente en contra de colegas de estatus superior. 
 
-* Finally, given these issues, potential reviewers may be more likely to decline to review.
+* Finalmente, debido a estos temas, los revisores potenciales podrían ser más propensos a declinar la solicitud de revisión. 
 
-#### Open metrics
+#### Métricas abiertas
 
-The [San Francisco Declaration on Research Assessment \(DORA\)](https://sfdora.org/) recommends moving away from journal based evaluations, consider all types of output and use various forms of metrics and narrative assessment in parallel. DORA has been signed by thousands of researchers, institutions, publishers and funders, who have now committed themselves to putting this in practice. The [Leiden Manifesto](http://www.leidenmanifesto.org/) provides guidance on how to use metrics responsibly.
+La [Declaración de San Francisco sobre Evaluación de la Investigación \(DORA\)](https://sfdora.org/) recomienda distanciarse de las evaluaciones basadas en revistas científicas, considerando todos los tipos de productos y utilizar varias formas de métricas y evaluaciones narrativas en paralelo. DORA ha sido firmada por miles de investigadores, instituciones, editoriales y agencias de financiamiento, quienes hoy se han comprometido a poner esto en práctica. El [Manifiesto de Leiden](http://www.leidenmanifesto.org/) provee guías sobre cómo utilizar las métricas de manera responsable.
 
-Regarding Altmetrics, Priem et al. (2010) advise that altmetrics have the following benefits: they accumulate quicker than citations; they can gauge the impact of research outputs other than journal publications (e.g. datasets, code, protocols, blog posts, tweets, etc.); and they can provide diverse measures of impact for individual objects. The timeliness of altmetrics presents a particular advantage to early-career researchers, whose research-impact may not yet be reflected in significant numbers of citations, yet whose career-progression depends upon positive evaluations. In addition, altmetrics can help with early identification of influential research and potential connections between researchers. A recent report by the EC’s Expert Group on Altmetrics (Directorate-General for Research and Innovation (European Commission), 2017) identified challenges of altmetrics, including lack of robustness and susceptibility to ‘gaming’; that any measure ceases to be a good measure once it becomes a target (‘Goodhart’s Law’); relative lack of social media uptake in some disciplines and geographical regions; and a reliance on commercial entities for the underlying data.
+Con respecto a Altmétricas, Priem et al. (2010) aconsejan que las altmétricas tienen los siguientes beneficios: se acumulan de manera más rápida que las citaciones; pueden medir el impacto de los resultados de la investigación distintos de publicaciones científicas (ej. sets de datos, código, protocolos, posteos de blog, tweets, etc.); y pueden proveer distintas medidas de impacto para proyectos individuales. La temporalidad de las almétricas se presenta como una ventaja para investigadores jóvenes, cuyo impacto de investigación puede no estar aún reflejado en un número significativo de citaciones, aún cuando su progresión en la carrera académica dependa de evaluaciones positivas. En adición, las altmétricas pueden ayudar con la identificación temprana de investigación influyente y conexiones potenciales entre investigadores. Un reporte reciente del grupo experto en Altmétricas de la Comisión Europea (Directiva General para Investigación e Innovación, Comisión Europa, 2017) ha identificado desafíos de altmétricas, incluyendo la falta de robustez y su susceptibilidad a ser trucado; que cualquier medida cesa de ser una buena medida una vez que se convierte en un objetivo (‘Ley de Goodhart’); la relativa falta de adopción de redes sociales en algunas disciplinas y regiones geográficas; y la dependencia de entidades comerciales sobre los datos en que se basan estas métricas. 
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-### Skills
+### Competencias
 
-Example exercises
+Ejercicios de ejemplo
 
-* Trainees work in groups of three. Each individually writes a review of a short academic text
+* Los estudiantes trabajan en grupos de tres. Cada individuo escribe una revisión de un texto académico corto.
 
-* Review a paper on a pre-print server
+* Revisar una publicación de un servidor de pre-print. 
 
-* Use a free bibliometrics or altmetrics service \(e.g. Impactstory, Paperbuzz, Altmetric bookmarklet, Dimensions.ai\) to look up metrics for a paper, then write a short explanation of how exactly various metrics reported by each service are calculated \(it’s harder than you’d assume; this would get at the challenges of finding proper metrics documentation for even the seemingly most transparent services\)
+* Uso de servicios bibliométricos o de almétricas libres  \(ej. Impactstory, Paperbuzz, Altmetric bookmarklet, Dimensions.ai\) para buscar las métricas de un paper, y luego escribir una breve explicación de cómo exactamente distintas métricas reportadas por cada servicio son calculadas \(es más difícil se lo que piensas; incluye el desafío de encontrar la documentación apropiada de las métricas para incluso aquellos servicios que parecen ser los más transparentes\)
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
-Q: Is research evaluation fair?
+### Preguntas, obstáculos e ideas equivocadas comunes 
+Q: ¿Es justa la evaluación de la investigación?
 
-A: Research evaluation is as fair as its methods and evaluation techniques. Metrics and altmetrics try to measure research quality with research output quantity, which can be accurate, but does not have to be.
+A: La evaluación de la investigación es justa así como sus métodos y técnicas de evaluación. Las métricas y almétricas tratan de medir la calidad de la investigación a través de la cantidad de productos, lo que puede ser acertado, pero no necesariamente. 
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Resultados de aprendizaje
 
-1. Trainees will be able to identify open peer review journals
-2. Trainees will be aware of a range of metrics, their advantages and disadvantages
+1. Los estudiantes serán capaces de identificar las revistas de revisión de pares abierta.
+2. Los estudiantes estarán al tanto de un rango de métricas, sus ventajas y desventajas. 
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Bibliografía sugerida
 
-* Peer Review the Nuts and Bolts. [A Guide for Early Career Researchers](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
+* Peer Review the Nuts and Bolts. [A Guide for Early Career Researchers.](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
 
 * [Peer Reviewers’ Openness Initiative](https://opennessinitiative.org/)
 
-* [Open Rev](https://www.openrev.org/)
+* [Open Rev. ](https://www.openrev.org/)
 
 * [Peerage of Science](https://www.peerageofscience.org/)
 
