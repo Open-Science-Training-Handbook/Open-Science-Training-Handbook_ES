@@ -1,110 +1,110 @@
 ##<img src="/Images/Icons/open_source_software.png" width="150" height="150" /> <img src="/Images/Icons/publish.png" width="150" height="150" />
-## 3. Open Research Software and Open Source
+## 3. Software de investigación abierta y de código abierto (open source)
 
-### What is it?
+### ¿En qué consiste?
 
-Open research software, or open-source research software, refers to the use and development of software for analysis, simulation, visualization, etc. where the full source code is available. In addition, according to the [Open Source Definition](https://opensource.org/osd), open-source software must be distributed in source and/or compiled form \(with the source code available in the latter case\), and must be shared under a license that allows modification, derivation, and redistribution.
+El software de investigación abierta, o software de código abierto de investigación, se refiere a todo el uso y desarrollo de software para análisis, simulación, etc., donde el código fuente está disponible. Además, de acuerdo a la [Definición de Open Source](https://opensource.org/osd), software de código abierto debe ser distribuida como en su código fuente y/o compilado (con el código fuente disponible en el último caso), y  debe ser compartido bajo una licencia que permita su  modificación, derivación y redistribución. 
 
-### Rationale
+### Justificación
 
-Modern research relies on software, and building upon—or reproducing—that research requires access to the full source code behind that software \(Barnes, 2010; Morin et al., 2012; Ince et al., 2012; Prins et al. 2015; Lowndes et al., 2018\). As Buckheit and Donoho put it, paraphrasing Jon Claerbout, ‘‘An article about a computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result’’ \(Buckheit & Donoho, 1995\). Open access to the source code of research software also helps improve the impact of the research \(Vandewalle, 2012\).
+La investigación moderna se basa en software, y reproducir dicha investigación requiere de acceso al código fuente completo detrás de dicho software (Barnes, 2010; Morin et al., 2012; Ince et al., 2012; Prins et al. 2015; Lowndes et al., 2018\). Como dicen  Buckheit y Donoho, parafraseando a Jon Claerbout, ‘Un artículo acerca de un resultado computacional es publicidad, no investigación académica. La academia real es el ambiente de desarrollo de software completo, código y datos, que producen el resultado’ \(Buckheit & Donoho, 1995\). El acceso abierto al código fuente del software de investigación también ayuda a mejorar el impacto de la investigación \(Vandewalle, 2012\).
 
-Sharing software used for research \(whether computational in nature, or that relies on any software-based analysis/interpretation\) is a necessary, though not sufficient, condition for reproducibility. This is due to the unavoidable ambiguity that arises when trying to fully describe software using natural language, e.g., in a paper \(Ince et al., 2012\). Furthermore, many \(if not most\) software programs may contain some undetected errors \(Soergel, 2015\), so even a "perfect" written description of software would not be able to account for all results.
+Compartir el software utilizado en una investigación \(ya sea de naturaleza computacional, o que se basa en un análisis o interpretación\) es una condición necesaria, aunque no suficiente, para la reproducibilidad. Esto es debido a la inevitable ambigüedad que emerge cuando se trata de describir de manera completa un software utilizando lenguaje natural, es decir, en un paper \(Ince et al., 2012\). Es más, muchos \(o la mayoría\) de los programas de software pueden contener errores no detectados \(Soergel, 2015\), por tanto incluso una descripción escrita "perfecta" de un software podría no dar cuenta de todos los resultados.
 
-In addition to reproducibility, sharing software openly allows developers to receive career credit for their efforts, either through direct citation \(Smith et al., 2016\) or via software meta-articles published in, e.g., the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) or the [Journal of Open Source Software](http://joss.theoj.org) \(Smith et al., 2018\). Neil Chue Hong maintains a [list of many domain-specific journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software) that publish software articles.
+En adición a la reproducibilidad, compartir software de manera abierta permite a los desarrolladores recibir crédito por sus esfuerzos, ya sea a través de citación directa \(Smith et al., 2016\) o a través de meta-artículos publicados, por ejemplo en el [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) o el [Journal of Open Source Software](http://joss.theoj.org) \(Smith et al., 2018\). Neil Chue Hong mantiene una [lista de muchas revistas dominio específicas](https://www.software.ac.uk/which-journals-should-i-publish-my-software) que publican artículos sobre software.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Objetivos de aprendizaje
 
-1. Learn the characteristics of open software; understand the ethical, legal, economic, and research-impact arguments for and against open software, and further understand the quality requirements of open code.
+1. Aprender las características del software abierto; entender los argumentos éticos, legales, económicos e impactos de la investigación en apoyo y en contra de software abierto, y entender de mejor manera los requerimientos de calidad de código abierto. 
 
-2. Learn how to use existing open software and appropriately attribute \(cite\) it.
+2. Aprender como usar software de acceso abierto existente y dar la atribución apropiada \(citar\).
 
-3. Learn how to use common tools and services for sharing research codes openly.
+3. Aprender como utilizar herramientas y servicios comunes para compatir códigos de manera abierta.
 
-4. Be able to choose the appropriate license for their software, and understand the difference between permissive and non-permissive licenses.
+4. Ser capaz de elegir la licencia apropiada para software, y entender las diferencias entre licencias permisivas y no permisivas. 
 
-### Key components
+### Componentes principales
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Conocimiento 
 
-There are several different platforms that support open sharing and collaboration on software, research or otherwise. First of all, you can use this checklist to evaluate openness of existing research software:
+Existen distintas plataformas que apoyan la colaboración y el compartir software de manera abierta. Primero que nada, puedes utilizar esta lista para evaluar el nivel de apertura de un software de investigación existente: 
 
-* Is the software available to download and install?
+* ¿Está el software disponible para descargar e instalar? 
 
-* Can the software easily be installed on different platforms?
+* ¿Puede ser el software instalado fácilmente en distintas plataformas? 
 
-* Does the software have conditions on the use?
+* ¿Tiene el software condiciones de uso? 
 
-* Is the source code available for inspection?
+* ¿Es el código fuente disponible para la inspección? 
 
-* Is the full history of the source code available for inspection through a publicly available version history?
+* ¿Está disponible la historia completa del código fuente para inspección por medio de una historia públicamente disponible?
 
-* Are the dependencies of the software \(hardware and software\) described properly? Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
+* ¿Están descritas correctamente las dependencias del software \(hardware y software\)? ¿Requieren estas dependencias de un esfuerzo mínimo razonable para ser obtenidas y utilizadas? 
 
-These qualities relate to and build on the [Open Source Definition](https://opensource.org/osd).
+Estas cualidades se relacionan y se construyen a partir del la [Definición de Open Source](https://opensource.org/osd).
 
-GitHub is a popular tool that allows version control: management and overall tracking of changes in a particular piece of software. Services such as GitHub, GitLab, Bitbucket, and others provide an interface to the tool as well as remote storage services that can be used to maintain, share, and collaborate on research software. As a tool it is quite widespread and, although it has an initial learning curve, it has proven invaluable to establishing an open and reproducible research workflow.
+GitHub es una herramienta popular que permite control de versiones: la gestión y el seguimiento de los cambios de un software particular. Los servicios como GitHub, GitLab, Bitbucket, y otros proveen de una interface a las herramientas, así como un sistema de almacenamiento remoto que puede ser utilizado para mantener, compartir y colaborar en software de investigación. Es una herramienta que es ampliamente conocida, y aunque tiene una curva de aprendizaje alta en un comienzo, es invaluable para establecer un flujo de trabajo abierto y reproducible. 
 
-Having the research software on GitHub is just the first part; it is equally important to have a published and persistent identifier associated with it, such as a DOI. There are several ways of associating a DOI with a GitHub repository; the easiest one is to employ Zenodo \(a free, open catch-all repository created by OpenAIRE and CERN\) to do the assignment, although other repositories for archiving software and obtaining a DOI do exist, such as Figshare. [Zenodo integrates with GitHub](https://guides.github.com/activities/citable-code/) to archive the software and provide a DOI when developers make a formal release on GitHub.
+Hacer disponible el software en GitHub es sólo la primera parte; es igualmente importante tener un identificador persistente publicado asociado con este software, como un DOI. Hay distintas formas de asociar un DOI con un repositorio de GitHub; la forma más fácil es utilizar Zenodo \(un repositorio gratis y abierto multi-función creado por OpenAIRE y CERN\) para hacer la asignación, aunque existen otros repositorios para archivar software y obtener DOU, como Figshare. [Zenodo se integra con GitHub](https://guides.github.com/activities/citable-code/) para archivar el software y proveer un DOI cuando los desarrolladores hacen un nuevo lanzamiento en GitHub. 
 
-Publicly shared software is not actually open source unless accompanied by a suitable license, because by default software \(along with any other creative work\) falls under exclusive copyright to the creators, meaning no one else can use, copy, distribute, or modify your work \([choosealicense.com](https://choosealicense.com/no-permission/)\). \(If you truly want to share your code with no restrictions whatsoever, you can [dedicate it to the public domain](https://choosealicense.com/licenses/#unlicense).\) Instead, you should choose an appropriate license for your software, based on what you would prefer to let others do \(or prevent them from doing\) with your code; the [choosealicense.org](https://choosealicense.com) site is a helpful resource to differentiate between licenses, although it does not feature [every available or popular open-source license](https://opensource.org/licenses). Once you select a license, put the text—edited to include the author name\(s\) and year—in the software repository as a plaintext LICENSE file.
+El Software compartido públicamente no es efectivamente open source a menos que sea acompañado de una licencia adecuada, dado que por defecto software \(así como cualquier otro trabajo creativo\) recae bajo derecho de autor para los creadores, lo que significa que nadie lo puede usar, copiar, distribuir o modificar \([choosealicense.com](https://choosealicense.com/no-permission/)\). \(Si realmente se quiere compartir el código sin ningún tipo de restricciones, puede ser [guardado en el dominio público](https://choosealicense.com/licenses/#unlicense).\) En lugar de ello, puedes elegir una licencia apropiada para software, basado en lo que se desee que otros puedan hacer con tu código \(o impedir que lo hagan \); el sitio [choosealicense.org](https://choosealicense.com) es un recurso útil para diferenciar entre distintas licencias, aunque no incluye [todas las licencias open-source disponibles](https://opensource.org/licenses). Una vez que selecciones una licencia, pon el texto editado para incluir el nombre del o los autor(es) y el año en el repositorio de software como un archivo de texto con el nombre LICENSE. 
 
 ![](/Images/02 Open Science Basics/02_open_research_software_open_source.png)
 
-Although sharing software in any form is better than not sharing it, your software will have more impact and be more easily used by others—and your future self!—if you include documentation. This can include helpful comments in the code that explain **why** you did something \(rather than what you did, which should be evident\), an informative README file that describes what your software does and gives some helpful information \(e.g., how to install, how to cite, how to run, important dependencies\), tutorials/examples, and/or API documentation \(which may be automatically generated from properly formatted comments in the code\).
+Aunque compartir software en cualquier forma es mejor que no compartirlo, tu software tendrá más impacto y será más fácilmente utilizado por otros y por tu persona futura, si incluyes documentación. Esto puede incluir comentarios útiles en el código que expliquen **por qué** hiciste algo \(en vez de sólo lo que hiciste, lo que debería ser evidente\), un archivo README informativo que describe lo que hace tu software y dar información útil \(e.g., cómo instalar, cómo citar, como correr el software, dependencias importantes\), tutoriales/ejemplos, y/o documentación de API \(que puede ser automáticamente generada a partir de comentarios apropiados en el código\).
 
-Missing or inaccessible dependencies or insufficient documentation of the computational environment are very common barriers to reuse and reproducibility. One approach to address these barriers is to share your code with your computational environment using container technology. Containers package the code with the dependencies and computational environment so others can more easily run your analysis. Examples of container implementation in research include [Rocker](https://arxiv.org/abs/1710.03675), [Binder](https://mybinder.readthedocs.io/en/latest/), and [Code Ocean](https://codeocean.com/).
+Dependencias perdidas o inaccesibles o documentación insuficiente del ambiente computacional son barreras comunes para el reuso y la reutilización. Una aproximación para abordar estas barreras es compartir tu código con tu ambiente computacional usando tecnología contenedora (container technology). Los contenedores empacan el código con las dependencias y el ambiente computacional de manera de que otros pueden correr más fácilmente tu análisis. Los ejemplos de implementación en investigación incluyen  [Rocker](https://arxiv.org/abs/1710.03675), [Binder](https://mybinder.readthedocs.io/en/latest/), y [Code Ocean](https://codeocean.com/).
 
-When you use software—whether you wrote it, or someone else did and made it available—appropriate citation is important for reproducibility \(discussed more in [Section 4](#heading=h.jy7n9xm9zn9o); briefly, the version used can change your results or interpretation\) and giving credit to the developers of the software \(Niemeyer 2016, Smith 2016\). The decision of when to cite software is up to you as the researcher, but we recommend a citation whenever the software did some work integral to your results, interpretation, or conclusions. The best way to make _your_ code easily citable is to use the GitHub–Zenodo integration described before and provide the resulting DOI in an obvious place like the software’s README, perhaps along with a suggested citation format. When citing any software, you should include at minimum the author name\(s\), software title, version number, and unique identifier/locator \(Smith 2016\). If you use someone else’s software and they provided a DOI, then you can easily use that to identify and point to the software; if they did not archive their software, then you should include a URL where the software can be found and the version number or \(e.g.\) commit hash.
+Cuando usas software, ya sea software que tu escribiste o que alguien más hizo y puso a disponibilidad, una citación apropiada es importante para la reproducibilidad \(esto se discute en más detalle en la [Sección 4](#heading=h.jy7n9xm9zn9o); brevemente, la versión usada puede cambiar tus resultados o interpretación\) y dar crédito a los desarrolladores del software \(Niemeyer 2016, Smith 2016\). La decisión de cuando citar software depende de ti como investigador, pero recomendamos citar cuando el software utilizado haya contribuido de manera integral a tus resultados, interpretación o conclusiones. La mejor manera de hacer que _tu_ código sea más fácilmente citable es usar la integración de GitHub–Zenodo descrita antes y provisto el resultante DOI en un lugar obvio como el README del software, quizás junto con un formato de citación sugerido. Cuando se cita cualquier software, debes incluir al menos el nombre de él o los autores, título del software, número de versión, y un identificador o localizador único \(Smith 2016\). Si usas el software de alguien más y ellos proveen un DOI, lo puedes utilizar fácilmente para identificar y citar el software; si el software no está archivado, entonces debes incluir el URL donde puede ser encontrado y el número de versión o **\(e.g.\) commit hash.**
 
-Additional, more complicated concepts include automated testing and continuous integration of software, packaging of software in binary formats, and governance and management of multi-person open-source projects \(i.e., codes of conduct, contributing guides\). Some of these topics are described by Scopatz and Huff \(2015\). Wilson et al. \(2017\) also provide a practical guide to best practices for scientific computing that includes advice specifically on research software development.
+Adicionalmente, existen conceptos más complejos como el testeo automático y la integración continua del software, el empaquetado de software en formatos binarios, y la gobernanza y la gestión de proyectos de código abierto multi-persona \(por ejemplo, códigos de conducta, guías de contribución y autoría\). Algunos de estos temas han sido descritos por Scopatz y Huff \(2015\). Wilson et al. \(2017\) también entregan una guía práctica de las mejores prácticas de computación científica que incluye consejos específicamente en el desarrollo de software para investigación. 
 
 ## <img src="/Images/Icons/laptop.png" width="150" height="150" />
-##### Open Source Hardware
+##### Hardware Abierto
 
-The open source principles above extend to hardware. Researchers often use proprietary instrumentation or hardware in their research that is not freely accessible, reusable, or adaptable. Scientific hardware includes everything from sequencing tools and microscopes to specialized testing equipment and particle colliders. Open Science Hardware \(OScH\) community, for example, is leading a push for the open source movement to include scientific tools, hardware, and research infrastructures through their [Global Open Science Hardware Roadmap](http://openhardware.science/global-open-science-hardware-roadmap/).
+Los principios de código abierto (open source) descritos anteriormente también se extienden al  hardware. Los investigadores usualmente utilizan instrumentación patentada en su investigación, que no es de libre acceso, reusable o adaptable. El hardware científico incluye desde herramientas de secuenciación y microscopios a equipamiento de testeo especializado a colisionadores de partículas. La comunidad de Hardware abierto (Open Science Hardware \(OScH\)), por ejemplo, está empujando para que el movimiento open source considere las herramientas científicas, el hardware, y las infraestructuras de investigación en su [Hoja de Ruta Global de Hardware de Ciencia Abierta](http://openhardware.science/global-open-science-hardware-roadmap/).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Competencias
 
-* Create a repository on GitHub, and enable the integration with Zenodo. Mint the first release of the software.
+* Crear un repositorio en Github, y permitir la integración con Zenodo. Acuñar la primera versión del software. 
 
-* Choose a software license using \(e.g.\) [choosealicense](https://choosealicense.com) or the [Open Source Initiative](https://opensource.org/licenses).
+* Elegir una licencia de software  \(ej.\) [choosealicense](https://choosealicense.com) o la [Iniciativa Open Source](https://opensource.org/licenses).
 
-* Create documentation for a software package, including README, comments, and examples.
+* Crear documentación para un paquete de software, incluyendo README, comentarios y ejemplos. 
 
-* Appropriately cite software used for a paper.
-
+* Citar de manera apropiada el software utilizado para un paper. 
+* 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Preguntas, obstáculos e ideas erróneas comunes 
 
-Q: "I can’t share my software—it’s too messy / it doesn’t have good documentation / I didn’t leave good comments!"
+Q: "No puedo compartir mi software, es muy desordenado / no tiene una buena documentación / No dejé buenos comentarios!"
 
-A: Developers of research software around the world empathize with this feeling—people rarely feel like their code is "ready" to publicly share or that it is “finished”. However, as Barnes \(2010\) put it, “if your code is good enough to do the job, then it is good enough to release—and releasing it will help your research and your field.” In other words, if you feel comfortable enough with your software to publish a study or report results, then the code is sufficiently developed to share with your colleagues. \(In the other direction, if you don’t feel comfortable sharing the code, then perhaps it requires more development or testing before using in a publication\). Plus, sharing your code allows others to improve and build upon it, leading to even greater impact and innovation \(and citations for you!\).
+A: Los desarrolladores de software de investigación en todo el mundo empatizan con este sentimiento, las personas rara vez creen que su software está "listo" para ser compartido públicamente o que ya está "terminado". Sin embargo, como lo menciona Barnes \(2010\), “si tu código es lo suficientemente bueno como para funcionar, entonces es lo suficientemente bueno o como para ser liberado, y al liberarlo te ayudará en tu investigación y a tu área de investigación." En otras palabras, si te sientes conforme con tu software como para publicar un estudio o reportar resultados, entonces el código está lo suficientemente desarrollado como para compartirlo con tus colegas.  \(En la dirección opuesta, si no te sientes cómodo compartiendo el código, quizás requiere un poco más de desarrollo o testeo antes de ser utilizado en una publicación\). Además, compartir tu código le permite a otros mejorarlo y construir sobre el, lo que conlleva un mayor impacto e innovación \(¡y que seas citado más veces! m\).
 
-Q: "What if someone takes the code I have shared and uses it for nefarious purposes, or claims they wrote it?"
+Q: "¿Qué pasa si alguien toma el código que he compartido y lo utiliza para propósitos malignos, o dice que es de su autoría?"
 
-A: Selecting an appropriate license for your software will help protect you from any uses of your software by others; for example, the common [MIT License](https://choosealicense.com/licenses/mit/) includes both limitations of liability and states that no warranty is provided. If someone else tries to claim that they wrote the software you made available, then you can point to the timestamps on your repository or archived versions as proof of your prior work.
+A: El seleccionar una licencia apropiada para tu software te ayudará a protegerlo de los usos que puedan hacer otros de él; por ejemplo, la licencia de uso común [MIT](https://choosealicense.com/licenses/mit/) incluye limitaciones de responsabilidad e indica que no se incluye ninguna garantía. Si alguien más trata de reclamar la autoría de tu software, puedes indicar las marcas de fecha (timestamps) en tu repositorio o las versiones archivadas como prueba de tu trabajo previo. 
 
-Q: "If I share my code in an online repository, I will be deluged with requests for user support."
+Q: "Si comparto mi código en un repositorio online, voy a ser inundado con peticiones de ayuda ."
 
-A: Although potential users may ask you for help, either via email or \(e.g.\) issues filed on the online repository, you are under no obligation to provide support if you prefer not to or cannot do so. An appropriate license even provides you with legal protection for this \(e.g., the no-warranty clause of the [MIT License](https://choosealicense.com/licenses/mit/)\).
+A: Aunque los usuarios potenciales te podrían pedir ayuda, ya sea vía correo electrónico o \(por ejemplo\) solicitudes a través del repositorio online, no tienes ninguna obligación de proveer el apoyo si no puedes o prefieres no hacerlo. Una licencia apropiada incluso te provee con la protección legal ante ello \(como la cláusula de no garantía de la [licencia MIT](https://choosealicense.com/licenses/mit/)\).
 
-Common misconception: simply putting code online makes it open-source software. In fact, unless the software is accompanied by a license that grants permission for others to use, copy, modify, and/or distribute, then the developer\(s\) retain exclusive copyright. A open-source license needs to accompany the code to make it open-source software.
+Idea preconcebida común: simplemente disponer el código en línea lo hace software de código abierto. De hecho, a menos que el software sea acompañado de una licencia que concede permiso a otros para su uso, copia, modificación y/o distribución, el o los desarrolladores mantienen derechos de autor exclusivos sobre el software. Es necesario que sea acompañado de una licencia de código abierto para hacerlo software de código abierto. 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Resultados de aprendizaje
 
-1. Be able to share software under the most appropriate license \(i.e., both the tools and the licensing\).
+1. Ser capaz de compartir software bajo la licencia más apropiada \(es decir, tanto las herramientas como el licenciamiento).
 
-2. Be able to upload, version, and register a piece of code under a persistent identifier.
+2. Ser capaz de subir, crear versiones y registrar un pedazo de código bajo un identificador persistente. 
 
-3. Be able to cite software used for a research article.
+3. Ser capaz de citar software utilizado para un artículo de investigación.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Bibliografía recomendada
 
 * [The Future of Research in Free/Open Source Software Development](http://www.ics.uci.edu/~wscacchi/Papers/New/FoSER-Scacchi-2010.pdf) \(Scacchi, 2010\).
 
@@ -133,6 +133,4 @@ Common misconception: simply putting code online makes it open-source software. 
 * [Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1) \(Jiménez et al., 2017\).
 
 * [Perspectives on Reproducibility and Sustainability of Open-Source Scientific Software from Seven Years of the Dedalus Project](https://arxiv.org/abs/1801.08200) \(Oishi et al., 2018\).
-
-
 
