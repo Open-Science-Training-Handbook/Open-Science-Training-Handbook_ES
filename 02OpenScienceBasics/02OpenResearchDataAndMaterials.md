@@ -1,203 +1,202 @@
 ## <img src="/Images/Icons/open_data.png" width="200" height="200" />
-## 2. Open Research Data and Materials
+## 2. Materiales y datos de investigación abierta
 
-### What is it?
+### ¿En qué consiste?
 
-Open research data is data that can be freely accessed, reused, remixed and redistributed, for academic research and teaching purposes and beyond. Ideally, open data have no restrictions on reuse or redistribution, and are appropriately licensed as such. In exceptional cases, e.g. to protect the identity of human subjects, special or limited restrictions of access are set. Openly sharing data exposes it to inspection, forming the basis for research verification and reproducibility, and opens up a pathway to wider collaboration. At most, open data may be subject to the requirement to attribute and sharealike \(see the [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
-
+Los datos de investigación abierta son datos a los que se puede acceder libremente, reutilizar, remezclar y redistribuir, para fines académicos como la investigación y docencia. Idealmente, los datos abiertos no debiese tener limitación a su reutilización y distribución, y deben contar con licencias acorde. Se pueden incluir restricciones limitadas o especiales en casos excepcionales ej. para proteger la identidad de individuos particulares. Compartir abiertamente datos promueve la inspección, formando la base para la reproducibilidad y verificación de investigación, y abre el camino a colaboración de forma más amplia.  A lo sumo, los datos abiertos pueden estar sujetos al requisito de atribuir y compartir \(ver en [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\)
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
-### Rationale
+### Justificación
 
-Research data are often the most valuable output of many research projects, they are used as primary sources that underpin scientific research and enable derivation of theoretical or applied findings. In order to make findings/studies replicable, or at least reproducible or reusable \(reference to Reproducible Research and Data Analysis\) in any other way, the best practice recommendation for research data is to be as open and [FAIR](https://www.force11.org/fairprinciples) as possible, while accounting for ethical, commercial and privacy constraints with sensitive data or proprietary data.
+Los datos de investigación a menudo son el resultado más valioso de muchos proyectos de investigación, se utilizan como fuentes primarias que sustentan la investigación científica y permiten la derivación de hallazgos teóricos o aplicados. Para hacer que los hallazgos/estudios sean replicables, o al menos reproducibles o reutilizables (\referencia a la Investigación y Análisis de datos reproducibles\) de cualquier forma, la recomendación de mejores prácticas para los datos de investigación debe ser tan abierta como [FAIR](https://www.force11.org/fairprinciples) como sea posible, teniendo en cuenta las limitaciones éticas, comerciales y de privacidad con datos confidenciales o de propiedad.
 
+![](/Images/Icons/finish.png)
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
+### Objetivos de aprendizaje 
 
-### Learning objectives
+1. Obtener una comprensión de las características y principios básicos de los datos de investigación abiertos y FAIR, incluido el empaquetado y la documentación apropiados, para permitir que otros los entiendan, reproduzcan y reutilicen de maneras alternativas.
 
-1. Gain an understanding of the basic characteristics and principles of open and FAIR research data, including appropriate packaging and documentation, to enable others to understand, reproduce, and re-use in alternative ways.
+2. Familiarizarse con los tipos de datos que pueden considerarse sensibles y las restricciones legales o limitaciones para compartirlos abiertamente.
 
-2. Familiarity with the sorts of data that might be considered sensitive, and the restrictions or constraints on openly sharing them.
+3. Ser capaz de convertir un conjunto de datos "cerrado" en uno que sea "abierto" mediante la implementación de las medidas necesarias en un plan de gestión de datos, con una gestión de datos y metadatos apropiados.
 
-3. Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
+4. Ser capaz de utilizar el plan de gestión de datos de investigación y hacer que los resultados de su investigación sean asequibles y accesibles, incluso si contienen datos potencialmente sensibles.
 
-4. Be able to use research data management plan and to make your research results findable and accessible, even if it contains sensitive data.
+5. Comprender los pros y los contras de compartir abiertamente diferentes tipos de datos \(por ejemplo, privacidad, sensibilidad, desidentificación, acceso mediado\).
 
-5. Understand the pros and cons of openly sharing different types of data \(e.g., privacy, sensitivity, de-identification, mediated access\).
+6. Comprender la importancia de los metadatos apropiados para el archivo sostenible de datos de investigación.
 
-6. Understand the importance of appropriate metadata for sustainable archiving of research data.
+7. Comprender los flujos de trabajo básicos y las herramientas para compartir datos de investigación.
 
-7. Understand the basic workflows and tools for sharing research data.
+### Componentes clave
 
-### Key components
+#### Habilidades de conocimiento
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
-##### FAIR principles
+##### Principios FAIR
 
-In 2014, a core set of principles were drafted in order to optimize the reusability of research data, named the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). They represent a community-developed set of guidelines and best practices to ensure that data or any digital object are **F**indable, **A**ccessible, **I**nteroperable and **R**e-usable:
+En 2014, se redactó un conjunto básico de principios para optimizar la reutilización de los datos de investigación, denominados [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). Representan un conjunto de directrices y mejores prácticas desarrolladas por la comunidad para garantizar que los datos o cualquier objeto digital sean **F**indable (encontrable), **A**ccessible (asequible), **I**nteroperable (interoperable) and **R**e-usable (reutilizable):
 
-**Findable:** The first thing to be in place to make data reusable is the possibility to find them. It should be easy to find the data and the metadata for both humans and computers. Automatic and reliable discovery of datasets and services depends on machine-readable persistent identifiers \(PIDs\) and metadata.
+**Encontrable:**  Lo primero que se debe hacer para que los datos sean reutilizables es la posibilidad de encontrarlos. Debería ser fácil encontrar los datos y los metadatos tanto para humanos como para computadoras. El descubrimiento automático y confiable de conjuntos de datos y servicios depende de los identificadores persistentes \ (PIDs\) legibles por máquina y los metadatos. 
 
-**Accessible:** The \(meta\)data should be retrievable by their identifier using a standardized and open communications protocol, possibly including authentication and authorisation. Also, metadata should be available even when the data are no longer available.
+**Asequible:** Los datos y  metadatos deberían poder recuperarse mediante su identificador utilizando un protocolo de comunicaciones abierto y estandarizado, que posiblemente incluya autenticación y autorización. Además, los metadatos deberían estar disponibles incluso cuando los datos ya no estén disponibles.
 
-**Interoperable:** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
+**Interoperable:** Los datos deberían poder combinarse y usarse con otros datos o herramientas. Por lo tanto, el formato de los datos deben ser abiertos e interpretables para varias herramientas, incluidos otros registros de datos. El concepto de interoperabilidad se aplica tanto a nivel de datos como de metadatos. Por ejemplo, los metadatos deberían usar vocabularios que sigan los principios FAIR.
 
-**Re-usable:** Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
+**Re-utilizable:** En última instancia, FAIR tiene como objetivo optimizar la reutilización de datos. Para lograr esto, los metadatos y datos deben estar bien descritos para que puedan ser replicados y / o combinados en diferentes configuraciones. Además, la reutilización de los datos y metadata debe estar indicado con  meta datos debe indicarse con licencias clara y accesibles. 
 
-Distinct from peer initiatives that focus on the human scholar, the FAIR principles put a specific emphasis on enhancing the ability of machines to automatically find and use data or any digital object, in addition to supporting its reuse by individuals. The FAIR principles are guiding principles, not standards. FAIR describes qualities or behaviours that are required to make data maximally reusable \(e.g., description, citation\). Those qualities can be achieved by different standards.
+A diferencia de las iniciativas de pares que se centran en el investigador humano, los principios FAIR ponen un énfasis específico en mejorar la capacidad de las máquinas para encontrar y utilizar automáticamente datos o cualquier objeto digital, además de apoyar su reutilización por parte de individuos. Los principios de FAIR son principios rectores, no estándares. FAIR describe las cualidades o los comportamientos necesarios para que los datos sean reutilizables al máximo \(ej. descripción, cita\). Esas cualidades se pueden lograr con diferentes estándares.
+
 
 ![](/Images/02 Open Science Basics/02_open_research_data_material.png)
 
-##### Data publishing
+##### Publicación de datos
 
-Most researchers are more or less familiar with Open Access publishing of research articles and books \(see chapter 5\). More recently, and for the reasons mentioned above, data publishing has gained increasing attention. More and more funders expect the data produced in research projects they finance to be findable, accessible and as open as possible.
+La mayoría de los investigadores están más o menos familiarizados con publicación Open Access de artículos de investigación y libros \(véase el capítulo 5\). Más recientemente, y por las razones mencionadas anteriormente, la publicación de datos ha ganado una atención cada vez mayor. Cada vez más donantes esperan que los datos producidos en los proyectos de investigación que financian sean fáciles de encontrar, accesibles y lo más abiertos posible. 
 
-There are several distinct ways to make research data accessible, including \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
+Hay varias formas diferentes para hacer que los datos de investigación sean accesibles, incluyendo  \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
-* Publishing data as supplemental material associated with a [research article](https://en.wikipedia.org/wiki/Research_article), typically with the data files hosted by the publisher of the article.
+* Publicación de datos como material complementario asociado con un [artículo de investigación] (https://en.wikipedia.org/wiki/Research_article), generalmente con los archivos de datos alojados por el editor del artículo. 
 
-* Hosting data on a publicly-available website, with files available for download.
+* Hospedaje de datos en un sitio web disponible públicamente, con archivos disponibles para su descarga. 
 
-* Depositing data in a repository that has been developed to support data publication, e.g., [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repository)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
+* Depósito de datos en un repositorio que se ha desarrollado para admitir la publicación de datos, ej.,[Dataverse](https://en.wikipedia.org/wiki/Dataverse), \[Dryad\]\([https://en.wikipedia.org/wiki/Dryad\_\(repository](https://en.wikipedia.org/wiki/Dryad_%28repository)\)\), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo). 
 
-* A large number of general and domain or subject specific data repositories exist which can provide additional support to researchers when depositing their data.
+* Existe una gran cantidad de repositorios de datos generales y de dominios o temas específicos que pueden proporcionar apoyo adicional a los investigadores al depositar sus datos.
 
-* Publishing a data paper about the dataset, which may be published as a preprint, in a journal, or in a data journal that is dedicated to supporting data papers. The data may be hosted by the journal or hosted separately in a data repository. Examples of data journals include [Scientific Data](https://www.nature.com/sdata/) \(by SpringerNature\) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(by CODATA\). For a comprehensive review of data journals, see [Candela et al](https://doi.org/10.1002%2Fasi.23358).
+* Publicación de un documento de datos sobre el conjunto de datos, que puede publicarse como un preprint, en una revista o en una revista de datos dedicada a respaldar documentos de datos. Los datos pueden ser alojados por la revista o alojados por separado en un repositorio de datos. Algunos ejemplos de publicaciones periódicas incluyen [Scientific Data] (https://www.nature.com/sdata/) por SpringerNature y [Data Science Journal] (http://www.codata.org/publications/data-science-journal) por CODATA. Para una revisión completa de las publicaciones de datos, ver [Candela et al.] (Https://doi.org/10.1002%2Fasi.23358)
 
-The CESSDA ERIC [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) provides an overview of pros and cons of different data publication routes. Sometimes, your funder or another external party requires you to use a specific repository. If you are free to choose, you may consider the order of preference in the [recommendations by OpenAIRE](https://www.openaire.eu/opendatapilot-repository):
+La [Guía de expertos en gestión de datos - CESSDA ERIC] (https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) proporciona una descripción general de los pros y los contras de las diferentes rutas de publicación de datos. A veces, su financiador u otra parte externa requiere que use un repositorio específico. Si puede elegir libremente, puede considerar el orden de preferencia en las [recomendaciones OpenAIRE] (https://www.openaire.eu/opendatapilot-repository):
 
-1. Use an external data archive or repository already established for your research domain to preserve the data according to recognised standards in your discipline.
+1. Utiliza un archivo de datos externo o repositorio ya establecido para su dominio de investigación para preservar los datos de acuerdo con los estándares reconocidos en tu disciplina.
 
-2. If available, use an institutional research data repository, or your research group’s established data management facilities.
+2. Si está disponible, usa un repositorio de datos de investigación institucional o las instalaciones de administración de datos establecidas de tu grupo de investigación.
 
-3. Use a cost-free data repository such as [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/).
+3. Utiliza un repositorio de datos sin costo como [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://en.wikipedia.org/wiki/Figshare) o [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
 
-4. Search for other data repositories in [re3data](https://www.re3data.org/). There is no single filter option in re3data covering the FAIR principles, but considering the following filter options will help you to find FAIR-compatible repositories: access categories, data usage licenses, trustworthy data repositories \(with a certificate or explicitly adhering to archival standards\) and whether a repository gives the data a persistent identifier \(PID\). Another aspect to consider is whether the repository supports versioning.
+4.  Busca otros repositorios de datos en [re3data] (https://www.re3data.org/). No hay una única opción de filtro en re3data que cubra los principios FAIR, pero teniendo en cuenta las siguientes opciones de filtro, podrás encontrar repositorios compatibles con FAIR: categorías de acceso, licencias de uso de datos, repositorios de datos confiables (con un certificado o apegados explícitamente a estándares de archivo) y si un repositorio da a los datos un identificador persistente \(PID\). Otro aspecto a considerar es si el repositorio admite el control de versiones. 
 
 ## <img src="/Images/Icons/archive.png" width="150" height="150" />
-You should consider where to deposit and publish your data already in your research data management plan. CESSDA offers some practical questions, which are recommended to be considered. For example: Which data and associated metadata, documentation and code will be deposited? How long does the data need to be retained? For how long should the data remain reusable? How will the data be made available? What access category will you choose? For more questions check [Adapt your DMP: part 6](https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6). On the other hand don’t forget to check if a chosen repository meets requirements of your research and of your funder. Some repositories have already gained certification, like CoreTrustSeal, which certifies them to be trustworthy and to be able to meet Core Trustworthy Data Repositories Requirements. It is worth mentioning that some domain specific repositories may accept only high-quality data with a potential for reuse and that can be publicly shared.
+Debería considerarse dónde depositar y publicar sus datos ya en tu plan de gestión de datos de investigación. CESSDA ofrece algunas preguntas prácticas, que se recomiendan considerar. Por ejemplo: ¿Qué datos y metadatos asociados, documentación y código serán depositados? ¿Cuánto tiempo deben conservarse los datos? ¿Por cuánto tiempo los datos deben permanecer reutilizables? ¿Cómo estarán disponibles los datos? ¿Qué categoría de acceso se elegirá? Para obtener más información, consulta [Adap your DMP: parte 6.] (https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6) Por otro lado, no se debe olvidar verificar si un repositorio elegido cumple con los requisitos de su investigación y de su financiador. Algunos repositorios ya han obtenido la certificación, como CoreTrustSeal, que los certifica como confiables y capaces de cumplir con los requisitos Centrales de Repositorios de Datos Fiables (Core Trustworthy Data Repositories Requirements). Vale la pena mencionar que algunos repositorios específicos de dominio pueden aceptar solo datos de alta calidad con potencial de reutilización y que pueden compartirse públicamente.
 
-Since there are several routes to publish your data, you should note that for a dataset to "count" as a publication, it should follow a similar publication process as an article \([Brase et al., 2009](https://doi.org/10.3233/ISU-2009-0595)\) and should be:
+Dado que hay varias rutas para publicar sus datos, debe tenerse en cuenta que para que un conjunto de datos "cuente" como publicación, debe seguir un proceso de publicación similar a un artículo \([Brase et al., 2009](https://doi.org/10.3233/ISU-2009-0595)\) y debería ser:
 
-* Properly documented with metadata;
+* Documentado adecuadamente con metadata;
 
-* Reviewed for quality, e.g. content of the study, methodology, relevance, legal consistency and documentation of materials;
+* Se revisó la calidad, ej: contenido del estudio, metodología, relevancia, consistencia legal y documentación de materiales;
 
-* Searchable and discoverable in catalogues \(or databases\);
+* Se puede buscar y descubrir en catálogos (o bases de datos);
 
-* Citable in articles.
+* Citable en artículos.
 
 ## <img src="/Images/Icons/metadata.png" width="150" height="150" />
-##### Data citation
+##### Cita de datos
 
-Data citation services help research communities discover, identify, and cite research data \(and often other research objects\) with confidence. This typically involves the creation and allocation of Digital Object Identifiers \(DOIs\) and accompanying metadata through services such as DataCite \([https://www.datacite.org](https://www.datacite.org)\), and can be integrated with research workflows and standards. This is an emerging field, and involves aspects such as conveying to journal publishers the importance of appropriate data citation in articles, as well as enabling research articles themselves to be linked to any underlying data. Through this, citable data become legitimate contributions to the process of scholarly communication, and can help pave the way for new metrics and publication models that recognize and reward data sharing.
-
-As an initial step towards good practice for data citation, the Data Citation Synthesis Group of FORCE11 has put forward the [Joint Declaration of Data Citation Principles](https://doi.org/10.25490/a97f-egyk), targeted at both researchers and data service providers. Adhering to these principles, data repositories usually provide researchers with a reference they can use when referring to a given dataset.
+Los servicios de citas de datos ayudan a las comunidades de investigación a descubrir, identificar y citar datos de investigación (y a menudo otros objetos de investigación) con confianza. Esto generalmente implica la creación y asignación de Identificadores de Objetos Digitales (DOIs) y los metadatos que los acompañan a través de servicios como DataCite \([https://www.datacite.org/](https://www.datacite.org/)\), y se puede integrar con flujos de trabajo de investigación y estándares. Este es un campo emergente e involucra aspectos tales como transmitir a los editores de revistas la importancia de la cita de datos apropiada en los artículos, así como también permitir que los artículos de investigación se vinculen con los datos subyacentes. A través de esto, los datos de citable se convierten en contribuciones legítimas al proceso de comunicación académica, y pueden ayudar a allanar el camino para nuevas métricas y modelos de publicación que reconocen y recompensan el intercambio de datos
+Como paso inicial hacia una buena práctica para la cita de datos, el Grupo de síntesis de citas de datos de FORCE11 ha presentado la Declaración Conjunta de Principios de Citas de Datos [Joint Declaration of Data Citation Principles] (https://doi.org/10.25490/a97f-egyk), dirigida a investigadores y proveedores de servicios de datos. Siguiendo estos principios, los repositorios de datos generalmente proporcionan a los investigadores una referencia que pueden usar cuando se refieren a un set de datos específico.
 
 ## <img src="/Images/Icons/database.png" width="150" height="150" />
-##### Data packaging
+##### Empaquetamiento de datos
 
-Data packages are containers for describing and sharing accompanying data files, and typically comprise a metadata file describing the features and context of a dataset. This can include aspects such as creation information, provenance, size, format type, field definitions, as well as any relevant contextual files, such as data creation scripts or textual documentation. From the [Data Packaging Guide](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md):
+Los paquetes de datos son contenedores para describir y compartir archivos de datos adjuntos, y generalmente comprenden un archivo de metadata que describe las características y el contexto de un conjunto de datos. Esto puede incluir aspectos tales como información de creación, procedencia, tamaño, tipo de formato, definiciones de campo, así como cualquier archivo contextual relevante, como scripts de creación de datos o documentación textual. De la [Guía de Empaquetado de Datos] (https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md):
 
-* Data are forever: Datasets outlive their original purpose. Limitations of data may be obvious within their original context, such as a library catalog, but may not be evident once data is divorced from the application it was created for.
+* Los datos son para siempre: los conjuntos de datos sobreviven a su propósito original. Las limitaciones de los datos pueden ser obvias dentro de su contexto original, como un catálogo de la biblioteca, pero pueden no ser evidentes una vez que los datos se han divorciado de la aplicación para la que se crearon.
 
-* Data cannot stand alone: Information about the context and provenance of the data--how and why it was created, what real-world objects and concepts it represents, the constraints on values--is necessary to helping consumers interpret it responsibly.
+* Los datos no pueden ser independientes: la información sobre el contexto y la procedencia de los datos (cómo y por qué se creó, qué objetos y conceptos del mundo real representa, las limitaciones de los valores) es necesaria para ayudar a los consumidores a interpretarla de manera responsable.
 
-* Structuring metadata about datasets in a standard, machine-readable way encourages the promotion, shareability, and reuse of data.
+* La estructuración de metadatos sobre conjuntos de datos de una manera estándar, legible por máquina, fomenta la promoción, capacidad de ser compartidos y reutilización de datos.
 
 ## <img src="/Images/Icons/privacy.png" width="150" height="150" />
-##### Sharing sensitive and proprietary data
+##### Compartir datos confidenciales o protegidos 
 
-With appropriate data management planning much sensitive and proprietary data can be shared, reused, and FAIR. The metadata can almost always be shared. Guidance and best practices for sharing sensitive data are necessarily region-specific because of differing regulations \(see for example UKDS’[ Companion material for Managing and Sharing Research Data handbook](https://www.ukdataservice.ac.uk/manage-data/handbook)\). [International Association for Social Science Information Services and Technology](http://www.iassistdata.org/resources/data-management/best-practices) keeps a list of international guidance in data management that is a good starting point. There are several approaches and initiatives to help researchers achieve this. [DCC’s DMPonline tool](http://www.dcc.ac.uk/dmponline) includes a number of templates for funders. [The CESSDA Expert Tour Guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection) provides information and practical examples on how to share personal data and on copyright and database issues across the European countries. The Tour Guide also gives an overview on the impact of the GDPR which will harmonize personal data legislation in Europe \(May 2018\), and provides an updated overview on [EU diversity on data protection](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection).[ ](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection)
+Con una planificación de gestión de datos adecuada, los datos confidenciales y protegidos se pueden compartir, reutilizar y FAIR. Los metadatos casi siempre se pueden compartir. La orientación y las mejores prácticas para compartir datos confidenciales son necesariamente específicas de la región debido a las diferentes reglamentaciones (véase, por ejemplo, el [Companion material for Managing and Sharing Research Data handbook del UKDS] (https://www.ukdataservice.ac.uk/manage-data/handbook). [La Asociación Internacional de Servicios y Tecnología de la Información en Ciencias Sociales (International Association for Social Science Information Services and Technology)] (http://www.iassistdata.org/resources/data-management/best-practices) mantiene una lista de guías internacionales en gestión de datos que es un buen punto de partida. Hay varios enfoques e iniciativas para ayudar a los investigadores a lograr esto. [La herramienta DCC DMPonline] (http://www.dcc.ac.uk/dmponline) incluye una serie de plantillas para los financiadores. [La guía turística de expertos de CESSDA sobre gestión de datos] (https://www.cessda.eu/Research-Infrastructure/Forining/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection) proporciona información y ejemplos prácticos sobre cómo compartir datos personales y sobre derechos de autor y problemas de bases de datos en los países europeos. La Guía también ofrece una descripción general del impacto del GDPR que armonizará la legislación sobre datos personales en Europa (mayo de 2018) y proporciona una visión general actualizada sobre la Diversidad en la UE en materia de protección de datos (https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection).
 
-###### Data brokers
+###### Intermediarios de datos 
 
-Data brokers are knowledgeable, independent parties who act as data stewards for sensitive data. Researchers can transfer their sensitive data and jurisdiction over access to that data to the broker. This is especially common with patient-level data from clinical studies. Brokers provide a level of independence in the evaluation of whose data requests are scientifically valid and will not violate the privacy of research participants. Examples of data brokers include [The YODA Project](http://yoda.yale.edu/), [ClinicalStudyDataRequest.com](https://www.clinicalstudydatarequest.com/), [National Sleep Research Resource](https://sleepdata.org/) and [Supporting Open Access for Researchers \(SOAR\)](https://dcri.org/our-approach/data-sharing/).
+Los intermediarios de datos son partes informadas e independientes que actúan como administradores de datos para datos confidenciales. Los investigadores pueden transferir sus datos confidenciales y su jurisdicción sobre el acceso a esos datos al intermediario. Esto es especialmente común con datos a nivel del paciente de estudios clínicos. Los intermediarios proporcionan un nivel de independencia en la evaluación de las solicitudes de datos que son científicamente válidas y no violarán la privacidad de los participantes de la investigación. Algunos ejemplos de intermediarios de datos incluyen [The YODA Project] (http://yoda.yale.edu/), [ClinicalStudyDataRequest.com] (https://www.clinicalstudydatarequest.com/), [National Sleep Research Resource](https://sleepdata.org/) y [Supporting Open Access for Researchers \(SOAR\)](https://dcri.org/our-approach/data-sharing/).
 
 ## <img src="/Images/Icons/data.png" width="150" height="150" />
-##### Analysis portals
+##### Portales de análisis
 
-Analysis portals are platforms that allow approved analysis of data without allowing full access \(viewing or downloading\) or controlling where and who gets access. Some data brokers also use analysis portals. Analysis portals control what additional datasets can be pooled with the sensitive data as well as what analyses can be run to ensure that personal information is not revealed during reanalysis. Examples of virtual analysis portals include [Project Data Sphere](https://www.projectdatasphere.org/projectdatasphere/html/home), [Vivli](http://vivli.org/), [RAIRD](http://raird.no/), [Corpuscle](http://clarino.uib.no/korpuskel/page), and [INESS](http://clarino.uib.no/iness/page).
+Los portales de análisis son plataformas que permiten el análisis aprobado de datos sin permitir el pleno acceso (visualización o descarga) o el control de dónde y quién obtiene acceso. Algunos intermediarios de datos también usan portales de análisis. Los portales de análisis controlan qué conjuntos de datos adicionales se pueden combinar con los datos confidenciales, así como qué análisis se pueden ejecutar para garantizar que la información personal no se revele durante el reanálisis. Los ejemplos de portales de análisis virtuales incluyen [Project Data Sphere] (https://www.projectdatasphere.org/projectdatasphere/html/home), [Vivli] (http://vivli.org/), [RAIRD] (http://raird.no/), [Corpuscle] (http://clarino.uib.no/korpuskel/page), y [INESS] (http://clarino.uib.no/iness/page).
 
-Social science and other researchers with sensitive data use a single-site analysis portal that can be accessed only under controlled regime. Approved researchers can access the data on-site, in a safe room, for scientific purposes. However, the metadata describing the data should be openly available and adhering to the FAIR principles.
+Las ciencias sociales y otros investigadores con datos confidenciales usan un portal de análisis de un solo sitio al que se puede acceder solo bajo régimen controlado. Los investigadores aprobados pueden acceder a los datos en el sitio, en una sala segura, con fines científicos. Sin embargo, los metadatos que describen los datos deben estar abiertamente disponibles y adherirse a los principios FAIR.
 
-##### De-identified and synthetic data
+##### Datos innominados y sintéticos
 
-Many datasets containing participant-level private information can be shared once the dataset has been de-identified \(Safe Harbor method\) or a expert has determined that the dataset is not individually identifiable \(Expert Determination method\). Consult with your Research Ethics Board / Institutional Review Board to learn how to do this with your data. We also recommend [the CESSDA Expert Tour Guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection), which provides information and practical examples on how to share personal data. However, some datasets cannot be safely de-identified and shared. Researchers can still improve the openness of research on such data by creating and sharing synthetic data. Synthetic data is similar in structure, content, and distribution to the real data and aims to attain "analytic validity": statistical analysis will return the same results for the synthetic data as the real data. The United States Census Bureau, for example, uses [synthetic data and analysis portals](https://census.gov/content/dam/Census/programs-surveys/sipp/methodology/SSBdescribe_nontechnical.pdf) in combination to allow reuse of highly sensitive data.
+Muchos conjuntos de datos que contienen información privada a nivel de participante se pueden compartir una vez que el conjunto de datos se ha innominado (Método de puerto seguro) o un experto ha determinado que el conjunto de datos no es individualmente identificable (Método de determinación experta). Consulta con tu Junta de Ética de Investigación / Junta de Revisión Institucional para aprender cómo hacer esto con sus datos. También recomendamos [the CESSDA Expert Tour Guide on Data Management] (https://www.cessda.eu/Research-Infrastructure/Forining/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection), que proporciona información y ejemplos prácticos sobre cómo compartir datos personales. Sin embargo, algunos conjuntos de datos no se pueden innominar y compartir de forma segura. Los investigadores aún pueden mejorar la apertura de la investigación sobre dichos datos mediante la creación y el intercambio de datos sintéticos. Los datos sintéticos son similares en estructura, contenido y distribución a los datos reales y apuntan a obtener "validez analítica": el análisis estadístico arrojará los mismos resultados para los datos sintéticos que los datos reales. La Oficina del Censo de los Estados Unidos, por ejemplo, utiliza portales de datos sintéticos y de análisis (https://census.gov/content/dam/Census/programs-surveys/sipp/methodology/SSBdescribe_nontechnical.pdf) en combinación para permitir la reutilización de datos altamente sensibles.
 
-###### DataTags
+######Etiquetado de Datos (DataTags)
 
-[DataTags](https://datatags.org/) is a framework designed to enable computer-assisted assessments of the legal, contractual, and policy restrictions that govern data sharing decisions. The DataTags system asks a user a series of questions to elicit the key properties of a given dataset and applies inference rules to determine which laws, contracts, and best practices are applicable. The output is a set of recommended DataTags, or simple, iconic labels that represent a human-readable and machine-actionable data policy, and a license agreement that is tailored to the individual dataset. The DataTags system is being designed to integrate with data repository software, and it will also operate as a standalone tool. DataTags is being developed at Harvard University. In Europe, DANS is working on adjusting DataTags to European legislation / General Data Protection Regulation \([GDPR](https://www.eugdpr.org/)\) \(cf. [DANS GDPR DataTags](https://zingtree.com/host.php?style=buttons&tree_id=442670046&persist_names=Restart&persist_node_ids=58#58)\).
+[DataTags] (https://datatags.org/) es un marco diseñado para permitir evaluaciones asistidas por computadora de las restricciones legales, contractuales y de política que rigen las decisiones de intercambio de datos. El sistema DataTags le hace al usuario una serie de preguntas para obtener las propiedades clave de un conjunto de datos determinado y aplica reglas de inferencia para determinar qué leyes, contratos y mejores prácticas son aplicables. El resultado es un conjunto de DataTags recomendados, o etiquetas simples e icónicas que representan una política de datos legible por humanos y accionable por máquina, y un acuerdo de licencia que se adapta al conjunto de datos individual. El sistema DataTags está diseñado para integrarse con el software del repositorio de datos, y también funcionará como una herramienta independiente. DataTags se está desarrollando en la Universidad de Harvard. En Europa, DANS está trabajando para ajustar DataTags a la legislación europea General Data Protection Regulation [GDPR] \([GDPR](https://www.eugdpr.org/)\) \(cf. [DANS GDPR DataTags](https://zingtree.com/host.php?style=buttons&tree_id=442670046&persist_names=Restart&persist_node_ids=58#58)\).
 
-As mentioned above, the ultimate goal of data sharing your research data is to make them maximally reusable. To that end, before sharing your data you should manage them according to best practice. This includes, i.a., documentation and the choice of open file formats and licenses. You can read more about these issues in [Section 4: Reproducible Research and Data Analysis](https://open-science-training-handbook.gitbooks.io/book/content/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.html) as well as [Section 6: Open Licensing and File Formats](https://open-science-training-handbook.gitbooks.io/book/content/02OpenScienceBasics/06OpenLicensingAndFileFormats.html).
-
+Como se mencionó anteriormente, el objetivo final de compartir datos con sus datos de investigación es hacerlos reutilizables al máximo. Para ello, antes de compartir datos, debe gestionarlos de acuerdo con las mejores prácticas. Esto incluye, por ejemplo, documentación y la elección de formatos de archivos abiertos y licencias. Puede leer más sobre estos temas en [Sección 4: Investigación reproducible y Análisis de datos] (#heading=h.jy7n9xm9zn9o) así como [Sección 6: Licencia abierta y formatos de archivo] (#heading=h.3rdryh4tn529).
 
 ## <img src="/Images/Icons/usb.png" width="150" height="150" />
-##### Open Materials
+##### Materiales abiertos
 
-In addition to data sharing, the openness of research relies on sharing of materials. What materials researchers use is discipline-specific and sometimes unique to a lab. Below are examples of materials you can share, although always confer with peers in your discipline to identify which repositories are used. When you have materials, data, and publications from the same research project shared in different repositories, cross-reference them with a link and a unique identifier so they can be easily located.
+Además de compartir datos, la accesibilidad de la investigación depende del intercambio de materiales. Los materiales que utilizan los investigadores son específicos de la disciplina y, a veces, exclusivos de un laboratorio. A continuación hay ejemplos de materiales que puede compartir, aunque siempre consulta con pares de tu disciplina para identificar qué repositorios se utilizan. Cuando tengas materiales, datos y publicaciones del mismo proyecto de investigación compartidos en diferentes repositorios, haz una referencia cruzada con un enlace y un identificador único para que puedan ubicarse fácilmente.
 
-###### Reagents
+###### Reactivos
 
-A reagents is a substance, compound or mixture that can be added to a system in order to create a chemical or other reaction. Reagents can be deposited with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. License your materials so they can be reused by other researchers.
+Los reactivos son una sustancia, compuesto o mezcla que se puede agregar a un sistema para crear una reacción química u otra. Los reactivos se pueden depositar en repositorios como [Addgene] (https://www.addgene.org/), [The Bloomington Drosophila Stock Center] (https://bdsc.indiana.edu/) y [ATCC] (https://www.atcc.org/) para que sean fácilmente accesibles para otros investigadores. Licencia tus materiales para que puedan ser reutilizados por otros investigadores.
 
-###### Protocols
+###### Protocolos
 
-A protocol describes a formal or official record of scientific experimental observations in a structured format. Deposit virtual protocols for citation, adaptation, and reuse using [Protocols.](https://www.protocols.io/)[io](https://www.protocols.io/).
+Un protocolo describe un registro formal u oficial de observaciones experimentales científicas en un formato estructurado. Deposita los protocolos virtuales para citar, adaptar y reutilizar utilizando [Protocolos] (https://www.protocols.io/).
 
-###### Notebooks, containers, software, and hardware
+###### Cuadernos, contenedores, software y hardware
 
-Reproducible analysis is aided by the use of literate programming, container technology, and virtualization. In addition to sharing your code and data, also share your Jupyter notebooks, Docker images, or other analysis materials or software dependencies. Share notebooks with Open services such as [mybinder](http://mybinder.org) that allow for public viewing and execution of the entire notebook on shared resources. Containers and notebooks can be shared with [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Software and hardware used in your research should be shared following best practices for documentation as outlined in [Section 3](https://open-science-training-handbook.gitbooks.io/book/content/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.html). Read-only protocols should be deposited in your disciplines registry such as [ClinicalTrials.gov](https://clinicaltrials.gov/) and [SocialScienceRegistry](https://www.socialscienceregistry.org/) or a general registry like [Open Science](https://osf.io/)[ Framework](https://osf.io/). Many journals, such as [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/), or [Bio-Protocol](https://bio-protocol.org/), will publish your protocol. Best practices for publishing your protocol open access are the same as publishing your report open access \(see [Section 5](#heading=h.go419g8z6pnt)\).
+El análisis reproducible es ayudado por el uso de la programación alfabetizada, la tecnología de contenedores y la virtualización. Además de compartir su código y datos, también comparta sus cuadernos Jupyter, imágenes Docker u otros materiales de análisis o dependencias de software. Comparte cuadernos con servicios abiertos como [mybinder] (http://mybinder.org) que permitan la visualización y ejecución pública de todo el bloc de notas en recursos compartidos. Los contenedores y los cuadernos se pueden compartir con [Rocker] (https://arxiv.org/abs/1710.03675) o [Code Ocean] (https://codeocean.com/). El software y el hardware utilizados en tu investigación se deben compartir siguiendo las mejores prácticas para la documentación como se describe en [Sección 3]. Los protocolos de solo lectura deben depositarse en el registro de disciplinas, como [ClinicalTrials.gov] (https://clinicaltrials.gov/) y [SocialScienceRegistry] (https://www.socialscienceregistry.org/) o en un registro general como [Open Science] (https://osf.io/) [Framework] (https://osf.io/). Muchas revistas, como [Trials] (https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols] (https://www.researchprotocols.org/) o [Bio-Protocol] (https://bio-protocol.org/), publicarán tu protocolo. Las mejores prácticas para publicar su protocolo de acceso abierto son las mismas que publicar su informe de acceso abierto (ver [Sección 5](#heading=h.go419g8z6pnt)\).
 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Preguntas, obstáculos y conceptos erróneos comunes
 
-Q: "Is it sufficient to make my data openly available?"
+P: "¿Es suficiente hacer que mis datos estén disponibles de manera abierta?"
 
-A: "No—openness is a necessary but not sufficient condition for maximum reuse. Data have to be FAIR in addition to open."
+R: "La ausencia de apertura es una condición necesaria pero no suficiente para una reutilización máxima. Los datos tienen que ser FAIR además de abiertos".
 
-Q: "What do the FAIR principles mean/imply for different stakeholders/audiences?"
+P: "¿Qué significan/implican los principios FAIR para diferentes partes interesadas/audiencias?"
 
-A: "This is a great topic for discussion!"
+R: "¡Este es un gran tema para discusión!"
 
-Obstacle: Researchers may be reluctant to share their data because they are afraid that others will reuse them before they have extracted the maximum usage from them, or that others might not fully understand the data and therefore mis-use them.
+Obstáculo: los investigadores pueden ser reacios a compartir sus datos porque temen que otros los reutilicen antes de haberles extraído el máximo uso, o que otros no comprendan completamente los datos y, por lo tanto, no los utilicen.
 
-\(suggested\) A: You may publish your data to make them findable with metadata, but set an embargo period on the data to make sure that you can publish your own article\(s\) first.
+\(sugerido \) R: Puede publicar sus datos para que se puedan encontrar con metadatos, pero establezca un período de embargo en los datos para asegurarse de que puede publicar su propio artículo primero.
 
-Q: "Is making my data FAIR a lot of extra work?"
+P: "¿Hacer mi información FAIR es mucho trabajo extra?"
 
-A: "Not necessarily! Making data FAIR is not only the responsibility of the individual researchers but of the whole group. The best way to ensure that your data is FAIR is to create a Data Management Plan and plan everything beforehand. During the data collection and data processing follow the discipline standards and measures recommended by a repository.
+R: "No necesariamente! Hacer datos FAIR no solo es responsabilidad de los investigadores individuales sino de todo el grupo. La mejor manera de garantizar que sus datos sean FAIR es crear un Plan de gestión de datos y planificar todo de antemano. y el procesamiento de datos sigue los estándares de disciplina y las medidas recomendadas por un repositorio.
 
-Q: "I want to share my data. How should I license them?"
+P: "Quiero compartir mis datos. ¿Cómo debo licenciarlos?"
 
-A: "That’s a good question. First of all think about who owns the data? A research funder or an institution that you work for. Then, think about authorship. Applying a suitable license to your data is crucial in order to make them reusable. For more information about licensing, please see [6. Open Licensing and File Formats](https://open-science-training-handbook.gitbooks.io/book/content/02OpenScienceBasics/06OpenLicensingAndFileFormats.html).
+R: "Esa es una buena pregunta. Primero que todo, piensa en quién posee los datos: un financiador de investigación o una institución para la que trabaja. Luego, piense en la autoría. La aplicación de una licencia adecuada a sus datos es crucial para hacerlos reutilizables. Para obtener más información sobre las licencias, consulte "6. Licencia y formatos abiertos".
 
-Q: "I cannot make my data directly available—they are too large to share conveniently / have restrictions related to privacy issues. What should I do?"
+P: "No puedo hacer que mis datos estén disponibles de manera directa: son demasiado grandes para compartir de manera conveniente / tienen restricciones relacionadas con cuestiones de privacidad. ¿Qué debo hacer?"
 
-A: "You should talk to experts in domain specific repositories on how to provide sufficient instructions to make your data findable and accessible."
+R: "Debería hablar con expertos en repositorios específicos de dominio sobre cómo proporcionar instrucciones suficientes para hacer que sus datos sean encontrables y accesibles".
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Resultados de aprendizaje
 
-1. Understand the characteristics of open data, and in particular the FAIR principles.
+1. Comprender las características de los datos abiertos, y en particular los principios FAIR.
 
-2. Be familiar with some of the arguments for and against open data.
+2. Familiarizarse con algunos de los argumentos a favor y en contra de los datos abiertos.
 
-3. Be able to differentiate and address sensitive data and opFAIR data; these two categories are not necessarily incompatible.
+3. Ser capaz de diferenciar y abordar datos confidenciales y datos abiertos / FAIR; estas dos categorías no son necesariamente incompatibles.
 
-4. Be able to transform a dataset into one that is sufficient for open sharing \(non-proprietary format\), meets the standards of the FAIR principles, and is designed for maximized accessibility, transparency and re-use by providing sufficient metadata.
+4. Poder transformar un conjunto de datos en uno que sea suficiente para compartir abiertamente \ (formato no protegido por patente)\, cumpla con los estándares de los principios de FAIR y esté diseñado para maximizar el acceso, la transparencia y la reutilización al proporcionar suficientes metadatos.
 
-5. Know the difference between raw and processed \(or cleaned\) data, and the importance of version labels.
+5. Conozca la diferencia entre los datos sin procesar \ o procesados \ o limpiados \ y la importancia de las etiquetas de versión.
 
-6. Know commonly used file formats and community standards for maximum re-usability.
+6. Conozca los formatos de archivo y estándares comunitarios comúnmente usados para una máxima reutilización.
 
-7. Be able to write a data management plan.
+7. Ser capaz de escribir un plan de gestión de datos.1. Understand the characteristics of open data, and in particular the FAIR principles.
+
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Bibliografía sugerida
 
 * The FAIR Guiding Principles for scientific data management and stewardship: [https://www.nature.com/articles/sdata201618](https://www.nature.com/articles/sdata201618)
 
@@ -225,6 +224,3 @@ A: "You should talk to experts in domain specific repositories on how to provide
 * CESSDA ERIC, ["Citing your data"](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Publishing-with-CESSDA-archives/Citing-your-data)
 
 * 5 ★ OPEN DATA, [http://5stardata.info/en/](http://5stardata.info/en/)
-
-
-
