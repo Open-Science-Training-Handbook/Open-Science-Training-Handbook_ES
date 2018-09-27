@@ -128,7 +128,7 @@ Total de palabras del Manual: 43.243.
     <td>Open Science Policies</td>
     <td>Rosario Rogel</td>
     <td>917</td>
-    <td></td>
+    <td>16-09</td>
     <td></td>
     <td></td>
   </tr>
@@ -136,7 +136,7 @@ Total de palabras del Manual: 43.243.
     <td>Citizen Science</td>
     <td>Rosario Rogel</td>
     <td>922</td>
-    <td></td>
+    <td>16-09</td>
     <td></td>
     <td></td>
   </tr>
@@ -144,7 +144,7 @@ Total de palabras del Manual: 43.243.
     <td>Open Educational Resources</td>
     <td>Rosario Rogel</td>
     <td>693</td>
-    <td></td>
+    <td>16-09</td>
     <td></td>
     <td></td>
   </tr>
@@ -152,7 +152,7 @@ Total de palabras del Manual: 43.243.
     <td>Open Advocacy</td>
     <td>Rosario Rogel</td>
     <td>1.015</td>
-    <td></td>
+    <td>16-09</td>
     <td></td>
     <td></td>
   </tr>
