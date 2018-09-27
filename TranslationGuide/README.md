@@ -27,11 +27,13 @@ Total de palabras del Manual: 43.243.
     <td>No.Palabras</td>
     <td>AVANCE</td>
     <td>ESTADO REVISIÓN</td>
+    <td>RESPONSABLE REVISIÓN</td>
   </tr>
  <tr>
     <td>Summary</td>
     <td>Paloma Bougeois</td>
     <td>86</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -41,11 +43,13 @@ Total de palabras del Manual: 43.243.
     <td>709</td>
     <td>03-09</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Introduction</td>
     <td>Paloma Bougeois</td>
     <td>1.330</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -55,11 +59,13 @@ Total de palabras del Manual: 43.243.
     <td>141</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Open Concepts and principles</td>
     <td>Paloma Bougeois</td>
     <td>1.292</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -69,6 +75,7 @@ Total de palabras del Manual: 43.243.
     <td>3.207</td>
     <td>24-09</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Open Research Software and Open Source</td>
@@ -76,12 +83,14 @@ Total de palabras del Manual: 43.243.
     <td>2.087</td>
     <td>24-09</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Reproducible Research and Data Analysis</td>
     <td>Ricardo Hartley</td>
     <td>1.671</td>
     <td>24-09</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -97,11 +106,13 @@ Total de palabras del Manual: 43.243.
     <td>1.828</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Collaborative Platforms</td>
     <td>Ivonne Lujano</td>
     <td>1.005</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -111,11 +122,13 @@ Total de palabras del Manual: 43.243.
     <td>1.137</td>
     <td>24-09</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Open Science Policies</td>
     <td>Rosario Rogel</td>
     <td>917</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -125,11 +138,13 @@ Total de palabras del Manual: 43.243.
     <td>922</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Open Educational Resources</td>
     <td>Rosario Rogel</td>
     <td>693</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -139,11 +154,13 @@ Total de palabras del Manual: 43.243.
     <td>1.015</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>On Learning and Training</td>
     <td>Paula Martínez</td>
     <td>6.319</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -153,11 +170,13 @@ Total de palabras del Manual: 43.243.
     <td>4.095</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Examples and Practical Guidance</td>
     <td>Lourdes Feria</td>
     <td>10.355</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -167,6 +186,7 @@ Total de palabras del Manual: 43.243.
     <td>1.753</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>References</td>
@@ -174,11 +194,13 @@ Total de palabras del Manual: 43.243.
     <td>Zotero</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>About the Authors & Facilitators</td>
     <td>Claudia Vilches</td>
     <td>2.539</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
