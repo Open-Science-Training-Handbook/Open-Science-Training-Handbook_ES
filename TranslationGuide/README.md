@@ -39,7 +39,7 @@ Total de palabras del Manual: 43.243.
     <td>Readme</td>
     <td>Paloma Bougeois</td>
     <td>709</td>
-    <td>03/09</td>
+    <td>03-09</td>
     <td></td>
   </tr>
   <tr>
@@ -67,21 +67,21 @@ Total de palabras del Manual: 43.243.
     <td>Open Research Data and Materials</td>
     <td>Ricardo Hartley</td>
     <td>3.207</td>
-    <td></td>
+    <td>24-09</td>
     <td></td>
   </tr>
   <tr>
     <td>Open Research Software and Open Source</td>
     <td>Ricardo Hartley</td>
     <td>2.087</td>
-    <td></td>
+    <td>24-09</td>
     <td></td>
   </tr>
   <tr>
     <td>Reproducible Research and Data Analysis</td>
     <td>Ricardo Hartley</td>
     <td>1.671</td>
-    <td></td>
+    <td>24-09</td>
     <td></td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ Total de palabras del Manual: 43.243.
     <td>Open Peer Review, Metrics and Evaluation</td>
     <td>Ricardo Hartley</td>
     <td>1.137</td>
-    <td></td>
+    <td>24-09</td>
     <td></td>
   </tr>
   <tr>
