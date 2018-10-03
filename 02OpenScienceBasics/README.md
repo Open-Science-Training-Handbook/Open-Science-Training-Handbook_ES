@@ -1,7 +1,6 @@
 ## <img src="/Images/Icons/open_science.png" width="200" height="200" />
-## Open Science Basics
+## Fundamentos de la Ciencia Abierta
 
-This chapter aims to provide concrete context as well as the key points for the most relevant aspects of Open Science. Starting from the core concepts and principles of Open Science, the chapter continues to address components such as Open Research Data, Open Access, Open Peer Review and Open Science Policies, together with more practical aspects such as Reproducible Research, Open Source Software and Open Licensing and File Formats.
+Este capítulo pretende proporcionar un contexto concreto, así como los puntos clave de los aspectos más relevantes de la Ciencia Abierta. A partir de los conceptos y principios básicos de la Ciencia Abierta, el capítulo continúa abordando componentes como el Datos de Investigación Abiertos, Acceso Abierto, Revisión por Pares Abierto y Políticas de Ciencia Abiertos, junto con aspectos más prácticos como Investigación Reproducible, Software de código Abierto y Licencias Abiertas y formatos de archivo.
 
-Each section is structured so that it includes a short description of the topic, an explanation of the relevance to Open Science, the key learning objectives that should be highlighted within the context of a training session, the major components \(knowledge and skills\) that should be involved, some frequent questions/obstacles/misconceptions that are encountered for that topic, and finally the expected outcomes of a training session and some further reading.
-
+Cada sección está estructurada de modo que incluya una breve descripción del tema, una explicación de la relevancia para la Ciencia Abierta, los objetivos clave de aprendizaje que deben destacarse en el contexto de una sesión de capacitación, los componentes principales \ (conocimientos y habilidades \) eso debería estar involucrado, algunas preguntas frecuentes / obstáculos / conceptos erróneos que se encuentran para ese tema, y finalmente los resultados esperados de una sesión de capacitación y algunas lecturas adicionales.
