@@ -89,7 +89,7 @@ Total de palabras del Manual: 43.243.
     <td>Reproducible Research and Data Analysis</td>
     <td>Ricardo Hartley</td>
     <td>1.671</td>
-    <td>24-09</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
