@@ -1,173 +1,171 @@
 ## <img src="/Images/Icons/reuse.png" width="200" height="200" /> <img src="/Images/Icons/research.png" width="200" height="200" />
 
-## 4. Reproducible Research and Data Analysis
+## 4. Investigación Reproducible y Análisis de Datos
 
-### What is it?
+### ¿En qué consiste?
 
-Reproducibility means that research data and code are made available so that others are able to reach the same results as are claimed in scientific outputs. Closely related is the concept of replicability, the act of repeating a scientific methodology to reach similar conclusions. These concepts are core elements of empirical research.
+Reproducibilidad significa que los datos y el código de investigación estén disponibles de formaque otros sena capaces de obtener los mismos resultados declarados en productos científicos. Intimamente relacionado está el concepto de replicabilidad, el acto de repetir una metodología científica con el objetivo de alcanzar conclusiones similares. Estos conceptos son elementos centrales de la investigación empírica. 
 
-Improving reproducibility leads to increased rigour and quality of scientific outputs, and thus to greater trust in science. There has been a growing need and willingness to expose research workflows from initiation of a project and data collection right through to the interpretation and reporting of results. These developments have come with their own sets of challenges, including designing integrated research workflows that can be adopted by collaborators while maintaining high standards of integrity.
+Mejorar la reproducibilidad conlleva a aumentar el rigor y la calidad de los productos científicos, y por tanto, a una mayor confianza en la ciencia. Existe una creciente necesidad y deseo de exponer los flujos de trabajo de la investigació desde el inicio de un proyecto y la recolección de datos, hasta la interpretación y el reporte de resultados. Estos desarrollos han traido sus propio grupo de desafíos, incluyendo el diseño de flujos de trabajo integrado que pueden ser adoptados por colaboradores, al mismo manteniendo altos estándares de integridad. 
 
-The concept of reproducibility is directly applied to the scientific method, the cornerstone of Science, and particularly to the following five steps:
+El concepto de reproducibilidad es directamente aplicado al método científico, la piegra angular de la Ciencia, y particularlmente en los siguientes cinco pasos: 
 
-1. Formulating a hypothesis
+1. Formulación de la hipótesis 
 
-2. Designing the study
+2. Diseño del estudio 
 
-3. Running the study and collecting the data
+3. Realizar el estudio y recolectar datos 
 
-4. Analyzing the data
+4. Análisis de datos 
 
-5. Reporting the study
+5. Reporte del estudio 
 
-Each of these steps should be clearly reported by providing clear and open documentation, and thus making the study transparent and reproducible.
+Cada uno de estos pasos debe ser claramente reportado al proveer documentación clara y abierta, y por tanto hacer que el estudio sea transparente y reproducible. 
 
 ![](/Images/02 Open Science Basics/02_reproducible_research_data_analysis.png)
 
-### Rationale
+### Justificación
 
-Overarching factors can further contribute to the causes of non-reproducibility, but can also drive the implementation of specific measures to address these causes. The culture and environment in which research takes place is an important ‘top-down’ overarching factor. From a ‘bottom-up’ perspective, continuing education and training for researchers can raise awareness and disseminate good practice.
+Los factores dominantes pueden contribuir mayormente a las causas de no-reproducibilidad, pero también pueden impulsar la implementación de medidas específicas para abordar estas causas. La cultura y el ambiente en que la investigación se desarrolla es un factor dominante 'top-down' importante. Desde una perspectiva 'bottom-up', continuar educando y capacitando a los investigadores con el fin de crear conciencia y diseminar buenas prácticas. 
 
-While understanding the full range of factors that contribute to reproducibility is important, it can also be hard to break down these factors into steps that can immediately be adopted into an existing research program and immediately improve its reproducibility. One of the first steps to take is to assess the current state of affairs, and to track improvement as steps are taken to increase reproducibility even more. Some of the common issues with research reproducibility are shown in the figure below.
+Aunque entendemos que el amplio rango de factores que contribuyen a la reproducibilidad es importante, también puede ser difícil romper con estos factores en distintas etapas que pueden inmediatamente mejorar su reproducibilidad. Uno de los primeros pasos a seguir es evaluar el estado actual, y monitorear las mejoras a medida que se avanza para aumentar aún más la reproducibilidad. Algunos de los temas más comunes relacionados con la reproducibilidad de la investigación se muestran en la siguiente figura. 
 
 ![](/Images/image_2.png)
 
-Source: [Reproducibility and reliability of biomedical research: improving research practice](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
+Fuente: [Reproducibilidad y confiabilidad de la investigación biomédica: mejorando la práctica de investigación](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
 
-Goodman, Fanelli, & Ioannidis \(2016\) note that in epidemiology, computational biology, economics, and clinical trials, reproducibility is often defined as:
+Goodman, Fanelli, & Ioannidis \(2016\) mencionan que en epidemiología, biología computacional, economía y ensayos clínicos, la reproducibilidad comunmente se define como:
 
-_the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results._
+_la habilidad de un investigador de duplicar los resultados de un estudio previo utilizando los mismos materiales que fueron utilziados por el investigador original. Esto es, un segundo investigador puede utilizar los mismos datos crudos para construir los mismos archivos de análisis e implementar el mismo análisis estadístico en un intento de lograr los mismos resultados._
 
-This is distinct from replicability:
+Se distingue de la replicabilidad:
 
-_which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected._
+_que se refiere a la abilidad de un investigador de duplicar los resultados de un estudio previo si los mismos procedimientos son seguidos pero se colectan datos nuevos._
 
-A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented.
+Una manera más simple de pensar en esto puede ser que la reproducibilidad está orientada a los métodos, mientras que la replicabilidad está orientada a los resultados. 
 
-Reproducibility can be assessed at several different levels: at the level of an individual project \(e.g., a paper, an experiment, a method or a dataset\), an individual researcher, a lab or research group, an institution, or even a research field. Slightly different kinds of criteria and points of assessment might apply to these different levels. For example, an institution upholds reproducibility practices if it institutes policies that reward researchers who conduct reproducible research. On the other hand, a research field might be considered to have a higher level of reproducibility if it develops community-maintained resources that promote and enable reproducible research practices, such as data repositories, or common data-sharing standards.
+La reproducibilidad puede ser evaluada a distintos niveles: a nivel de proyectos individuales \(ej. publicaciones, experimento, método o un set de datos\), un investigador individual, un laboratorio o grupo de investigación, una institución, o incluso un área de investigación. Levemente distintos tipos de criterios y puntos de evaluación pueden aplicar a estos disntitos niveles. Por ejemplo, una institución sostiene prácticas de reproducibilidad si se instauran políticas que recompensan a los investigadores que desarrollan investigación reproducible. Por otro lado, un área de investigación puede considerarse con un mayor nivel de reproducibilidad si desarrolla recursos mantenidos por una comunidad que promueven y permiten prácticas de investigación reproducible, como repositorios de datos, o estándares comunes para compartir datos. 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Objetivos de aprendizaje
 
-There are three major objectives that need to be addressed here:
+Hay tres objetivos principalesque necesitar ser abordados aquí:
 
-1. Understand the important impact of creating reproducible research.
+1. Entender el importante impacto de crear investigación reproducible.
 
-2. Understand the overall setup of reproducible research \(including workflow design, data management and dynamic reporting\).
+2. Entender completamente la organización de investigación reproducible  \(incluyendo el diseño del flujo de trabajo, la gestión de datos y reporte dinámico\).
 
-3. Be aware of the individual steps in the reproducibility process, as well as the corresponding resources that can be employed.
+3. Ser conciente de las etapas individuales en el proceso de reproducibilidad, así como los recursos correspondientes que pueden ser utilizados. 
 
-### Key components
+### Componentes principales 
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Conocimiento 
 
-The following is an indicative list of take-away points on reproducibility:
+Lo que sigue es una lista indicativa de eseñanzas sobre reproducibilidad: 
 
-* What is the ‘reproducibility crisis’, and meta-analyses of reproducibility.
+* Qué es la 'crisis de reproducibilidad', y meta-análisis de reproducibilidad. 
 
-* Principles of reproducibility, and integrity and ethics in research.
+* Principios de reproducibilidad, e integridad y éticas de investigación. 
 
-* What are the computing options and environments that allow collaborative and reproducible set up.
+* Cuáles son las opciones y ambientes computacionales que permiten colaboraciones y arreglos reproducibles. 
 
-* Factors that affect reproducibility of research.
+* Factores que afectan la reproducibilidad de la investigación. 
 
-* Data analysis documentation and open research workflows.
+* Documentación del análisis de datos y flujos de trabajo abiertos. 
 
-* Reproducible analysis environments \(virtualization\).
+* Ambientes de análisis reproducible \(virtualización\).
 
-* Addressing the "Researcher Degrees of Freedom" \(Wicherts et al., 2016\).
+* Abordar los "Grados de libertad de la investigación" \(Wicherts et al., 2016\).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Habilidades
 
-There are several practical tips for reproducibility that one should have in mind when setting out the particular skills necessary to ensure this. Best practices in reproducibility borrow from Open Science practices more generally but their integration offers benefits to the individual researcher themselves, whether they choose to share their research or not. The reason that integrating reproducibility best practices benefits the individual researcher is that they improve the planning, organization, and documentation of research. Below we outline one example of implementing reproducibility into a research workflow with references to these practices in the handbook.
+Hay distintos consejos prácticos sobre reproducibilidad que se deben tener en cuenta cuando se dispone de las habilidades necesarias para asegurarla. Las mejores prácticas en reproducibilidad provienen de las prácticas de Ciencia Abierta más generales, pero su integración ofrece beneficios a los investigadores individuales, tanto si deciden compartir su investigación o no. La razón porla cual la integración de las mejores práctics de reproducibilidad beneficia al investigador individual es que mejoran la planificación, organización, y documentación de la investigación. En los párrafos siguientes describimos un ejemplo de implementación de reproducibilidad en un flujo de investigación con referencia a prácticas descritas en el manual. 
 
 ## <img src="/Images/Icons/task.png" width="150" height="150" />
-##### **1. Plan for reproducibility before you start **
+##### **1. Planifica para la reproducibilidad antes de empezar **
 
-###### Create a study plan or protocol.
+###### Crea un plan de estudio o protocolo.
 
-Begin documentation at study inception by writing a study plan or protocol that includes your proposed study design and methods. Use a reporting guideline from the [Equator Network](http://www.equator-network.org/) if applicable. Track changes to your study plan or protocol using version control \(reference to Version Control\). Calculate the power or sample size needed and report this calculation in your protocol as underpowered studies are prone to irreproducibility.
+Comienza documentando el comienzo de un estudio escribiendoo un plan de estudio o protocolo que incluya los métodos y el diseño del estudio propuesto. Usa las directrices de reporte de [Equator Network](http://www.equator-network.org/) si aplican. Registra los cambios en tu plan de estudios o protocolos utilizando control de versiones \(referencia a controlde versiones \). Calcula el poder o tamaño de muestra y reporta este cálculo en tu protocolo, dado que estudios de bajo poder estadístico son suceptibles a irresproducibilidad. 
 
-###### Choose reproducible tools and materials
+###### Elige herramientas y materiales reproducibles 
 
-Select antibodies that work using an antibody search engine like [CiteAb](https://www.citeab.com/). Avoid irreproducibility through misidentified cell lines by choosing ones that are authenticated by the [International Cell Line Authentication Committee](http://iclac.org/). Whenever possible, choose software and hardware tools where you retain ownership of your research and can migrate your research out of the platform for reuse \(see Open Research Software and Open Source\).
+Selecciona anticuerpos que funcionen utilizando un buscador de anticuerpos como [CiteAb](https://www.citeab.com/). Evita irreproducibilidad debido a líneas de celdas mal identificadas eligiendo aquellas que están autenticidad por el [Comité Internacional de Autenticación de Líneas Celulares](http://iclac.org/). Cuando sea posible, elige herramientas de software y hardware en las cuales puedas mantener propiedad  de tu investigación, y que puedan migrar tu investigación fuera de la plataforma para reutilización \(ver Software de Investigación Abierto y de código abierto\).
 
-###### Set-up a reproducible project
+###### Organizar un proyecto reproducible 
 
-Centralize and organize your project management using an online platform, a central repository, or folder for all research files. You could use GitHub as a place to store project files together or manage everything using a electronic lab notebook such as [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/),or [SciNote](https://scinote.net/). Within your centralized project, follow best practices by separating your data from your code into different folders. Make your raw data read-only and keep separate from processed data \(reference to Data Management\).
+Centraliza y organiza la gestión del proyecto utilizando una plataforma online, como un repositorio central, o una carpeta para todos los archivos asociados. Puedes usar GitHub como un lugar para almacenar los archivos del proyecto o gestionar todo utilizando un cuaderno de laboratorio electrónico como [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/),o [SciNote](https://scinote.net/). Dentro de tu proyecto centralizado, sigue las mejores prácticas separando tus datos de tu código en distintas carpetas. Haz que tus datos crudos sean sólo lectura y mantenlos separados de los datos procesados \(referencia a Gestión de Datos\).
 
-When saving and backing up your research files, choose formats and informative file names that allow for reuse. File names should be both machine and human readable \(reference to Data Management\). In your analysis and software code, use relative paths. Avoid proprietary file formats and use open file formats \(see 6 Open Licensing and File Formats\).
+Cuando guardes y respaldes de tus archivos de investigación, elige formatos y nombres de archivos informativos que permitan la reutilización. Los nombres de archivo deben ser legibles tanto para máquinas como para humanos \(referencia a Gestión de Datos\). En tu análisis y código de software, usa caminos relativos.  Evita archivos en formatos cerrados y utiliza formatos abiertos \(ver 6 Licencias abiertas y formatos de archivo\).
 
 ## <img src="/Images/Icons/handson.png" width="150" height="150" />
-##### **2. Keep track of things**
+##### **2. Mantén registros de las cosas**
 
-###### Registration
+###### REgistro
 
-Preregister important study design and analysis information to increase transparency and counter publication bias of negative results. Free tools to help you make your first registration include [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/), and [Registered Reports](https://cos.io/rr/). Clinical trials should use [Clinicaltrials.gov](https://clinicaltrials.gov/).
+Preregistra aquellos diseños de estudio importantes e información de análisis para aumentar la transparencia y contrarrestrar los sesgos de publicación de resultados negativos. Algunas herramientas libres que te ayudarán a realizar tu primer registro incluyen  [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/), y [Registered Reports](https://cos.io/rr/). Los ensayos clínicos deben utilizar [Clinicaltrials.gov](https://clinicaltrials.gov/).
 
-###### Version control
+###### Control de versión
 
-Track changes to your files, especially your analysis code, using version control \(see Open Research Software and Open Source\).
+Registra los cambios en tus archivos, especialmente en tu código de análisis, utilizando control de versión \(ver Software de Investigación Abierta y de código abierto\).
 
-###### Documentation
+###### Documentación
 
-Document everything done by hand in a README file. Create a data dictionary \(also known as a codebook\) to describe important information about your data. For an easy introduction, use: [Karl Broman’s Data Organization module](http://kbroman.org/dataorg/pages/dictionary.html) and refer to Data Management.
+Documenta todo lo hecho a mano en un archivo README. Crea un diccionario de datos \(también conocido como libro de código\) para describir la información importante acerca de tus datos. Una introducción fácil a este tema puede ser encontrada en [el módulo sobre organización de datos de Karl Broman](http://kbroman.org/dataorg/pages/dictionary.html) y refiérete a gestión de datos. 
 
-###### Literate programming
+###### Programación literaria
 
-Consider using [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), or other approaches to literate programming to integrate your code with your narrative and documentation.
+Considera utilizar [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), u otras aproximaciones a la programación literal para integrar tu código con tus narrativas y documentación. 
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
-##### 3**. Share and license your research**
+##### 3**. Comparte y licencia tu investigación**
 
-###### Data
+###### Datos
 
-Avoid supplementary files, decide on an acceptable permissive license, and share your data using a repository. Follow best practices as outlined in the Open Research Data and Materials chapter.
+Evita archivos suplementarios, decide utilizar una licencia permisiva, y comparte tus datos utilizando un repositorio de datos. Sigue las mejores prácticas como se indican el capítulo de Datos y materiales abiertos de Investigación.
 
-###### Materials
+###### Materiales
 
-Share your materials so they can be reused. Deposit reagents with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. For more information, see the Open Materials subsection of Open Research Data and Materials.
+Comparte tus materiales de forma que puedan ser reutilizados. Deposita los reactivos en repositorios como [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), y [ATCC](https://www.atcc.org/) para hacerlo fácilmente asequible a otros investigadores. Para mayor información, ver la subsección de Materiales Abiertos de Datos y Materiales Abiertos. 
 
-###### Software, notebooks, and containers
+###### Software, cuadernos y contenedores
 
-License your code to inform about how it may be \(re\)used. Share notebooks with services such as [mybinder](http://mybinder.org) that allow for public viewing and execution of the entire notebook on shared resources. Share containers or notebooks with services such as [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Follow best practices outlined in Open Research Software and Open Source.
+Licencia tu código para informar cómo puede ser \(re\)utilizado. Compartir cuadernos con servicios como  [mybinder](http://mybinder.org) que permiten la vista y ejecución pública de recursos compartidos. Compartir contenedores o cuadernos con servicios como [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). Sigue las mejores prácticas indicadas en Software de Investigación Abierta y de código abierto.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
-##### 4**. Report your research transparently**
+##### 4**. Reporta tu investigación transparentemente**
 
-Report and publish your methods and interventions explicitly and transparently and fully to allow for replication. Guidelines from the [Equator Network](http://www.equator-network.org/), tools like [Protocols.io](https://www.protocols.io/), or processes like [Registered Reports](https://cos.io/rr/) can help you report reproducibly. Remember to post your results to your public registration platform \(such as [ClinicalTrials.gov](https://www.socialscienceregistry.org/) or the [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) within a year of finishing your study no matter the nature or direction of your results.
+Reporta y publica tus métodos e intervenciones explícita y transparentemente y permitiendo reproducción completa. Las guías de la [Equator Network](http://www.equator-network.org/), herramientas como [Protocols.io](https://www.protocols.io/), o procesos como [Registered Reports](https://cos.io/rr/) pueden ayudar a reportar reproducibilidad. Recuerda publicar tus resultados en una plataforma de registro público \(como [ClinicalTrials.gov](https://www.socialscienceregistry.org/) o el  [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) dentro del año de terminado tu estudio, sin importar la naturaleza o dirección de tus resultados. 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Preguntas, obstáculos y concepciones erróneas comunes 
 
-Q: "Everything is in the paper; anyone can reproduce this from there!"
+Q: "Todo está en el papel; cualquiera puede reproducirlo desde aquí!"
 
-A: This is one of the most common misconceptions. Even having an extremely detailed description of the methods and workflows employed to reach the final result will not be sufficient in most cases to reproduce it. This can be due to several aspects, including different computational environments, differences in the software versions, implicit biases that were not clearly stated, etc.
+A: Esta es una de las concepciones erróneas más comunes. Incluso si se cuenta con una descripción extremadamente detallada de los métodos y flujos de trabajo empleados para alcanzar el resultado final, esto no será suficiente en muchos casos para reproducirla. Esto puede deberse a distintos aspectos, incluyendo uso de  distintos ambientes computacionales, diferencias en la versión de software, sesgos implícitos que no fueron claramente declarados, etc. 
 
-Q: "I don’t have the time to learn and establish a reproducible workflow."
+Q: "No tengo el tiempo para aprender y establecer un flujo de trabajo reproducible."
 
-A: In addition to a significant number of freely available online services that can be combined and facilitate the setting up of an entire workflow, spending the time and effort to put this together will increase both the scientific validity of the final results as well as minimize the time of re-running or extending it in further studies.
+A: En adición al número significativo de servicios libres disponibles en línea que pueden ser combinados y facilitan la organización de un flujo de trabajo completo, el tiempo y el esfuerzo dedicado a organizar esto aumentará tanto la validez científica de los resultados finales así como minimizar el tiempo de re-marcha (re-running) o extenderlo en estudios posteriores. 
 
-Q: "Terminologies describing reproducibility are challenging."
+Q: "Las terminologías que describen la reproducibilidad son desafiantes."
 
-A: See Barba \(2018\) for a discussion on terminology describing reproducibility and replicability.
+A: Ver Barba \(2018\) para una discusión sobre la terminología que describe reproducibilidad y repetibilidad 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Resultados de aprendizaje
 
-1. Understand the necessity of reproducible research and its reasoning.
+1. Entender la necesidad de investigación reproducible y su razonamiento. 
 
-2. Be able to establish a reproducible workflow within the context of an example task.
+2. Ser capaz de establecer un flujo de trabajo reproducible en el contexto de una tarea ejemplo. 
 
-3. Know tools that can support reproducible research.
+3. Conocer herramientas que puedan ayudar a la investigación reproducible. 
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Bibliografía recomendada
 
-* Calculate your power: [Button et al. \(2013\) study of the relationship between reproducibility and power.](https://www.nature.com/articles/nrn3475)
+* Calcula tu poder: [Button et al. \(2013\) study of the relationship between reproducibility and power.](https://www.nature.com/articles/nrn3475)
 
-* Informative naming: [Karl Broman’s Data Organization module: Choose good names for things](http://kbroman.org/dataorg/pages/names.html)
-
-
+* Nominación informativa: [Karl Broman’s Data Organization module: Choose good names for things](http://kbroman.org/dataorg/pages/names.html)
