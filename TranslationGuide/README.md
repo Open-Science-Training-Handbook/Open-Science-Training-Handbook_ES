@@ -153,7 +153,7 @@ Total de palabras del Manual: 43.243.
     <td>Rosario Rogel</td>
     <td>1.015</td>
     <td>16-09</td>
-    <td>Rosario Rogel</td>
+    <td>Claudia Vilches</td>
     <td></td>
   </tr>
   <tr>
