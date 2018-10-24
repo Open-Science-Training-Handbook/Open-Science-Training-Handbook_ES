@@ -33,7 +33,7 @@ Total de palabras del Manual: 43.243.
     <td>Summary</td>
     <td>Paloma Bougeois</td>
     <td>86</td>
-    <td></td>
+    <td>03-09</td>
     <td></td>
     <td></td>
   </tr>
@@ -49,7 +49,7 @@ Total de palabras del Manual: 43.243.
     <td>Introduction</td>
     <td>Paloma Bougeois</td>
     <td>1.330</td>
-    <td></td>
+    <td>03-09</td>
     <td></td>
     <td></td>
   </tr>
@@ -65,7 +65,7 @@ Total de palabras del Manual: 43.243.
     <td>Open Concepts and principles</td>
     <td>Paloma Bougeois</td>
     <td>1.292</td>
-    <td></td>
+    <td>03-09</td>
     <td></td>
     <td></td>
   </tr>
