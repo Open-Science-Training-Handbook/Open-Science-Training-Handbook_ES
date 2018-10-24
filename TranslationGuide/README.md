@@ -25,9 +25,9 @@ Total de palabras del Manual: 43.243.
     <td>CAPÍTULO</td>
     <td>RESPONSABLE</td>
     <td>No.Palabras</td>
-    <td>AVANCE</td>
+    <td>AVANCE Sep-Oct</td>
     <td>RESPONSABLE REVISIÓN</td>
-    <td>ESTADO REVISIÓN</td>
+    <td>ESTADO REVISIÓN Nov-Dic</td>
   </tr>
  <tr>
     <td>Summary</td>
@@ -129,7 +129,7 @@ Total de palabras del Manual: 43.243.
     <td>Rosario Rogel</td>
     <td>917</td>
     <td>16-09</td>
-    <td></td>
+    <td>Claudia Vilches</td>
     <td></td>
   </tr>
   <tr>
@@ -137,7 +137,7 @@ Total de palabras del Manual: 43.243.
     <td>Rosario Rogel</td>
     <td>922</td>
     <td>16-09</td>
-    <td></td>
+    <td>Claudia Vilches</td>
     <td></td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ Total de palabras del Manual: 43.243.
     <td>Rosario Rogel</td>
     <td>693</td>
     <td>16-09</td>
-    <td></td>
+    <td>Claudia Vilches</td>
     <td></td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ Total de palabras del Manual: 43.243.
     <td>Rosario Rogel</td>
     <td>1.015</td>
     <td>16-09</td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
   <tr>
