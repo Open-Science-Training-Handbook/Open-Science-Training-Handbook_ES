@@ -97,15 +97,15 @@ Total de palabras del Manual: 43.243.
     <td>Open Access to Published Research Results</td>
     <td>Ivonne Lujano</td>
     <td>2.681</td>
-    <td>Rosario Rogel</td>
     <td></td>
+    <td>Rosario Rogel</td>
   </tr>
   <tr>
     <td>Open Licensing and File Formats</td>
     <td>Ivonne Lujano</td>
     <td>1.828</td>
     <td></td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
   <tr>
