@@ -57,7 +57,7 @@ Total de palabras del Manual: 43.243.
     <td>Open Science Basics</td>
     <td>Paloma Bougeois</td>
     <td>141</td>
-    <td></td>
+    <td>03-10</td>
     <td></td>
     <td></td>
   </tr>
