@@ -26,8 +26,8 @@ Total de palabras del Manual: 43.243.
     <td>RESPONSABLE</td>
     <td>No.Palabras</td>
     <td>AVANCE</td>
-    <td>ESTADO REVISIÓN</td>
     <td>RESPONSABLE REVISIÓN</td>
+    <td>ESTADO REVISIÓN</td>
   </tr>
  <tr>
     <td>Summary</td>
