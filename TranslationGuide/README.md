@@ -89,15 +89,15 @@ Total de palabras del Manual: 43.243.
     <td>Reproducible Research and Data Analysis</td>
     <td>Ricardo Hartley</td>
     <td>1.671</td>
-    <td>Claudia Vilches</td>
     <td></td>
+    <td>Claudia Vilches</td>
     <td></td>
   </tr>
   <tr>
     <td>Open Access to Published Research Results</td>
     <td>Ivonne Lujano</td>
     <td>2.681</td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ Total de palabras del Manual: 43.243.
     <td>Ivonne Lujano</td>
     <td>1.005</td>
     <td></td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ Total de palabras del Manual: 43.243.
     <td>Paula Martínez</td>
     <td>6.319</td>
     <td></td>
-    <td></td>
+    <td>Nicolás Alessandroni</td>
     <td></td>
   </tr>
   <tr>
@@ -177,7 +177,7 @@ Total de palabras del Manual: 43.243.
     <td>Lourdes Feria</td>
     <td>10.355</td>
     <td></td>
-    <td>Rosario Rogel</td>
+    <td>Nicolás Alessandroni</td>
     <td></td>
   </tr>
   <tr>
