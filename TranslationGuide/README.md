@@ -34,7 +34,7 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>86</td>
     <td>03-09</td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
  <tr>
@@ -42,7 +42,7 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>709</td>
     <td>03-09</td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>1.330</td>
     <td>03-09</td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>141</td>
     <td>03-10</td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>1.292</td>
     <td>03-09</td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ Total de palabras del Manual: 43.243.
     <td>Ricardo Hartley</td>
     <td>3.207</td>
     <td>24-09</td>
-    <td></td>
+    <td>Claudia Vilches</td>
     <td></td>
   </tr>
   <tr>
@@ -82,14 +82,14 @@ Total de palabras del Manual: 43.243.
     <td>Ricardo Hartley</td>
     <td>2.087</td>
     <td>24-09</td>
-    <td></td>
+    <td>Claudia Vilches</td>
     <td></td>
   </tr>
   <tr>
     <td>Reproducible Research and Data Analysis</td>
     <td>Ricardo Hartley</td>
     <td>1.671</td>
-    <td></td>
+    <td>Claudia Vilches</td>
     <td></td>
     <td></td>
   </tr>
@@ -121,7 +121,7 @@ Total de palabras del Manual: 43.243.
     <td>Ricardo Hartley</td>
     <td>1.137</td>
     <td>24-09</td>
-    <td></td>
+    <td>Claudia Vilches</td>
     <td></td>
   </tr>
   <tr>
@@ -169,7 +169,7 @@ Total de palabras del Manual: 43.243.
     <td>Benito Castro</td>
     <td>4.095</td>
     <td></td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
   <tr>
@@ -177,7 +177,7 @@ Total de palabras del Manual: 43.243.
     <td>Lourdes Feria</td>
     <td>10.355</td>
     <td></td>
-    <td></td>
+    <td>Rosario Rogel</td>
     <td></td>
   </tr>
   <tr>
@@ -185,7 +185,7 @@ Total de palabras del Manual: 43.243.
     <td>Alicia Gómez</td>
     <td>1.753</td>
     <td></td>
-    <td></td>
+    <td>Claudia Vilches</td>
     <td></td>
   </tr>
   <tr>
@@ -193,7 +193,7 @@ Total de palabras del Manual: 43.243.
     <td>Claudia Vilches</td>
     <td>Zotero</td>
     <td></td>
-    <td></td>
+    <td>Claudia Vilches</td>
     <td></td>
   </tr>
   <tr>
