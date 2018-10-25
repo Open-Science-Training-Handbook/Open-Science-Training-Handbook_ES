@@ -418,7 +418,7 @@ Prepara y envía invitaciones formales a los participantes, invitados e instruct
 
 Create a website for the training event, such as using GitHub Pages or on an institutional website. [link to examples/template]
 
-Crea un sitio web para el evento, puede ser Github Pages, [PKP Open Conference Systems](https://pkp.sfu.ca/ocs/) o en un sitio web institucional (ej. [SciELO20](https://www.scielo20.org/), [OpenCon](https://www.opencon2018.org/opencon_2018_latam) y [Redalyc](http://congreso.redalyc.org/ocs/public/congresoEditores/index.html). 
+Crea un sitio web para el evento, puede ser Github Pages, [PKP Open Conference Systems](https://pkp.sfu.ca/ocs/) o en un sitio web institucional (ej. [SciELO20](https://www.scielo20.org/), [OpenCon](https://www.opencon2018.org/opencon_2018_latam) y [Redalyc](http://congreso.redalyc.org/ocs/public/congresoEditores/index.html)). 
 
 Make sure any key resources are visible and accessible if needed. If you want the participants to come with research outputs (e.g., papers, code, data) for exercises, let them know with plenty of time to prepare (and consider making this optional).
 
@@ -500,85 +500,123 @@ Para asegurarte que el curso de capacitación es amigable, inclusivo y de un amb
 
 * [Mozilla Science Lab: Getting Started with Codes of Conduct](http://mozillascience.github.io/working-open-workshop/code_of_conduct/)
 
-#### Shortly before the event
+#### Poco antes del evento
 
 Make sure the Code of Conduct is clearly visible/accessible from the event website (if one exists); if your event does not have or need a website, print out the CoC and give it to participants.
 
-#### During the event
+Asegúrate que el Código de Conducta es claramente visible y accesible en el sitio web del evento (en caso de que exista); si tu evento no tiene o no necesita un sitio web, puedes imprimirlo y dárselo a los asistentes.
+
+#### Durante el evento
 
 Make sure there is a safe space for participants to report any breaches of the Code of Conduct. Communicate sanctions, and follow through if any breaches occur.
 
-## <img src="/Images/Icons/badge.png" width="150" height="150" />
-### Certification of attendance
+Asegúrate que hay un espacio seguro para que los participantes reporten cualquier infracción al Código de Conducta. En caso de que ocurra cualquier infracción, comunica las sanciones y dales seguimiento.
 
-#### Long before the event
+## <img src="/Images/Icons/badge.png" width="150" height="150" />
+### Certificado de asistencia
+
+#### Mucho antes del evento
 
 Prepare a template and assign who will keep records or monitor registration process. 
 
-#### Shortly before the event
+Prepara la plantilla y asigna a alguien para que mantenga los registros o supervise el proceso de registro.
 
-Prepare a generic certificate of attendance with event or organiser’s logos and event information that can be distributed digitally when requested.  
+#### Poco antes del evento
 
-#### During the event
+Prepare a generic certificate of attendance with event or organiser’s logos and event information that can be distributed digitally when requested.
+
+Prepara un certificado genérico de asistencia con los logos del evento y organizador e información del evento que puede ser distribuida digitalmente cuando sea solicitado.
+
+#### Durante el evento
 
 Ask participants if a certificate of attendance is needed.
 
+Pregunta a los participantes si van a requerir un certificado de asistencia. 
+
 If a signature sheet is required, make sure you do a check during the day or ask to complete it at registration. 
 
-## <img src="/Images/Icons/sign_left.png" width="150" height="150" /> <img src="/Images/Icons/sign_right.png" width="150" height="150" />
-### Signs
+Si se requiere una hoja de firmas, asegúrate de hacer una verificación durante el día o pide que lo completen en el registro. 
 
-#### Long before the event
+## <img src="/Images/Icons/sign_left.png" width="150" height="150" /> <img src="/Images/Icons/sign_right.png" width="150" height="150" />
+### Señalizaciones
+
+#### Mucho antes del evento
 
 Check the venue and define spots to be marked by signs to help participants to easily find a room. 
 
-#### Immediately before the event
+Revisa la sede y define espacios en los que se colocarán señalizaciones para ayudar a los participantes a encontrar las salas o habitaciones fácilmente.
+
+#### Poco antes del evento
 
 Design, print and place the signs and leave useful information at the reception desk. 
 
-#### During the event
+Diseña, imprime y coloca las señalizaciones y deja información útil en la mesa de recepción.
+
+#### Durante el evento
 
 Remove the signs after the event.
 
-## <img src="/Images/Icons/social_facebook.png" width="150" height="150" /> <img src="/Images/Icons/social_twitter.png" width="150" height="150" />
-### Social media and notes 
+Retira las señalizaciones justo después del evento.
 
-#### Long before the event
+## <img src="/Images/Icons/social_facebook.png" width="150" height="150" /> <img src="/Images/Icons/social_twitter.png" width="150" height="150" />
+### Notas y medios sociales 
+
+#### Mucho antes del evento
 
 Plan your social media activities, ask colleagues from other departments and/or partner organization to help you in sharing information. 
 
-#### Immediately before the event
+Planea tus actividades en medios sociales, invita a colegas de otros departamentos o compañeros de organización que te apoyen compartiendo el evento en sus redes sociales.
+
+#### Justo antes del evento
 
 Prepare note documents (e.g. public Google Docs or etherpads). Make announcements on social media.
 
-#### During the event
+Prepara documentos de notas (ej. Google Docs públicos o editores web colaborativos). Procura hacer anuncios en redes sociales.
+
+#### Durante el evento
 
 Ask your audience whether they are ok with being filmed, photographed and featured on social media. If it's a big audience, you might consider handing out stickers to those who do not want to be featured.
 
-Assign note takers and people responsible for social media. Ideally, rotate heavily to avoiding slacking and loss of attention. 
+Pregunta a tu audiencia si están de acuerdo en ser filmados, fotografiados o mostrados en redes sociales. Si es una audiencia muy grande, debes considerar repartir etiquetas o calcomanías a aquellos que no están de acuerdo y así evitar grabarlos o fotografiarlos.
+
+Assign note takers and people responsible for social media. Ideally, rotate heavily to avoiding slacking and loss of attention.
+
+Asigna gente que tome las notas y sea responsable de los medios sociales. Idealmente rota considerablemente para evitar descuidos y perdidas de atención.
 
 ## <img src="/Images/Icons/key.png" width="150" height="150" />
-## Event closure
+## Cierre del evento
 
-### Venue
+### Sede
 
 Make sure you leave the venue neat and clean, unless your agreement for using it doesn’t require this.
 
-### Debrief
+Asegúrate de dejar la sede limpia y ordenada, a menos que su acuerdo de uso no lo requiera.
+
+### Informe
 
 Debrief with the other trainers/speakers to self-assess how the event went.
 
-### Evaluation
+Habla con otros colaboradores/instructores para autoevaluar el evento.
+
+### Evaluación
 
 Send post-training assessment survey to participants (see [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) or distribute an evaluation form during the event and make sure people hand it in at the end.
 
+Envía una encuesta de evaluación post capacitación (ver [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) o distribuye una hoja de evaluación durante el evento y asegúrate de que al final del evento la gente lo entregue.
+
 Read and count the questions in the evaluation form. Make your self-evaluation.
 
-### Dissemination
+Lee y contabiliza las preguntas de la hoja de evaluación. Recuerda hacer una autoevaluación. 
+
+### Diseminación
 
 Upload all the material used during the event (presentations, documents) if they were not available beforehand. Make sure to provide open licenses if possible, and make sure participants are not identifiable (e.g., within a notes document). 
 
+Sube al sitio web todo el material utilizado durante el evento (presentaciones, documentos) en caso de que no estuvieran disponibles previamente. Asegúrate de proveer licencias abiertas en lo posible y asegúrate de que los participantes no sean identificables (ej. Dentro de un documento de notas).
+
 Prepare a report for your funder or institution and if needed make it public (e.g. blog, twitter, website). 
+
+Prepara un reporte para el financiador o la institución y si es necesario hazlo público (ej. Vía blog, Twitter, sitio web).
 
 ## <img src="/Images/Icons/coffee_break.png" width="150" height="150" /> <img src="/Images/Icons/toilets.png" width="150" height="150" />
 ## Checklist
