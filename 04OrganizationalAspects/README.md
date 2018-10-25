@@ -5,105 +5,88 @@ This chapter will guide you through the main practical aspects of organizing a t
 
 Este capítulo te guiara a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Es claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al mismo. Así mismo obtendrás información sobre los pasos de preparación y las tareas organizativas necesarias. Esto te proveerá no solamente con conocimiento valioso acerca de la organización de un evento si no que te tranquilizará mientras preparas la capacitación. Nota que la mayoría del material en este capítulo, y de todo el manual, está enfocado en la capacitación con respecto a talleres prácticos. Gestionar un evento de diferente tipo puede requerir decisiones diferentes a las recomendaciones siguientes.
 
-## Training event basics
+## fundamentos del evento de capacitación
 
-### Format
+### Formato
 
 Deciding what type of event you want to coordinate is the first critical step in training exercises. Here are some points to consider:
 
+Decidir que tipo de evento esperas coordinar es el primer paso crítico en ejercicios de capacitación. Aquí hay varios puntos para tomar en consideración:
+
 * Format of the training: live workshop, seminar, lecture, online training or mixture of online and in-person?
+
+* Formato de la capacitación: ¿será un taller práctico presencial, seminario, conferencia, capacitación en línea o mezcla en línea y presencial (mixto)?
 
 * Will it be participatory, formal, self-contained?
 
+* ¿Será participativo, formal, autónomo?
+
 * Can the event be integrated into existing curricula?
+
+* ¿El evento puede integrarse dentro del currículo existente?
 
 * Do you need to invite any other external experts? What are the requirements for that (e.g., funding)?
 
+* ¿Necesitas invitar algún experto externo? ¿Cuáles son los requerimientos para eso (ej. Financiamiento)?
+
 * Is the training a requirement, or something participants are choosing to attend?
+
+* ¿La capacitación es un requisito o los participantes deciden su asistencia?
 
 * Will attendees receive any form of accreditation for the training?
 
+* ¿Los asistentes reciben alguna constancia o acreditación de la capacitación?
+
 * What sort of venue type do you need for this format?
 
+* ¿Qué tipo de sede necesitas para el evento?
+
 To provide you with initial guidance over possible types of training and their characteristics, see the table below for recommendations. 
+
+Para proveerte con una orientación inicial acerca de los posibles tipos de capacitación y sus características, revisa la siguiente tabla para recomendaciones.
 
 <table>
   <tr>
     <td></td>
-    <td>TYPE OF TRAINING</td>
+    <td>TIPO DE INSTRUCCIÓN</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>Live workshop</td>
-    <td>Course/ class</td>
-    <td>Lecture</td>
-    <td>Online Training</td>
+    <td>Taller presencial</td>
+    <td>Curso/clase</td>
+    <td>Conferencia</td>
+    <td>Capacitación en línea</td>
   </tr>
   <tr>
-    <td>Audience Size</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>less than 20</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>less than 40</td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>more than 40</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>Tamaño de la audiencia</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Funds</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>none</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>little</td>
+    <td>Menos de 20</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>loaded</td>
+    <td>Menos de 40</td>
+    <td></td>
     <td>x</td>
     <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Más de 40</td>
     <td></td>
     <td></td>
+    <td>x</td>
+    <td>x</td>
   </tr>
   <tr>
     <td></td>
@@ -113,35 +96,70 @@ To provide you with initial guidance over possible types of training and their c
     <td></td>
   </tr>
   <tr>
-    <td>Time</td>
+    <td>Financiación</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td> less than ½ day</td>
+    <td>Nula</td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Poca</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>½ - 1 day</td>
-    <td>x</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1- 4 days</td>
+    <td>Elevada</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>more than 4 days</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tiempo</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> Menos de ½ día</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>½ - 1 día</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1- 4 días</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>más de 4 días</td>
     <td></td>
     <td></td>
     <td>x (series)</td>
@@ -155,35 +173,35 @@ To provide you with initial guidance over possible types of training and their c
     <td></td>
   </tr>
   <tr>
-    <td>Training level</td>
+    <td>Nivel de intrucción</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Introductory</td>
+    <td>Introductorio</td>
     <td></td>
     <td></td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Aware of</td>
+    <td>Con conocimientos previos</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Intermediate</td>
+    <td>Intermedio</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Advanced</td>
+    <td>Avanzado</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
@@ -193,9 +211,11 @@ To provide you with initial guidance over possible types of training and their c
 
 
 
-### Audience, guest speakers, and partners
+### Audiencia, instructor invitado y colaboradores
 
 Before committing to the event be sure you defined your [target audience](/03OnLearningAndTraining/#target-audience) and that you are aware of their needs. Consider your audience, its size and the number or area of competence of (guest) trainers.
+
+Antes de comprometerte con el evento debes estar seguro de que tienes bien definida tu audiencia objetivo y que estas consciente de sus necesidades. Considera el tamaño de tu audiencia y el número o área de competencia de los instructores (invitados). [target audience](/03OnLearningAndTraining/#target-audience)
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
 #### Cooperating with others
