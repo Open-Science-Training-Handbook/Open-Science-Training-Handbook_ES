@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/idea.png" width="200" height="200" />
-## Glossary
+## Glosario
 
 **Altmétricas**
 **Altmetrics**
