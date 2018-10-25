@@ -5,7 +5,7 @@ This chapter will guide you through the main practical aspects of organizing a t
 
 Este capítulo te guiara a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Es claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al mismo. Así mismo obtendrás información sobre los pasos de preparación y las tareas organizativas necesarias. Esto te proveerá no solamente con conocimiento valioso acerca de la organización de un evento si no que te tranquilizará mientras preparas la capacitación. Nota que la mayoría del material en este capítulo, y de todo el manual, está enfocado en la capacitación con respecto a talleres prácticos. Gestionar un evento de diferente tipo puede requerir decisiones diferentes a las recomendaciones siguientes.
 
-## fundamentos del evento de capacitación
+## Fundamentos del evento de capacitación
 
 ### Formato
 
@@ -255,7 +255,7 @@ La sede debe ser de fácil acceso para los participantes. La sede debe tener acc
 
 The training room should be sufficiently equipped (see equipment and media). The room should have sufficient WiFi and power access for every participant (possibly via power strips/extension cords). Check to see if furniture can be rearranged in order to suit your requirements. The presenter will need a high (or raisable) table for standing and a microphone (for recording and/or accessibility). An additional microphone for participant questions aids accessibility. 
 
-La sala de capacitación debe estar suficientemente equipada (ver equipamiento y medios). La sala debe tener buen rango de Wifi y enchufes para cada participante (posiblemente vía multicontactos o cables de extensión). Comprueba si los muebles pueden ser reorganizados en orden de satisfacer tus necesidades. El presentador puede necesitar una mesa alta o elevable para colocar un micrófono (para grabar o accesibilidad). Un micrófono adicional para preguntas de los participantes contribuye a la accesibilidad.
+La sala de capacitación debe estar suficientemente equipada (ver [Equipos y medios](enlace)). La sala debe tener buen rango de Wifi y enchufes para cada participante (posiblemente vía multicontactos o cables de extensión). Comprueba si los muebles pueden ser reorganizados en orden de satisfacer tus necesidades. El presentador puede necesitar una mesa alta o elevable para colocar un micrófono (para grabar o accesibilidad). Un micrófono adicional para preguntas de los participantes contribuye a la accesibilidad.
 
 ## <img src="/Images/Icons/break.png" width="150" height="150" />
 ### Tiempo
@@ -335,7 +335,7 @@ Prepara una variedad de medios que puedan ayudar a atraer una audiencia con dive
 
 If your equipment fails, do not panic. Call the IT support and explain the problem to the attendees. Most people understand that. What might feel like hours to you are just a few minutes of lost time. If the equipment still not works try to work offline with flip charts for example. If you are relying heavily on media equipment and it is just a small group of participants suggest to reschedule the training.
 
-Si tu equipo falla… no te preocupes, llama al apoyo de tecnologías y explica el problema a los asistentes, la mayoría de la gente entiende estos problemas. Lo que pueden ser horas para ti son solo pocos minutos de tiempo perdido. Si el equipo sigue sin estar disponible trata de trabajar con el rotafolio y herramientas que no requieran tecnología. Si dependes mucho del equipo y es solo un grupo pequeño, puedes sugerir reprogramar la instrucción.
+Si tu equipo falla… no te preocupes, llama al personal de apoyo de tecnologías y explica el problema a los asistentes, la mayoría de la gente entiende estos problemas. Lo que pueden ser horas para ti son solo pocos minutos de tiempo perdido. Si el equipo sigue sin estar disponible trata de trabajar con el rotafolio y herramientas que no requieran tecnología. Si dependes mucho del equipo y es solo un grupo pequeño, puedes sugerir reprogramar la instrucción.
 
 ## <img src="/Images/Icons/shout.png" width="150" height="150" />
 ### Estrategia de mercadotecnia y publicidad
@@ -348,7 +348,7 @@ Desarrollar una estrategia de comunicación y mercadotecnia es fundamental para 
 
 Consider which kind of name your training will have. Think about your framing and messaging. What are the common values that you can appeal to? For example, will you run an "Open Access workshop", or a workshop on “How to get published”? How are you going to get people in the room? Remember, training is not unidirectional, and can be incentivized by framing it as a networking opportunity. For example, find some partners in Graduate Schools, Master Schools, Support Staff trainings, Valorisation Center etc.
 
-Considera que tipo de nombre va a tener tu capacitación. Piensa en dónde se enmarca tu evento y el mensaje ¿Cuáles son los valores en común a los que haces mención? Por ejemplo, ¿Organizarás un taller de “Acceso Abierto” ?, o un taller de ¿“Cómo publicar un artículo”? ¿Cómo harás para tener a la gente en la sala? Recuerda, la capacitación no es unidireccional y puede ser incentivada enmarcándolo en una oportunidad de establecer redes de trabajo. Por ejemplo, encontrar y conocer compañeros en escuelas de posgrado, capacitación de personal de apoyo, centros de valorización, etc.
+Considera que tipo de nombre va a tener tu evento. Piensa en dónde se enmarca y el mensaje ¿Cuáles son los valores en común a los que haces mención? Por ejemplo, ¿Organizarás un taller de “Acceso Abierto” ?, o un taller de ¿“Cómo publicar un artículo”? ¿Cómo harás para tener a la gente en la sala? Recuerda, la instrucción no es unidireccional y puede ser incentivada enmarcándolo en una oportunidad de establecer redes de trabajo. Por ejemplo, encontrar y conocer compañeros en escuelas de posgrado, instrucción de personal de apoyo, centros de valorización, etc.
 
 Consider both digital and non-digital media. Use institutional mailing lists and social media (e.g., Twitter, Facebook, blog). Will you have dedicated social media profiles? What sort of content will you share on them? Think about relevant images and logos. This is more important if you want to run more than one event. If the event is being run with the sponsorship of, or in coordination with, an institutional organization (e.g., the library, a particular college/department), then you may want or need to use the profiles of the organization. This might require someone else to post the material, so keep that in mind. Several of these recommendations might require organizational sign off or additional budget support - start investigating these options as soon as possible.
 
@@ -418,7 +418,7 @@ Prepara y envía invitaciones formales a los participantes, invitados e instruct
 
 Create a website for the training event, such as using GitHub Pages or on an institutional website. [link to examples/template]
 
-Crea un sitio web para el evento, puede ser Github Pages, [PKP Open Conference Systems](https://pkp.sfu.ca/ocs/) o en un sitio web institucional (ej. [SciELO20](https://www.scielo20.org/), [OpenCon](https://www.opencon2018.org/opencon_2018_latam) y [Redalyc](http://congreso.redalyc.org/ocs/public/congresoEditores/index.html)). 
+Crea un sitio web para el evento, puede ser [Github Pages](https://pages.github.com/), [PKP Open Conference Systems](https://pkp.sfu.ca/ocs/) o en un sitio web institucional (ej. [SciELO20](https://www.scielo20.org/), [OpenCon](https://www.opencon2018.org/opencon_2018_latam) y [Redalyc](http://congreso.redalyc.org/ocs/public/congresoEditores/index.html)). 
 
 Make sure any key resources are visible and accessible if needed. If you want the participants to come with research outputs (e.g., papers, code, data) for exercises, let them know with plenty of time to prepare (and consider making this optional).
 
@@ -602,7 +602,7 @@ Habla con otros colaboradores/instructores para autoevaluar el evento.
 
 Send post-training assessment survey to participants (see [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) or distribute an evaluation form during the event and make sure people hand it in at the end.
 
-Envía una encuesta de evaluación post capacitación (ver [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) o distribuye una hoja de evaluación durante el evento y asegúrate de que al final del evento la gente lo entregue.
+Envía una encuesta de evaluación post evento (ver [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) o distribuye una hoja de evaluación durante el evento y asegúrate de que al final del evento la gente lo entregue.
 
 Read and count the questions in the evaluation form. Make your self-evaluation.
 
@@ -803,12 +803,12 @@ Prepara un reporte para el financiador o la institución y si es necesario hazlo
     <td></td>
   </tr>
   <tr>
-    <td>Proveer o enviar material de la capacitación (diapositivas, notas, video grabaciones) a los asistentes</td>
+    <td>Distribuir formularios de consentimiento para video grabaciones, transmisión en vivo y fotografías</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Diseminación después del evento</td>
+    <td>Diseminación post-evento</td>
     <td></td>
     <td></td>
   </tr>
@@ -823,7 +823,7 @@ Prepara un reporte para el financiador o la institución y si es necesario hazlo
     <td></td>
   </tr>
   <tr>
-    <td>Proveer o enviar material de la capacitación (diapositivas, notas, video grabaciones) a los asistentes</td>
+    <td>Proveer o enviar material de la instrucción (diapositivas, notas, video grabaciones) a los asistentes</td>
     <td></td>
     <td></td>
   </tr>
