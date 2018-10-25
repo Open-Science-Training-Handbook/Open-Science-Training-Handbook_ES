@@ -2,6 +2,7 @@
 ## Aspectos organizacionales
 
 This chapter will guide you through the main practical aspects of organizing a training event. Of course, what you need and will use will depend on the type of event you’ll organize! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
+
 Este capítulo te guiara a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Es claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al mismo. Así mismo obtendrás información sobre los pasos de preparación y las tareas organizativas necesarias. Esto te proveerá no solamente con conocimiento valioso acerca de la organización de un evento si no que te tranquilizará mientras preparas la capacitación. Nota que la mayoría del material en este capítulo, y de todo el manual, esta enfocado en la capacitación con respecto a talleres prácticos. Gestionar un evento de diferente tipo puede requerir decisiones diferentes a las recomendaciones siguientes.
 
 ## Training event basics
