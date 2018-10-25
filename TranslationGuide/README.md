@@ -89,7 +89,7 @@ Total de palabras del Manual: 43.243.
     <td>Reproducible Research and Data Analysis</td>
     <td>Ricardo Hartley</td>
     <td>1.671</td>
-    <td></td>
+    <td>05-11</td>
     <td>Claudia Vilches</td>
     <td></td>
   </tr>
@@ -184,7 +184,7 @@ Total de palabras del Manual: 43.243.
     <td>Glossary</td>
     <td>Alicia Gómez</td>
     <td>1.753</td>
-    <td></td>
+    <td>05-11</td>
     <td>Claudia Vilches</td>
     <td></td>
   </tr>
