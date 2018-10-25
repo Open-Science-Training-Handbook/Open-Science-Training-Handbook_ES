@@ -845,7 +845,7 @@ Prepara un reporte para el financiador o la institución y si es necesario hazlo
 </table>
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-## References
+## Referencias
 
 Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62: [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
 
@@ -857,7 +857,15 @@ Commission on Disability Rights of American Bar Association (2016): Planning Acc
 
 [Conference Planning Checklist](https://sparcopen.github.io/opencon-dei-report/checklist.html) by SPARC
 
-**Inspirations**
+[PKP Open Conference Systems](https://pkp.sfu.ca/ocs/)
+
+[SciELO20](https://www.scielo20.org/)
+
+[OpenCon2018](https://www.opencon2018.org/opencon_2018_latam)
+
+[3er Congreso Internacional de Editores Redalyc](http://congreso.redalyc.org/ocs/public/congresoEditores/index.html)
+
+**Inspiraciones**
 
 * Software Carpentry [Workshop Operations](https://software-carpentry.org/workshops/operations/)
 
