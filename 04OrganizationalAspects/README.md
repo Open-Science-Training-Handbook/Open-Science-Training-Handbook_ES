@@ -344,95 +344,151 @@ Si tu equipo falla… no te preocupes, llama al apoyo de tecnologías y explica 
 
 Developing a strong marketing and communication strategy is fundamental to driving participation, as well as teaching you how to develop and refine your messaging.
 
+Desarrollar una estrategia de comunicación y mercadotecnia es fundamental para impulsar la participación, así mismo te ayuda a desarrollar y refinar tu mensaje.
+
 Consider which kind of name your training will have. Think about your framing and messaging. What are the common values that you can appeal to? For example, will you run an "Open Access workshop", or a workshop on “How to get published”? How are you going to get people in the room? Remember, training is not unidirectional, and can be incentivized by framing it as a networking opportunity. For example, find some partners in Graduate Schools, Master Schools, Support Staff trainings, Valorisation Center etc.
 
-Consider both digital and non-digital media. Use institutional mailing lists and social media (e.g., Twitter, Facebook, blog). Will you have dedicated social media profiles? What sort of content will you share on them? Think about relevant images and logos. This is more important if you want to run more than one event. If the event is being run with the sponsorship of, or in coordination with, an institutional organization (e.g., the library, a particular college/department), then you may want or need to use the profiles of the organization. This might require someone else to post the material, so keep that in mind. Several of these recommendations might require organizational sign off or additional budget support - start investigating these options as soon as possible. 
+Considera que tipo de nombre va a tener tu capacitación. Piensa en dónde se enmarca tu evento y el mensaje ¿Cuáles son los valores en común a los que haces mención? Por ejemplo, ¿Organizarás un taller de “Acceso Abierto” ?, o un taller de ¿“Cómo publicar un artículo”? ¿Cómo harás para tener a la gente en la sala? Recuerda, la capacitación no es unidireccional y puede ser incentivada enmarcándolo en una oportunidad de establecer redes de trabajo. Por ejemplo, encontrar y conocer compañeros en escuelas de posgrado, capacitación de personal de apoyo, centros de valorización, etc.
+
+Consider both digital and non-digital media. Use institutional mailing lists and social media (e.g., Twitter, Facebook, blog). Will you have dedicated social media profiles? What sort of content will you share on them? Think about relevant images and logos. This is more important if you want to run more than one event. If the event is being run with the sponsorship of, or in coordination with, an institutional organization (e.g., the library, a particular college/department), then you may want or need to use the profiles of the organization. This might require someone else to post the material, so keep that in mind. Several of these recommendations might require organizational sign off or additional budget support - start investigating these options as soon as possible.
+
+Considera medios digitales y no digitales. Utiliza listas de correo institucionales y medios sociales (ej. Twitter, Facebook, blog), puedes incluso hacer un hashtag relacionado a tu evento.  ¿Tendrás que utilizar un perfil de medios sociales? ¿Qué tipo de contenido vas a compartir? Piensa en imágenes y logos que sean relevantes, esto es más importante si esperas realizar más de un evento. Si el evento va a ser organizado con el patrocinador, o coordinado con una organización institucional (ej. La biblioteca, un colegio o departamento en particular), entonces puedes querer o necesitarás usar los perfiles de la organización. Esto va a requerir que alguien más publique material en el perfil, así que tenlo en mente. Muchas de estas recomendaciones van a requerir firmas organizacionales o apoyo financiero- comienza a investigar estas opciones lo más pronto posible.
 
 Find out if you can post flyers or posters at your institution. Are you going to design a poster? What sort of logos, images, text, and information do you need to include? Make sure to clearly communicate the pre-defined objectives (skills and knowledge). Ask relevant organizations to help with advertising. Connect with relevant media, create a press release. Use existing communication channels, e.g. at the university library you might ask subject librarians to promote the event to their academic communities.
 
-#### Shortly before the event
+Investiga si puedes pegar flyers o posters en tu institución ¿Diseñarás algún poster o flyer? ¿Qué tipo de logos, imágenes, texto e información necesitas incluir? Asegúrate de comunicar claramente los objetivos predefinidos (habilidades y conocimientos), puedes consultar a diferentes organizaciones en busca de ayuda para la publicidad. Conecta con medios relevantes, crea una nota o comunicado de prensa y recuerda utilizar los canales existentes de comunicación que tienes a tu alcance, ejemplo sería la biblioteca de la universidad, podrías hablar con los bibliotecarios para que promuevan el evento en sus comunidades académicas.
+
+#### Poco antes del evento
 
 Send a reminder on social media and mailing lists. Put up signs so your attendees find the room.
 
-#### During the event
+Envía un recordatorio vía redes sociales y lista de correos. Recuerda colocar señalizaciones para que los asistentes encuentren fácilmente la sala a la cual se dirigen.
+
+#### Durante el evento
 
 Publish pictures and short videos from the event on the website and social media. Tell participants the hashtag for the training and ask them to send at least one tweet/message during the event. Collect reasons for attendance for advertising of future events.
 
-## <img src="/Images/Icons/check.png" width="150" height="150" />
-### Registration
+Publica imágenes y videos cortos del evento en tu sitio web y redes sociales. Indícales a los participantes el hashtag para la capacitación e invítalos a enviar por lo menos un tweet o mensaje durante el evento. Recolecta las razones de asistencia al evento para la publicidad en eventos futuros.
 
-#### Long before the event
+## <img src="/Images/Icons/check.png" width="150" height="150" />
+### Registro
+
+#### Mucho antes del evento
 
 Set up an event registration using a service like [Eventbrite](https://www.eventbrite.com) or [Event Smart](https://eventsmart.com) (which are free for free events, but may include fees if your event has a registration cost), or something like Google Forms to capture basic information. For smaller events you can also use registration via email. But don’t forget to send them a confirmation, when they register and before the event to send a reminder. 
 
+Configura un registro para el evento utilizando un servicio como [Eventbrite](https://www.eventbrite.com) o [Event Smart](https://eventsmart.com) (ambos son gratuitos siempre y cuando el evento sea libre de cuotas, pero pueden incluir un ligero costo si el evento tiene costo de registro), o puedes utilizar Google Forms para capturar información básica. Para eventos pequeños podrías incluso registrar a los asistentes vía correo electrónico, pero no olvides enviarles un correo de confirmación cuando se registren y un recordatorio poco antes del evento.
+
 Think about the fee you want/need to charge (see budget). Think about the credits students can get. Is a certificate needed (see certification of attendance)?
+
+Piensa acerca de la cuota que esperas o necesitas cobrar (ver financiamiento). Piensa acerca de los créditos que los estudiantes pueden obtener, ¿Es necesario un certificado? (ver certificado de asistencia).
 
 Be sensible and transparent about the information you collect. If you need to ask information like gender, age or nationality, keep into account that this is not always as straightforward as you might think - always offer the option of a blank field. Please do not use the distinction between Mrs. and Ms.
 
+Debes ser sensible y transparente acerca de la información que vas a recopilar. Si necesitas información como el género, edad o nacionalidad, debes tener en cuenta que esto no siempre es tan sencillo como parece- siempre ofrece la opción de un campo en blanco. No utilices la distinción entre Sra. y Srta., por favor.
+
 You can make a short poll to measure what do participants already know about the topic (their pre-knowledge). It can help you to prepare training material. Make clear what data is going to be shared/retained and why. Always offer people the option of opting out, and keep any information you do archive safely stored. Consider creating a list of interested participants for a newsletter or for keeping in touch, but be aware of data protection (like the EU General Data Protection Regulation (Regulation (EU) 2016/679)). 
 
-#### Shortly before the event
+Puedes hacer una pequeña encuesta para medir el conocimiento de los participantes acerca del tema (sus conocimientos previos). Esto te ayudará a preparar el material de capacitación. Debes dejar muy claro que datos se compartirán o retendrán y por qué. Siempre debes ofrecer la opción de que la gente diga que no y mantenga toda la información proporcionada archivada de forma segura. Considera crear una lista de participantes interesados en boletines informativos o para estar en contacto, debes estar consciente de la protección de datos (como la General Data Protection Regulation de la Unión Europea (Regulation (EU) 2016/679))(Aquí va nota)
+
+#### Poco antes del evento
 
 Depending on the size of the audience, provide a separate staffed registration desk. Make sure staff has all information including a participants list, and let them take care of badges and attendance sheets/certificates. 
 
+Dependiendo del tamaño de la audiencia debes proveer personal por separado en mesas de registro. Asegúrate que todo el personal que apoya en la organización tiene toda la información, incluyendo la lista de participantes y deja que se encarguen de las credenciales y hojas de asistencia/certificados.
+
 If there is no separate registration desk, prepare a cheat sheet with information to keep at hand (think: public transportation, emergency numbers, requests for certificates, safety during the event  etc.). 
 
-#### During the event
+Si no hay mesas de registro separadas, prepara fichas de ayuda con información para tener a la mano (transporte público, números de emergencia, solicitud de certificados, seguridad durante el evento, etc.)
+
+#### Durante el evento
 
 Do you have consent from participants to re-use or share their contact information or to take pictures and publish them? Did all participants sign the participants list?
 
-## <img src="/Images/Icons/email.png" width="150" height="150" />
-### Communication
+¿Tienes consentimiento de los participantes para reutilizar o compartir su información de contacto o de tomarles fotografías y publicarlas? ¿Todos los participantes firmaron la lista de participantes?
 
-#### Long before the event
+## <img src="/Images/Icons/email.png" width="150" height="150" />
+### Comunicación
+
+#### Mucho antes del evento
 
 Prepare and send formal invitations to participants, guest and keynote speakers. 
 
+Prepara y envía invitaciones formales a los participantes, invitados e instructores principales.
+
 Create a website for the training event, such as using GitHub Pages or on an institutional website. [link to examples/template]
+
+Crea un sitio web para el evento, puede ser Github Pages, [PKP Open Conference Systems](https://pkp.sfu.ca/ocs/) o en un sitio web institucional (ej. [SciELO20](https://www.scielo20.org/), [OpenCon](https://www.opencon2018.org/opencon_2018_latam) y [Redalyc](http://congreso.redalyc.org/ocs/public/congresoEditores/index.html). 
 
 Make sure any key resources are visible and accessible if needed. If you want the participants to come with research outputs (e.g., papers, code, data) for exercises, let them know with plenty of time to prepare (and consider making this optional).
 
-#### Shortly before the event
+Asegúrate que todos los recursos clave son visibles y accesibles. Si quieres que los participantes lleguen con resultados de investigación (ej. Artículos, código, datos) para ejercicios, tienes que hacerles saber esto con mucho tiempo de anticipación para que lo preparen (considera hacer esto opcional).
+
+#### Poco antes del evento
 
 Communicate requirements to your audience in advance.
 
+Comunica los requerimiento para la audiencia con anticipación:
+
 * Let them know if they need to bring laptops or other work materials.
+
+* Hazles saber si necesitan llevar laptop u otros materiales de trabajo.
 
 * Make sure any prerequisites for software or programming abilities are communicated in advance.
 
+* Asegúrate que los requisitos previos para software o habilidades de programación son comunicados con anticipación.
+
 * Provide basic contextual reading materials, so you don’t have to start at the beginning point.
+
+* Provee materiales de lectura básicos que ayuden a contextualizar, de esta manera no tienes que comenzar desde un punto de inicio muy básico.
 
 Send a reminder email to your attendees a day or two in advance of the event, if possible (this may not be necessary if you are relying on a registration service). 
 
+Envía un correo de recordatorio a tus asistentes un día o dos antes del evento, esto si es posible (esto no debe ser necesario si confías en tu servicio de registro).
+
 Remind people about reachability and accessibility of the venue. Send detailed instructions for parking and public transport options.
 
-#### During the event
+Recuerda a los asistentes sobre la ubicación y accesibilidad de la sede. Envía instrucciones detalladas de opciones de estacionamiento y transporte público.
+
+#### Durante el evento
 
 Dedicate some time to housekeeping at the start of your event. Write down hashtags and WiFi passwords.
+
+Dedica suficiente tiempo a la gestión durante el inicio del evento. Anota en un lugar visible el hashtag y las contraseñas del internet.
 
 ## <img src="/Images/Icons/lunch_break.png" width="150" height="150" />
 ### Catering
 
-#### Long before the event
+#### Mucho antes del evento
 
 What refreshments will you either need to provide, or will people need to bring their own? If you provide refreshments, you may need to obtain funding or charge for registration. 
 
+¿Qué tipo de refrigerios necesitaras proporcionar? o ¿La gente necesita traer su propio refrigerio? Si vas a proporcionar refrigerios, probamente necesites obtener financiamiento o cobrar una cuota de registro.
+
 If relevant, you can ask during registration in advance for dietary requirements - but keep in mind this might make it very complicated for you. Sometimes it’s better to ask the caterer to provide sufficient varieties (vegetarian, vegan, gluten free, etc.) and add one free field on your submission forms so that participants can fill in specific requests if necessary (e.g. intolerances and allergies). 
 
-#### Shortly before the event
+Si es relevante puedes preguntar durante el registro previo al evento por requisitos dietéticos, pero debes tener en mente que esto podría hacerse muy complicado para ti. Algunas veces es mejor preguntar al servicio de catering si puede proveer variedades suficientes de refrigerios (vegetarianos, veganos, libres de gluten, etc.) y agregar un campo en blanco en el formulario de envío, de esta formar los participantes pueden anotar solicitudes específicas si es necesario (ej. Intolerancia o alergia a ciertos alimentos).
+
+#### Poco antes del evento
 
 Check the venue and inform the caterer where and when to deliver the refreshments. 
 
-#### During the event
+Revisa la sede e informa al servicio de catering dónde y cuándo ofrecer los refrigerios.
+
+#### Durante el evento
 
 Be sure you have the contact information of the caterer if the catering is not showing up, delivering the wrong lunch or forgot something.
 
-## <img src="/Images/Icons/write.png" width="150" height="150" />
-### Code of Conduct
+Asegúrate de tener la información de contacto del servicio de catering, esto en caso de que los refrigerios no lleguen, sean los equivocados o se olvidó algo.
 
-#### Long before the event
+## <img src="/Images/Icons/write.png" width="150" height="150" />
+### Código de conducta
+
+#### Mucho antes del evento
 
 To help ensure your workshop is a friendly, inclusive, and respectful environment for trainers and participants, identify or create a robust Code of Conduct (CoC) for your event. Make sure the Code of Conduct is communicated in advance—we recommend prominent placement on your event website (see task 2) and onsite. Participants should be asked to review and acknowledge the Code of Conduct while registering for the workshop. Included in your Code of Conduct should be clear consequences of violation (for example, removal from the workshop). Ensure the reporting process for violations is communicated clearly before and during the event and that at least one designated organizer is identified as the point of contact, who is easily accessible to receive reports of code of conduct violations. Examples you can borrow or adapt from include: 
+
+Para asegurarte que el curso de capacitación es amigable, inclusivo y de un ambiente de respeto para los instructores y participantes, identifica y crea un Código de Conducta bastante sólido para tu evento. Asegúrate que el Código de Conducta es previamente comunicado- se recomienda colocar en un lugar visible en el sitio web del evento (ver tarea 2) y en la sede. Se debe pedir a los participantes que revisen y reconozcan el Código de Conducta mientras se registran para el evento. En el Código de Conducta debes incluir cuales serían las consecuencias en caso de violación de este (por ejemplo, expulsión del evento). Asegúrate de que el proceso de reporte de violaciones es claramente comunicado antes y durante el evento y que por lo menos un organizador sea identificado como el punto de contacto, quién debe ser fácilmente accesible para recibir reportes de violaciones al código de conducta. Algunos ejemplos que puedes tomar prestados o adaptar son:
 
 * [The Mozilla Science Lab Code of Conduct](https://science.mozilla.org/code-of-conduct)
 
