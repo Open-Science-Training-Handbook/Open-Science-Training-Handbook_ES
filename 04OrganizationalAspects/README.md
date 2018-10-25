@@ -240,7 +240,7 @@ Mantener un ambiente inclusivo es importante para cualquier capacitación exitos
 
 Actively invite trainers and speakers from underrepresented groups. Make sure to discuss with them their specific goals and needs, and include these in the planning of the event. To learn more about trainers see On learning and training chapter, [Expectations about a trainer](/03OnLearningAndTraining.md/#expectations-about-a-trainer) subchapter. Ensure that a proportion of participant spots are reserved for attendees across ethnic backgrounds, gender identities, disciplines and geographic regions (see [Inclusive engagement]/03OnLearningAndTraining.md/#inclusive-engagement)). To learn more about how to make your workshop inclusive and welcoming, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
-Invita activamente a instructores y facilitadores de comunidades subrepresentadas. Asegúrate de conversar con ellos sus metas y necesidades e incluye estas en la planeación del evento. Para aprender más acerca de los instructores revisa el Capítulo On learning and training, [expectativas acerca de los instructores](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Asegúrate que una porción de los espacios de los participantes están reservados para asistentes de diferentes orígenes étnicos, identidades de género, disciplinas y regiones geográficas (ver[Inclusive engagement](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Para aprender más acerca de cómo organizar tu propio evento puedes consultar la [Conference Planning Checklist propuesto por SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+Invita activamente a instructores y facilitadores de comunidades subrepresentadas. Asegúrate de conversar con ellos sus metas y necesidades e incluye estas en la planeación del evento. Para aprender más acerca de los instructores revisa el Capítulo On learning and training, [expectativas acerca de los instructores](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Asegúrate que una porción de los espacios de los participantes están reservados para asistentes de diferentes orígenes étnicos, identidades de género, disciplinas y regiones geográficas (ver [Inclusive engagement](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Para aprender más acerca de cómo organizar tu propio evento puedes consultar la [Conference Planning Checklist propuesto por SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
 ## <img src="/Images/Icons/home.png" width="150" height="150" />
 ### Sede
@@ -273,48 +273,74 @@ Antes de programar tu evento debes tener en cuenta los obstáculos que podrían 
 
 You may need financial support to help run your event, to pay for things like the venue (if the host institution cannot or will not provide this for free), travel support for non-local trainers/experts, refreshments, materials (e.g., name badges, USB drives) and swag. Most types of training will need at least a little money for material and equipment. Also, keep in mind that the costs associated with human resource are often the largest costs associated with running an event. It is good to identify time needed for staff to prepare materials and content which is often not budgeted for. These costs may be covered through as a core aspect of the job, but if not it might be wise to ensure funding to cover this aspect is sourced.
 
+Podrías necesitar apoyo financiero para ayudar a organizar tu evento, para pagar cosas como la sede (si la institución anfitriona no puede proveer esto de manera gratuita), apoyos de viaje para instructores o facilitadores foráneos, refrigerios, materiales (ej. Tarjetas de identificación, dispositivos USB) y swag. La mayoría de los tipos de capacitación necesitarán por lo menos un poco de dinero para material y equipo. También debes de tener en cuenta que los costos asociados con los recursos humanos son regularmente los costos más altos asociados con la organización de un evento. Es bueno identificar el tiempo necesario por el personal para preparar los materiales y el contenido que a menudo no está presupuestado. Estos costos pueden cubrirse como un aspecto central del trabajo, pero si no, sería prudente asegurar fondos para cubrir este aspecto. 
+
 Consider different ways of creating a budget for your training. If possible, request funds from your institution. Otherwise, you might have to charge a fee from participants or look for scholarships and other ways of funding. 
 
-#### Fee
+Considera diferentes maneras de adquirir presupuesto para la capacitación. SI es posible solicita fondos de tu institución. De otra manera tendrías que cobrar una cuota a los participantes o buscar becas y otras formas de financiamiento.
+
+#### Cuotas
 
 Collecting and managing funds or fees can be tricky. If you plan to do this, you should consider using an existing online registration service (e.g., Eventbrite, Event Smart) or your institution’s conference/event services. Although any cost impacts accessibility of the event, charging a nominal registration fee (e.g., $20–40 or €15–30) encourages those who register to actually attend—Software Carpentry found this reduced no-shows from almost a third to about 5% (Wilson 2016). 
 
+Recolectar y administrar fondos o cuotas puede ser complicado. Si planeas hacer esto debes considerar utilizar algún servicio en línea de registro (ej. Eventbrite, Event Smart) o los servicios de conferencias y eventos de tu institución. Aunque cualquier costo tiene un impacto en la accesibilidad al evento, cobrar un tarifa de registro (ej. $200-1000 MXN o $20-40 USD)(Aquí va nota)  alienta a aquellos que hicieron el registro a asistir al mismo- Software Carpentry (Aquí va nota)  encontró que esto reduce la no asistencia de un tercio a cerca de 5% (Wilson, 2016). 
+
 If planning to charge a fee of any sort, it is good to clarify with your institution's finance team how best to handle this. In some cases, the amount of time/effort required to set such things up can outweigh the value of charging - particularly if it is only a nominal fee being charged. Your institution will likely have specific financial processes and budget codes that need to be used, so speak to them early on to see what the best approach is. This is true even when using external services such as Eventbrite (you'll need an institutional budget center to allow the income to come into your institution).
+
+Si tienes planeado cobrar una cuota de cualquier tipo, es buena idea esclarecer con tu equipo financiero quien es el más capacitado para manejar los recursos. En muchos casos la cantidad de tiempo/esfuerzo requerido para establecer tales cosas puede superar el valor de la carga- particularmente si solo se cobra una cuota. Tu institución probablemente tenga procesos específicos de financiamiento y códigos de presupuesto que se necesita utilizar, así que entabla comunicación con ellos y las áreas correspondientes desde el principio para ver cuál es la mejor estrategia. Incluso cuando se utilizan servicio externos cómo Eventbrite podrías necesitar al departamento de presupuesto institucional para permitir que los ingresos se incorporen a la institución. 
 
 If you do charge a fee, consider making a waiver available upon request for those unable to pay or creating scholarships. Scholarship allocation should be prioritized for groups that face the most barriers for self-funding.
 
-#### Funding
+Si vas a cobrar una cuota de registro, considera hacer una exención bajo solicitud para aquellos que no pueden pagar o puedes utilizar recursos para ofrecer becas. La asignación de becas debe priorizar grupos que enfrentan más barreras para autofinanciarse.
+
+#### Financiamiento
 
 You can get funding from a few difference sources: the host institution, external sponsors like companies, budgeted funds on faculty/principal investigator’s grants, or through registration fees. Check if there are any internal sources for funding, or relevant local organizations who can sponsor your event. If you have found a potential partner, check the funding conditions. This could include advertising on your event website or at the event itself.
 
+Puedes obtener financiamiento de diferentes fuentes: la institución sede, patrocinadores externos cómo compañías, fondos presupuestados en subvenciones de la facultad/investigador principal, o a través de cuotas de registro. Revisa si hay algunas fuentes internas de financiamiento u organizaciones locales relevantes que pueden patrocinar tu evento. Si ya encontraste un patrocinador potencial, revisa las condiciones de financiamiento ya que esto podría incluir publicidad en el sitio web del evento o en el propio evento.
+
 Consider different levels of sponsorship (bronze, silver, gold) in case of bigger events. You might also want to look at other projects or programs to co-organize and  share costs with. 
 
-## Organizational tasks 
-## <img src="/Images/Icons/laptop.png" width="150" height="150" /> <img src="/Images/Icons/wifi.png" width="150" height="150" />
-### Equipment & Media 
+Considera diferentes niveles de patrocinadores (bronce, plata, oro) en caso de eventos grandes. Podrías incluso buscar otros proyectos o programas para coorganizar y compartir costos.
 
-#### Long-term preparation
+## Tareas organizativas 
+## <img src="/Images/Icons/laptop.png" width="150" height="150" /> <img src="/Images/Icons/wifi.png" width="150" height="150" />
+### Equipos y medios 
+
+#### Preparación a largo plazo
 
 Here are some things to consider:
 
+A continuación, vienen varias cosas a considerar:
+
 Will participants need access to WI-FI? Make sure that any requirements for access are dealt with ahead of time (e.g., by providing guest account details). Check if the venue has enough power outlets. Make sure to check with the venue owner in advance for availability of technical support. If you are planning on recording the event make sure you have the correct equipment, and that attendees are aware (and have consented) to being recorded. Think about how you are going to license any outcomes: will you apply a CC license to pictures, videos, and training materials? Are the authors ok with that? 
 
-#### Shortly before event
+¿Los participantes necesitarán acceso a Wifi? Asegúrate que cualquier requerimiento para el acceso es tratado con anticipación (ej. Proporcionando detalles de la cuenta de invitado). Revisa si la sede tienes suficientes tomas de corriente. Asegúrate de consultar con el propietario de la sede con antelación la disponibilidad de soporte técnico. Si planeas grabar el evento asegúrate de tener el equipo correcto y que los asistentes están conscientes (y han dado su consentimiento) para ser grabados. Piensa cómo vas a licenciar cualquier resultado: ¿Puedes aplicar una licencia Creative Commons (CC) a las imágenes, videos y materiales utilizados? ¿Los autores están de acuerdo con la licencia?
+
+#### Poco antes del evento
 
 Making sure that all of your equipment, media, and materials are in fully functioning order can help to avoid any embarrassing hiccups during your training. Make sure that your laptop, or the device which is hosting your material, is compatible with the media technology in the venue. Ask guest lectures for their presentations in advance and store them all on the same laptop. This will make it easier to switch from one speaker to the other. Make sure to bring any relevant adaptors or extensions. Check WiFi strength and power outlets, as well as, if the speaker and projectors work in advance, and that your file formats are supported. Make sure there is an emergency contact for technical issues.
 
+Asegúrate que todo tu equipo, medios y materiales están funcionando correctamente para evitar algún traspié embarazoso durante la capacitación. Asegúrate que tu laptop, o el equipo que está albergando tu material, es compatible con la tecnología disponible en la sede. Pregunta a los conferencistas invitados por sus presentaciones con anticipación para almacenarlas en la misma computadora, esto puede facilitar el cambio de un conferencista a otro. Asegúrate de llevar adaptadores o extensiones y revisa la potencia del Wifi y los enchufes, así como si las bocinas y proyectores funcionan correctamente y que sus formatos de archivos son compatibles. Asegúrate de tener un contacto de emergencia en caso de que se presenten problemas técnicos.
+
 Make sure to print out any paper handouts in advance, and to have enough of them to go around. If you plan to hand out a lot of material, consider providing folders or binders to help with organization. Or, consider just making all your material available digitally via your event website.
+
+Asegúrate de imprimir cualquier folleto con anticipación y que cuentas con suficientes. Si planeas repartir suficiente material, considera proveer folders o carpetas para ayudar con la organización, o considera poner todo tu material disponible digitalmente vía tu sitio web y redes sociales.
 
 Preparing a variety of media can help engage an audience with diverse learning styles. You should prepare any teaching aids in advance (e.g, flipcharts, practical exercises, games). Bring notepads, post-it notes, pens, thumbtacks. If participants need any other computer-based materials make sure these are well-organized and available in advance.
 
-#### During the event
+Prepara una variedad de medios que puedan ayudar a atraer una audiencia con diversos estilos de aprendizaje. Debes preparar los materiales didácticos a utilizar con anticipación (ej. Rotafolios, ejercicios prácticos, juegos). Lleva libretas, notas, bolígrafos, tachuelas, etc. Si los participantes necesitan algún otro material que requiera computadora asegúrate de que está disponible y bien organizado con anticipación.
+
+#### Durante el evento
 
 If your equipment fails, do not panic. Call the IT support and explain the problem to the attendees. Most people understand that. What might feel like hours to you are just a few minutes of lost time. If the equipment still not works try to work offline with flip charts for example. If you are relying heavily on media equipment and it is just a small group of participants suggest to reschedule the training.
 
-## <img src="/Images/Icons/shout.png" width="150" height="150" />
-### Marketing & Advertising Strategy
+Si tu equipo falla… no te preocupes, llama al apoyo de tecnologías y explica el problema a los asistentes, la mayoría de la gente entiende estos problemas. Lo que pueden ser horas para ti son solo pocos minutos de tiempo perdido. Si el equipo sigue sin estar disponible trata de trabajar con el rotafolio y herramientas que no requieran tecnología. Si dependes mucho del equipo y es solo un grupo pequeño, puedes sugerir reprogramar la instrucción.
 
-#### Long before the event
+## <img src="/Images/Icons/shout.png" width="150" height="150" />
+### Estrategia de mercadotecnia y publicidad
+
+#### Mucho antes del evento
 
 Developing a strong marketing and communication strategy is fundamental to driving participation, as well as teaching you how to develop and refine your messaging.
 
