@@ -623,222 +623,222 @@ Prepara un reporte para el financiador o la institución y si es necesario hazlo
 
 <table>
   <tr>
-    <td>What</td>
-    <td>When and who?</td>
-    <td>Done?</td>
+    <td>¿Qué?</td>
+    <td>¿Dónde y quién?</td>
+    <td>¿Está listo?</td>
   </tr>
   <tr>
-    <td>Equipment/media</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Determine what technical equipment is needed</td>
+    <td>Equipo/medios</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check if enough power outlets are available</td>
+    <td>Determinar el equipo técnico necesario</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Order WiFi for participants</td>
+    <td>Revisar si hay suficientes enchufes disponibles</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Organize video recording and taking pictures</td>
+    <td>Pedir Wifi para los participantes</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Test equipment a few days before the training</td>
+    <td>Organizar video grabaciones y toma de fotografías</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Print out handouts, feedback forms and material for exercises or publish them online</td>
+    <td>Prueba de equipos días antes del evento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare flip charts and pinboards</td>
+    <td>Impresión de folletos, formularios de comentarios y material para ejercicios o publicación en línea</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Venue</td>
+    <td>Preparar rotafolios y tablón de anuncios</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check elevator access, accessible entrances, ramps</td>
+    <td>Sede</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check public transport and parking availability</td>
+    <td>Elevadores de acceso, entradas accesibles, rampas</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Locate maternity room, prayer room and gender neutral washrooms</td>
+    <td>Transporte público y disponibilidad de estacionamiento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Clear, legible signs</td>
+    <td>Cuarto de maternidad, sala de oración y baños neutrales de genero</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Brief your helpers before the event</td>
+    <td>Señalizaciones claras y legibles</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Marketing/advertising</td>
+    <td>Instrucciones a los ayudantes antes del evento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Identify communication channels</td>
+    <td>Mercadotecnia/Publicidad</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Set up online presence</td>
+    <td>Identificar canales de comunicación</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send event information to mailing lists</td>
+    <td>Establecer presencia en línea</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Inform about your event in social media</td>
+    <td>Enviar información del evento a la lista de correos</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Registration</td>
+    <td>Informar del evento en medios sociales</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Set up registration module</td>
+    <td>Registrato</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Collect information on dietary needs and allergies</td>
+    <td>Establecer el módulo de registro</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Ask for childcare needs</td>
+    <td>Recolectar información de necesidades alimenticias y alergias</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide hotel information for events over several days</td>
+    <td>Preguntar por necesidad de guardería</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send confirmations/invitations to attendees and provide clear text and image instructions to the venue</td>
+    <td>Información anticipada del hotel sede y otros para el evento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send a reminder 1 or 2 days before the event</td>
+    <td>Enviar confirmaciones/invitaciones para los asistentes y proveer instrucciones claras en texto e imagen en la sede</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare name tags and print participants list</td>
+    <td>Enviar recordatorio 1 o 2 días antes del evento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare a registration desk</td>
+    <td>Preparar etiquetas y lista impresa de participantes</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Organize a wardrobe checkroom for larger events</td>
+    <td>Preparar mesa de registro</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Catering</td>
+    <td>Organizar guardarropa para eventos largos</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Identify catering options and needs</td>
+    <td>Refrigerios</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Order catering </td>
+    <td>Opciones de catering y necesidades</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check if meals are clearly labeled (especially regarding dietary needs and allergies)</td>
+    <td>Contrato de catering </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Communication during event</td>
+    <td>Comprobar si la comida está claramente etiquetada (especialmente en relación con necesidades dietéticas y alergias)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Inform the participants where to find emergency exits, food/beverages and restrooms etc.</td>
+    <td>Comunicación durante el evento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out consent forms for video recordings, live streaming and/or photos</td>
+    <td>Informar a los participantes dónde encontrar salidas de emergencia, comida/bebidas, baños, etc.</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Post event dissemination</td>
+    <td>Proveer o enviar material de la capacitación (diapositivas, notas, video grabaciones) a los asistentes</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Make photos of flip charts and other non-digital material or results</td>
+    <td>Diseminación después del evento</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out or send certificates of attendance</td>
+    <td>Fotografías de rotafolios y otros materiales o resultados no digitales</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide or send training material (slides, notes, video recordings) to the attendees</td>
+    <td>Distribución o envío de certificados de asistencia</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide a report for your funder or institution</td>
+    <td>Proveer o enviar material de la capacitación (diapositivas, notas, video grabaciones) a los asistentes</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Evaluation</td>
+    <td>Proveer un reporte al financiador o institución</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out or provide an online or printed form for feedback</td>
+    <td>Evaluación</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distribuir o proveer un formulario para comentarios en línea o impreso</td>
     <td></td>
     <td></td>
   </tr>
