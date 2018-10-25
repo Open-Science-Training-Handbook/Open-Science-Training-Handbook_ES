@@ -855,15 +855,15 @@ Pavelin et al., (2014) Ten simple rules for running interactive workshops, *PLOS
 
 Commission on Disability Rights of American Bar Association (2016): Planning Accessible Meetings and Events.  [A toolkit](https://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf).
 
-[Conference Planning Checklist](https://sparcopen.github.io/opencon-dei-report/checklist.html) by SPARC
+[Conference Planning Checklist](https://sparcopen.github.io/opencon-dei-report/checklist.html) por SPARC
 
-[PKP Open Conference Systems](https://pkp.sfu.ca/ocs/)
+[PKP Open Conference Systems](https://pkp.sfu.ca/ocs/) por Public Knowledge Project
 
-[SciELO20](https://www.scielo20.org/)
+[SciELO20 años](https://www.scielo20.org/) por SciELO
 
-[OpenCon2018](https://www.opencon2018.org/opencon_2018_latam)
+[OpenCon2018 LATAM](https://www.opencon2018.org/opencon_2018_latam) por OpenCon
 
-[3er Congreso Internacional de Editores Redalyc](http://congreso.redalyc.org/ocs/public/congresoEditores/index.html)
+[3er Congreso Internacional de Editores Redalyc](http://congreso.redalyc.org/ocs/public/congresoEditores/index.html) por Redalyc
 
 **Inspiraciones**
 
