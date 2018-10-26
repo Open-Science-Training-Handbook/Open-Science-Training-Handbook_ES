@@ -168,7 +168,7 @@ Total de palabras del Manual: 43.243.
     <td>Organizational Aspects</td>
     <td>Benito Castro</td>
     <td>4.095</td>
-    <td></td>
+    <td>26-10</td>
     <td>Rosario Rogel</td>
     <td></td>
   </tr>
