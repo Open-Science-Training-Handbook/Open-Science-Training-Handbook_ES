@@ -83,7 +83,7 @@ Various universities across Europe organize weeklong summer schools on open scie
 
 **Use [this Google form](https://goo.gl/forms/wxyx6pk80mHUHTRu1) to suggest additional exercises!**
 
-#### Types of exercises
+#### Types of exercises Tipo de ejercicios
 
 
     * quick warm-up / short break exercises 
