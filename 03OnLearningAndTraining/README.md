@@ -37,7 +37,7 @@ However...
 
 * In order to develop competencies as a professional, a person needs to attempt to understand the theoretical concepts as well as to have practical exposure. Therefore, teaching and training are equally important and complementary educational concepts.
 
-![](/Images/03 On Learning and Training/03_teaching_vs_learning.png)
+## <img src="/Images/03 On Learning and Training/03_teaching_vs_learning.png" />
 
 ### Strategies
 
