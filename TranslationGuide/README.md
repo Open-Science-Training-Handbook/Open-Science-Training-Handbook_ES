@@ -160,7 +160,7 @@ Total de palabras del Manual: 43.243.
     <td>On Learning and Training</td>
     <td>Paula Martínez</td>
     <td>6.319</td>
-    <td></td>
+    <td>26-10</td>
     <td>Nicolás Alessandroni</td>
     <td></td>
   </tr>
