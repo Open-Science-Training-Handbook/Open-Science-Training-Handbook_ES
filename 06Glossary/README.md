@@ -119,42 +119,60 @@
 * (General Data Protection Regulation) seeks to create a harmonised data protection law framework across the EU. It aims to restitute the control of personal data to citizens, whilst imposing strict rules on those hosting and 'processing' these data, anywhere in the world. The Regulation also introduces rules relating to the free movement of personal data within and outside the EU.
 
 **Impact Factor**
+**Factor de impacto**
 
 * A numerical measure that indicates the average number of citations to articles published over the previous two years in a journal. It is frequently used as a proxy for a journal's relative importance. Its transfer to the impact of individual articles published in a journal is considered to be problematic.
 
+* Una medida numérica que indica el promedio de citas que reciben en un año los artículos publicados en una revista en los últimos dos años. Con frecuencia se utiliza como un indicador de la importancia relativa de una revista. Su transferencia al impacto de artículos individuales publicados en una revista resulta problemática.
+
 **Intellectual Property**
+**Propiedad intelectual**
 
 * A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
 
+* Un término legal que se refiere a las creaciones de la mente. Como ejemplos de propiedad intelectual están la música, literatura, pintura, escultura, video y otras obras artísticas; descubrimientos e invenciones; así como frases, símbolos y diseños.
+
 **Journal**
+**Revista**
 
 * A series of published research articles. Historically divided into volumes and issues.
 
+* Publicación seriada que incluye artículos de investigación. Historicamente se divide en volúmenes y números.
+
+
 **Licence**
+**Licencia**
 
 * A license allows a third party to perform certain actions with a work or data. The license informs about the usage rights of a resource (e.g. text, data, source code).
 
 **Metadata**
+**Metadatos**
 
 * Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location). They.
 
 **Open Access**
+**Acceso abierto**
 
 * Open Access refers to online, free of cost access to peer reviewed scientific content with free reusability regarding copyright restrictions.
 
 **Open Data**
+**Datos abiertos**
 
 * Open Data are online, free of cost, accessible data that can be used, reused and distributed provided that the data source is attributed.
 
 **Open Evaluation**
+**Evaluación abierta**
 
 * The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
 
 **Open Lab Notebooks**
 
+
 * A concept of writing about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
 
 **Open Materials**
+**Materiales en abierto**
+
 
 * Sharing of research materials, for example, biological and geological samples, is another Open Science practice.
 
