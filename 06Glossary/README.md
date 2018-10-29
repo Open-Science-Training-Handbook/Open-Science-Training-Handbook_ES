@@ -154,7 +154,7 @@
 
 * Los metadatos proporcionan una descripción básica de los datos; a menudo incluyen la autoría, fechas, título, resumen, palabras clave y la información de licencia. Principalmente sirven para la localización de datos (por ejemplo, creador, período de tiempo, ubicación geográfica).
 
-* Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location). They.
+* Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location).
 
 **Acceso abierto**
 **Open Access**
@@ -173,7 +173,7 @@
 **Evaluación abierta**
 **Open Evaluation**
 
-* El desarrollo de un sistema o protocolo de evaluación justo para las propuestas de investigación, basado en la transparencia del proceso y de las personas involucradas
+* El desarrollo de un sistema o protocolo de evaluación justo para las propuestas de investigación, basado en la transparencia del proceso y de las personas involucradas.
 
 * The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
 
@@ -193,6 +193,8 @@
 
 **Open Peer Review**
 **Revisión abierta (revisión en abierto)**
+
+*	Un término general que se refiere a una serie de formas superpuestas en que los modelos de revisión por pares se pueden adaptar de acuerdo con los objetivos de la ciencia abierta, que incluyen la apertura de identidades de revisores y autores, la publicación de informes de revisión y la habilitación de una mayor participación en el proceso de revisión por pares.
 
 * An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process.
 
@@ -242,7 +244,7 @@
 **Prerregistro**
 **Preregistration**
 
-* Los investigadores tienen la opción o están obligados a enviar información importante sobre su estudio (por ejemplo: motivos para una investigación, hipótesis, diseño y estrategia analítica) a un registro público antes de comenzar el estudio. EL prerregistro puede ayudar a contrarrestar sesgos
+* Los investigadores tienen la opción o están obligados a enviar información importante sobre su estudio (por ejemplo: motivos para una investigación, hipótesis, diseño y estrategia analítica) a un registro público antes de comenzar el estudio. EL prerregistro puede ayudar a contrarrestar sesgos.
 
 * Researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
 
@@ -253,7 +255,10 @@
 
 * File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
 
+**Sesgos en la publicación**
 **Reporting Bias**
+
+* Se habla de sesgos en la publicación cuando ciertos aspectos de un estudio no se reportan de manera transparente, lo que genera desperdicio y redundancia a través de informes selectivos o no publicados.
 
 * Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
 
@@ -267,10 +272,14 @@
 **Investigación reproducible**
 **Reproducible Research**
 
+* La reproducibilidad es un gama de aspectos en la que cada formador deberá elegir la definición más utilizada por su audiencia. En términos generales, una investigación reproducible permite obtener resultados similares a los de un estudio o experimento y resultados independientes obtenidos con los mismos métodos pero en diferentes condiciones (es decir, relacionadas con los resultados). Algunos diferencian la definición en niveles de reproducibilidad, incluyendo la reproducibilidad computacional (también denominada "reproducible"): en la que el código y los datos pueden analizarse de manera similar a la investigación original para lograr los mismos resultados, y la empíricamente reproducible(también denominada "replicable”): en la que un investigador independiente puede repetir un estudio utilizando los mismos métodos pero creando nuevos datos.
+
 * Reproducibility is a spectrum and instructors should choose the definition most used by their audience. Generally speaking, reproducible research makes it possible to obtain similar results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results). Some break the definition into levels of reproducibility, including computationally reproducible (also called "reproducible"): where code and data can be analyzed in a similar manner as in the original research to achieve the same results, and empirically reproducible (also called “replicable”): where an independent researcher can repeat a study using the same methods but creating new data.
 
 **Impacto de la investigación**
 **Research Impact**
+
+* Involucra aspectos académicos, económicos y sociales, o una combinación de los tres. El impacto es la contribución demostrable de  la investigación para cambiar la comprensión y el avance científico, el método, la teoría y la aplicación entre y a través disciplinas, y el papel más amplio que desempeña fuera del sistema de investigación.
 
 * Involve academic, economic and societal aspects, or some combination of all three. Impact is the demonstrable contribution that research makes in shifting understanding and advancing scientific, method, theory and application across and within disciplines, and the broader role that this plays outside of the research system.
 
@@ -299,21 +308,35 @@
 **Subscripción**
 **Subscription**
 
+* Una forma de modelo comercial mediante el cual se paga un importe para obtener acceso a un producto o servicio, en este caso, los resultados de la investigación académica.
+
 * A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research.
 
+**Formador**
 **Trainer**
+
+*	El moderador e instructor de una formación, cuya función es garantizar que se cumplan los objetivos de dicha formación, llevar a cabo las prácticas y asegurar que no quede nadie excluido.
 
 * The moderator and instructor of a training, whose role is to ensure the training objectives are met, run the practice, and ensure no one is left out.
 
+**Formación**
 **Training**
+
+* Formación es cualquier actividad organizada que enseña, informa o transfiere habilidades o conocimientos sobre competencias específicas útiles mediante el aprendizaje activo y comprometido.
 
 * Training is any organised activity that teaches, informs, or transfers skills or knowledge on specific useful competencies through active, engaged learning. 
 
+**Formato de formación**
 **Training Format**
+
+* Un método estandarizado y con un nombre convencional que aplica un formador e incluye cualquier tipo de herramientas pedagógicas necesarias (es decir, motivación / desmotivación, enfoques prácticos, etc.).
 
 * A conventionally named, standardised delivery method that is applied by a trainer and includes any number of the pedagogical tools necessary (i.e. motivation/demotivation, hands-on approaches, etc).
 
+**Control de versión**
 **Version Control**
+
+* El control de versión es la gestión de cambios en documentos, programas de ordenador, sitios web grandes y otras recopilaciones de información de manera lógica y persistente, permitiendo tanto cambios de seguimiento como la capacidad de revertir una parte de información a una revisión previa.
 
 * Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
 
