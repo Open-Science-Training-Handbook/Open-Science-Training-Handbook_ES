@@ -210,27 +210,46 @@
 
 * Availability of source code for a piece of software, along with an open source license permitting reuse, adaptation, and further distribution.
 
+**Revisión por pares**
 **Peer Review**
+
+*	Un proceso mediante el cual un artículo de investigación es examinado por expertos de la comunidad antes de su publicación.
 
 * A process by which a research article is vetted by experts from the community before publication.
 
+**Identificador persistente (PID)**
 **Persistent Identifier (PID)**
+
+* Un identificador persistente (también PID) es una denominación única y estable (referencia) de un recurso digital (por ejemplo, datos de investigación) mediante la asignación de un código al que se puede hacer referencia de forma persistente y explícita en Internet.
 
 * A persistent identifier (also PID) is a unique and stable denomination (reference) of a digital resource (e.g. research data) through allocation of a code that can be persistently and explicitly referenced on the internet.
 
+**Formato de archivo persistente/preferido**
 **Persistent/Preferred File Formats **
+
+* Formatos no propietarios que siguen estándares internacionales documentados, y que son comúnmente utilizados por la comunidad de investigación, utilizan la codificación de caracteres estándar (por ejemplo, ASCII, UTF-8), y la compresión, si se usa, no ocasiona pérdidas.
 
 * Non-proprietary formats that follow documented international standards, are commonly used by the research community, use standard character encoding (e.g. ASCII, UTF-8), and were compression, if used at all, is lossless.
 
+
+**Preprint (manuscrito previo a la revisión por pares)**
 **Preprint**
+
+* Un manuscrito que aún no ha sido sometido a una revisión formal por pares, distribuido para recibir comentarios previos a la publicación por parte de otros investigadores.
 
 * A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
 
+**Prerregistro**
 **Preregistration**
+
+* Los investigadores tienen la opción o están obligados a enviar información importante sobre su estudio (por ejemplo: motivos para una investigación, hipótesis, diseño y estrategia analítica) a un registro público antes de comenzar el estudio. EL prerregistro puede ayudar a contrarrestar sesgos
 
 * Researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
 
+**Archivo README**
 **README file**
+
+* Archivo en el que se documentan aspectos relativos a los datos de investigación. La documentación debe ser suficiente para que otros investigadores puedan comprender.
 
 * File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
 
