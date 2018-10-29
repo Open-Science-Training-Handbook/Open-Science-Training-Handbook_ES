@@ -74,6 +74,8 @@
 
 * Se trata de datos como todos los objetos disponibles digitalmente (simples o complejos) que surgen o son el resultado del proceso de investigación.
 
+* Data in the sense used here are all digitally available objects (simple or complex) that emerge or are the result of the research process.
+
 **Minería de datos**
 **Data Mining**
 
@@ -118,73 +120,93 @@
 
 * (General Data Protection Regulation) seeks to create a harmonised data protection law framework across the EU. It aims to restitute the control of personal data to citizens, whilst imposing strict rules on those hosting and 'processing' these data, anywhere in the world. The Regulation also introduces rules relating to the free movement of personal data within and outside the EU.
 
-**Impact Factor**
+
 **Factor de impacto**
+**Impact Factor**
+
+* Una medida numérica que indica el promedio de citas que reciben en un año los artículos publicados en una revista en los últimos dos años. Con frecuencia se utiliza como un indicador de la importancia relativa de una revista. Su transferencia al impacto de artículos individuales publicados en una revista se considera problemática.
 
 * A numerical measure that indicates the average number of citations to articles published over the previous two years in a journal. It is frequently used as a proxy for a journal's relative importance. Its transfer to the impact of individual articles published in a journal is considered to be problematic.
 
-* Una medida numérica que indica el promedio de citas que reciben en un año los artículos publicados en una revista en los últimos dos años. Con frecuencia se utiliza como un indicador de la importancia relativa de una revista. Su transferencia al impacto de artículos individuales publicados en una revista resulta problemática.
-
-**Intellectual Property**
 **Propiedad intelectual**
-
-* A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
+**Intellectual Property**
 
 * Un término legal que se refiere a las creaciones de la mente. Como ejemplos de propiedad intelectual están la música, literatura, pintura, escultura, video y otras obras artísticas; descubrimientos e invenciones; así como frases, símbolos y diseños.
 
-**Journal**
-**Revista**
+* A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
 
-* A series of published research articles. Historically divided into volumes and issues.
+**Revista**
+**Journal**
 
 * Publicación seriada que incluye artículos de investigación. Historicamente se divide en volúmenes y números.
 
+* A series of published research articles. Historically divided into volumes and issues.
 
-**Licence**
 **Licencia**
+**Licence**
+
+* Una licencia permite a un tercero realizar ciertas acciones con un trabajo o datos. La licencia informa sobre los derechos de uso de un recurso (por ejemplo, texto, datos, código fuente).
 
 * A license allows a third party to perform certain actions with a work or data. The license informs about the usage rights of a resource (e.g. text, data, source code).
 
-**Metadata**
 **Metadatos**
+**Metadata**
+
+* Los metadatos proporcionan una descripción básica de los datos; a menudo incluyen la autoría, fechas, título, resumen, palabras clave y la información de licencia. Principalmente sirven para la localización de datos (por ejemplo, creador, período de tiempo, ubicación geográfica).
 
 * Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location). They.
 
-**Open Access**
 **Acceso abierto**
+**Open Access**
+
+* El acceso abierto se refiere al acceso en línea libre y gratuito al contenido científico revisado por expertos con libertad de reusabilidad con respecto a las restricciones de derechos de autor.
 
 * Open Access refers to online, free of cost access to peer reviewed scientific content with free reusability regarding copyright restrictions.
 
 **Open Data**
 **Datos abiertos**
 
+* Los datos abiertos son conjuntos de datos en línea accesibles de forma libre y gratuita, que se pueden usar, reutilizar y distribuir siempre que la fuente de datos sea atribuida.
+
 * Open Data are online, free of cost, accessible data that can be used, reused and distributed provided that the data source is attributed.
 
-**Open Evaluation**
 **Evaluación abierta**
+**Open Evaluation**
+
+* El desarrollo de un sistema o protocolo de evaluación justo para las propuestas de investigación, basado en la transparencia del proceso y de las personas involucradas
 
 * The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
 
 **Open Lab Notebooks**
+**Cuadernos de laboratorio abiertos (open notebooks)** 
 
+* Un concepto de escribir habitualmente investigación de manera que las notas de investigación y los datos se acumulen y se publiquen en línea tan pronto como se obtengan.
 
 * A concept of writing about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
 
 **Open Materials**
-**Materiales en abierto**
+**Materiales abiertos (materiales en abierto)**
 
+* Materiales de investigación destinados a ser compartidos, por ejemplo, muestras biológicas y geológicas; se trata de otra práctica de ciencia abierta.
 
 * Sharing of research materials, for example, biological and geological samples, is another Open Science practice.
 
 **Open Peer Review**
+**Revisión abierta (revisión en abierto)**
 
 * An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process.
 
+**Ciencia abierta**
 **Open Science**
+
+* Ciencia abierta es el movimiento que hace que la investigación científica, los datos y la difusión sean accesibles a todos los niveles de la sociedad.
 
 * Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.
 
+**Código abierto**
 **Open Source**
+
+* Disponibilidad de código fuente para software, que va acompañado de una licencia de código abierto que permite su reutilización, adaptación y distribución adicional.
 
 * Availability of source code for a piece of software, along with an open source license permitting reuse, adaptation, and further distribution.
 
