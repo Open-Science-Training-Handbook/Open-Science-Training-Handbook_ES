@@ -283,7 +283,7 @@
 
 * Involve academic, economic and societal aspects, or some combination of all three. Impact is the demonstrable contribution that research makes in shifting understanding and advancing scientific, method, theory and application across and within disciplines, and the broader role that this plays outside of the research system.
 
-**Financiador de la investigación*
+**Financiador de la investigación**
 **Research Funder**
 
 * Un instituto, corporación o entidad gubernamental que proporciona asistencia financiera para la investigación.
