@@ -257,30 +257,46 @@
 
 * Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
 
+**Repositorio**
 **Repository**
+
+* Un repositorio se define como la infraestructura y el servicio que permiten el almacenamiento persistente, eficiente y sostenible de objetos digitales (como documentos, datos y códigos).
 
 * Repository is defined as the infrastructure and corresponding service that allows for the persistent, efficient and sustainable storage of digital objects (such as documents, data and code). 
 
+**Investigación reproducible**
 **Reproducible Research**
 
 * Reproducibility is a spectrum and instructors should choose the definition most used by their audience. Generally speaking, reproducible research makes it possible to obtain similar results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results). Some break the definition into levels of reproducibility, including computationally reproducible (also called "reproducible"): where code and data can be analyzed in a similar manner as in the original research to achieve the same results, and empirically reproducible (also called “replicable”): where an independent researcher can repeat a study using the same methods but creating new data.
 
+**Impacto de la investigación**
 **Research Impact**
 
 * Involve academic, economic and societal aspects, or some combination of all three. Impact is the demonstrable contribution that research makes in shifting understanding and advancing scientific, method, theory and application across and within disciplines, and the broader role that this plays outside of the research system.
 
+**Financiador de la investigación*
 **Research Funder**
+
+* Un instituto, corporación o entidad gubernamental que proporciona asistencia financiera para la investigación.
 
 * An institute, corporation or government body that provides financial assistance for research.
 
+**Communicación académica**
 **Scholarly Communication**
+
+* La creación, transformación, difusión y preservación del conocimiento relacionado con la enseñanza, la investigación y los desempeños académicos; el proceso de académicos e investigadores que comparten y publican los resultados de sus investigaciones para que estén disponibles para la comunidad académica en general. La creación, transformación, difusión y preservación del conocimiento relacionado con la enseñanza, la investigación y los esfuerzos académicos; el proceso de académicos, académicos e investigadores que comparten y publican los resultados de sus investigaciones para que estén disponibles para la comunidad académica en general.
 
 * The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community.
 
+**Compartir**
 **Sharing**
+
+* El uso conjunto de un recurso o espacio. Un aspecto fundamental de la investigación colaborativa. Como la mayoría de las investigaciones se crean y publican digitalmente, el contenido digital resultante no se percibe como competidor y se puede compartir sin ninguna pérdida para el creador original. 
 
 * The joint use of a resource or space. A fundamental aspect of collaborative research. As most research is digitally-authored & digitally-published, the resulting digital content is non-rivalrous and can be shared without any loss to the original creator.
 
+
+**Subscripción**
 **Subscription**
 
 * A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research.
