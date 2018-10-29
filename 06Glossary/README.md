@@ -227,7 +227,7 @@
 * A persistent identifier (also PID) is a unique and stable denomination (reference) of a digital resource (e.g. research data) through allocation of a code that can be persistently and explicitly referenced on the internet.
 
 **Formato de archivo persistente/preferido**
-**Persistent/Preferred File Formats **
+**Persistent/Preferred File Formats**
 
 * Formatos no propietarios que siguen estándares internacionales documentados, y que son comúnmente utilizados por la comunidad de investigación, utilizan la codificación de caracteres estándar (por ejemplo, ASCII, UTF-8), y la compresión, si se usa, no ocasiona pérdidas.
 
