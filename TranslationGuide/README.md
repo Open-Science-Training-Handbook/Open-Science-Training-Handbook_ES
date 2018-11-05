@@ -1,17 +1,20 @@
 ## Guía de traducción - Manual de capacitación FOSTER de Ciencia Abierta
 Coordinación de la traducción al español: Claudia Vilches - Biblioteca de la CEPAL claudia.vilches@un.org </br>
 Edición y revisión final: Rosario Rogel - Universidad Autónoma del Estado de México; Nicolás Alessandroni - Universidad Autónoma de Madrid (UAM); Claudia Vilches - Biblioteca de la CEPAL.
+Revisora Externa: Remedios Melero
 
 
 Traductores colaboradores: 
-Alicia Gómez  - aliciaf.gomez@yahoo.com / 
-Ivonne Lujano - ivonne@doaj.org / 
-Lourdes Feria - lourdesferia@hotmail.com / 
-Paula Martínez -paml@dtu.dk / 
-Benito Castro - bibliobenito@gmail.com / 
-Paloma Bougeois - pbg.034@gmail.com / 
-Rosario Rogel - rosariorogel@gmail.com / 
-Ricardo Hartley - aufschieben@icloud.com /
+Bougeois, Paloma - pbg.034@gmail.com / 
+Castro, Benito - bibliobenito@gmail.com / 
+Feria, Lourdes - lourdesferia@hotmail.com / 
+Gómez, Alicia  - aliciaf.gomez@yahoo.com / 
+Lujano, Ivonne - ivonne@doaj.org / 
+Martínez, Paula - paml@dtu.dk / 
+Melero, Remedios - rmelero@iata.csic.es
+Hartley, Ricardo - aufschieben@icloud.com /
+Rogel, Rosario - rosariorogel@gmail.com / 
+
 
 Antes de comenzar la traducción revisa el(los) capítulo(s) que tiene(s) asignado(s). De ese modo evitamos la duplicación de esfuerzos. Como ya eres miembro de esta comunidad, puedes editar directamente en línea en Github o usando una aplicación en tu escritorio. 
 Selecciona el Capítulo y luego edita el texto usando el ícono (lápiz) localizado al lado derecho de la pantalla.
@@ -133,9 +136,9 @@ Total de palabras del Manual: 43.243.
     <td>Ricardo Hartley</td>
     <td>1.137</td>
     <td>24-09</td>
-    <td>Claudia Vilches</td>
+    <td>Reme Melero</td>
     <td></td>
-    <td></td>
+    <td>Reme Melero</td>
   </tr>
   <tr>
     <td>Open Science Policies</td>
