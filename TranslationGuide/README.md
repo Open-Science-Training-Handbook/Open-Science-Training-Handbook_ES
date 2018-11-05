@@ -28,6 +28,7 @@ Total de palabras del Manual: 43.243.
     <td>AVANCE Sep-Oct</td>
     <td>RESPONSABLE REVISIÓN</td>
     <td>ESTADO REVISIÓN Nov-Dic</td>
+    <td>REVISOR EXTERNO (Reme Melero)</td>
   </tr>
  <tr>
     <td>Summary</td>
@@ -35,6 +36,7 @@ Total de palabras del Manual: 43.243.
     <td>86</td>
     <td>03-09</td>
     <td>Rosario Rogel</td>
+    <td></td>
     <td></td>
   </tr>
  <tr>
@@ -44,6 +46,7 @@ Total de palabras del Manual: 43.243.
     <td>03-09</td>
     <td>Rosario Rogel</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Introduction</td>
@@ -51,6 +54,7 @@ Total de palabras del Manual: 43.243.
     <td>1.330</td>
     <td>03-09</td>
     <td>Rosario Rogel</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -60,6 +64,7 @@ Total de palabras del Manual: 43.243.
     <td>03-10</td>
     <td>Rosario Rogel</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Open Concepts and principles</td>
@@ -67,6 +72,7 @@ Total de palabras del Manual: 43.243.
     <td>1.292</td>
     <td>03-09</td>
     <td>Rosario Rogel</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -76,6 +82,7 @@ Total de palabras del Manual: 43.243.
     <td>24-09</td>
     <td>Claudia Vilches</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Open Research Software and Open Source</td>
@@ -83,6 +90,7 @@ Total de palabras del Manual: 43.243.
     <td>2.087</td>
     <td>24-09</td>
     <td>Claudia Vilches</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -92,6 +100,7 @@ Total de palabras del Manual: 43.243.
     <td>05-11</td>
     <td>Claudia Vilches</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Open Access to Published Research Results</td>
@@ -99,6 +108,7 @@ Total de palabras del Manual: 43.243.
     <td>2.681</td>
     <td></td>
     <td>Rosario Rogel</td>
+    <td></td>
   </tr>
   <tr>
     <td>Open Licensing and File Formats</td>
@@ -106,6 +116,7 @@ Total de palabras del Manual: 43.243.
     <td>1.828</td>
     <td></td>
     <td>Rosario Rogel</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -115,6 +126,7 @@ Total de palabras del Manual: 43.243.
     <td></td>
     <td>Rosario Rogel</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Open Peer Review, Metrics and Evaluation</td>
@@ -122,6 +134,7 @@ Total de palabras del Manual: 43.243.
     <td>1.137</td>
     <td>24-09</td>
     <td>Claudia Vilches</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -131,6 +144,7 @@ Total de palabras del Manual: 43.243.
     <td>16-09</td>
     <td>Claudia Vilches</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Citizen Science</td>
@@ -138,6 +152,7 @@ Total de palabras del Manual: 43.243.
     <td>922</td>
     <td>16-09</td>
     <td>Claudia Vilches</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -147,6 +162,7 @@ Total de palabras del Manual: 43.243.
     <td>16-09</td>
     <td>Claudia Vilches</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Open Advocacy</td>
@@ -154,6 +170,7 @@ Total de palabras del Manual: 43.243.
     <td>1.015</td>
     <td>16-09</td>
     <td>Claudia Vilches</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -163,6 +180,7 @@ Total de palabras del Manual: 43.243.
     <td>26-10</td>
     <td>Nicolás Alessandroni</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Organizational Aspects</td>
@@ -170,6 +188,7 @@ Total de palabras del Manual: 43.243.
     <td>4.095</td>
     <td>26-10</td>
     <td>Rosario Rogel</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -179,6 +198,7 @@ Total de palabras del Manual: 43.243.
     <td></td>
     <td>Nicolás Alessandroni</td>
     <td></td>
+    <td></td> 
   </tr>
   <tr>
     <td>Glossary</td>
@@ -186,6 +206,7 @@ Total de palabras del Manual: 43.243.
     <td>1.753</td>
     <td>05-11</td>
     <td>Claudia Vilches</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -195,11 +216,13 @@ Total de palabras del Manual: 43.243.
     <td></td>
     <td>Claudia Vilches</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>About the Authors & Facilitators</td>
     <td>Claudia Vilches</td>
     <td>2.539</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
