@@ -96,7 +96,7 @@ Usted puede discutir el futuro de la comunicación académica presentando alguno
 
 1. Los participantes podrán elegir dónde publicar su trabajo de investigación, describiendo las implicaciones y consecuencias de esta elección.
 
-2. Los participantes podrán determinar la política de autoarchivo de una revista donde quieran publicar según la información disponible en el sitio web correspondiente, o en cualquiera de los portales que brindan información general como [Sherpa/Romeo](http://www.sherpa.ac.uk/romeo/), [Dulcinea](http://www.accesoabierto.net/dulcinea/), [Heloïse](https://heloise.ccsd.cnrs.fr/) y [Diadorim] (http://diadorim.ibict.br/).
+2. Los participantes podrán determinar la política de autoarchivo de una revista donde quieran publicar según la información disponible en el sitio web correspondiente, o en cualquiera de los portales que brindan información general como [Sherpa/Romeo](http://www.sherpa.ac.uk/romeo/), [Dulcinea](http://www.accesoabierto.net/dulcinea/), [Heloïse](https://heloise.ccsd.cnrs.fr/) y [Diadorim] (http://diadorim.ibict.br/) para revistas brasileñas.
 
 3. Los participantes que quieran establecer una nueva revista de acceso abierto podrán describir su propia política de autoarchivo, licencia y modelo de negocio.
 
