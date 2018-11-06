@@ -1,13 +1,13 @@
 ## <img src="/Images/Icons/open_access.png" width="200" height="200" />
-## 5. Open Access to Published Research Results
+## 5. Acceso abierto a los resultados de investigación publicados 
 
-### What is it?
+### ¿Qué es?
 
-Open Access to publications means that research publications like articles and books can be accessed online, free of charge by any user, with no technical obstacles \(such as mandatory registration or login to specific platforms\). At the very least, such publications can be read online, downloaded and printed. Ideally, additional rights such as the right to copy, distribute, search, link, crawl and mine should also be provided. Open Access can be realised through two main non-exclusive routes:
+El acceso abierto a publicaciones significa que se pueden acceder en línea, sin costo alguno para cualquier usuario, sin obstáculos técnicos (como el registro obligatorio o el inicio de sesión en plataformas específicas) a las publicaciones de investigación como artículos y libros. Como mínimo, estas publicaciones se pueden leer en línea, descargar e imprimir. Lo ideal es que también se proporcionen derechos adicionales como el derecho de copiar, distribuir, buscar, vincular, rastrear y realizar minería. El acceso abierto se puede realizar a través de dos rutas principales no exclusivas:
 
-* Green Open Access \(self-archiving\): The published work or the final peer-reviewed manuscript that has been accepted for publication is made freely and openly accessible by the author, or a representative, in an online repository. Some publishers request that Open Access be granted only after an embargo period has elapsed. This embargo period can last anywhere between several months and several years. For publications that have been deposited in a repository but are under embargo, usually at least the metadata are openly accessible.
+* Acceso Abierto Verde (autoarchivo): el autor o un representante puede acceder libre y abiertamente al trabajo publicado o al manuscrito final revisado por pares que haya sido aceptado para publicación, en un repositorio en línea. Algunos editores solicitan que el acceso abierto se conceda sólo después de que haya transcurrido un período de embargo. Este período de embargo puede durar entre varios meses y varios años. Para las publicaciones que han sido depositadas en un repositorio pero que están bajo embargo, generalmente al menos los metadatos son accesibles de manera abierta.
 
-* Gold Open Access \(Open Access publishing\): The published work is made available in Open Access mode by the publisher immediately upon publication. The most common business model is based on one-off payments by authors \(commonly called APCs – article processing charges – or BPCs – book processing charges\). Where Open Access content is combined with content that requires a subscription or purchase, in particular in the context of journals, conference proceedings and edited volumes, this is called hybrid Open Access.
+* Acceso abierto Dorado (publicación en acceso abierto): el trabajo publicado por el editor está disponible en modo de acceso abierto inmediatamente después de la publicación. El modelo de negocio más común se basa en pagos únicos de los autores (comúnmente llamados APC - cargos por procesamiento de artículos - o BPC - cargos por procesamiento de libros). Cuando el contenido de acceso abierto se combina con contenido que requiere una suscripción o compra, en particular en el contexto de revistas, actas de conferencias y volúmenes editados, esto se denomina acceso abierto híbrido.
 
 ### Rationale
 
