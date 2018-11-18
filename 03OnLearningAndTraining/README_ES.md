@@ -2,192 +2,114 @@
 ## On Learning and Training
 ## Sobre Aprendizaje y Capacitación
 
-
-This chapter providing context on training strategies, practical guidance in designing a course as well as an overview of pedagogical theories. It will focus on three key concepts in teaching and training:
-
-Este capítulo proporciona un contexto sobre las estrategias de capacitación, una guía práctica para diseñar un curso y una descripción general de teorías pedagógicas. Se enfocará en tres conceptos claves usados en enseñanza y capacitación:
-
-1. Preparation
-2. Execution
-3. Reflection
+Este capítulo proporciona un contexto sobre las estrategias de capacitación, una guía práctica para diseñar un curso y una descripción general de teorías pedagógicas. Se enfocará en tres conceptos clave para la enseñanza y la capacitación:
 
 1. Preparación
+
 2. Ejecución
+
 3. Reflexión
 
+La enseñanza y la capacitación involucran, primeramente, la preparación previa a impartir un curso. La preparación incluye la elección del contenido, la decisión sobre los métodos de enseñanza más appropiados y la secuenciación de los mismos para maximizar la efectividad y el impacto del entrenamiento. En segundo lugar, la enseñanza involucra la impartición de un curso (esto es, la manera en la que actúas e interactúas con los participantes). Incluso si te sientes muy seguro acerca de un tema en particular, es muy aconsejable evitar impartir el curso antes de haber finalizado la preparación de éste. Además, es posible que necesites poner a prueba los contenidos, especialmente los ejercicios prácticos. Luego, durante el curso, necesitas ser flexible porque las cosas rara vez suceden complemente como tú lo esperas. Finalmente, la enseñanza también involucra la evaluación y la auto-evaluación posteriores a la impartición de un curso. Es más que probable que tengas que involucrarte varias veces con un mismo curso o uno similar, especialmente si la evaluación muestra que ha sido bueno.
 
-Teaching and training is firstly about preparation before delivering a course. Preparation includes the choice of content, deciding on appropriate teaching methods and putting them into a sequence to maximise the effectiveness and impact of your training. Secondly, teaching is about delivering a course \(i.e., how you act and interact with the participants\). Even if you are feeling very confident on a particular topic, it is very advisable to avoid starting the delivery before having finished the preparation. Moreover, you may need to test your content, especially the practical exercises. Then, during the course delivery, you need a good portion of flexibility, because things rarely happen completely as you expect. Finally, teaching is also about evaluation and self-assessment once you have delivered a course. It is more than likely that you have to engage yourself in the same or a similar course several times, in particular if the evaluation shows that it was good.
-
-La enseñanza y la capacitación se tratan, primeramente, de la preparación antes de impartir un curso. La preparación incluye la elección del contenido, decidir sobre el método de enseñanza appropiado y ponerlos en una secuencia que permita maximizar la efectividad e impacto del entrenamiento. En segundo lugar, la enseñanza se tata de impartir un curso (es decir, cómo actúas e interaccionas con los participantes). Incluso si te sientes muy seguro acerca de un tema en particular, es muy aconsejable evitar impartir el curso antes de haber finalizado la preparación de éste. Además, es possible que necesites testear el contenido del curso, especialmente los ejercicios prácticos. Luego, durante la entrega del curso, necesitas tener una buena ración de flexibilidad proque las cosas rara vez suceden complemente como tú lo esperas. Finalmente, la enseñanza se trata de la evaluación y la auto-evaluación una vez que hayas impartido el curso. Probablemente tengas que involucrarte varias veces en el mismo curso o uno similar, especialmente si la evaluación muestra que ha sido bueno.
-
-To better prepare yourself for future events, you should reflect on what worked well and what did not work so well, and use this to iteratively define your preparations and delivery. Briefly said, there is a “before”, a “during” and an “after” class, i.e. activities in a cycle, similar to science. This chapter provides a practical guidance for the trainers on how to prepare and deliver a course to various audiences: what are the main obstacles one has to overcome and what are the main issues one needs to keep in mind when putting together a training.
-
-Para prepararte mejor para futuros eventos deberías reflexionar acerca de qué funcionó bien y qué no funcionó tan bien, y usar esto de forma iterativa para definir tus preparaciones y entregas. En pocas palabras, hay un “antes”, un “durante” y un “después” de la clase, es decir, actividades en un ciclo, similar a la ciencia. Este capítulo proporciona una guía práctica para los capacitadores acerca de cómo preparar y entregar un curso a varias audiencias: cuáles son los principals obstáculos que se deben supercar y cuáles son los principales problemas que se deben tener en mente cuando se organiza un entrenamiento.
-
-## Some reflections before you start
+Para prepararte mejor para futuros eventos deberías reflexionar acerca de qué funcionó bien y qué no funcionó tan bien, y emplear esto para definir iterativamente futuras preparaciones e imparticiones. En pocas palabras, hay un “antes”, un “durante” y un “después” de la clase (las actividades forman un ciclo, similarmente a lo que ocurre en la ciencia). Este capítulo proporciona una guía práctica para los capacitadores acerca de cómo preparar e impartir un curso para audiencias diferentes: cuáles son los principales obstáculos que se deben superar y cuáles son los principales problemas que se deben tener en cuenta al organizar un entrenamiento.
 
 ## Algunas reflexiones antes de comenzar
 
 In the following part, we will focus mainly on the first aspect \(preparation\) and then give you guidance on how to plan and manage your course. To start with, we will speak about some theoretical issues which will provide you with an idea of what teaching and learning means and how teaching adults differs from teaching teenagers or children.
 
-A continuación, nos enfocaremos principalmente en el primer aspecto \(preparación\) y luego te entregaremos guías de cómo planificar y gestionar tu curso. Para empezar, hablaremos sobre algunos asuntos teóricos que te darán una idea de qué significa enseñar y aprender, y cómo la enseñanza de adultos se diferencia de la enseñanza de adolescenetes o niños.
+A continuación nos enfocaremos, principalmente, en el primer aspecto \(preparación\) y luego te guiaremos en la planificación y la gestión de tu curso. Para empezar, hablaremos sobre algunos asuntos teóricos que te darán una idea de qué significa enseñar y aprender y cómo la enseñanza de adultos se diferencia de la enseñanza de adolescenetes o niños.
 
 ### Training vs. Teaching
 
-### Capacitación frente a Enseñanza
+### Capacitación *versus* enseñanza
 
-* Teaching is more related to theoretical concepts than training, which is related to the practical application of knowledge \(i.e., development of skills\).
+* La enseñanza está más relacionada que la capacitación con los conceptos teóricos. La capacitación está relacionada con la aplicación práctica del conocimiento \(es decir, con el desarrollo de habilidades\).
 
-* La enseñanza está más relacionada con conceptos teóricos que la capacitación, la cuál está relacionada con la aplicación práctica del conocimiento \(es decir, desarrollo de habilidades\).
-
-* Teaching seeks to impart new knowledge while training equips the already knowledgeable with tools and techniques to develop a specific skill set.
-
-* La enseñanza busca impartir nuevos conocimientos, mientras que la capacitación equipa a aquellos ya formados con herramientas y técnicas para desarrollar un conjunto específico de habilidades.
+* La enseñanza busca impartir nuevos conocimientos, mientras que la capacitación equipa a quienes ya están formados con herramientas y técnicas para desarrollar un conjunto específico de habilidades.
 
 * Teaching is, usually, done within the context of education and academic environments, while training is associated with post-high school and/or postgraduate short and intensive courses.
 
-* La enseñanza es, usualmente, realizada dentro de un contexto de educación y de ambientes académicos, mientras que la capacitación se asocia con cursos cortos e intensivos posterior a la [educación secundaria](https://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/MultiSpa/D7CD980C2DEF5D9385256AA0005FC6F0?OpenDocument) o de posgrado.
+* La enseñanza se realiza, usualmente, en el contexto de ambientes educativos y académicos, mientras que la capacitación se asocia con cursos cortos e intensivos posteriores a la educación secundaria y/o universitaria de grado.
 
-* Usually, teachers give feedback to their students, while trainers receive feedback from the learners.
-
-* Usualmente, los educadores proporcionan comentarios a sus estudiantes, mientras que los capacitadores reciben comentarios de los alumnos.
-
-However...
+* Usualmente los educadores proporcionan retroalimentación a sus estudiantes, mientras que los capacitadores reciben retroalimentación de los alumnos.
 
 Sin embargo...
 
-* Training is the process of teaching or learning a skill or job, and trainers do actually teach something. Therefore, training can be considered as a broader activity that may encompass teaching.
+* La capacitación es el proceso de enseñar o aprender una habilidad o una tarea, y los capacitadores realmente enseñan algo. Por lo tanto, la capacitación se puede considerar como una actividad más amplia que puede abarcar la enseñanza.
 
-* La capacitación es el proceso de enseñar o aprender una habilidad o un trabajo, y los capacitadores realmente enseñan algo. Por lo tanto, la capacitación se puede considerar como una actividad más amplia que puede abarcar la enseñanza.
+* La enseñanza también puede incluír actividades y objetivos típicos de la capacitación, como sesiones prácticas y demostraciones.
 
-* Teaching may also include typical training activities and goals, such as practical sessions and demonstrations.
+* A pesar de que, a veces, las técnicas de enseñanza y capacitación pueden variar, la diferencia entre la capacitación y la enseñanza no está relacionada con el proceso *per se*, sino con el enfoque. La capacitación generalmente tiene un enfoque más específico que la enseñanza.
 
-* La enseñanza también puede incluír actividades y objetivos típicos de capacitación, como sesiones prácticas y demostraciones.
-
-* Despite the fact that teaching and training techniques may sometimes vary, the difference between training and teaching is not related to the process itself but to the focus, with training generally having a more specific focus than teaching.
-
-* A pesar de que las técnicas de enseñanza y capacitación a veces pueden variar, la diferencia entre la capacitación y la enseñanza no está relacionada con el proceso en sí sino con el enfoque, donde la capacitación generalmente tiene un enfoque más específico que la enseñanza.
-
-* In order to develop competencies as a professional, a person needs to attempt to understand the theoretical concepts as well as to have practical exposure. Therefore, teaching and training are equally important and complementary educational concepts.
-
-* Para desarrollar capacidades como profesional, una persona necesita intentar comprender los conceptos teóricos, como también, tener exposición práctica. Por lo tanto, la enseñanza y la capacitación son conceptos educacionales igualmente importantes y complementarios.
-
-## <img src="/Images/03 On Learning and Training/03_teaching_vs_learning.png" />
+* Para desarrollar capacidades como un profesional una persona necesita intentar comprender los conceptos teóricos y, también, tener exposición práctica. Por lo tanto, la enseñanza y la capacitación son conceptos educacionales igualmente importantes y complementarios.
 
 ## <img src="/Images/03 On Learning and Training/03_teaching_vs_learning_ES.png" />
 
-
-### Strategies
-
 ### Estrategias
 
-There are different theoretical approaches to learning and training, which are sometimes also influenced by the culture you live in. Some people like to talk and give lectures. Others like to listen, others don’t. Some exercises are simple and look for clear answers. Other exercises are centered around problems and focus on giving the participants time and space to reflect on them and find solutions. Finally, some trainings are designed to give the participants maximum freedom and let them be as creative as possible. Success in trainings like these is more difficult to evaluate.
+Existen diferentes enfoques teóricos para el aprendizaje y la capacitación que, a veces, están influenciados por la cultura en la que vives. A algunas personas les gusta hablar y dictar clases. A otros les gusta escuchar, a otros no. Algunos ejercicios son simples y buscan respuestas claras. Otros ejercicios se centran en problemas y se enfocan en dar tiempo y espacio a los participantes para reflexionar sobre los problemas y encontrar soluciones. Finalmente, algunas capacitaciones están diseñadas para brindar a los participantes la máxima libertad y permitirles ser tan creativos como sea posible. El éxito en capacitaciones como éstas es más difícil de evaluar.
 
-Existen diferentes enfoques teóricos para el aprendizaje y la capacitación que, a veces, están influenciados por la cultura en la que vives. A algunas personas les gusta  hablar y dar clases. A otros les gusta escuchar, a otros no. Algunos ejercicios son simples y buscan respuestas claras. Otros ejercicios se centran en problemas y se enfocan en darle tiempo y espacio a los participantes para reflexionar sobre ellos y encontrar soluciones. Finalmente, algunas capacitaciones están diseñadas para brindar a los participantes la máxima libertad y permitirles ser lo más creativos posibles. El éxito en capacitaciones como estas es más difícil de evaluar.
-
-Four well known learning theories are behaviorism, cognitivism, connectivism and constructivism. They describe different perspectives on how people learn.
-
-Cuatro teorías de aprendizaje bastante conocidas son conductismo, cognitivismo, conectivismo y constructivismo. Ellas describen diferentes perspectivas sobre cómo aprende la gente.
-
-This simplified diagram summarises their main characteristics in very practical terms:
+El conductismo, el cognitivismo, el conectivismo y el constructivismo son cuatro teorías del aprendizaje bien conocidas. Ellas describen diferentes perspectivas sobre cómo aprende la gente.
 
 Este diagrama simplificado resume sus principales características en términos muy prácticos:
 
-
-![image alt text](/Images/image_3.png)
-
 ![image alt text](/Images/image_3_ES.png)
-
-Transcribed from:
 
 Transcrito de:
 
 [https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/)
 
-The work done by the Software Carpentry also helps to understand learning processes: [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
-
 El trabajo realizado por [Software Carpentry](https://carpentries.github.io/instructor-training/01-welcome/index.html) también ayuda a comprender los procesos de aprendizaje: [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
 
-### The Connected Curriculum Framework
-
-### "Connected Curriculum Framework"
+### El "Connected Curriculum Framework"
 
 The recent movement ‘Connected Curriculum Framework’ aims at modernizing learning approaches and adapting them to the 21st century learner. The general objective of the framework is to improve the relationships between student education and research practices by breaking down unnecessary divisions. The framework values rich dialogue, active inquiry, collaboration, and interactions between students and researchers as well as universities and wider communities. This carries interesting promises in the area of Open Science and Citizen Science, Crowdsourcing, etc. You can read the Connected Curriculum here: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
-El movimiento reciente ‘"Connected Curriculum Framework"’ tiene como objetivo modernizar los enfoques de aprendizaje y adaptarlos al estudiante del siglo 21. El objetivo general del Framework es mejorar las relaciones entre la educación de los estudiantes y las prácticas de investigación, destruyendo divisiones innecesarias. El Framework valora el diálogo enriquecedor, la investigación activa, la colaboración y las interacciones entre estudiantes e investigadores, así como las universidades y las comunidades en general. Esto implica promesas interesantes en el área de Ciencia Abierta y Ciencia Ciudadana, Colaboración Masiva, etc. Aquí puedes leer acerca del "Connected Curriculum Framework": [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
+El reciente movimiento llamado "Connected Curriculum Framework" tiene como meta modernizar los enfoques de aprendizaje y adaptarlos al estudiante del siglo 21. El objetivo general del Framework es mejorar las relaciones entre la educación de los estudiantes y las prácticas de investigación destruyendo divisiones innecesarias. El Framework valora el diálogo enriquecedor, la investigación activa, la colaboración y las interacciones tanto entre estudiantes e investigadores como entre las universidades y las comunidades más amplias. Esto resulta prometedor para las áreas de la Ciencia Abierta y la Ciencia Ciudadana, la Colaboración Masiva, etc. Aquí puedes leer acerca del "Connected Curriculum Framework": [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
-#### How is this relevant to you?
+### Por qué esto es relevante para ti?
 
-### Cómo es esto relevante para tí?
+Lo que es importante saber es que existen diferentes enfoques y que no debes sentirte obligado a seguir sólo una estrategia. Más bien se trata de decidir en qué punto de tu capacitación debes aplicar cada estrategia para enseñar y evaluar.
 
-What is important to know, is that there are different approaches and you should not feel obliged to follow only one strategy, but rather decide at which point of your training you should apply which strategy to teach and evaluate.
-
-Lo que es importante de saber es que existen diferentes enfoques y que no debes sentirte obligado a seguir solo una estrategia, sino que debes decidir en qué punto de la capacitación debes aplicar qué estrategia para enseñar y evaluar.
-
-In the end it is practice that matters and it may be helpful to check your content and practical exercises against one of the theoretical approaches in order to find out if they are appropriate at the given moment and for the target audience.
-
-Al final lo que importa es la práctica, y puede ser útil verificar tu contenido y los ejercicios prácticos con uno de los enfoques teóricos para averiguar si son apropiados en el momento dado y para la audiencia objetivo.
+Al final, lo que importa es la práctica, y puede ser útil verificar tu contenido y los ejercicios prácticos con uno de los enfoques teóricos para averiguar si ellos son apropiados para el momento determinado y para la audiencia objetivo.
 
 ## <img src="/Images/03 On Learning and Training/03_expectations.png" width="300" height="300" />
 
-### Expectations about a trainer
-
 ### Expectativas sobre un capacitador
 
-Everyone that comes to your training will come with expectations, conscious and unconscious ones. Among others \(such as teaching methodology, content and prior knowledge\) they will have specific expectations about the trainer.
-
-Todos los que lleguen a tu capacitación vendrán con expectativas, conscientes e inconscientes. Entre otras \(tal como metodología de enseñanza, contenido y conocimiento previo\) tendrán expectativas específicas sobre el capacitador.
+Todos los que lleguen a tu capacitación vendrán con expectativas, conscientes e inconscientes. Entre otras \(tales como metodología de enseñanza, contenido y conocimiento previo\) tendrán expectativas específicas sobre el capacitador.
 
 Most learners will expect you to:
 
-La mayoría de los estudiantes esperan que:
+La mayoría de los estudiantes esperarán que:
 
-* Be enthusiastic about the topics that they are teaching.
+* Seas entusiasta con los temas que estás enseñando. 
+#Posible error en el archivo original ("they are teaching")
 
-* Seas entusiasta con los temas que están enseñando.
+* Tengas una comprensión general de los valores científicos \(o humanistas\) nucleares y reconozcas el papel de la ‘apertura’ como un elemento intrínseco y central de ellos.
 
-* Have a general understanding of core scientific \(or humanist\) values, and recognise the role of ‘openness’ as an intrinsic, core element of this.
+* Comprendas la importancia de factores tales como la transparencia de la investigación y la reproducibilidad, y las implicaciones sociales más amplias de ellos.
 
-* Tengas una comprensión general de los valores científicos \(o humanistas\) básicos, y reconocer el papel de la ‘apertura’ como un elemento intrínseco central de esto.
+* Muestres familiaridad con el proceso de investigación, incluyendo la planificación de la investigación, su realización, la producción de resultados de investigación y la comunicación y publicación de dichos resultados.
 
-* Understand the importance of factors such as research transparency and reproducibility, and the broader societal implications of these.
+* Conozcas los diferentes tipos de procesos de investigación y resultados que pueden ser compartidos, incluyendo datos, código y software, artículos científicos, comunicación, flujos de trabajo, solicitudes de financiamiento y planes de gestión de datos.
 
-* Comprendas la importancia de factores como la transparencia de la investigación y la reproducibilidad, y las implicaciones sociales más amplias de estas.
+* Estés informado sobre las políticas, regulaciones y leyes que podrían afectar a los investigadores al practicar la Ciencia Abierta
 
-* Show familiarity with the research process, including planning research, conducting research, producing research results, and communicating and publishing those results.
+* Comprendas las presiones que resultan de las políticas institucionales (o de la falta de ellas) que determinan la manera en que los investigadores manejan los datos y los resultados, desde la etapa en que ellos se adquieren hasta las etapas en que ellos se comparten y difunden.
 
-* Muestres familiaridad con el proceso de investigación, incluida la planificación de la investigación, hacer investigación, la producción de resultados de investigación y la comunicación y publicación de dichos resultados.
+* Comprendas las expectativas que se generan en el tejido social sobre el uso de recursos y los resultados de las actividades científicas, tales como su impacto en la Ciencia Ciudadana, la comprensión pública de la ciencia, la influencia sobre los profesionales de la educación, etc.
 
-* Have knowledge about the different types of research processes and outputs that can be shared, including data, code and software, papers, communication, workflows, grant applications, and data management plans.
-
-* Tengas conocimiento de los diferentes tipos de procesos de investigación y resultados que pueden compartirse, incluyendo datos, códgo y software, publicaciones, comunicación, flujos de trabajo, solicitudes de financiamiento y planes de gestión de datos.
-
-* Be aware of the policies, regulations and laws that could affect researchers when performing Open Science
-
-* Estés informado de las políticas, regulaciones y leyes que podrían afectar a los investigadores al practicar Ciencia Abierta
-
-* Understand the pressures that result from institutional policies, or lack of them, that shape the way in which researchers handle data and results, from the acquisition stage to the sharing and dissemination stages.
-
-* Comprendas las presiones que resultan de las políticas institucionales, o la falta de ellas, que dan forma a la manera en que los investigadores manejan los datos y los resultados, desde la etapa de adquisición hasta las etapas de compartir y difusión.
-
-* Understand the expectations that are raised in the social fabric about the use of the resources and outcomes of scientific activities, such as its impacts in citizen science, the public understanding of science, the influence in the education providers, etc.
-
-* Be able to teach and have a profound knowledge in Open Science. \(In fact, this is what this book is about.\)
-
-* Seas capaz de enseñar y tener un profundo conocimiento sobre Ciencia Abierta. \(De hecho, de esto se trata este libro.\)
-
-* Provide links to online documents and resources that support newcomers.
+* Seas capaz de enseñar y tener un profundo conocimiento sobre la Ciencia Abierta. \(De hecho, de esto se trata este libro.\)
 
 * Proporciones enlaces a documentos en línea y recursos que apoyen a los principiantes.
 
 ## <img src="/Images/Icons/target.png" width="150" height="150" />
-### Target audiences
 
-### Audiencia objetivo
+### Audiencias destinatarias
 
-A good way to get started with your Open Science training is to address audiences that have some idea and/or are interested in the topic. Generally, these people may be more open to the idea of Open Science. Starting your training with a motivated audience has several advantages:
-
-Una buena manera de comenzar con tu entrenamiento en Ciencia Abierta es dirigirte a audiencias que tengan alguna idea y/o estén interesadas en el tema. En general, estas personas pueden estar más abiertas a la idea de Ciencia Abierta. Comenzar tu entrenamiento con una audiencia motivada tiene varias ventajas:
+Una buena manera de comenzar con tu entrenamiento sobre Ciencia Abierta es dirigirte a audiencias que tengan alguna idea y/o estén interesadas en el tema. Generalmente, estas personas pueden estar más abiertas a la idea de Ciencia Abierta. Comenzar tu entrenamiento con una audiencia motivada tiene varias ventajas:
 
 * Knowing that your audience really is interested in the topic may make you more comfortable diving into a new training area/topic. You may contemplate running a survey to assess this in advance.
 
