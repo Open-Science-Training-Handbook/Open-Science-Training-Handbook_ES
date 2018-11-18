@@ -20,8 +20,6 @@ In the following part, we will focus mainly on the first aspect \(preparation\) 
 
 A continuación nos enfocaremos, principalmente, en el primer aspecto \(preparación\) y luego te guiaremos en la planificación y la gestión de tu curso. Para empezar, hablaremos sobre algunos asuntos teóricos que te darán una idea de qué significa enseñar y aprender y cómo la enseñanza de adultos se diferencia de la enseñanza de adolescenetes o niños.
 
-### Training vs. Teaching
-
 ### Capacitación *versus* enseñanza
 
 * La enseñanza está más relacionada que la capacitación con los conceptos teóricos. La capacitación está relacionada con la aplicación práctica del conocimiento \(es decir, con el desarrollo de habilidades\).
