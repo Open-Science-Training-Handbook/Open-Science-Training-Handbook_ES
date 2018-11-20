@@ -82,8 +82,8 @@ Most learners will expect you to:
 
 La mayoría de los estudiantes esperarán que:
 
-* Seas entusiasta con los temas que estás enseñando. 
-#Posible error en el archivo original ("they are teaching")
+* Seas entusiasta con los temas que estás enseñando.
+[//]: # (Posible error en el archivo original ("they are teaching"))
 
 * Tengas una comprensión general de los valores científicos \(o humanistas\) nucleares y reconozcas el papel de la ‘apertura’ como un elemento intrínseco y central de ellos.
 
@@ -109,53 +109,31 @@ La mayoría de los estudiantes esperarán que:
 
 Una buena manera de comenzar con tu entrenamiento sobre Ciencia Abierta es dirigirte a audiencias que tengan alguna idea y/o estén interesadas en el tema. Generalmente, estas personas pueden estar más abiertas a la idea de Ciencia Abierta. Comenzar tu entrenamiento con una audiencia motivada tiene varias ventajas:
 
-* Knowing that your audience really is interested in the topic may make you more comfortable diving into a new training area/topic. You may contemplate running a survey to assess this in advance.
+* Saber que tu audiencia está realmente interesada en el tema puede hacer que te sientas más cómodo sumergiéndote en una nueva área/tema de capacitación. Puedes considerar la realización de una encuesta para evaluar esto por adelantado.
 
-* Saber que tu audiencia está realmente interesada en el tema puede hacer que te sientas más cómodo sumergiéndote en una nueva área/tema de capacitación. Puedes contemplar la realización de una encuesta para evaluar esto por adelantado.
-
-* A motivated audience probably will contribute to discussion and provide you with useful input on how to further develop your training curriculum.
-
-* Una audiencia motivada probablemente contribuirá a la discusión y te proporcionará información útil sobre cómo desarrollar tu currículo de capacitación.
-
-* Motivated audiences can become ambassadors of your training
+* Una audiencia motivada probablemente contribuirá a la discusión y te proporcionará información útil sobre cómo desarrollar tu currícula de capacitación.
 
 * Las audiencias motivadas pueden convertirse en embajadores de tu capacitación.
 
-**Information you need to gather about your audience:**
-
 **Información que necesitas recolectar sobre tu audiencia:**
 
-1. Maintaining an inclusive environment, and taking into consideration the diverse backgrounds of your potential attendees, is important for any successful training event. To learn how to make your workshop inclusive, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+1. Mantener un ambiente inclusivo y tener en cuenta la formación de los posibles asistentes es importante para el éxito de cualquier evento de capacitación. Para aprender cómo hacer que tu taller sea inclusivo, mira la [Conference Planning Checklist de SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
-1. Mantener un ambiente inclusivo y tener en cuenta los diversos antecedentes de los posibles asistentes es importante para cualquier evento de capacitación exitoso. Para aprender cómo hacer que tu taller sea inclusivo, mira la [Conference Planning Checklist de SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+2. Que los miembros de la audiencia se conozcan entre sí o no afectará la dinámica del grupo y el tipo de actividades que podrías querer llevar a cabo.
 
-2. Whether the audience members know one another or not in advance will impact the group dynamic and the sorts of activities you might want to conduct.
+3. Si la participación es voluntaria o no influirá su motivación.
 
-2. El hecho de que los miembros de la audiencia se conozcan  previamente entre sí o no, afectará la dinámica del grupo y el tipo de actividades que quieras realizar.
-
-3. Whether the participation is voluntary or not will influence their motivation.
-
-3. Si la participación es voluntaria o no, influirá en su motivación.
-
-4. The knowledge level of the audience regarding the planned discussion topics will affect the content and style of presentations.
-
-4. El nivel de conocimiento de la audiencia con respecto a los temas de discusión planificados afectará el contenido y el estilo de las presentaciones.
+4. El nivel de conocimiento de la audiencia sobre los temas de discusión planificados afectará al contenido y al estilo de las presentaciones.
 
 5. Whether the audience is accustomed to a specific learning method might affect how the participants react to very different training format.
 
-5. Si la audiencia está acostumbrada a un método de aprendizaje específico, puede afectar la reacción de los participantes a un formato de capacitación muy diferente.
-
-6. Audience size:
+5. Que la audiencia esté habituada a un método de aprendizaje específico puede afectar la reacción de los participantes a los muy diversos formatos de capacitación.
 
 6. Tamaño de la audiencia:
 
-   1. set a target audience size, based on the available space/capacity and available time for practical work.
+   1. establece el tamaño de la audiencia basándote en la disponibilidad de espacio/capacidad y de tiempo para el trabajo práctico.
 
-   1. establece un tamaño de la audiencia basado en el espacio/capacidad disponible y el tiempo disponible para el trabajo práctico.
-
-   2. the size of the audience will impact on how well they engage together and interact with the process.
-
-   2. el tamaño de la audiencia tendrá un impacto en la forma en que se relacionen e interactúen con el proceso.
+   2. el tamaño de la audiencia impactará sobre la forma en que sus miembros se relacionarán e interactuarán con el proceso.
 
    3. if you want a larger audience, consider break-out groups, and the logistical requirements that might come with that.
 
