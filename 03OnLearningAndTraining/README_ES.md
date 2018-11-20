@@ -125,8 +125,6 @@ Una buena manera de comenzar con tu entrenamiento sobre Ciencia Abierta es dirig
 
 4. El nivel de conocimiento de la audiencia sobre los temas de discusión planificados afectará al contenido y al estilo de las presentaciones.
 
-5. Whether the audience is accustomed to a specific learning method might affect how the participants react to very different training format.
-
 5. Que la audiencia esté habituada a un método de aprendizaje específico puede afectar la reacción de los participantes a los muy diversos formatos de capacitación.
 
 6. Tamaño de la audiencia:
@@ -137,123 +135,71 @@ Una buena manera de comenzar con tu entrenamiento sobre Ciencia Abierta es dirig
 
    3. if you want a larger audience, consider break-out groups, and the logistical requirements that might come with that.
 
-   3. si deseas una audiencia más numerosa, considera separarlos por grupos, y los requisitos logísticos que esto podría significar.
+   3. si deseas una audiencia más numerosa, considera separar a los asistentes en grupos y los requisitos logísticos que esto podría conllevar.
 
-7. Consider whether your event will be open to the public or limited to those affiliated with the host institution. A public event may help increase and diversity attendance, while limiting it can help you focus on particular topics. In addition, attendees from the same institution are more likely to already know each other.
+7. Considera si tu evento será abierto al público o limitado a los afiliados a la institución anfitriona. Un evento público puede ayudar a aumentar y diversificar la asistencia, mientras que uno limitado puede ayudarte a enfocar temas particulares. Por otro lado, es probable que los asistentes de una misma institución ya se conozcan entre sí.
 
-7. Considera si el evento estará abierto al público o limitado a aquellos afiliados a la institución anfitriona. Un evento público puede ayudar a aumentar la asistencia y su diversidad, mientras que limitarlo puede ayudar a enfocarte en temas particulares. Además, es más probable que los asistentes de la misma institución ya se conozcan entre sí.
+8. Considera utilizar videoconferencias, ya que podrías alcanzar a un público más amplio. No obstante, con un grupo pequeño de personas asistentes a un evento presencial es más fácil mantener la atención y crear y utilizar una sensación de conexión auténtica.
 
-8. Consider using video-lectures, as you might reach a broader audience. Though with a small group of people attending an on-site event it is often easier to maintain their attention, and to create and use the feeling of an authentic connection.
+9. Considera cuál es la mejor manera de abordar diferentes audiencias \(reuniones, talleres presenciales, seminarios web, boletines informativos, redes sociales, etc.\)
 
-8. Considera utilizar videoconferencias, ya que podrías alcanzar a un público más amplio. Aunque con un grupo pequeño de personas que asisten a un evento en un lugar determinado a menudo es más fácil mantener su atención y crear, y utilizar, la sensación de una conexión auténtica.
+10. Con una audiencia heterogénea, ten en cuenta a las diferentes partes interesadas para abordar sus diferentes necesidades, conocimientos y/o responsabilidades:
 
-9. Consider what the best way is to approach different target audiences \(meeting, face to face workshops, webinar, newsletter, social media, etc.\)
-
-9. Considera cuál es la mejor manera de acercarse a diferentes audiencias  \(reuniones, talleres presenciales, seminarios web, boletines informativos, redes sociales, etc.\)
-
-10. With a heterogeneous audience, keep in mind the different stakeholders involved in order to address their different needs, knowledge and/or responsibilities:
-
-10. Con una audiencia heterogénea, ten en cuenta los diferentes participantes involucrados para abordar sus diferentes necesidades, conocimientos y/o responsabilidades:
-
-    1. funder, institution/employer, researcher \(student, PhD student, researcher, project lead\),
-
-    1. financiador, institución/empleador, investigador \(estudiante, estudiane de doctorado, investigador, líder del proyecto\),
-
-    2. support \(research office, library, IT\)
+    1. financiador, institución/empleador, investigador \(estudiante de grado, estudiante de doctorado, investigador, líder de proyecto\),
 
     2. servicio de soporte \(oficina de investigación, biblioteca, TI\)
 
-    3. commercial partners in a project
-
     3. colaborador comercial en un proyecto
-
-**The outcome of the training should be that the trainees:**
 
 **El resultado de la capacitación debería ser que los estudiantes:**
 
-1. have a better practical understanding of the key concepts and corresponding applications for Open Science.
-2. confidently use what was learned during the training, thus increasing their impact in their professional environment.
-3. become able to network with advocates from multiple disciplines, and act in a global Open Science initiative.
-
-1. tengan una mejor comprensión práctica de los conceptos clave y las aplicaciones correspondientes para Ciencia Abierta.
-2. usen con confianza lo que se aprendió durante la capacitación, aumentando así su impacto en su entorno profesional.
-3. sean capaces de relacionarse con defensores de múltiples disciplinas y actuar en una iniciativa global de Ciencia Abierta.
+1. tengan una mejor comprensión práctica de los conceptos clave y sus correspondientes aplicaciones para la Ciencia Abierta.
+2. usen con confianza lo aprendido durante la capacitación, aumentando su impacto en su entorno profesional.
+3. sean capaces de vincularse con defensores de disciplinas variadas y de actuar en una iniciativa global para la Ciencia Abierta.
 
 ## <img src="/Images/Icons/guidance.png" width="150" height="150" />
-### Teaching adults
 
 ### Enseñando a adultos
 
-Scholarly research is practised by adults, as such, the participants of any training in Open Science will most likely be adults, often with a first or second degree in higher education. It is therefore interesting to see, how far teaching children or teenagers \(pedagogy\) differs from teaching adults \(andragogy\). The Canadian Literacy and Learning Network did some interesting work on this difference and recapitulated it in seven principles:
+La investigación académica es practicada por adultos. Por lo tanto, es probable que los participantes de cualquier capacitación en Ciencia Abierta sean adultos que poseen, a menudo, un primer o segundo título de grado. Por ende, es interesante ver hasta qué punto difiere la enseñanza de niños o adolescentes \(pedagogía\) de la enseñanza de adultos \(andragogía\). La Red Canadiense de Alfabetización y Aprendizaje (The Canadian Literacy and Learning Network) realizó un trabajo interesante sobre esta diferencia y la recapituló en siete principios:
 
-La investigación académica es practicada por adultos, por lo tanto, los participantes de cualquier capacitación en Ciencia Abierta probablemente sean adultos, a menudo con un primer o segundo grado en educación superior. Por lo tanto, es interesante ver hasta qué punto difiere la enseñanza de los niños o adolescentes \(pedagogía\) de la enseñanza de adultos \(andragogía\). La Red Canadiense de Alfabetización y Aprendizaje realizó un trabajo interesante sobre esta diferencia y la recapituló en siete principios:
-
-1. **Adults must want to learn**. This means that the inner motivation and added values are decisive and it might be worth to know them before starting the course.
-
-1. **Los adultos deben querer aprender**. Esto significa que la motivación interna y los valores agrgados son decisivos y podría valer la pena conocerlos antes de comenzar el curso.
-
-2. **Adults will learn only what they feel they need to learn.** Adults are practical in their approach to learning; they want to know, "How is this going to help me right now?" You should therefore be practical and direct.
+1. **Los adultos deben querer aprender.** Esto significa que la motivación intrínseca y los valores agrgados son decisivos y que podría valer la pena conocerlos antes de comenzar el curso.
 
 2. **Los adultos solo aprenderán lo que sientan que necesitan aprender.** Los adultos son prácticos en su enfoque de aprendizaje; quieren saber, "¿Cómo me va a ayudar esto ahora?" Por lo tanto, deberías ser práctico y directo.
 
-3. **Adults learn by doing.** This is true for children too, but active and immediate participation matters more for adults.
-
 3. **Los adultos aprenden haciendo.** Esto también es cierto para los niños, pero la participación activa e inmediata es más importante para los adultos.
 
-4. **Adult learning focuses on problems and the problems must be realistic.** The participants will often come with a problem and it will be your task to discover gaps and try to close them.
-
-4. **El aprendizaje de los adultos se enfoca en problemas y los problemas deben ser realistas.** Los participantes a menudo vendrán con un problema y será tu tarea descubrir las brechas y tratar de cerrarlas.
-
-5. **Experience affects adult learning.** Adults have more experience than children, either negative or positive. You can make use of this experience by avoiding negative associations.
+4. **El aprendizaje de los adultos se enfoca en problemas, y los problemas deben ser realistas.** Los participantes a menudo vendrán con un problema y será tu tarea descubrir brechas y tratar de cerrarlas.
 
 5. **La experiencia afecta el aprendizaje de los adultos.** Los adultos tienen más experiencia que los niños, ya sea negativa o positiva. Puedes hacer uso de esta experiencia evitando las asociaciones negativas.
 
-6. **Adults learn best in an informal situation\*\***.\*\* School-age youngsters usually have to follow a curriculum.  Often, adults learn only what they feel they need to know. You should therefore try to involve your audience in the learning process. This may happen by making the environment relaxed, informal and inviting.
+6. **Los adultos aprenden mejor en una situación informal\*\ ***.\*\* Los jóvenes en edad escolar generalmente tienen que seguir una currícula. A menudo, los adultos aprenden sólo lo que sienten que necesitan saber. Por lo tanto, deberías tratar de involucrar a tu audiencia en el proceso de aprendizaje. Esto puede suceder haciendo que el ambiente sea relajado, informal y acogedor.
 
-6. **Los adultos aprenden mejor en una situación informal\*\ ***.\*\* Los jóvenes en edad escolar generalmente tienen que seguir un plan de estudios. A menudo, los adultos aprenden solo lo que sienten que necesitan saber. Por lo tanto, debes tratar de involucrar a tu audiencia en el proceso de aprendizaje. Esto puede suceder haciendo que el ambiente sea relajado, informal y acogedor.
+7. **Los adultos quieren orientación\*\***.\*\* Los adultos desean información que les ayude a mejorar su situación o resolver problemas, pero no quieren que se les diga qué hacer, sino que prefieren elegir entre diferentes opciones basándose en sus necesidades individuales.
 
-7. **Adults want guidance\*\***.\*\* Adults want information that will help them improve their situation or solve problems, but they do not want to be told what to do, but rather choose options based on their individual needs.
-
-7. **Los adultos quieren orientación\*\***.\*\* Los adultos desean información que les ayude a mejorar su situación o resolver problemas, pero no quieren que se les diga qué hacer, sino que prefieren elegir opciones basadas en sus necesidades individuales.
-
-Therefore, you will need to
-
-Por lo tanto, tendrás que
+Por lo tanto, necesitarás:
 
 * provide the discovery points, tools and support where researchers will find them
 
-* proporcionar puntos de descubrimiento, herramientas y apoyo donde los investigadores los encontrarán
-
-* prepare online documentation with clear, understandable, and up to date guidance
+* proporcionar los puntos de descubrimiento, herramientas y brindar apoyo a los investigadores sobre dónde encontrarlos
 
 * preparar documentación en línea con una guía clara, comprensible y actualizada
 
-* put together good usable \(and discoverable\) tools or templates to generate it.
-
-* reunir buenas herramientas \(y descubribles\) o plantillas para generarlas.
+* reunir herramientas de calidad, utilizables \(y descubribles\), o plantillas para generarlas.
 
 In summary, adults have their interests focused on their own improvement and see training as a self-centered, capacity-building exercise. Adults like to be respected as such, and that their expectations are individually met, in an exhaustive way whenever possible.
 
-En resumen, los adultos tienen sus intereses enfocados en su propia mejora y ven la capacitación como un ejercicio centrado en sí mismos y de desarrollo de capacidades. A los adultos les gusta ser respetados como tales y que sus expectativas se cumplan individualmente de una manera exhaustiva siempre que sea posible.
-
-### Bloom’s Taxonomy
+En resumen, los adultos enfocan sus intereses en su propia mejoría y ven a la capacitación como un ejercicio centrado en sí mismos para desarrollar capacidades. A los adultos les gusta ser respetados como tales y que sus expectativas individuales se cumplan de manera exhaustiva, siempre que ello sea posible.
 
 ### La Taxonomía de Bloom
 
-Learning outcomes are often the most specific way of establishing how a training instance is delivered, by tailoring whatever is needed so that the best part of the expected outcomes are met by the best part of the audience. Learners meet outcomes in a variety of ways, often amenable to a quantitative evaluation.
+Los resultados del aprendizaje son a menudo el medio más específico para establecer cómo se imparte una capacitación, adaptando aquello que sea necesario para que el mayor porcentaje de los resultados esperados sea alcanzado por la mayor parte de la audiencia. Los participantes alcanzan los resultados de formas diversas, a menudo evaluables cuantitativamente.
 
-Los resultados del aprendizaje son a menudo la forma más específica de establecer cómo se entrega una instancia de capacitación, adaptando lo que sea necesario para que la mejor parte de los resultados esperados sean cumplidos por la myor parte de la audiencia. Los estudiantes cumplen con los resultados de diversas maneras, a menudo dispuestos a una evaluación cuantitativa.
+Especificar los resultados forma parte de la gestión de la capacitación como proceso cognitivo. En 1956, Benjamin Bloom creó una taxonomía de niveles cognitivos que ha sido modificada a través del tiempo. Se trata de una herramienta muy útil para construir resultados de aprendizaje consistentes y reutilizables en cualquier área temática. Las transiciones entre niveles cognitivos no contiguos no es, generalmente, aceptable. La taxonomía ayuda a detectar situaciones potencialmente difíciles en las que la evaluación puede fallar porque el nivel cognitivo empleado en la enseñanza no es el mismo que el nivel cognitivo empleado durante la evaluación.![](/Images/03 On Learning and Training/03_bloom_s_taxonomy_ES.png) Una versión actual \(desde 2001\) puede encontrarse, también, aquí: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
 
-Specifying outcomes is part of handling training as a cognitive process. In 1956 Benjamin Bloom created a taxonomy of cognitive levels that has been modified through time. This is a very useful tool to build consistent and reusable learning outcomes in any subject matter. Transitions between non-contiguous levels of cognition is generally not acceptable. The taxonomy helps to detect potentially difficult situations where assessment can fail because the cognition level of the learning delivery is not the same as the cognition level of the assessment that is being used.![](/Images/03 On Learning and Training/03_bloom_s_taxonomy.png)A present day version  \(since 2001\) can also be found here: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
-
-Especificar resultados es parte de manejar la capacitación como un proceso cognitivo. En 1956, Benjamin Bloom creó una taxonomía de niveles cognitivos que ha sido modificada a través del tiempo. Esta es una herramienta muy útil para generar resultados de aprendizaje consistentes y reutilizables en cualquier materia de estudio. Las transiciones entre niveles de conocimientos no contiguos es no aceptable generalmente. La taxonomía ayuda a detectar situaciones potencialmente difíciles donde la evaluación puede fallar porque el nivel de conocimientos entregados en el aprendizaje no es el mismo que el nivel de conocimeintos de la evaluación que se está utilizando.![](/Images/03 On Learning and Training/03_bloom_s_taxonomy_ES.png) Una versión actual \(desde 2001\) también se puede encontrar aquí: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
-
-Bloom’s Taxonomy is a classification method with six levels. Using Bloom’s Taxonomy is worth the effort because it represents a significant step towards a desire to build robust training and teaching. Together with Bloom’s Taxonomy you can find several types of design aids such as annotated terminologies, verbs to use or to avoid in course planning and building assessment questions, etc.
-
-La Taxonomía de Bloom es un método de clasificación con seis niveles. Vale la pena el esfuerzo de usar la Taxonomía de Bloom porque representa un paso significativo hacia el deseo de construir una capacitación y una enseñanza sólidas. Junto con la Taxonomía de Bloom, puedes encontrar varios tipos de apoyo de diseño, tal como terminologías anotadas, verbos para usar o evitar durante la planificación del curso, y pregunteas para la construcción de evaluación, etc.
+La Taxonomía de Bloom es un método de clasificación con seis niveles. El esfuerzo de usar la Taxonomía de Bloom vale la pena porque representa un paso significativo hacia el deseo de construir una capacitación y una enseñanza robustas. Junto con la Taxonomía de Bloom puedes encontrar varios tipos de ayudas para el diseño tales como terminologías comentadas y verbos para usar o evitar durante la planificación del curso y la formulación de pregunteas para la evaluación, etc.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" /> <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning objectives & learning outcomes
 
 ### Objetivos de aprendizaje y resultados de aprendizaje
 
