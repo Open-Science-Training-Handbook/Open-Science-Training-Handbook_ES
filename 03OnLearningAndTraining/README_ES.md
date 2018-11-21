@@ -203,231 +203,134 @@ La Taxonomía de Bloom es un método de clasificación con seis niveles. El esfu
 
 ### Objetivos de aprendizaje y resultados de aprendizaje
 
-These two terms are often used interchangeably by the training community. Objectives, comprising aims or goals, and Outcomes, comprising tangible results, may overlap, but are not genuinely the same.
+Estos dos términos suelen ser utilizados intercambiablemente por la comunidad de capacitadores. Los objetivos, que incluyen propósitos o metas, y los resultados, que comprenden consecuencias tangibles, pueden superponerse, pero no son realmente lo mismo.
 
-Estos dos términos son a menudo usados indistintamente por la comunidad de capacitación. Los objetivos, que comprenden los propósitos o metas, y los resultados, que comprenden resultados tangibles, pueden superponerse, pero no son realmente lo mismo.
+Al diseñar la capacitación, debes pensar principalmente en los objetivos, luego enumerar los resultados que deseas que tu audiencia alcance. No te preocupes si ellos parecen superponerse o si, como sucede en la mayoría de los casos, un objetivo encierra uno o más resultados. Diseña todos tus ejercicios prácticos en torno a resultados específicos.
 
-When designing training, you should think primarily of objectives, then list what outcomes you want your audience to reach for. Do not worry if they seem to overlap here and there, or if, as in most cases, an objective encloses one or more outcomes. Design all your practical exercises around specific outcomes.
+Aquí un intento de aclarar esta situación y eliminar ambigüedades:
 
-Al diseñar la capacitación, debes pensar principalmente en los objetivos, luego, enumerar los resultados que deseas que tu audiencia alcance. No te preocupes si etos parecen superponerse aquí y allá, o si, como en la mayoría de los casos, un objetivo involucra uno o más resultados. Diseña todos tus ejercicios prácticos en torno a resultados específicos.
-
-Note: you should avoid using the abbreviation LO as it becomes ambiguous.
-
-(Nota: debes evitar usar la abreviación LO ya que se vuelve ambigua) *No relevante en español*
-
-Here is an attempt to clarify this situation and remove ambiguities:
-
-Aquí hay un intento de aclarar esta situación y remover ambigüedades:
-
-#### **Learning objectives**
 #### **Objetivos de aprendizaje**
 
-* Describe the goals and intentions of the instructor.
+* Describen las metas e intenciones del capacitador.
 
-* Describen las metas e intenciones del instructor.
-
-* State the purpose and goals of the course.
-
-* Establecen el propósito y metas del curso.
-
-* Focus on content and skills important within the classroom or programme.
+* Manifiestan el propósito y las metas del curso.
 
 * Se enfocan en el contenido y las habilidades importantes dentro del aula o programa.
 
-* May describe what the instructors will do.
-
 * Pueden describir lo que harán los instructores.
-
-* Should be specific and detailed.
 
 * Deben ser específicos y detallados.
 
-#### **Learning outcomes**
-
 #### **Resultados de aprendizaje**
-
-* Student Learning Outcomes catalog the overarching "products" of the course and are the evidence that the goals or objectives were achieved.
 
 * Los resultados de aprendizaje de los estudiantes catalogan los "productos" globales del curso y son la evidencia de que las metas u objetivos fueron logrados.
 
-* Learning Outcomes are statements that describe or list measurable and essential mastered content-knowledge—reflecting skills, competencies, and knowledge that students have achieved and can demonstrate upon successfully completing a course.
+* Los resultados de aprendizaje son enunciados que describen o listan (i) habilidades medibles y esenciales que reflejan el dominio y el conocimiento de los contenidos, (ii) competencias y (iii) conocimientos que los estudiantes han alcanzado y pueden demostrar al completar con éxito un curso.
 
-* Los resultados de aprendizaje son declaraciones que describen o enumeran habilidades que reflejan contenido-conocimiento, capacidades y conocimientos medibles y esencialmente dominados que los estudiantes han logrado y pueden demostrar al completar con éxito un curso.
-
-* Outcomes express higher-level thinking skills that integrate course content and activities and can be observed as a behavior, skill, or discrete usable knowledge upon completing the course.
-
-* Los resultados expresan habilidades de pensamiento elevado que integran el contenido del curso y las actividades, y se pueden observar como un comportamiento, habilidad o conocimiento discreto utilizable al completar el curso.
-
-* Outcomes are exactly what assessments are intended to show – specifically what the student will be able to do upon completing the course.
+* Los resultados expresan habilidades de pensamiento de alto nivel que integran el contenido y las actividades del curso y que pueden ser observadas como un comportamiento, competencia o conocimiento discreto utilizable al completar el curso.
 
 * Los resultados son exactamente lo que las evaluaciones pretenden demostrar - específicamente lo que el estudiante será capaz de hacer al completar el curso.
 
-* An assessable outcome can be displayed or observed and evaluated against criteria.
+* Un resultado medible pueder ser mostrado u observado y evaluado de acuerdo con criterios.
 
-* Un resultado evaluable pueder ser mostrado u observado y evaluado por criterios.
-
-* Outcomes are clear and measurable criteria for guiding the teaching, learning, and assessment process in the course.
-
-* Los resultados son criterios claros y medibles para guiar el proceso de enseñanza, aprendizaje y evaluación en el curso.
-
-\(Adapted from[ http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
+* Los resultados son indicadores claros y medibles para guiar los procesos de enseñanza, aprendizaje y evaluación en el curso.
 
 \(Adaptado de[ http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
 
-For Open Science Learning Objectives, see this FOSTER document: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(see page 13 & 14\)
-
-Para objetivos de aprendizaje de Ciencia Abierta, mira este documento de FOSTER:[https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(see page 13 & 14\)
-
-**Example of a training objective: **
+Para objetivos de aprendizaje de Ciencia Abierta, mira este documento de FOSTER:[https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(páginas 13 y 14\)
 
 **Ejemplo de un objetivo de capacitación: **
 
-* "To learn how to use assessment and feedback in training with maximised effectiveness"
-
-* "Aprender a cómo usar evaluación y retroalimentación en la capacitación con la máxima eficacia"
-
-**Example of a training outcome: **
+* "Aprender cómo usar la evaluación y la retroalimentación en la capacitación con la máxima efectividad"
 
 **Ejemplo de un resultado de aprendizaje: **
-
-* "Upon completing the course, the learner will be able to design a training exercise and a strategy to evaluate its effectiveness"
 
 * "Al completar el curso, el alumno podrá diseñar un ejercicio de capacitación y una estrategia para evaluar su efectividad"
 
 ## <img src="/Images/03 On Learning and Training/03_motivation_demotivation.png" width="300" height="300" />
-### Motivation & demotivation
 
 ### Motivación y desmotivación
 
-One of the key components in a training event is to make sure that the lack of confidence that the participants might have when being introduced to a new field \(Open Science, in this instance\) does not discourage them from pushing onwards. Even if some participants are generally familiar with the concepts presented in the training event, it is important to acknowledge when people are becoming confused. Acknowledging that their misunderstandings are valid is key to encouraging a growth mindset and motivating them to accept and endorse the Open Science practices.
+Uno de los componentes clave en un evento de capacitación es asegurarse de que la falta de confianza que los participantes puedan tener cuando se les introduce a un nuevo campo \(Ciencia Abierta, en este caso\) no los desanime a seguir adelante. Incluso si algunos participantes están familiarizados con los conceptos presentados en el evento de capacitación, es importante reconocer cuándo las personas empiezan a confundirse. Reconocer que sus equivocaciones son válidas es clave para alentar una mentalidad de crecimiento y motivarlos a aceptar y apoyar las prácticas de Ciencia Abierta.
 
-Uno de los componentes clave en un evento de capacitación es asegurarse de que la falta de confianza que los participantes puedan tener cuando se les introduce a un nuevo campo \(Ciencia Abierta, en este caso\) no los desanime a seguir adelante. Incluso si algunos participantes están familiarizados con los conceptos presentados en el evento de capacitación, es importante reconocer cuando las personas se confunden. Reconocer que sus confusiones son válidas es clave para alentar una mentalidad de crecimiento y motivarlos a aceptar y respaldar las prácticas de Ciencia Abierta.
+A través del evento de capcitación pueden emplearse varias estrategias para motivar a los participantes. \(Tomado de Carpentry Instructor Training, [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
 
-There are several strategies that can be employed throughout the training event that can motivate participants. \(Taken from the Carpentry Instructor Training, [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
-
-Hay varias estrategias que se pueden emplear a tarvés del evento de capcitación que pueden mortivar a los participantes. \(Tomado de Carpentry Instructor Training, [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
-
-* **Strategies to establish value**
-
-* **Estrategias para establecer significado**
-
-  * Connect the material to the participants’ interests or values.
+* **Estrategias para establecer el valor de la capacitación**
 
   * Conecta el material a los intereses o valores de los participantes.
 
-  * Provide authentic, real-world tasks and case studies, ideally matched to the participants background and immediate interests.
+  * Proporciona tareas y estudios de caso auténticos y reales, que idealmente se adapten a los antecedentes e intereses inmediatos de los participantes.
 
-  * Proporciona tareas y estudios de caso auténticos y reales, que se adapten de manera ideal a los antecedentes e intereses inmediatos de los participantes.
-
-  * Show relevance to the participants’ current academic lifes.
-
-  * Muestra la relevancia para las vidas académicas actuales de los participantes.
-
-  * Convey your own passion and enthusiasm for Open Science.
+  * Muestra la relevancia para las vidas académicas de los participantes.
 
   * Transmite tu propia pasión y entusiasmo por la Ciencia Abierta.
 
-* **Strategies to build positive expectations**
-
-* **Estrategias para construir expectaciones positivas**
-
-  * Ensure alignment of objectives, assessments, and instructional strategies.
+* **Estrategias para construir expectativas positivas**
 
   * Asegura la alineación de los objetivos, las evaluaciones y las estrategias de instrucción.
 
   * Provide early success opportunities by applying the concepts in hands-on exercises and tutorials.
 
-  * Proporciona oportunidades de éxito tempranas mediante la aplicación de conceptos en ejercicios prácticos y tutoriales.
-
-* **Strategies for self-efficacy**
+  * Proporciona oportunidades para el éxito desde el comienzo mediante la aplicación de conceptos en ejercicios prácticos y tutoriales.
 
 * **Estrategias para la autoeficacia**
 
-  * Provide participants with options and the ability to make choices.
+  * Proporciona a los participantes opciones y la posibilidad de que hagan elecciones.
 
-  * Proporciona opciones a los participantes y la capacidad de hacer elecciones.
-
-  * Give participants an opportunity to reflect and make their own connections between Open Science and their particular work.
-
-  * Ofrece a los participantes la oportunidad de reflexionar y establecer sus propias conexiones entre Ciencia Abierta y su trabajo en particular.
+  * Ofrece a los participantes una oportunidad para reflexionar y establecer sus propias conexiones entre la Ciencia Abierta y su trabajo en particular.
 
 ## <img src="/Images/Icons/idea.png" width="150" height="150" />
-## Practical guidance
+
 ## Guía práctica
 
 You will find more information concerning the concrete planning and execution of a training on Open Science in the chapters on [Organizational Aspects](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit) and the [Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit).
 
-Encontrarás más información sobre la planificación concreta y la ejecución de una capacitación sobre Ciencia Abierta en los capítulos sobre [Aspectos Organizacionales](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit) y los [Ejemplos y Guías Prácticas](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit).
+Encontrarás más información sobre la planificación y la ejecución concretas de una capacitación sobre Ciencia Abierta en los capítulos sobre los [Aspectos Organizacionales](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit) y los  [Ejemplos y Guías Prácticas](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit).
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
-### Designing a course
+
 ### Diseñando un curso
 
-The creation of your course will either be driven by planning on the course’s objectives or on its outcomes.
+La creación de tu curso estará impulsada por la planificación de los objetivos o resultados del mismo.
 
-La creación de tu curso estará motivada planificándolo ya sea sobre sus objetivos o sus resultados.
+#### Planificación basada en objetivos más que en resultados
 
-#### Planning based on objectives, rather than outcomes
-#### Planificación basada en objetivos, en vez de resultados
+SMART es una técnica interesante para especificar metas / objetivos que también es utilizada en la gestión de proyectos. SMART es un acrónimo para cinco criterios: Simple - Medible - Ambicioso - Realista - a Tiempo (Simple – Measurable – Ambitious – Realistic – Timed en inglés).
 
-SMART is an interesting technique for specifying goals / objectives that is also used in project management. SMART is an acronym that stands for five criteria: Simple – Measurable – Ambitious – Realistic – Timed.
-
-SMART es una técnica interesante para especificar metas / objetivos que también es utilizada en la gestión de proyectos. SMART es un acrónimo que representa cinco criterios: Simple - Medible - Ambicioso - Realista - a Tiempo (Simple – Measurable – Ambitious – Realistic – Timed en inglés).
-
-* Your goal is **simple** if it can be understood by a person not familiar with the topic. That is, you can explain to your students beforehand what they are going to learn. It is usually a good idea to present your goal at the beginning of a lesson. Simple  means that the goal can be put into no more than one concise sentence.
-
-* Tu objetivo es **simple** si puede ser comprendido por una persona que no está familiarizada con el tema. Es decir,que puedes explicar a tus alumnos de antemano qué es lo que van a aprender. Por lo general, es una buena idea presentar tu objetivo al comienzo de una lección. Simple significa que la meta se puede resumir en no más de una oración concisa.
+* Tu objetivo es **simple** si puede ser comprendido por una persona que no está familiarizada con el tema. Es decir que puedes explicar a tus alumnos, de antemano, qué es lo que van a aprender. Por lo general, es una buena idea presentar tu objetivo al comienzo de una lección. Simple significa que la meta se puede resumir en no más de una oración concisa.
 
 * Your goal is **measurable** if you can determine objectively whether the goal has been reached. Measurability prevents imprecise goals like "students understand Open Science", which is too broad and difficult to measure as there are many different components. Instead, use verbs that are actionable: identify, draw, name, explain, calculate etc. Verbs for good teaching goals have been categorized by the Bloom’s taxonomy of cognitive domains \([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). Measuring helps you and your students to assess or self-assess progress.
 
-* Tu meta es **medible** si es que puedes determinar objetivamente si esta se ha alcanzado. La capacidad de medición evita objetivos imprecisos como "los estudiantes entienden Ciencia Abierta", lo cual es demasiado amplio y difícil de medir ya que hay muchos componentes distintos. En su lugar, utiliza verbos que sean accionables: identificar, dibujar, nombrar, explicar, calcular, etc. Los verbos que son buenos de utilizar para objetivos de enseñanza han sido categorizados por la Taxonomía de Bloom de dominios cognitivos\([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). La medición les ayuda a usted y a sus estudiantes a evaluar o autoevaluar el progreso.
+* Tu meta es **medible** si puedes determinar objetivamente si se ha alcanzado. La capacidad de medición evita objetivos imprecisos como "los estudiantes entienden la Ciencia Abierta" que es demasiado amplio y difícil de medir, ya que involucra muchos componentes distintos. En su lugar, utiliza verbos prácticos: identificar, dibujar, nombrar, explicar, calcular, etc. Los verbos de los buenos objetivos de enseñanza han sido categorizados por la taxonomía de dominios cognitivos de Bloom \([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). La medición te ayudará a ti y a tus estudiantes a evaluar o autoevaluar el progreso.
 
-* Your goal is **ambitious** if you challenge your students. Is there a clear benefit for them? Do you want the lesson to broaden their horizon? In which way does it give them an edge? Being ambitious means having an answer to the question: What will students learn that they could not by other means? If you feel a desire to make a stand and defend your viewpoint, it probably is ambitious.
+* Tu objetivo es **ambicioso** si desafías a tus estudiantes. ¿Hay un beneficio claro para ellos? ¿Quieres que la lección amplíe su horizonte? ¿De qué manera esto les da una ventaja? Ser ambicioso significa tener una respuesta a la pregunta: ¿Qué aprenderán los estudiantes que no podrían aprender por otros medios? Si sientes el deseo de adoptar un posicionamiento y defender tu punto de vista, probablemente se trate de un objetivo ambicioso.
 
-* Tu objetivo es **ambicioso** si desafías a tus estudiantes. ¿Hay un beneficio claro para ellos? ¿Quieres que la lección amplíe su horizonte? ¿De qué manera les da una ventaja? Ser ambicioso significa tener una respuesta a la pregunta: ¿Qué aprenderán los estudiantes que no podrían aprender por otros medios? Si sientes el deseo de adoptar una postura y defender tu punto de vista, probablemente es ambicioso.
+* Tu objetivo es **realista** si crees sinceramente que tu objetivo de aprendizaje puede ser alcanzado en el tiempo establecido. Ser realista involucra hacer tarea: ¿Tienen tus alumnos los conocimientos básicos necesarios? ¿Qué habilidades prácticas necesitan? ¿Qué prerrequisitos técnicos hay? ¿Estás preparado para preguntas inesperadas? Por ejemplo, comprender todas las licencias Creative Commons en una hora puede ser realista para un grupo pero inalcanzable para otro.
 
-* Your goal is **realistic** if you sincerely believe your learning goal can be reached in the given timeframe. Being realistic involves homework: Do your students have the necessary background knowledge? What practical abilities do they need? What technical prerequisites are there? Are you prepared for unexpected questions? For instance, understanding all Creative Commons licenses in one hour may be realistic for one group, but out of reach for another.
+* Tu objetivo está **a Tiempo** si existe un período de tiempo concreto en el debe alcanzarse. Los maestros principiantes suelen exceder su presupuesto temporal. Establecer límites de tiempo para tus objetivos de aprendizaje te ayuda a estructurar tu lección, y a reconocer y reaccionar ante retrasos inesperados. Una buena forma de planificar el tiempo es tener un programa detallado o un plan para la lección.
 
-* Tu objetivo es **realista** si crees sinceramente que tu objetivo de aprendizaje puede ser alcanzado en el período de tiempo establecido. Ser realista implica tarea: ¿Tienen tus alumnos los conocimientos básicos necesarios? ¿Qué habilidades prácticas necesitan? ¿Qué prerrequisitos técnicos hay? ¿Estás preparado para preguntas inesperadas? Por ejemplo, comprender todas las licencias de Creative Commons en una hora puede ser realista para un grupo, pero fuera de alcance para otro.
+Adaptado de [SMART Goals, How to create objective, measurable project goals](http://www.academis.eu/posts/smart_goals) de Kristian Rother.
 
-* Your goal is **timed** if there is a concrete timeframe  which the goal is to be reached. First-time teachers often overextend their time budget. Setting time limits for your learning goals helps you to structure your lesson, recognize and react to unexpected delays. A good form of planning time is having a detailed schedule or lesson plan.
+#### Planificación basada en resultados más que en objetivos
 
-* Tu objetivo es **a Tiempo** si hay un período de tiempo concreto en el que se debe alcanzar el objetivo. Los maestros primerizos a menudo amplían demasiado su presupuesto de tiempo. Establecer límites de tiempo para tus objetivos de aprendizaje te ayuda a estructurar tu lección, a reconocer y a reaccionar ante retrasos inesperados. Una buena forma de planificar el tiempo es tener un programa detallado o un plan para la lección.
+Usa el diseño de instrucción invertido, conocido como Diseño en Retrospectiva, una técnica para planificar lecciones que enfatiza los resultados:
 
-Adapted from [SMART Goals, How to create objective, measurable project goals](http://www.academis.eu/posts/smart_goals) by Kristian Rother.
-Adaptado de [SMART Goals, How to create objective, measurable project goals](http://www.academis.eu/posts/smart_goals) por Kristian Rother.
-
-#### Planning based on outcomes, rather than objectives
-#### Planificación basada en resultados, en vez de objetivos
-
-Use reverse instructional design, known as Backward design, a technique for planning lessons that emphasizes outcomes:
-Usa el diseño de instrucción reversa, conocido como Diseño en Retrospectiva, una técnica para planificar lecciones que enfatiza los resultados:
-
-1. Start from your learning objectives.
 1. Comienza desde tus objetivos de aprendizaje.
 
-2. Decide what constitutes evidence that these objectives have been met \(summative assessment, see [Post-training Evaluation](#heading=h.jppdc2zcwj8d) below\).
-2. Decide qué constituye evidencia de que estos objetivos se han cumplido \([evaluación sumativa](http://vocabularies.unesco.org/browser/thesaurus/es/page/concept10506), ver [Evaluación post capacitación](#heading=h.jppdc2zcwj8d) más abajo\).
+2. Decide qué constituye evidencia de que estos objetivos se han cumplido \([evaluación sumativa](http://vocabularies.unesco.org/browser/thesaurus/es/page/concept10506), ver [evaluación post capacitación](#heading=h.jppdc2zcwj8d) más abajo\).
 
-3. Choose the best format and design content to prepare the audience for what they will have to do during the summative assessment.
-3. Elije el mejor formato y diseño de contenido para preparar a la audiencia para lo que tendrán que hacer durante la evaluación sumativa.
+3. Elige el mejor formato y diseño de contenido para preparar a la audiencia para lo que tendrán que hacer durante la evaluación sumativa.
 
-4. Sort the content in order of increasing complexity and then provide the content and motivation they need to close the gap between what they know and what they need to know to complete the summative assessment. \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/)\)
 4. Organiza el contenido en orden creciente de complejidad y luego proporciona el contenido y la motivación que necesitan para cerrar la brecha entre lo que saben y lo que necesitan saber para completar la evaluación sumativa. \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/)\)
-
-Backward design challenges "traditional" methods of curriculum planning. In traditional curriculum planning, a list of content that will be taught is created and/or selected.[\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) In backward design, the educator starts with goals, creates or plans out [assessments](https://en.wikipedia.org/wiki/Educational_assessment) and finally makes [lesson plans](https://en.wikipedia.org/wiki/Lesson_plan). Supporters of backward design liken the process to using a "road map".[\[5\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) In this case, the destination is chosen first and then the road map is used to plan the trip to the desired destination. In contrast, in traditional curriculum planning there is no formal destination identified before the journey begins.
 
 El Diseño en Retrospectiva desafía los métodos "tradicionales" de planificación curricular. En la planificación del currículo tradicional, se crea y/o selecciona una lista de contenido que se enseñará. [\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) En el Diseño en Retrospectiva, el educador comienza con objetivos, crea o planifica [evaluaciones](https://en.wikipedia.org/wiki/Educational_assessment) y finalmente prepara [unidades didácticas](https://es.wikipedia.org/wiki/Unidad_did%C3%A1ctica). Los partidarios del Diseño en Retrospectiva asemejan el proceso con el uso de un "mapa de ruta". [\[5\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) En este caso, primero se elige el destino y luego el 'mapa de ruta' se utiliza para planificar el viaje al destino deseado. En contraste, en la planificación del currículo tradicional no hay un destino formal identificado antes de que comience el viaje.
 
-The idea in backward design is to teach toward the "end point" or learning goals, which typically ensures that content taught remains focused and organized. This, in turn, aims at promoting better understanding of the content or processes to be taught to students. The trainer is able to focus on addressing what the students need to learn, what data can be collected to show that the students have learned the desired outcomes \(or [learning standards](https://en.wikipedia.org/wiki/Learning_standards)\) and how to ensure the students will learn.
-
-La idea en el Diseño en Retrospectiva es enseñar hacia el "punto final" o los objetivos de aprendizaje, lo que generalmente garantiza que el contenido enseñado permanezca enfocado y organizado. Esto, a su vez, apunta a promover una mejor comprensión del contenido o los procesos que se enseñarán a los estudiantes. El capacitador puede concentrarse en abordar lo que los estudiantes necesitan aprender, qué datos se pueden recopilar para demostrar que los estudiantes han aprendido los resultados deseados \(o [estándares de aprendizaje] (https://en.wikipedia.org/wiki/Learning_standards)\) y cómo asegurar que los alumnos aprendan.
+La idea en el Diseño en Retrospectiva es enseñar tendiendo hacia el "punto final" o los objetivos de aprendizaje, lo que generalmente garantiza que el contenido enseñado permanezca enfocado y organizado. Esto, a su vez, apunta a promover una mejor comprensión del contenido o los procesos a enseñar a los estudiantes. El capacitador puede concentrarse en lo que los estudiantes necesitan aprender, en los datos que se pueden recopilar para demostrar que los estudiantes han alcanzado los resultados deseados \(o [estándares de aprendizaje] (https://en.wikipedia.org/wiki/Learning_standards)\) y en cómo asegurar que los alumnos aprendan.
 
 ## <img src="/Images/Icons/journal.png" width="150" height="150" />
-### Content
+
 ### Contenido
 
-#### Content collection
 #### Colección de contenido
 
 Before starting to teach you will have to collect and prepare content. Content is nowadays available en masse, and the question is less about finding or creating content than rather about finding appropriate content or making the discovered content appropriate to the needs and capabilities of your target audience.
