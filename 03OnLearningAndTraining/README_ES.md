@@ -1,6 +1,6 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
-## On Learning and Training
-## Sobre Aprendizaje y Capacitación
+
+## Sobre el Aprendizaje y la Capacitación
 
 Este capítulo proporciona un contexto sobre las estrategias de capacitación, una guía práctica para diseñar un curso y una descripción general de teorías pedagógicas. Se enfocará en tres conceptos clave para la enseñanza y la capacitación:
 
@@ -335,105 +335,71 @@ La idea en el Diseño en Retrospectiva es enseñar tendiendo hacia el "punto fin
 
 Before starting to teach you will have to collect and prepare content. Content is nowadays available en masse, and the question is less about finding or creating content than rather about finding appropriate content or making the discovered content appropriate to the needs and capabilities of your target audience.
 
-Antes de comenzar a enseñar tendrás que recopilar y preparar el contenido. Hoy en día, el contenido está disponible masivamente, y la pregunta no es acerca de la búsqueda o la creación de contenido sino que sobre la búsqueda de contenido apropiado o hacer que el contenido que se ha encontrado sea apropiado para las necesidades y capacidades de tu audiencia objetivo.
+Antes de comenzar a enseñar tendrás que recopilar y preparar el contenido. Hoy en día el contenido está disponible masivamente. Por ende, ya no se trata de la búsqueda o la creación de contenido sino de la búsqueda de contenido apropiado o de hacer que el contenido que se ha encontrado sea apropiado para las necesidades y capacidades de tu audiencia destinataria.
 
-Please check the chapter on [Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) which will contain helpful information on how to adopt, adapt and develop content.
+Por favor revisar el capítulo acerca de [Ejemplos y Guía Práctica](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) que contiene información útil sobre cómo adoptar, adaptar y desarrollar contenido.
 
-Por favor revisar el capítulo acerca de [Ejemplos y Guía Práctica](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) que contendrá información útil sobre cómo adoptar, adaptar y desarrollar contenido.
-
-#### Content reduction
 #### Reducción de contenido
 
-One of the biggest challenges in designing training courses is the reduction of content to the training format. If you have only two hours, you need to provide the most important information on a topic during this time. As a trainer, however, you usually have much more knowledge that you would like to pass on. Try to reduce the content to the most important key points. What is really necessary to know and what are only details or marginal topics? Set thematic priorities, be transparent about omissions and inform your participants about these.
+Uno de los mayores desafíos en el diseño de cursos de capacitación es la reducción del contenido al formato de la  capacitación. Si solo tienes dos horas, debes proporcionar la información más importante sobre un tema durante este tiempo. Sin embargo, como capacitador generalmente tienes mucho más conocimiento que te gustaría transmitir. Trata de reducir el contenido a los puntos clave más importantes. ¿Qué es realmente necesario saber y qué es un detalle o tema marginal? Establece prioridades temáticas, sé transparente acerca de las omisiones e informa a tus participantes sobre ellas.
 
-Uno de los mayores desafíos en el diseño de cursos de capacitación es la reducción del contenido al formato de capacitación. Si solo tienes dos horas, debes proporcionar la información más importante sobre un tema durante este tiempo. Sin embargo, como capacitador, generalmente tienes mucho más conocimiento que te gustaría transmitir. Trata de reducir el contenido a los puntos clave más importantes. ¿Qué es realmente necesario saber y cuáles son solo detalles o temas marginales? Establece prioridades temáticas, sé transparente acerca de las omisiones e informa a tus participantes sobre ellas.
-
-And try to keep enough time for open questions, discussions, sharing experience among participants. It will help you to get the "right" questions. Usually much more basic, than you expected or more detailed and specific than you planned.
-
-Y trata de dejar suficiente tiempo para preguntas abiertas, discusiones, compartir experiencias entre los participantes. Esto te ayudará a conseguir las preguntas "correctas". Por lo general, mucho más básicas de lo que esperabas o más detalladas y específicas de lo que planeaste.
+Trata de dejar suficiente tiempo para preguntas abiertas, discusiones y compartir experiencias entre los participantes. Esto te ayudará a conseguir las preguntas "correctas". Por lo general, serán mucho más básicas de lo esperado o más detalladas y específicas de lo planeado.
 
 ## <img src="/Images/Icons/rocket.png" width="150" height="150" />
-### Starting the training
+
 ### Comenzando la capacitación
 
-#### Introductions
 #### Presentaciones
 
-At the beginning of the event, speakers should clearly and succinctly introduce themselves and their areas of expertise. Why should the attendees listen to you? What experience and skills do you have that are relevant to them? You should then give a general presentation of objectives, content, and outcomes for the training event - what participants will learn, and why. Projecting confidence as a figure is key here in order to establish trust.
+Al comienzo del evento, los instructores deben presentarse clara y sucíntamente a sí mismos y sus áreas de experticia. ¿Por qué los asistentes deberían escucharte? ¿Qué experiencia y habilidades tienes que son relevantes para ellos? Luego debes hacer una presentación general de los objetivos, el contenido y los resultados del evento de capacitación - qué aprenderán los participantes y por qué. Proyectar confianza como figura es clave para establecer la confianza.
 
-Al comienzo del evento, los instructores deben presentarse clara y sucíntamente a sí mismos y sus áreas de especialización. ¿Por qué los asistentes deberían escucharte? ¿Qué experiencia y habilidades tienes que son relevantes para ellos?. Luego debes hacer una presentación general de los objetivos, el contenido y los resultados del evento de capacitación - qué aprenderán los participantes y por qué. Proyectar confianza como figura es clave para establecer la confianza.
-
-Depending on the size of your audience, the amount of time available, and the degree to which audience interaction will be key to successful training outcomes, you may wish to begin by having participants introduce themselves briefly \(although this is probably not recommended if the group is larger than 15-20 participants\). This might be a good time to collect thoughts from participants on their own expectations and levels of experience \(if not done before, e.g. with an online-questionnaire\), and to gauge to what extent these match the intended outcomes and your overview of the intended or target audience for the training. If there is a large mismatch, now would be the time to consider ways to spontaneously adapt the programme. For example, if participants are more knowledgeable or experienced than anticipated, you may wish to move more quickly over the basics of particular areas of Open Science in order to spend more time on interactive discussion in which the participants’ own questions and experiences are brought to the forefront.
-
-Dependiendo del tamaño de tu audiencia, la cantidad de tiempo disponible y el grado de importancia que la interacción de la audiencia tendrá para el éxito de los resultados de la capacitación, puedes comenzar haciendo que los participantes se presenten brevemente \(aunque esto probablemente no sea recomendable si el grupo es más grande que 15-20 participantes\). Este podría ser un buen momento para recopilar los pensamientos de los participantes sobre sus propias expectativas y para saber acerca de sus niveles de experiencia (si no se ha hecho antes, por ejemplo, con un cuestionario en línea), y evaluar en qué medida concuerdan con los resultados esperados y tu visión general de la audiencia planeada o audiencia objetivo de la capacitación. Si hay una gran discrepancia, ahora sería el momento de considerar alguna forma de adaptar el programa espontáneamente. Por ejemplo, si los participantes tienen más conocimiento o experiencia de lo previsto, probablemente desees avanzar más rápidamente sobre los aspectos básicos en áreas específicas de Ciencia Abierta para dedicar más tiempo a una discusión interactiva en la que las preguntas y las experiencias de los participantes ocupan el lugar más importante.
-
-Know that there is no absolute need to immediately adapt  the content, just be clear by letting all participants know what will be covered or not.
+Dependiendo del tamaño de tu audiencia, la cantidad de tiempo disponible y el grado de importancia que la interacción de la audiencia tendrá para el éxito de los resultados de la capacitación, puedes comenzar haciendo que los participantes se presenten brevemente \(aunque esto probablemente no sea recomendable si el grupo tiene más de 15-20 participantes\). Éste podría ser un buen momento para conocer los pensamientos de los participantes sobre sus expectativas y niveles de experiencia (si no se ha hecho antes, por ejemplo, con un cuestionario en línea), y evaluar en qué medida concuerdan con los resultados esperados y tu caracterización de la audiencia destinataria de la capacitación. Si hay una gran discrepancia, ahora sería el momento de considerar alguna forma de adaptar el programa espontáneamente. Por ejemplo, si los participantes tienen más conocimiento o experiencia de lo previsto, probablemente desees avanzar más rápidamente sobre los aspectos básicos en áreas específicas de la Ciencia Abierta para dedicar más tiempo a una discusión interactiva en la que las preguntas y las experiencias de los participantes ocupan el lugar más importante.
 
 Ten en cuenta que no existe una necesidad absoluta de adaptar el contenido de inmediato, sólo sé claro permitiendo que todos los participantes sepan qué será abordado o no.
-
-Once more, the information delivered by [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/) might be helpful to create the right ambiance.
 
 Una vez más, la información entregada por [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/) puede ser útil para crear el ambiente adecuado.
 
 ## <img src="/Images/05 Examples _ Practical Guidance/05_icebreaker_ES.png" width="300" height="300" />
-#### Ice-breaker
-#### Rompehielos
 
-In order to energise audience members and help them get to know the trainers and each other, many training sessions begin with an ice-breaker exercise. Creating a warm, welcoming, friendly and positive learning environment should enable attendees to better participate and learn, and help them to feel more comfortable.
+#### Romper el hielo
 
-Con el fin de energizar a los miembros de la audiencia y ayudarlos a conocer a los capacitadores y a los demás, muchas sesiones de capacitación comienzan con un ejercicio para romper el hielo. Creando un ambiente de aprendizaje cálido, acogedor, amigable y positivo debería permitir a los asistentes participar y aprender mejor, y ayudarlos a sentirse más cómodos.
+Con el fin de energizar a los miembros de la audiencia y ayudarlos a conocer a los capacitadores y a los demás, muchas sesiones de capacitación comienzan con un ejercicio para romper el hielo. Crear un ambiente de aprendizaje cálido, acogedor, amigable y positivo debería permitir a los asistentes participar y aprender mejor, y ayudar a que ellos se sientan más cómodos.
 
 While icebreaker games can help create a positive atmosphere, a poorly chosen icebreaker can do the opposite, making people feel nervous or uncomfortable. You should carefully consider your attendees and the potential group dynamics when choosing an icebreaker. People should not be made to feel embarrassed, or forced to reveal personal information they do not wish to share. Groups will differ in important ways - whether attendees are of different ages or statuses within an organisation, from different cultural levels, or of differing levels of educational attainments, will all affect the amount of common ground that might already exist between them. Try to keep such exercises related to the intended learning outcomes.
 
-Si bien los juegos para romper el hielo pueden ayudar a crear una atmósfera positiva, un rompehielos mal elegido puede producir el efecto contrario, haciendo que las personas se sientan nerviosas o incómodas. Debes considerar cuidadosamente a tus asistentes y las posibles dinámicas de grupo al elegir un rompehielos. Las personas no deben sentirse avergonzadas o no deben ser obligadas a revelar información personal que no desean compartir. Los grupos podrían diferir en formas importantes: ya sea que los asistentes tengan edades o posiciones diferentes dentro de una organización, tengan diferentes niveles culturales o diferentes niveles de logros educacionales, todo esto afectará la cantidad de terreno común que podría existir entre ellos. Trate de mantener estos ejercicios en relación con los resultados de aprendizaje previstos.
+Si bien los juegos para romper el hielo pueden ayudar a crear una atmósfera positiva, uno mal elegido puede producir el efecto contrario, haciendo que las personas se sientan nerviosas o incómodas. Debes considerar cuidadosamente a tus asistentes y las posibles dinámicas de grupo al elegir un juego para romper el hielo. Las personas no deben sentirse avergonzadas ni ser obligadas a revelar información personal que no desean compartir. Los grupos diferirán en aspectos importantes. Que los asistentes tengan edades o estatus diferentes dentro de una organización, diferentes niveles culturales o diferentes niveles educativos afectará el grado de confluencia que podría existir entre ellos. Trata de mantener estos ejercicios vinculados con los resultados de aprendizaje esperados.
 
-### During the training
 ### Durante la capacitación
 
-Define the intended outcomes of the training and always give orientation to your trainees:
 Define los resultados esperados de la capacitación y siempre brinda orientación a tus estudiantes:
 
-* Where are we?
 * Dónde estamos?
 
-* Where do we want to go?
 * Dónde queremos ir?
 
-* What will we cover?
-* Qué vamos a abarcar?
+* Qué abarcaremos?
 
-Establish a balanced change of pure talks about the content to deliver \(max. 20 minutes\) and activity sessions to work with the content \(Klaus Döring, 2008\).
+Establece un equilibrio entre las exposiciones orales sobre el contenido \(máx. 20 minutos\) y las sesiones de actividades para trabajar sobre el contenido \(Klaus Döring, 2008\).
 
-Establece un cambio equilibrado entre conversaciones enfocadas en el contenido a entregar \(máx. 20 minutos\) y sesiones de actividad para trabajar con el contenido \(Klaus Döring, 2008\).
-
-Always make the learners' voices sound as soon as possible or, in other words, go for active learning!
 ¡Haz siempre que las voces de los alumnos se oigan lo antes posible o, en otras palabras, apuesta por un aprendizaje activo!
 
-#### Active Learning
-#### Aprendizaje Activo
+#### Aprendizaje activo
 
-Active Learning is a process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning with other attendees.
+El aprendizaje activo es un proceso en el cual los alumnos se involucran activamente con el aprendizaje, en lugar de absorber lecciones "pasivamente". El aprendizaje activo involucra la lectura, la escritura, la discusión y el involucramiento en la resolución de problemas, el análisis, la síntesis y la evaluación. El aprendizaje activo suele implicar el aprendizaje cooperativo con otros asistentes.
 
-El aprendizaje activo es un proceso mediante el cual los alumnos se involucran activamente en el proceso de aprendizaje, en lugar de lecciones absorbentes "pasivas". El aprendizaje activo implica lectura, escritura, discusión y compromiso para resolver problemas, análisis, síntesis y evaluación. El aprendizaje activo a menudo implica aprendizaje cooperativo con los otros asistentes.
+Utilizar los principios del aprendizaje activo y su implementación en la capacitación es, en general, una buena idea. Tú eres el segundo mejor juez para determinar los beneficios de éste. Recuerda que el primer juez es el participante.
 
-Using active learning principles and implementation in training is, in general, a good idea. You are the second best judge for the benefits. Do remember that the first judge is the participant.
-
-Utilizar los principios de aprendizaje activo y la implementación en la capacitación es, en general, una buena idea. Tú eres el segundo mejor juez para determinar los beneficios de este. Recuerda que el primer juez es el participante.
-
-Active learning helps to bypass diversity in learning styles and other difficulties with audiences. While more efficient in reaching outcomes of higher levels, active learning also addresses cognition issues related to the nature of the content and the way to present it, as shown in the following diagram, commonly found in several textbooks and online resources, and known as the Cone of Learning. Active learning is best utilised at the top levels of Bloom’s Taxonomy \(Analize, Define, Create, Evaluate\), and that also corresponds to the best strata of memorization: what you say, write or do - the bottom half of the Cone of Learning. Cognition issues arise with more ease when content spans several of these levels at a time and fails to address the intermediate levels as well. Checking your content against the Cone of Learning is an easy way of detecting these potential miss-outs while you deliver training. Likewise it allows you to decide to use more visual aids where you expect that the need for memorization is higher. So, when your audience gets behind you may use this technique to diagnose, try to locate the causes and pick the most effective remediation.
-
-El aprendizaje activo ayuda a circunvalar la diversidad en los estilos de aprendizaje y otras dificultades con las audiencias. Mientras el aprendizaje activo es más eficiente para alcanzar resultados de niveles más altos, también aborda los problemas de cognición relacionados con la naturaleza del contenido y la forma de presentarlo, como se muestra en el siguiente diagrama, que se encuentra comúnmente en varios libros de texto y recursos en línea, y se conoce como el Cono del Aprendizaje. El aprendizaje activo se utiliza mejor en los niveles superiores de la Taxonomía de Bloom \(Analizar, Definir, Crear, Evaluar\), y también corresponde a los mejores estratos de memorización: lo que dices, escribes o haces: la mitad inferior del Cono del Aprendizaje. Los problemas de cognición surgen con más facilidad cuando el contenido abarca varios de estos niveles a la vez y no logra abordar los niveles intermedios también. Comparar tu contenido con el Cono del Aprendizaje es una forma fácil de detectar estas posibles omisiones mientras impartes la capacitación. Así mismo, te permite decidir utilizar más ayudas visuales donde esperas que la necesidad de memorización sea mayor. Por lo tanto, cuando tu audiencia se quede atrás, puedes utilizar esta técnica para diagnosticar, intentar localizar las causas y elegir la solución más efectiva.
+El aprendizaje activo ayuda a eludir la diversidad en los estilos de aprendizaje y otras dificultades con las audiencias. Además de resultar más eficiente para alcanzar resultados de niveles más altos, el aprendizaje activo también resuelve problemas cognitivos relacionados con la naturaleza del contenido y la forma de presentarlo, como se muestra en el siguiente diagrama, comúnmente encontrado en varios libros de texto y recursos en línea, conocido como el Cono del Aprendizaje. El aprendizaje activo se utiliza mejor en los niveles superiores de la Taxonomía de Bloom \(Analizar, Definir, Crear, Evaluar\), que también corresponden a los estratos superiores de memorización: lo que dices, escribes o haces (la mitad inferior del Cono del Aprendizaje). Los problemas cognitivos surgen con más facilidad cuando el contenido abarca varios de estos niveles a la vez y no logra abordar los niveles intermedios. Comparar tu contenido con el Cono del Aprendizaje es una forma fácil de detectar estas posibles omisiones mientras impartes la capacitación. Asimismo, te permite decidir emplear más ayudas visuales donde esperas que la necesidad de memorización sea mayor. Por lo tanto, cuando tu audiencia se quede atrás, puedes utilizar esta técnica para diagnosticar, intentar localizar las causas y elegir la solución más efectiva.
 
 ## <img src="/Images/Icons/gamification.png" width="300" height="300" />
-#### Gamification
-#### Gamification
+
+#### Ludificación
 
 The foundations of the methodology in Active Learning lie in modern learning theories \(partly in Constructivism and some Connectivism\) and add learning engagement techniques to break barriers and flatten as many obstacles as possible. For example, gamifying a learning instance can move learners away from passive acquisition of content to full engagement, leading to the repositioning of the learner as someone who steps back and observes the learning process and how it works. An example of gamification in training is given here: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), a learning game for conceptual consolidation.. An additional example can be found in [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
 
-Los fundamentos de la metodología en el Aprendizaje Activo se encuentran en las teorías modernas del aprendizaje \(en parte en el constructivismo y en el conectivismo\) y añaden técnicas de participación en el aprendizaje para romper barreras y aplanar tantos obstáculos como sea posible. Por ejemplo, "gamifying" una instancia de aprendizaje puede alejar a los alumnos de la adquisición pasiva de contenido a un compromiso total, lo que lleva al reposicionamiento del alumno como alguien que da un paso atrás y observa el proceso de aprendizaje y cómo funciona. Un ejemplo de "gamification" en entrenamiento se da aquí: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), un juego de aprendizaje para la consolidación conceptual. Un ejemplo adicional se puede encontrar en [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
+Los fundamentos de la metodología del Aprendizaje Activo se encuentran en las teorías modernas del aprendizaje \(en parte en el constructivismo y en el conectivismo\) e incorporan técnicas de involucramiento con el aprendizaje para romper barreras y sortear tantos obstáculos como sea posible. Por ejemplo, ludificar una instancia de aprendizaje puede alejar a los alumnos de la adquisición pasiva de contenido hacia un compromiso total, lo que conduce al reposicionamiento del alumno como alguien que da un paso atrás y observa el proceso de aprendizaje y cómo funciona. Aquí se muestra un ejemplo de ludificación en  el entrenamiento: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), un juego de aprendizaje para la consolidación conceptual. Un ejemplo adicional se puede encontrar en [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
 
-#### Inclusive engagement
-#### Participación inclusiva
+#### Involucramiento inclusivo
 
 How to engage quiet participants? A good starting point might be to ask a question and wait at least 30 seconds for answers \(Mary Budd Rowe, 1986\). The result will be that more people engage in the discussion, the answers are of better quality and slow learners get a chance to answer.
 
