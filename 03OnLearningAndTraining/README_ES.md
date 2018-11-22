@@ -1,6 +1,6 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
 
-## Sobre el Aprendizaje y la Capacitación
+## Sobre el aprendizaje y la capacitación
 
 Este capítulo proporciona un contexto sobre las estrategias de capacitación, una guía práctica para diseñar un curso y una descripción general de teorías pedagógicas. Se enfocará en tres conceptos clave para la enseñanza y la capacitación:
 
@@ -364,8 +364,6 @@ Una vez más, la información entregada por [Software Carpentry](https://carpent
 #### Romper el hielo
 
 Con el fin de energizar a los miembros de la audiencia y ayudarlos a conocer a los capacitadores y a los demás, muchas sesiones de capacitación comienzan con un ejercicio para romper el hielo. Crear un ambiente de aprendizaje cálido, acogedor, amigable y positivo debería permitir a los asistentes participar y aprender mejor, y ayudar a que ellos se sientan más cómodos.
-
-While icebreaker games can help create a positive atmosphere, a poorly chosen icebreaker can do the opposite, making people feel nervous or uncomfortable. You should carefully consider your attendees and the potential group dynamics when choosing an icebreaker. People should not be made to feel embarrassed, or forced to reveal personal information they do not wish to share. Groups will differ in important ways - whether attendees are of different ages or statuses within an organisation, from different cultural levels, or of differing levels of educational attainments, will all affect the amount of common ground that might already exist between them. Try to keep such exercises related to the intended learning outcomes.
 
 Si bien los juegos para romper el hielo pueden ayudar a crear una atmósfera positiva, uno mal elegido puede producir el efecto contrario, haciendo que las personas se sientan nerviosas o incómodas. Debes considerar cuidadosamente a tus asistentes y las posibles dinámicas de grupo al elegir un juego para romper el hielo. Las personas no deben sentirse avergonzadas ni ser obligadas a revelar información personal que no desean compartir. Los grupos diferirán en aspectos importantes. Que los asistentes tengan edades o estatus diferentes dentro de una organización, diferentes niveles culturales o diferentes niveles educativos afectará el grado de confluencia que podría existir entre ellos. Trata de mantener estos ejercicios vinculados con los resultados de aprendizaje esperados.
 
