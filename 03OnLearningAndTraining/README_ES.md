@@ -397,125 +397,78 @@ The foundations of the methodology in Active Learning lie in modern learning the
 
 Los fundamentos de la metodología del Aprendizaje Activo se encuentran en las teorías modernas del aprendizaje \(en parte en el constructivismo y en el conectivismo\) e incorporan técnicas de involucramiento con el aprendizaje para romper barreras y sortear tantos obstáculos como sea posible. Por ejemplo, ludificar una instancia de aprendizaje puede alejar a los alumnos de la adquisición pasiva de contenido hacia un compromiso total, lo que conduce al reposicionamiento del alumno como alguien que da un paso atrás y observa el proceso de aprendizaje y cómo funciona. Aquí se muestra un ejemplo de ludificación en  el entrenamiento: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), un juego de aprendizaje para la consolidación conceptual. Un ejemplo adicional se puede encontrar en [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
 
-#### Involucramiento inclusivo
+#### Participación inclusiva
 
-How to engage quiet participants? A good starting point might be to ask a question and wait at least 30 seconds for answers \(Mary Budd Rowe, 1986\). The result will be that more people engage in the discussion, the answers are of better quality and slow learners get a chance to answer.
+¿Cómo involucrar a participantes tímidos? Un buen punto de partida podría ser hacer una pregunta y esperar al menos 30 segundos para obtener respuestas \(Mary Budd Rowe, 1986\). El resultado será que más personas participarán en la discusión, las respuestas serán de mejor calidad y los alumnos que aprenden más lentamente tendrán la oportunidad de responder.
 
-¿Cómo involucrar a participantes silenciosos? Un buen punto de partida podría ser hacer una pregunta y esperar al menos 30 segundos para obtener respuestas \(Mary Budd Rowe, 1986\). El resultado será que más personas participen en la discusión, las respuestas son de mejor calidad y los alumnos lentos tendrán la oportunidad de responder.
+Otro método para lograr una participación inclusiva es la _acumulación progresiva_. Un moderador elige quién habla a continuación de entre aquellos participantes que desean hablar pero que aún no han hablado. Además, se eligen para hablar, primero, a aquellos cuya identidad étnica o de género está subrepresentadas.
 
-Another method of achieving inclusive engagement is _progressive stacking_. A moderator chooses who speaks next from those participants who wish to speak and have not yet spoken, as usual. In addition, underrepresented voices, including underrepresented gender and racial identities, are chosen to speak first.
+Durante las discusiones \(en grupos más grandes\) debes evitar el uso de micrófonos fijos con una dinámica de tipo 'el primero que llega es el primero que habla', ya que desalienta la participación inclusiva y alienta el monólogo. En su lugar, usa un micrófono inalámbrico o solicita que la audiencia levante la mano para que el moderador pueda seleccionar quién hablará a continuación. Cuanto más grande sea el grupo, mayor será la necesidad de un moderador que supervise quién está hablando y quién no. También será tarea del moderador elegir quién hablará a continuación de entre aquellos participantes que deseen hablar pero que aún no han hablado, para evitar que la participación en el taller sea dominada por unos pocos participantes.
 
-Otro método para lograr una participación inclusiva es el _apilamiento progresivo_. Un moderador elige quién habla a continuación de aquellos participantes que desean hablar y que aún no han hablado, como de costumbre. Además, las voces subrepresentadas, incluidas las identidades raciales y de género subrepresentadas, se eligen para hablar primero.
-
-During discussions \(in larger groups\), you should avoid standing microphones with first-come-first-speak engagement, as it discourages inclusive engagement and encourages monologuing. Use a wireless microphone instead or raised hands to ensure that who speaks next can be selected by the moderator. The larger the group, the bigger the need for a moderator who monitors who is speaking and who is not. It will also be the moderator’s task to choose who speaks next from those participants who wish to speak, but have not yet spoken to avoid the workshop engagement to be dominated by just a few participants.
-
-Durante las discusiones \(en grupos más grandes\) debes evitar los micrófonos de pie con una dinámica de 'el primero que llega primero que habla', porque desalienta la participación inclusiva y alienta el monólogo. En su lugar, usa un micrófono inalámbrico o que la audiencia levante la mano para asegurarse de que el moderador pueda seleccionar quién hablará a continuación. Cuanto más grande sea el grupo, mayor será la necesidad de un moderador que supervise quién está hablando y quién no. También será tarea del moderador elegir quién hablará a continuación entre aquellos participantes que deseen hablar, pero que aún no han hablado, para evitar que la participación en el taller sea dominada por unos pocos participantes.
-
-
-
-#### General recommendations
 #### Recomendaciones generales
 
-
-* Stay connected! Always try to keep the contact with the group, check your pace and those of the others.
 * ¡Mantente conectado! Siempre trata de mantener el contacto con el grupo, chequea tu ritmo y el de los demás.
 
-* Be careful not to overload the participants with too much and/or too difficult content.
-* Ten cuidado de no sobrecargar a los participantes con demasiado contenido y/o contenido demasiado difícil.
+* Ten cuidado de no sobrecargar a los participantes con demasiado contenido y/o contenido muy difícil.
 
-* Be open for feedback at any time but avoid or actively break-up never-ending discussions.
-* Mantente abierto a comentarios en cualquier momento, pero evita o rompe activamente discusiones interminables.
+* Mantente abierto a comentarios en cualquier momento, pero evita o diluye las discusiones interminables.
 
-* Breaks: Always give enough space for breaks. The longer your course, the longer and more often your breaks.
-* Pausas: siempre da suficiente tiempo para las pausas. Cuanto más largo sea tu curso, más largos y más a menudo deben ser tus descansos.
+* Pausas: da siempre suficiente tiempo para los descansos. Cuanto más largo sea tu curso, más largos y más frecuentes deben ser tus descansos.
 
-* Prepare short, middle and long versions of your exercises to become flexible if the discussions are more or less intensive.
 * Prepara versiones cortas, medias y largas de tus ejercicios para tener flexibilidad en caso de que las discusiones sean más o menos intensivas.
 
-* Be prepared for difficult students and consult some troubleshooting guidance before the course.
 * Mantente preparado para los estudiantes difíciles y consulta alguna guía de resolución de problemas antes del curso.
-
-\(You may find some ideas in the [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#)\).
-You should in any case have an idea of what you do when a parallel conversation emerges or what to do when somebody is constantly rude or inattentive etc. Know that there are verbal and non-verbal ways to tackle this.
 
 \(Puedes encontrar algunas ideas en el [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#)\).
 En cualquier caso, debes tener una idea de qué hacer cuando surge una conversación paralela o qué hacer cuando alguien es constantemente grosero o desatento, etc. Debes saber que hay formas verbales y no verbales de afrontar esto.
 
-* Wrap-Up / Meta View: At the end of the training it might be worth to tell your participants what you did and why you did it. This will also make the evaluation easier.
-* Conclusión / Meta View: al final de la capacitación podría valer la pena contarles a los participantes qué hiciste y por qué lo hiciste. Esto también hará la evaluación más fácil.
+* Conclusión / Visión meta: al final de la capacitación podría valer la pena contarles a los participantes qué hiciste y por qué lo hiciste. Esto también hará la evaluación más fácil.
 
-* Enjoy the session yourself.
 * Disfuta tú mismo de la sesión.
 
-#### Instant feedback
 #### Retroalimentacion instantánea
 
-At the end of each module, request feedback from participants in the form of a one-up/one-down \(i.e. state one thing that was useful/good in the module and one thing that was unclear/could be improved\). It can also be more graded / scaled. [Here ](http://www.academis.eu/posts/fist_or_five) is an example feedback with 6 levels.
+Al final de cada módulo, solicita retroalimentación de los participantes bajo la forma de "uno arriba/uno abajo" (esto es, que indiquen una cosa que fue útil/buena en el módulo y una cosa que no estuvo clara/podría mejorarse). Esto también puede hacerse de modo más graduado/estandarizado. [Aquí] (http://www.academis.eu/posts/fist_or_five) hay un ejemplo de retroalimentación con 6 grados.
 
-Al final de cada módulo, solicita retroalimentación de los participantes en forma de uno arriba/uno abajo (es decir, que indiquen una cosa que fue útil/buena en el módulo y una cosa que no estuvo clara/podría mejorarse). También puede ser más graduado / estandarizado. [Aquí] (http://www.academis.eu/posts/fist_or_five) es un ejemplo de evaluación con 6 niveles.
-
-Another way for getting instant feedback, especially at predefined points, is through continuous polls. As an example, Slack can be employed to provide anonymous feedback on the pace, by giving the option for members of a channel to change their choice on a poll at any given time. Feedback counts should be shown to the participants. Showing totals or graphs can act as an incentive. Online, cloud based tools generate more engagement, especially because the  dependence on devices such as clickers is disappearing. Learners can use internet connected mobile devices and feel empowered. Examples of this are abundant. You should test the methods before you use them with a real audience, and start with the systems that have smoother familiarisation steps, such as [Socrative](https://www.socrative.com/) and [Learning ](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html)[Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), [Directpoll. ](http://directpoll.com/)
-
-Otra forma de obtener retroalimentación instantánea, especialmente en puntos predefinidos, es a través de encuestas continuas. Como por ejemplo, Slack puede emplearse para proporcionar comentarios anónimos sobre la marcha, proveyendo a los miembros de un canal la opción de cambiar su elección en una encuesta en un momento dado. Los conteos de retroalimentación deben ser mostrados a los participantes. Mostrar números totales o gráficos puede actuar como un incentivo. Las herramientas en línea basadas en la nube generan una mayor participación, especialmente porque la dependencia de dispositivos como los marcadores están desapareciendo. Los estudiantes pueden usar dispositivos móviles conectados a Internet y sentirse empoderados. Ejemplos de esto son abundantes. Debes probar los métodos antes de usarlos con una audiencia real, y comenzar con los sistemas que tengan pasos de familiarización más fáciles, como [Socrative](https://www.socrative.com/) y [Learning](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html)[Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), [Directpoll. ](http://directpoll.com/)
-
-Some more instant feedback strategies can be found under [teachthought.com](https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)
+Otra forma de obtener retroalimentación instantánea, especialmente en puntos predefinidos, es a través de encuestas continuas. Por ejemplo, Slack puede emplearse para proporcionar retroalimentación anónima sobre la marcha, proveyendo a los miembros de un canal la opción de cambiar su elección en una encuesta en cualquier momento. Los conteos de retroalimentación deben ser mostrados a los participantes. Mostrar números totales o gráficos puede actuar como un incentivo. Las herramientas en línea basadas en la nube generan mayor participación, especialmente porque la dependencia de dispositivos como los mandos para presentaciones está desapareciendo. Los estudiantes pueden usar dispositivos móviles conectados a Internet y sentirse empoderados. Los ejemplos de esto son abundantes. Debes probar los métodos antes de usarlos con una audiencia real, y comenzar con los sistemas que tengan pasos de familiarización más simples, como [Socrative](https://www.socrative.com/) y [Learning](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html)[Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), o [Directpoll. ](http://directpoll.com/).
 
 Algunas otras estrategias de retroalimentación instantáneas se pueden encontrar en [teachthought.com](https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)
 
 ## <img src="/Images/Icons/describe.png" width="150" height="150" />
-### Training evaluation
+
 ### Evaluación de la capacitación
 
+La capacitación exitosa en Ciencia Abierta también necesita fases de evaluación. Especialmente al comenzar un curso resulta útil revisar los comentarios de los alumnos. Una evaluación puede proporcionarte reflexiones valiosas sobre tus métodos y contenidos. La evaluación continua y la consideración de la retroalimentación mejoran la calidad de la capacitación y el desempeño del capacitador.
 
-Successful Open Science training also needs evaluation phases. Especially when starting a course, it is useful to look at trainees feedback. An evaluation can provide you with valuable insights on your methods and content. Continuous evaluation and consideration of the feedback improves the quality of the training and the trainer's performance.
+#### Tipos de retroalimentación
 
-La capacitación exitosa en Ciencia Abierta también necesita fases de evaluación. Especialmente al comenzar un curso, es útil revisar los comentarios de los alumnos. Una evaluación puede proporcionarte información valiosa sobre tus métodos y contenido. La evaluación continua y la consideración de los comentarios mejoran la calidad de la capacitación y el desempeño del capacitador.
+Hay distintas maneras de obtener retroalimentación de tus participantes:
 
-#### Types of feedback
-#### Tipos de comentarios
-
-There are different ways to get feedback from your participants:
-Hay distintas maneras de obtener comentarios de tus participantes:
-
-_Classic forms of evaluation_
 _Formas clásicas de evaluación_
 
-* Use an evaluation form in which you ask the participants for feedback on you as a teacher.
-* Usa un formulario de evaluación en el que le pides a los participantes sus comentarios sobre tí como instructor.
+* Usa un formulario de evaluación en el que pides a los participantes sus comentarios sobre ti como instructor.
 
-* Get interim statements during the course to check, if the course meets expectations. This gives you the opportunity to make adjustments before going on.
 * Obtén opiniones intermedias durante el curso para verificar si el curso cumple con las expectativas. Esto te da la oportunidad de hacer ajustes antes de continuar.
 
-_Verbal feedback_
-_Comentarios verbales_
+_Retroalimentación verbal_
 
-* Ask the trainees for a short summary of their course experience.
 * Solicita a los participantes un breve resumen de su experiencia en el curso.
 
-_Self-Evaluation_
 _Autoevaluación_
 
-* Make your own evaluation, what went well, what went wrong?
-* Haz tu propia evaluación, ¿qué anduvo bien, qué salió mal?
+* Haz tu propia evaluación: ¿Qué anduvo bien? ¿Qué salió mal?
 
-_Long term feedback_
-_Comentarios a largo plazo_
+_Retroalimentación a largo plazo_
 
-* 6 months later, questions about plastic changes in behaviour, more generally about modifications in the attitude and its potential effects.
-* 6 meses después, preguntas sobre cambios plásticos en el comportamiento, más generalmente sobre modificaciones en la actitud y sus efectos potenciales.
+* 6 meses después, se pregunta sobre cambios plásticos en el comportamiento, más generalmente sobre modificaciones en la actitud y sus efectos potenciales.
 
-_Peer to peer feedback_
-_Comentarios de par a par_
+_Comentarios entre pares_
 
-* Colleagues will help you with their experience to prepare your course, eventually attend themselves the course and exchange with you afterwards and will give you their feedback.
-* Tus colegas te ayudarán con su experiencia para preparar tu curso, eventualmente asistirán al curso y luego intercambiarán contigo y te darán sus comentarios.
+* Tus colegas te ayudarán a preparar tu curso con su experiencia y, eventualmente, asistirán ellos mismos al curso, intercambiarán contigo luego y te harán comentarios.
 
-
-#### Metrics for training efficiency
 #### Métricas para la eficiencia del entrenamiento.
 
-In order to evaluate a course you should need to establish, first, what you want your learners to be familiar with, know, analyse critically or be able to explain . Why are you doing the course? Which goals do you want to achieve? And once the course has finished you should check if you reached those goals. There are different criteria on how to measure the success and efficiency of your course \(Kirkpatrick & Kirkpatrick, 1994\):
-Para evaluar un curso debes establecer, primero, con qué quieres que tus alumnos se familiaricen, conozcan, analicen críticamente o puedan explicar. ¿Por qué estás haciendo el curso? ¿Qué metas quieres lograr? Y una vez que el curso haya terminado, debes verificar si has alcanzado esos objetivos. Existen diferentes criterios sobre cómo medir el éxito y la eficiencia de tu curso \(Kirkpatrick & Kirkpatrick, 1994\):
+Para evaluar un curso debes establecer, primero, con qué quieres que tus alumnos se familiaricen y qué quieres que conozcan, analicen críticamente o puedan explicar ¿Por qué estás haciendo el curso? ¿Qué metas quieres lograr? Y una vez que el curso haya terminado, debes verificar si has alcanzado esos objetivos. Existen diferentes criterios sobre cómo medir el éxito y la eficiencia de tu curso \(Kirkpatrick & Kirkpatrick, 1994\):
 
 * Reaction \(meeting expectations\): Are the trainees satisfied with the course? Have the participants reached their learning goals? Were the expectations realistic? How did they react to the course? Was there a clear structure or a common thread?
 * Reacción \(cumpliendo con las expectativas\): ¿Están satisfechos los alumnos con el curso? ¿Han alcanzado los participantes sus metas de aprendizaje? ¿Fueron realistas las expectativas? ¿Cómo reaccionaron los alumnos al curso? ¿Hubo una estructura clara o un hilo común?
