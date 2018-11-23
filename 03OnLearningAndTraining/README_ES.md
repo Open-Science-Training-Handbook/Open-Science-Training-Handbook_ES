@@ -16,8 +16,6 @@ Para prepararte mejor para futuros eventos deberías reflexionar acerca de qué 
 
 ## Algunas reflexiones antes de comenzar
 
-In the following part, we will focus mainly on the first aspect \(preparation\) and then give you guidance on how to plan and manage your course. To start with, we will speak about some theoretical issues which will provide you with an idea of what teaching and learning means and how teaching adults differs from teaching teenagers or children.
-
 A continuación nos enfocaremos, principalmente, en el primer aspecto \(preparación\) y luego te guiaremos en la planificación y la gestión de tu curso. Para empezar, hablaremos sobre algunos asuntos teóricos que te darán una idea de qué significa enseñar y aprender y cómo la enseñanza de adultos se diferencia de la enseñanza de adolescenetes o niños.
 
 ### Capacitación *versus* enseñanza
@@ -62,8 +60,6 @@ El trabajo realizado por [Software Carpentry](https://carpentries.github.io/inst
 
 ### El "Connected Curriculum Framework"
 
-The recent movement ‘Connected Curriculum Framework’ aims at modernizing learning approaches and adapting them to the 21st century learner. The general objective of the framework is to improve the relationships between student education and research practices by breaking down unnecessary divisions. The framework values rich dialogue, active inquiry, collaboration, and interactions between students and researchers as well as universities and wider communities. This carries interesting promises in the area of Open Science and Citizen Science, Crowdsourcing, etc. You can read the Connected Curriculum here: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
-
 El reciente movimiento llamado "Connected Curriculum Framework" tiene como meta modernizar los enfoques de aprendizaje y adaptarlos al estudiante del siglo 21. El objetivo general del Framework es mejorar las relaciones entre la educación de los estudiantes y las prácticas de investigación destruyendo divisiones innecesarias. El Framework valora el diálogo enriquecedor, la investigación activa, la colaboración y las interacciones tanto entre estudiantes e investigadores como entre las universidades y las comunidades más amplias. Esto resulta prometedor para las áreas de la Ciencia Abierta y la Ciencia Ciudadana, la Colaboración Masiva, etc. Aquí puedes leer acerca del "Connected Curriculum Framework": [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
 ### Por qué esto es relevante para ti?
@@ -77,8 +73,6 @@ Al final, lo que importa es la práctica, y puede ser útil verificar tu conteni
 ### Expectativas sobre un capacitador
 
 Todos los que lleguen a tu capacitación vendrán con expectativas, conscientes e inconscientes. Entre otras \(tales como metodología de enseñanza, contenido y conocimiento previo\) tendrán expectativas específicas sobre el capacitador.
-
-Most learners will expect you to:
 
 La mayoría de los estudiantes esperarán que:
 
@@ -238,11 +232,11 @@ Aquí un intento de aclarar esta situación y eliminar ambigüedades:
 
 Para objetivos de aprendizaje de Ciencia Abierta, mira este documento de FOSTER:[https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(páginas 13 y 14\)
 
-**Ejemplo de un objetivo de capacitación: **
+**Ejemplo de un objetivo de capacitación:**
 
 * "Aprender cómo usar la evaluación y la retroalimentación en la capacitación con la máxima efectividad"
 
-**Ejemplo de un resultado de aprendizaje: **
+**Ejemplo de un resultado de aprendizaje:**
 
 * "Al completar el curso, el alumno podrá diseñar un ejercicio de capacitación y una estrategia para evaluar su efectividad"
 
@@ -282,8 +276,6 @@ A través del evento de capcitación pueden emplearse varias estrategias para mo
 
 ## Guía práctica
 
-You will find more information concerning the concrete planning and execution of a training on Open Science in the chapters on [Organizational Aspects](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit) and the [Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit).
-
 Encontrarás más información sobre la planificación y la ejecución concretas de una capacitación sobre Ciencia Abierta en los capítulos sobre los [Aspectos Organizacionales](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit) y los  [Ejemplos y Guías Prácticas](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit).
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
@@ -297,8 +289,6 @@ La creación de tu curso estará impulsada por la planificación de los objetivo
 SMART es una técnica interesante para especificar metas / objetivos que también es utilizada en la gestión de proyectos. SMART es un acrónimo para cinco criterios: Simple - Medible - Ambicioso - Realista - a Tiempo (Simple – Measurable – Ambitious – Realistic – Timed en inglés).
 
 * Tu objetivo es **simple** si puede ser comprendido por una persona que no está familiarizada con el tema. Es decir que puedes explicar a tus alumnos, de antemano, qué es lo que van a aprender. Por lo general, es una buena idea presentar tu objetivo al comienzo de una lección. Simple significa que la meta se puede resumir en no más de una oración concisa.
-
-* Your goal is **measurable** if you can determine objectively whether the goal has been reached. Measurability prevents imprecise goals like "students understand Open Science", which is too broad and difficult to measure as there are many different components. Instead, use verbs that are actionable: identify, draw, name, explain, calculate etc. Verbs for good teaching goals have been categorized by the Bloom’s taxonomy of cognitive domains \([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). Measuring helps you and your students to assess or self-assess progress.
 
 * Tu meta es **medible** si puedes determinar objetivamente si se ha alcanzado. La capacidad de medición evita objetivos imprecisos como "los estudiantes entienden la Ciencia Abierta" que es demasiado amplio y difícil de medir, ya que involucra muchos componentes distintos. En su lugar, utiliza verbos prácticos: identificar, dibujar, nombrar, explicar, calcular, etc. Los verbos de los buenos objetivos de enseñanza han sido categorizados por la taxonomía de dominios cognitivos de Bloom \([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). La medición te ayudará a ti y a tus estudiantes a evaluar o autoevaluar el progreso.
 
@@ -334,7 +324,7 @@ La idea en el Diseño en Retrospectiva es enseñar tendiendo hacia el "punto fin
 
 Antes de comenzar a enseñar tendrás que recopilar y preparar el contenido. Hoy en día el contenido está disponible masivamente. Por ende, ya no se trata de la búsqueda o la creación de contenido sino de la búsqueda de contenido apropiado o de hacer que el contenido que se ha encontrado sea apropiado para las necesidades y capacidades de tu audiencia destinataria.
 
-Por favor revisar el capítulo acerca de [Ejemplos y Guía Práctica](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) que contiene información útil sobre cómo adoptar, adaptar y desarrollar contenido.
+Por favor, revisa el capítulo acerca de [Ejemplos y Guía Práctica](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) que contiene información útil sobre cómo adoptar, adaptar y desarrollar contenido.
 
 #### Reducción de contenido
 
@@ -389,8 +379,6 @@ El aprendizaje activo ayuda a eludir la diversidad en los estilos de aprendizaje
 ## <img src="/Images/Icons/gamification.png" width="300" height="300" />
 
 #### Ludificación
-
-The foundations of the methodology in Active Learning lie in modern learning theories \(partly in Constructivism and some Connectivism\) and add learning engagement techniques to break barriers and flatten as many obstacles as possible. For example, gamifying a learning instance can move learners away from passive acquisition of content to full engagement, leading to the repositioning of the learner as someone who steps back and observes the learning process and how it works. An example of gamification in training is given here: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), a learning game for conceptual consolidation.. An additional example can be found in [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
 
 Los fundamentos de la metodología del Aprendizaje Activo se encuentran en las teorías modernas del aprendizaje \(en parte en el constructivismo y en el conectivismo\) e incorporan técnicas de involucramiento con el aprendizaje para romper barreras y sortear tantos obstáculos como sea posible. Por ejemplo, ludificar una instancia de aprendizaje puede alejar a los alumnos de la adquisición pasiva de contenido hacia un compromiso total, lo que conduce al reposicionamiento del alumno como alguien que da un paso atrás y observa el proceso de aprendizaje y cómo funciona. Aquí se muestra un ejemplo de ludificación en  el entrenamiento: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), un juego de aprendizaje para la consolidación conceptual. Un ejemplo adicional se puede encontrar en [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
 
@@ -506,8 +494,6 @@ Luego de leer este capítulo deberías poder responder a solicitudes para planif
 **Ejercicio**
 
 Considera la siguiente situación hipotética: has sido invitado para entrenar a investigadores principales en una facultad de ingeniería. La capacitación será sobre la gestión de datos que se comparten entre los grupos de investigación en la facultad y sus colegas en Canadá y Nueva Zelanda, en un contexto de Ciencia Abierta.
-
-* In one paragraph describe the design strategy for your training session, in major steps, for example what would you plan to do before, during and after your training session.
 
 * Describe en un párrafo la estrategia de diseño para tu sesión de capacitación a través de sus etapas principales (por ejemplo: qué planeas hacer antes, durante y después de tu sesión de capacitación).
 
