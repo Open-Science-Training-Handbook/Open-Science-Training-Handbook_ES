@@ -24,8 +24,6 @@ A continuación nos enfocaremos, principalmente, en el primer aspecto \(preparac
 
 * La enseñanza busca impartir nuevos conocimientos, mientras que la capacitación equipa a quienes ya están formados con herramientas y técnicas para desarrollar un conjunto específico de habilidades.
 
-* Teaching is, usually, done within the context of education and academic environments, while training is associated with post-high school and/or postgraduate short and intensive courses.
-
 * La enseñanza se realiza, usualmente, en el contexto de ambientes educativos y académicos, mientras que la capacitación se asocia con cursos cortos e intensivos posteriores a la educación secundaria y/o universitaria de grado.
 
 * Usualmente los educadores proporcionan retroalimentación a sus estudiantes, mientras que los capacitadores reciben retroalimentación de los alumnos.
@@ -126,8 +124,6 @@ Una buena manera de comenzar con tu entrenamiento sobre Ciencia Abierta es dirig
 
    2. el tamaño de la audiencia impactará sobre la forma en que sus miembros se relacionarán e interactuarán con el proceso.
 
-   3. if you want a larger audience, consider break-out groups, and the logistical requirements that might come with that.
-
    3. si deseas una audiencia más numerosa, considera separar a los asistentes en grupos y los requisitos logísticos que esto podría conllevar.
 
 7. Considera si tu evento será abierto al público o limitado a los afiliados a la institución anfitriona. Un evento público puede ayudar a aumentar y diversificar la asistencia, mientras que uno limitado puede ayudarte a enfocar temas particulares. Por otro lado, es probable que los asistentes de una misma institución ya se conozcan entre sí.
@@ -166,21 +162,17 @@ La investigación académica es practicada por adultos. Por lo tanto, es probabl
 
 5. **La experiencia afecta el aprendizaje de los adultos.** Los adultos tienen más experiencia que los niños, ya sea negativa o positiva. Puedes hacer uso de esta experiencia evitando las asociaciones negativas.
 
-6. **Los adultos aprenden mejor en una situación informal\*\ ***.\*\* Los jóvenes en edad escolar generalmente tienen que seguir una currícula. A menudo, los adultos aprenden sólo lo que sienten que necesitan saber. Por lo tanto, deberías tratar de involucrar a tu audiencia en el proceso de aprendizaje. Esto puede suceder haciendo que el ambiente sea relajado, informal y acogedor.
+6. **Los adultos aprenden mejor en una situación informal.** Los jóvenes en edad escolar generalmente tienen que seguir una currícula. A menudo, los adultos aprenden sólo lo que sienten que necesitan saber. Por lo tanto, deberías tratar de involucrar a tu audiencia en el proceso de aprendizaje. Esto puede suceder haciendo que el ambiente sea relajado, informal y acogedor.
 
-7. **Los adultos quieren orientación\*\***.\*\* Los adultos desean información que les ayude a mejorar su situación o resolver problemas, pero no quieren que se les diga qué hacer, sino que prefieren elegir entre diferentes opciones basándose en sus necesidades individuales.
+7. **Los adultos quieren orientación.** Los adultos desean información que les ayude a mejorar su situación o resolver problemas, pero no quieren que se les diga qué hacer, sino que prefieren elegir entre diferentes opciones basándose en sus necesidades individuales.
 
 Por lo tanto, necesitarás:
-
-* provide the discovery points, tools and support where researchers will find them
 
 * proporcionar los puntos de descubrimiento, herramientas y brindar apoyo a los investigadores sobre dónde encontrarlos
 
 * preparar documentación en línea con una guía clara, comprensible y actualizada
 
 * reunir herramientas de calidad, utilizables \(y descubribles\), o plantillas para generarlas.
-
-In summary, adults have their interests focused on their own improvement and see training as a self-centered, capacity-building exercise. Adults like to be respected as such, and that their expectations are individually met, in an exhaustive way whenever possible.
 
 En resumen, los adultos enfocan sus intereses en su propia mejoría y ven a la capacitación como un ejercicio centrado en sí mismos para desarrollar capacidades. A los adultos les gusta ser respetados como tales y que sus expectativas individuales se cumplan de manera exhaustiva, siempre que ello sea posible.
 
@@ -261,8 +253,6 @@ A través del evento de capcitación pueden emplearse varias estrategias para mo
 * **Estrategias para construir expectativas positivas**
 
   * Asegura la alineación de los objetivos, las evaluaciones y las estrategias de instrucción.
-
-  * Provide early success opportunities by applying the concepts in hands-on exercises and tutorials.
 
   * Proporciona oportunidades para el éxito desde el comienzo mediante la aplicación de conceptos en ejercicios prácticos y tutoriales.
 
