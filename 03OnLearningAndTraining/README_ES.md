@@ -83,7 +83,6 @@ Most learners will expect you to:
 La mayoría de los estudiantes esperarán que:
 
 * Seas entusiasta con los temas que estás enseñando.
-[//]: # (Posible error en el archivo original ("they are teaching"))
 
 * Tengas una comprensión general de los valores científicos \(o humanistas\) nucleares y reconozcas el papel de la ‘apertura’ como un elemento intrínseco y central de ellos.
 
@@ -331,9 +330,7 @@ La idea en el Diseño en Retrospectiva es enseñar tendiendo hacia el "punto fin
 
 ### Contenido
 
-#### Colección de contenido
-
-Before starting to teach you will have to collect and prepare content. Content is nowadays available en masse, and the question is less about finding or creating content than rather about finding appropriate content or making the discovered content appropriate to the needs and capabilities of your target audience.
+#### Recolección de contenido
 
 Antes de comenzar a enseñar tendrás que recopilar y preparar el contenido. Hoy en día el contenido está disponible masivamente. Por ende, ya no se trata de la búsqueda o la creación de contenido sino de la búsqueda de contenido apropiado o de hacer que el contenido que se ha encontrado sea apropiado para las necesidades y capacidades de tu audiencia destinataria.
 
@@ -470,123 +467,81 @@ _Comentarios entre pares_
 
 Para evaluar un curso debes establecer, primero, con qué quieres que tus alumnos se familiaricen y qué quieres que conozcan, analicen críticamente o puedan explicar ¿Por qué estás haciendo el curso? ¿Qué metas quieres lograr? Y una vez que el curso haya terminado, debes verificar si has alcanzado esos objetivos. Existen diferentes criterios sobre cómo medir el éxito y la eficiencia de tu curso \(Kirkpatrick & Kirkpatrick, 1994\):
 
-* Reaction \(meeting expectations\): Are the trainees satisfied with the course? Have the participants reached their learning goals? Were the expectations realistic? How did they react to the course? Was there a clear structure or a common thread?
-* Reacción \(cumpliendo con las expectativas\): ¿Están satisfechos los alumnos con el curso? ¿Han alcanzado los participantes sus metas de aprendizaje? ¿Fueron realistas las expectativas? ¿Cómo reaccionaron los alumnos al curso? ¿Hubo una estructura clara o un hilo común?
+* Reacción \(cumpliendo con las expectativas\): ¿Están satisfechos los alumnos con el curso? ¿Han alcanzado los participantes sus metas de aprendizaje? ¿Fueron realistas las expectativas? ¿Cómo reaccionaron los alumnos al curso? ¿Hubo una estructura clara o un hilo conductor?
 
-* Learning: Did the attendees learn something new? Is it helpful in their current situation? Did they understand everything? Can they assign suggested tools/platforms to the respective Open Science practices? Do they meet the pre-specified learning objectives?
-* Aprendizaje: ¿Aprendieron algo nuevo los asistentes? ¿Es útil en su situación actual? ¿Lo entendieron todo? ¿Pueden asignar herramientas/plataformas sugeridas a las respectivas prácticas de Ciencia Abierta? ¿Cumplieron los objetivos de aprendizaje preespecificados?
+* Aprendizaje: ¿Aprendieron algo nuevo los asistentes? ¿Es ello útil en su situación actual? ¿Lo entendieron todo? ¿Pueden vincular las herramientas/plataformas sugeridas a las prácticas respectivas en Ciencia Abierta? ¿Cumplieron los objetivos de aprendizaje pre-especificados?
 
-* Behaviour: Will they change their way of conducting research? What will they do with their acquired knowledge? Will they recommend the training/content to others?
-* Comportamiento: ¿Cambiarán su forma de conducir la investigación? ¿Qué harán con los conocimientos adquiridos? ¿Recomendarán la capacitación/contenido a otros?
+* Comportamiento: ¿Cambiarán su forma de realizar investigaciones? ¿Qué harán con los conocimientos adquiridos? ¿Recomendarán la capacitación/contenido a otros?
 
-* Results: which outcomes, when met, have a more positive impact towards the objectives? Which were the ones that brought more benefits?
-* Resultados: ¿qué resultados, cuando se han cumplido, tienen un impacto más positivo hacia los objetivos? ¿Cuáles fueron los que trajeron más beneficios?
+* Resultados: ¿Qué resultados, cuando se han cumplido, tienen un impacto más positivo sobre los objetivos? ¿Cuáles fueron los más beneficiosos?
 
-### Kirkpatrick’s Training Evaluation Technique
-### Técnica de evaluación de entrenamiento de Kirkpatrick
+### Técnica de evaluación del entrenamiento de Kirkpatrick
 
-[Kirkpatrick's Four-Level Training Evaluation Model](https://www.mindtools.com/pages/article/kirkpatrick.htm) is an standardised way to analyse the effectiveness and impact of your training.
-[El modelo de evaluación de entrenamiento de cuatro niveles de Kirkpatrick] (https://www.mindtools.com/pages/article/kirkpatrick.htm) es una forma estandarizada de analizar la efectividad y el impacto de tu entrenamiento.
+[El modelo de evaluación del entrenamiento en cuatro niveles de Kirkpatrick] (https://www.mindtools.com/pages/article/kirkpatrick.htm) es una forma estandarizada de analizar la efectividad y el impacto de tu entrenamiento.
 
-**Exercises**
 **Ejercicios**
 
-* Check the learning outcome with gap texts and quizzes.
-* Verifica el resultado de aprendizaje con textos a completar y cuestionarios.
+* Verifica el resultado del aprendizaje con ejercicios con textos a completar y cuestionarios.
 
-* Run a simple exercise at the start and same exercise at the end. Then see if opinions have changed.
-* Haz un ejercicio simple al principio y el mismo ejercicio al final. A continuación, mira si las opiniones han cambiado.
+* Haz un ejercicio simple al comienzo y el mismo ejercicio al final. Luego, mira si las opiniones han cambiado.
 
-* Keywords: Prepare paper slips with different key aspects of Open Science. Divide the trainees into groups \(at least 3 people\) and let each of them explain 2-3 keywords to each other.
-* Palabras clave: Prepara hojas de papel con diferentes aspectos clave de Ciencia Abierta. Divide a los participantes en grupos \(al menos 3 personas\) y deja que cada uno de ellos explique de 2 a 3 palabras clave a los otros.
+* Palabras clave: Prepara hojas de papel que incluyan diferentes aspectos clave de la  Ciencia Abierta. Divide a los participantes en grupos \(de al menos 3 personas\) y deja que cada uno de ellos explique 2 o 3 palabras clave a los demás.
 
-* Give the participants a printout of the general structure for the scientific method, and ask them to assign Open Science tools and methods that can be applied to each of them.
-* Entrega a los participantes una copia impresa de la estructura general del método científico, y pídeles que asignen herramientas y métodos de Ciencia Abierta que puedan aplicarse a cada uno de ellos.
+* Entrega a los participantes una copia impresa de la estructura general del método científico y pídeles que asignen herramientas y métodos de la Ciencia Abierta que puedan aplicarse en ella.
 
-* Depending on time, you can also ask them to create an imaginary/simple research scenario and go ahead in establishing the Open Science protocols for it.
-* Dependiendo del tiempo disponible, también puedes pedirles que creen un escenario de investigación imaginario/simple y que establezcan los protocolos de Ciencia Abierta para éste.
+* Dependiendo del tiempo disponible, también puedes pedirles que creen un escenario de investigación imaginario/simple y que establezcan los protocolos de Ciencia Abierta para él.
 
-### Rework your course
 ### Reorganiza tu curso
 
-You will have had your own expectations before teaching the course and the experience of having done so will show you that things do not always work the way you planned. You should not be too disappointed, because a first time yield for all outcomes is almost impossible, but rather take the end of the course as a starting point to rework your material and rethink some of your methods and practical exercises.
+Tendrás tus propias expectativas antes de impartir el curso, y la experiencia de haberlo hecho te demostrará que las cosas no siempre funcionan como lo planeaste. No debes decepcionarte demasiado, porque alcanzar todos tus objetivos en tu primera vez es casi imposible. Más bien toma el final del curso como un punto de partida para reorganizar tu material y repensar algunos de tus métodos y ejercicios prácticos.
 
-Tendrás tus propias expectativas antes de impartir el curso y la experiencia de haberlo hecho te demostrará que las cosas no siempre funcionan como lo planeaste. No debes decepcionarte demasiado porque obtener la primera vez un desempeño perfecto para todos los resultados (esperados) es casi imposible, más bien toma el final del curso como punto de partida para volver a trabajar tu material y repensar algunos de tus métodos y ejercicios prácticos.
-
-Be aware that it might even take you three attempts until you will have the feeling that your course has the format it needs and will satisfy both the attendees as well as you as the instructor.
-
-Ten en cuenta que incluso puede tomar tres intentos hasta que tengas la sensación de que tu curso tiene el formato que necesita y que satisfará tanto a los asistentes, y a tí como instructor.
+Ten en cuenta que te puede tomar hasta tres intentos tener la sensación de que tu curso tiene el formato que necesita y que satisfará tanto a los asistentes como a ti como instructor.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-## Learning outcomes of this chapter
+
 ## Resultados de aprendizaje de este capítulo
 
-After going through this chapter you should be able to respond to requests to plan and deliver training in Open Science to specific audiences.
-
-Después de leer este capítulo, deberías poder responder a solicitudes para planificar y entregar capacitación en Ciencia Abierta a audiencias específicas.
-
-**Exercise**
+Luego de leer este capítulo deberías poder responder a solicitudes para planificar y realizar capacitaciones en Ciencia Abierta a audiencias específicas.
 
 **Ejercicio**
 
-Consider the following hypothetical situation: You have been invited to train principal investigators at an engineering school. The training will be about the management of datasets that are shared between research groups in the school and their colleagues in Canada and New Zealand, in an Open Science context.
+Considera la siguiente situación hipotética: has sido invitado para entrenar a investigadores principales en una facultad de ingeniería. La capacitación será sobre la gestión de datos que se comparten entre los grupos de investigación en la facultad y sus colegas en Canadá y Nueva Zelanda, en un contexto de Ciencia Abierta.
 
-Considera la siguiente situación hipotética: has sido invitado para entrenar a investigadores principales en una facultad de ingeniería. La capacitación será sobre la gestión de conjuntos de datos que se comparten entre los grupos de investigación en la facultad y sus colegas en Canadá y Nueva Zelanda, en un contexto de Ciencia Abierta.
+* In one paragraph describe the design strategy for your training session, in major steps, for example what would you plan to do before, during and after your training session.
 
-* In one paragraph describe the design strategy for your training session, in major steps, for example what would you plan to do before, during and after your training session
+* Describe en un párrafo la estrategia de diseño para tu sesión de capacitación a través de sus etapas principales (por ejemplo: qué planeas hacer antes, durante y después de tu sesión de capacitación).
 
-* En un párrafo, describe la estrategia de diseño para tu sesión de capacitación en pasos principales, por ejemplo, qué planeas hacer antes, durante y después de tu sesión de capacitación.
+* Enumera tres preguntas que puedes hacer para caracterizar a tu audiencia.
 
-* List three questions that you are allowed to ask to characterise your audience
+* Enumera tres objetivos de aprendizaje.
 
-* Enumera tres preguntas que puedes hacer para caracterizar a tu audiencia
+* Enumera tres resultados de aprendizajes esperados.
 
-* List three learning objectives
+* Enumera tres acciones que puedes usar para romper el hielo e involucrar a tu audiencia.
 
-* Enumera tres objetivos de aprendizaje
-
-* List three expected learning outcomes
-
-* Enumera tres resultados de aprendizajes esperados
-
-* List three actions that you can use to break the ice and get your audience engaged
-
-* Enumera tres acciones que puedes usar para romper el hielo e involucrar a tu audiencia
-
-* List three questions that you would ask to check what the participants have learned
-
-* Enumera tres preguntas que harías para verificar qué aprendieron los participantes
-
-* List three questions that you would ask to check if the participants enjoyed the session.
+* Enumera tres preguntas que harías para verificar qué aprendieron los participantes.
 
 * Enumera tres preguntas que harías para verificar si los participantes disfrutaron de la sesión.
 
-* Be ready to react to genuine and spontaneously created wordcloud \(sli.do or some other tool\) : don’t be afraid to co-work with your audience, learn to play with what you know \(and assume you also have to right for some perplexity\)
-
-* Prepárate para reaccionar ante una "wordcloud" (nube de palabras) \(sli.do o alguna otra herramienta\) creada de forma espontánea y genuina: no tengas miedo de colaborar con tu audiencia, aprende a jugar con lo que sabes \(y asume que también tendrás que corregir alguna confusión\)
-
-Similar exercises can be applied to training different audiences, for which you may consider the same way of testing your knowledge.
+* Prepárate para reaccionar ante una *nube de palabras* \(sli.do o alguna otra herramienta\) creada de forma espontánea y genuina: no tengas miedo de colaborar con tu audiencia, aprende a jugar con lo que sabes \(y asume que también tienes derecho a exhibir cierta perplejidad\)
 
 Se pueden aplicar ejercicios similares para capacitar a diferentes audiencias, para lo cual puedes considerar la misma forma de probar tus conocimientos.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
-### Lectura recomendada
 
-**About Bloom's Taxonomy: **
-**Acerca de la taxonomía de Bloom: **
+### Lecturas adicionales recomendadas
+
+**Acerca de la Taxonomía de Bloom:**
 
 * [https://www.pearsoened.com/using-blooms-taxonomy-to-write-learning-outcomes/](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
 * [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
-**Resources/Exercises for ice-breakers**
-**Recursos/Ejercicios para romper el hielo**
+**Recursos/ejercicios para romper el hielo**
 
 * [https://www.mindtools.com/pages/article/newLDR\_76.htm](https://www.mindtools.com/pages/article/newLDR_76.htm)
 * [http://documents.manchester.ac.uk/display.aspx?DocID=7582](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
 * [https://www.thebalance.com/top-ice-breakers-1918426](https://www.thebalance.com/top-ice-breakers-1918426)
 
-**References**
 **Referencias**
 
 * Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer. [How learning works](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4.
@@ -599,20 +554,18 @@ Se pueden aplicar ejercicios similares para capacitar a diferentes audiencias, p
 
 * Rowe, M. B. \(1986\). Wait Time: Slowing Down May Be A Way of Speeding Up! Journal of Teacher Education, 37\(1\), 43–50: [doi.org/10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 
-* Kirkpatrick, D.L., & Kirkpatrick, J.D. \(1994\). _Evaluating Training Programs_, Berrett-Koehler Publishers.
+* Kirkpatrick, D.L. y Kirkpatrick, J.D. \(1994\). _Evaluating Training Programs_, Berrett-Koehler Publishers.
 
-* R.M. Felder and R. Brent.  [Active learning. An introduction](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Tutorials/Active/Directions.html)
+* R.M. Felder y R. Brent.  [Active learning. An introduction](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Tutorials/Active/Directions.html)
 
 * Michael Prince - Does Active Learning Work? A Review of the Research \([PDF](https://drive.google.com/open?id=1trrxEgF7RLYw2FTCe82oxlXvfm_MfY7m)\).
 
 * Mazur's [video](https://www.youtube.com/watch?v=Z9orbxoRofI) on Peer Instruction for Active Learning
 
-* Dale, Edgar. Audio-Visual Methods in Teaching, 3rd ed., Holt, Rinehart & Winston, New York, 1969, p.10.
+* Dale, Edgar. Audio-Visual Methods in Teaching, 3rd ed., Holt, Rinehart y Winston, New York, 1969, p.10.
 
 * Klaus W. Döring: Handbuch Lehren und Trainieren in der Weiterbildung. Beltz Verlag \(Weinheim, Basel\) 2008.
 
-For a deeper understanding of the matter:
+**Para una comprensión más profunda sobre el tema:**
 
-Para una comprensión más profunda sobre el tema:
-
-* Knowles, Malcolm S, Elwood F Holton, and Richard A Swanson. The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. Oxford: Butterworth-Heinemann, 2011.
+* Knowles, Malcolm S, Elwood F Holton y Richard A Swanson. The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. Oxford: Butterworth-Heinemann, 2011.
