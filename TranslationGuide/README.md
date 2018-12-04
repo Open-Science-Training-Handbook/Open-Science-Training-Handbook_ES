@@ -137,7 +137,7 @@ Total de palabras del Manual: 43.243.
     <td>1.137</td>
     <td>24-09</td>
     <td>Reme Melero</td>
-    <td></td>
+    <td>Reme Melero</td>
     <td>Reme Melero</td>
   </tr>
   <tr>
