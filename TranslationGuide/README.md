@@ -182,7 +182,7 @@ Total de palabras del Manual: 43.243.
     <td>6.319</td>
     <td>26-10</td>
     <td>Nicolás Alessandroni</td>
-    <td></td>
+    <td>Revisado</td>
     <td></td>
   </tr>
   <tr>
@@ -199,7 +199,7 @@ Total de palabras del Manual: 43.243.
     <td>Lourdes Feria</td>
     <td>10.355</td>
     <td></td>
-    <td>Nicolás Alessandroni</td>
+    <td>Rosario Rogel? o Nicolás Alessandroni</td>
     <td></td>
     <td></td> 
   </tr>
