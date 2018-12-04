@@ -42,11 +42,11 @@ Cada vez más, las  agencias de financiamiento y las instituciones académicas e
 ### Conocimiento
 #### Revisión por pares abierta 
 
-Sitios populares para la OPR son editoriales de revistas científicas como Copernicus, Frontiers, BioMed Central, eLife y F1000research.
+Las editoriales de revistas científicas como Copernicus, Frontiers, BioMed Central, eLife y F1000research, son claro ejemplo del uso de la revisión por pares abierta.
 
-La revisión por pares abierta, en sus distintas formas, tiene potenciales ventajas para los revisores y autores:
+La revisión por pares abierta, en sus distintas formas, tiene potenciales ventajas para los revisores y los autores:
 
-* La revisión con identidades abiertas \(no-ciegas\) promueve mayor transparencia y accountability entre revisores y reduce las oportunidades de sesgos o conflictos de interés no explicitados. 
+* La revisión con identidades abiertas \(no-enmascaradas\) promueve una mayor transparencia y responsabilidad de los rcensores, y reduce las oportunidades de sesgos o conflictos de interés no explicitados. 
 
 * Los reportes de revisión abierta agregan otra capa de control de calidad, permitiendo a la comunidad ampliada desmenuzar las revisiones y examinar los procesos de toma de decisiones.
 
