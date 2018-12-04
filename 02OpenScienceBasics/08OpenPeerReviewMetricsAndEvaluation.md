@@ -48,7 +48,7 @@ La revisión por pares abierta, en sus distintas formas, tiene potenciales venta
 
 * La revisión con identidades abiertas \(no-enmascaradas\) promueve una mayor transparencia y responsabilidad de los rcensores, y reduce las oportunidades de sesgos o conflictos de interés no explicitados. 
 
-* Los reportes de revisión abierta agregan otra capa de control de calidad, permitiendo a la comunidad ampliada desmenuzar las revisiones y examinar los procesos de toma de decisiones.
+* Los informes de una evaluación abierta agregan otra capa de control de calidad, permitiendo a la comunidad ampliada desmenuzar las revisiones y examinar los procesos de toma de decisiones.
 
 * Identidades abiertas y reportes abiertos, en combinación, se piensa que llevarán a mejores revisiones, dado que la idea de tener su nombre públicamente conectado a un trabajo o ver su revisión publicada, incentiva que los investigadores sean más rigurosos.
 
