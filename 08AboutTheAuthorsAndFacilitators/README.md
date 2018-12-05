@@ -9,7 +9,6 @@
 * [sonja.bezjak@fdv.uni-lj.si](mailto:sonja.bezjak@fdv.uni-lj.si)
 * [@sonja\_adp](https://twitter.com/sonja_adp)
 
-<iframe src="https://www.youtube.com/embed/v41JkOz9svA" frameborder="0" allowfullscreen></iframe> 
 
 En los archivos de datos de ciencias sociales, me dedico principalmente a temas relacionados con el acceso abierto a los datos de investigación. Una de mis funciones es capacitar a las diferentes partes interesadas en políticas de datos de investigación, planificación de la gestión de datos de investigación, citación de datos, publicaciones de datos, etc. Como miembro del grupo de capacitación CESSDA ERIC, trato de compartir mi conocimiento y experiencia a nivel internacional.
 
@@ -204,3 +203,40 @@ Before working for FOSTER I worked with young activists engaging for worldwide e
 With a background in social sciences, I’m a librarian by training, working as a subject specialist at a university library for several years, and kicked of the Open Science Lab at TIB \(German National Library for Science and Technology\) in 2013, now running a number of grant projects. Facilitating and advising book sprints since 2014. Helped to make VIVO, a free current research information system \(CRIS\) based entirely on Linked Open Data, popular in Germany. Kicked of a few discussions in libraryland and elsewhere, e.g. on Blockchain for Science.
 
 When giving workshops \(e.g., a half day workshop for PhD students and PostDocs from Leibniz Research Association in Germany in 2017, on the matter of scholarly profile and collaborative writing services\) it’s always a pleasure to tap into the curiosity of learners. Even the busiest student has experiences, questions and imagines how things could work best for them. I love to make use of this positive energy! And it makes it much easier for a trainer to run a training session.
+
+## Acerca de los traductores de la versión al español
+
+### Paloma Bougeois Garrido -  [pbg.034@gmail.com](mailto:pbg.034@gmail.com)
+
+* Licenciada en Literatura y Filosofía - Universidad Iberoamericana Puebla (México)
+
+Editora de la revista Salud Pública de México, donde se dedica a la corrección de estilo, en especial a la edición en digital de la Revista. Asimismo, monitorea los indicadores de Factor de Impacto (FI) y diversas métricas de SCOPUS, SCImago, Google Scholar. Participa y promueve a través de su trabajo el movimiento de acceso abierto para incrementar la visibilidad de las publicaciones a través de la correcta utilización de metadatos; y facilitar la citación dentro de los gestores de referencias y repositorios, para finalmente hacer que la literatura científica esté disponible en línea y sin barreras para todos. 
+Benito Castro Pérez – bibliobenito@gmail.com
+Licenciado en Biblioteconomía - Escuela Nacional de Biblioteconomía y Archivonomía de México.
+Trabaja en la Revista Latinoamericana de Investigación en Matemática Educativa (RELIME) lo que lo vincula al mundo de las publicaciones científicas y la comunicación de la ciencia. Se dedica a la Alfabetización Informacional de estudiantes de educación media superior, fomentando el uso de herramientas de acceso abierto y el uso ético de la información. 
+
+### Lourdes Feria Basurto - lourdesferia@hotmail.com [lourdesferia@hotmail.com](mailto:lourdesferia@hotmail.com)
+
+* Licenciada en Bibliotecología –Universidad Nacional Autónoma de México.  Maestra en Educación por la Universidad de Colima de México. Doctora –Cum laude- en Ciencias de la Documentación - Universidad Complutense de Madrid, España.
+
+Consultora internacional en Gestión de Conocimiento, e-Learning y Bibliotecología. Actualmente es docente en el Posgrado en Bibliotecología y Ciencias de la Información en la Universidad Nacional Autónoma de México.
+
+### Alicia Gómez Sánchez – aliciaf.gomez@yahoo.com [aliciaf.gomez@yahoo.com](mailto:aliciaf.gomez@yahoo.com)
+
+* Bachillerato en traducción e interprete. Diversas Maestrías y Doctorado en Filosofía y Lingüística.
+Trabaja varios años realizando apoyo a la investigación, especialmente asistencia en temas de ciencia abierta y métricas. En España desarrolla el repositorio institucional del Instituto de Salud Carlos III y otras fundaciones del área de la salud.  Actualmente actúa como “Research & Scholarly Communications Information Manager” en la Universidad Hertfordshire, Reino Unido.
+
+### Ricardo Hartley - aufschieben@icloud.com [aufschieben@icloud.com](mailto:aufschieben@icloud.com)
+* Doctor en Biología Molecular Aplicada y Magíster en Ciencias Biológicas, Universidad de La Frontera. Magíster en Biología Celular y del Desarrollo, Universidad de Tarapacá. Tecnólogo Médico, Universidad de Chile. 
+
+Actualmente trabaja en la Universidad Central como Coordinador Ejecutivo de I3S. Participa activamente en diversas iniciativas de acceso abierto y ciencia abierta a nivel regional e internacional; y colabora con diversos en la difusión y capacitación sobre sus conceptos y principios. 
+
+### Ivonne Lujano- ivonne@doaj.org [ivonne@doaj.org](mailto:ivonne@doaj.org)
+
+* Embajadora de DOAJ en América Latina. Tiene una Maestría en Ciencias Sociales por FLACSO Argentina, así como las licenciaturas en Educación por la Universidad Autónoma del Estado de México. Es profesora en la Universidad Autónoma del Estado de México, Facultad de Ciencias de la Conducta. 
+
+Ha trabajado con algunas iniciativas de comunicación académica a nivel regional e internacional como Force11, Latindex, Redalyc, SciELO y SPARC desarrollando proyectos sobre las mejores prácticas en la publicación de revistas de acceso abierto. Ivonne escribe sobre temas relacionados con la comunicación académica, el acceso abierto, las políticas científicas y de investigación y la educación superior. Tiene experiencia en la impartición de cursos sobre comunicación académica y uso de la información científica para estudiantes de posgrado, docentes, bibliotecario/as e investigadore/as.
+
+### Paula Martinez -  paml@dtu.dk [paml@dtu.dk](mailto:paml@dtu.dk)
+
+* Office for Innovation and Sector Services  - AIS-lib-Data Management, DTU Library - Technical University of Denmark. Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
