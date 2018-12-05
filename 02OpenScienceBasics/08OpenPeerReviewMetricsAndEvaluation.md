@@ -70,31 +70,32 @@ Existen algunos inconvenientes a los que se debe poner atención, incluyendo:
 
 La [Declaración de San Francisco sobre Evaluación de la Investigación \(DORA\)](https://sfdora.org/) recomienda distanciarse de las evaluaciones basadas solo en la reputación de las revistas científicas, y propone que se tengan en consideración los diversos  tipos de productos resultado de la actividad y que se utilicen diferentes formas de métricas que complementen a las formas clásicas. DORA ha sido suscrita firmada por miles de investigadores, instituciones, editoriales y agencias de financiamiento, quienes se han comprometido a poner esto en práctica. El [Manifiesto de Leiden](http://www.leidenmanifesto.org/) provee guías sobre cómo utilizar las métricas de manera responsable.
 
-Con respecto a las altmétricas, Priem et al. (2010) advierten de sus posibles beneficios: sus datos se recopilan de  manera más rápida que las citas; pueden medir el impacto de los resultados de la investigación distintos de las publicaciones científicas (ej. sets de datos, código, protocolos, comentarios en blogs, tweets, etc.); y pueden proveer distintas medidas de impacto de objetos digitales individualmente. La temporalidad de las altmétricas se presenta como una ventaja para los jóvenes investigadores, cuyo impacto de investigación puede no estar  reflejado en un número significativo de citaciones, aún cuando su progresión en la carrera académica dependa de evaluaciones positivas. En adición, las altmétricas pueden ayudar con la identificación temprana de investigación influyente y conexiones potenciales entre investigadores. Un reporte reciente del grupo experto en Altmétricas de la Comisión Europea (Directiva General para Investigación e Innovación, Comisión Europa, 2017) ha identificado desafíos de altmétricas, incluyendo la falta de robustez y su susceptibilidad a ser trucado; que cualquier medida cesa de ser una buena medida una vez que se convierte en un objetivo (‘Ley de Goodhart’); la relativa falta de adopción de redes sociales en algunas disciplinas y regiones geográficas; y la dependencia de entidades comerciales sobre los datos en que se basan estas métricas. 
+Con respecto a las altmétricas, Priem et al. (2010) advierten de sus posibles beneficios: sus datos se recopilan de  manera más rápida que las citas; pueden medir el impacto de los resultados de la investigación distintos de las publicaciones científicas (ej. sets de datos, código, protocolos, comentarios en blogs, tweets, etc.); y pueden proveer distintas medidas de impacto de objetos digitales de forma inidividual. La inmediatez  de las altmétricas constituye una ventaja para los jóvenes investigadores, cuyo impacto de investigación puede no reflejarse en un número número significativo de citas, sin embargo su carrera depende de evaluaciones positivas.
+Las altmétricas pueden ayudar a identificar  investigación nóvel e influyente y establecer  potenciales conexiones entre investigadores. Un informe reciente del grupo de expertos en altmétricas de la Comisión Europea (Directiva General para Investigación e Innovación, Comisión Europa, 2017) ha identificado los desafíos de las altmétricas, incluyendo la falta de robustez y su susceptibilidad al azar; que cualquier medida cesa de ser una buena medida una vez que se convierte en un objetivo (‘Ley de Goodhart’); la relativa falta de adopción de redes sociales en algunas disciplinas y regiones geográficas; y la dependencia de entidades comerciales sobre los datos en que se basan estas métricas. 
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 ### Competencias
 
-Ejemplos de ejercicios
+Ejemplos de posibles ejercicios
 
 * Los estudiantes trabajan en grupos de tres. Cada individuo escribe una revisión de un texto académico corto.
 
 * Revisar una publicación de un servidor de pre-prints. 
 
-* Uso de servicios bibliométricos abiertos o de algunos servicios de medidas altmétricas  \(ej. Impactstory, Paperbuzz, Altmetric bookmarklet, Dimensions.ai\) para analizar las  métricas de un artículo, para después facilitar una breve explicación de cómo se han calculado las distintas métricas \(es más difícil de lo que piensas; supone el desafío de encontrar la documentación sobre el cálculo de las métricas incluso para aquellos servicios  más transparentes\)
+* Uso de servicios bibliométricos o de  altmétricas  \(ej. Impactstory, Paperbuzz, Altmetric bookmarklet, Dimensions.ai\) para analizar las  métricas de un artículo, para después facilitar una breve explicación de cómo se han calculado las distintas métricas \(es más difícil de lo que piensas; supone el desafío de encontrar la documentación sobre el cálculo de las métricas incluso para aquellos servicios  más transparentes\)
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Preguntas, obstáculos e ideas equivocadas comunes 
 Q: ¿Es justa la evaluación de la investigación?
 
-A: La evaluación de la investigación es justa así como sus métodos y técnicas de evaluación. Las métricas y almétricas tratan de medir la calidad de la investigación a través de la cantidad de productos, lo que puede ser acertado, pero no necesariamente. 
+A: La evaluación de la investigación es tan justa como lo son sus métodos y técnicas de evaluación. Las métricas y altmétricas tratan de medir la calidad de la investigación teniendo en cuenta la cantidad de los resultados de la investigación, lo que puede ser preciso, pero no necesariamente. 
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Resultados de aprendizaje
+### Resultados de la capacitación
 
-1. Los estudiantes serán capaces de identificar las revistas de revisión de pares abierta.
-2. Los estudiantes estarán al tanto de un rango de métricas, sus ventajas y desventajas. 
+1. Los estudiantes serán capaces de identificar las revistas que sigan una política editorial de revisión de pares abierta.
+2. Los estudiantes conocerán un rango de métricas, sus ventajas y desventajas. 
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Bibliografía sugerida
