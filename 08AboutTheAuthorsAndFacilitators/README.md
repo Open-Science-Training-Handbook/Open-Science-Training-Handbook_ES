@@ -248,6 +248,7 @@ Ha trabajado con algunas iniciativas de comunicación académica a nivel regiona
 
 Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
 
+
 ## Equipo de Revisores
 
 ### Nicolás Alessandroni - [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
@@ -272,9 +273,9 @@ Coordinadora del equipo de traductores y revisora de la traducción al español
 
 Actualmente es punto focal de asistencia a divisiones de investigación de la CEPAL relacionadas con los temas de gobierno abierto, economía digital y sociedad del conocimiento. Participa en el Proyecto LEARN financiado por el programa de investigación e innovación Horizon 2020 de la Unión Europea, que promueve el desarrollo de políticas a nivel institucional sobre Gestión de Datos de Investigación (GDI). Co-autora de la guía “Gestión de Datos de Investigación” en el marco del mismo Proyecto y traductora de diverso material sobre GDI de The University of Edinburgh y Digital Curation Center (DCC), del Reino Unido. Colabora permanentemente en la promoción de eventos sobre GDI, acceso a la información y ciencia abierta. 
 
+## Revisora externa de la traducción al español
 
 ### Remedios Melero -  [rmelero@iata.csic.es](mailto:rmelero@iata.csic.es)
-Revisora externa de la traducción al español
 
 * Doctora en Ciencias Químicas - Universidad de Valencia, España. Es investigadora en el Instituto de Agroquímica y Tecnología de Alimentos, del Consejo Superior de Investigaciones Científicas (CSIC) y editora de la revista científica “Food Science and International Technology”. Además, es editora del Directory of Open Access Journals (DOAJ) y miembro del comité científico de Redalyc y de Scielo España. Coordinadora del grupo de trabajo español de Acceso Abierto a la Ciencia que en la actualidad trabaja en un proyecto nacional relacionado con los datos de investigación y la ciencia abierta. Es miembro de la red temática MAREDATA, y socia en el proyecto FOSTER+ (Facilitate Open Science Training for European Research) para la promoción de las políticas europeas en  materia de ciencia abierta y la formación en temas afines.
 
