@@ -227,7 +227,9 @@ Consultora internacional en Gestión de Conocimiento, e-Learning y Bibliotecolog
 ### Alicia Gómez Sánchez – aliciaf.gomez@yahoo.com [aliciaf.gomez@yahoo.com](mailto:aliciaf.gomez@yahoo.com)
 
 * Bachillerato en traducción e interprete. Diversas Maestrías y Doctorado en Filosofía y Lingüística.
-Trabaja varios años realizando apoyo a la investigación, especialmente asistencia en temas de ciencia abierta y métricas. En España desarrolla el repositorio institucional del Instituto de Salud Carlos III y otras fundaciones del área de la salud.  Actualmente actúa como “Research & Scholarly Communications Information Manager” en la Universidad Hertfordshire, Reino Unido.
+Trabaja varios años realizando apoyo a la investigación, especialmente asistencia en temas de ciencia abierta y métricas. 
+
+En España desarrolla el repositorio institucional del Instituto de Salud Carlos III y de otras fundaciones del área de la salud.  Actualmente se desempeña como “Research & Scholarly Communications Information Manager” en la Universidad Hertfordshire, Reino Unido.
 
 ### Ricardo Hartley - aufschieben@icloud.com [aufschieben@icloud.com](mailto:aufschieben@icloud.com)
 * Doctor en Biología Molecular Aplicada y Magíster en Ciencias Biológicas, Universidad de La Frontera. Magíster en Biología Celular y del Desarrollo, Universidad de Tarapacá. Tecnólogo Médico, Universidad de Chile. 
