@@ -245,3 +245,34 @@ Ha trabajado con algunas iniciativas de comunicación académica a nivel regiona
 * Office for Innovation and Sector Services  - AIS-lib-Data Management, DTU Library - Technical University of Denmark. 
 
 Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
+
+## Equipo de Revisores
+
+### Nicolás Alessandroni - [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
+Revisor de la traducción al español
+
+* Master en Psicología Cognitiva y Aprendizaje - Universidad Nacional de La Plata
+
+Tiene experiencia en la traducción inglés-español de textos académicos y también en la edición académica tanto de libros y documentos de trabajo, como de revistas científicas de acceso abierto (i.e. Epistemus, Revista de Estudios en Música, Cognición y Cultura). Actualmente trabaja en el Departamento de Psicología Evolutiva y de la Educación de la Universidad Autónoma de Madrid (UAM), manteniendo estrechos lazos profesionales con Argentina, su país natal, especialmente con la Universidad Nacional de La Plata donde obtuvo sus títulos de grado y donde trabaja como docente. 
+
+### Rosario Rogel – rosariorogel@gmail.com [rosariorogel@gmail.com](mailto:rosariorogel@gmail.com)
+Traductora y revisora de la traducción al español
+
+* Socióloga, doctora en Ciencias Sociales, especialista en teoría social de sistemas, procesos editoriales científicos, acceso abierto y comunicación científica temas acerca de los cuales cuenta con diversas publicaciones en libros y revistas especializadas. Profesora de la Facultad de Ciencias Políticas y Sociales en la Universidad Autónoma del Estado de México e Investigadora visitante en la Dirección General de Cómputo y de Tecnologías de Información y Comunicación UNAM.
+
+Ha sido directora y fundadora de diversas revistas de científicas y participa como integrante del comité editorial
+de muchas otras, tanto en México como en el extranjero. Experiencia en temas de acceso abierto, tanto desde la investigación como de la promoción de iniciativas legislativas en su país.
+
+### Claudia Vilches – [claudia.vilches@cepal.org](mailto:claudia.vilches@cepal.org)
+Coordinadora del equipo de traductores y revisora de la traducción al español
+
+* Licenciada en Bibliotecología y Documentación – Universidad Tecnológica Metropolitana, Santiago Chile. Diploma en Biblioteca Digitales – Pontificia Universidad Católica de Chile.
+
+Actualmente es punto focal de asistencia a divisiones de investigación de la CEPAL relacionadas con los temas de gobierno abierto, economía digital y sociedad del conocimiento. Participa en el Proyecto LEARN financiado por el programa de investigación e innovación Horizon 2020 de la Unión Europea, que promueve el desarrollo de políticas a nivel institucional sobre Gestión de Datos de Investigación (GDI). Co-autora de la guía “Gestión de Datos de Investigación” en el marco del mismo Proyecto y traductora de diverso material sobre GDI de The University of Edinburgh y Digital Curation Center (DCC), del Reino Unido. Colabora permanentemente en la promoción de eventos sobre GDI, acceso a la información y ciencia abierta. 
+
+
+### Remedios Melero -  [rmelero@iata.csic.es](mailto:rmelero@iata.csic.es)
+Revisora externa de la traducción al español
+
+* Doctora en Ciencias Químicas - Universidad de Valencia, España. Es investigadora en el Instituto de Agroquímica y Tecnología de Alimentos, del Consejo Superior de Investigaciones Científicas (CSIC) y editora de la revista científica “Food Science and International Technology”. Además, es editora del Directory of Open Access Journals (DOAJ) y miembro del comité científico de Redalyc y de Scielo España. Coordinadora del grupo de trabajo español de Acceso Abierto a la Ciencia que en la actualidad trabaja en un proyecto nacional relacionado con los datos de investigación y la ciencia abierta. Es miembro de la red temática MAREDATA, y socia en el proyecto FOSTER+ (Facilitate Open Science Training for European Research) para la promoción de las políticas europeas en  materia de ciencia abierta y la formación en temas afines.
+
