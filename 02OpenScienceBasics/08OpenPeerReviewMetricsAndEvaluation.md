@@ -20,13 +20,13 @@ Desde que en el siglo XVII en la Royal Society of London (1662) y la Académie R
 
 ## <img src="/Images/02 Open Science Basics/02_open_peer_review.png" />
 
-La evaluación por pares, los sistemas de recompensa y las métricas todavía no están en sintonía con la Ciencia Abierta. Las métricas utilizadas para evaluar la investigación \(ej. Factor de Impacto, índice-h\) no miden -  y por tanto, no premian - las prácticas de ciencia abierta. La revisión por pares abierta no está reconocida como una  actividad propiamente  "académica" en escenarios de promoción  profesional (ej. en muchos casos, los tribunales de concursos académicos no consideran como un mérito academico ni las revisiones por pares abiertas más brillantes\). Es más, muchas métricas utilizadas en los concursos de promoción - especialmente cierto tipo de bibliometrías - no son ni tan abiertas ni tan  transparentes como querría la comunidad científica. 
+La evaluación por pares, los sistemas de compensación y las métricas todavía no están en sintonía con la Ciencia Abierta. Las métricas utilizadas para evaluar la investigación \(ej. Factor de Impacto, índice-h\) no miden -  y por tanto, no premian - las prácticas de ciencia abierta. La revisión por pares abierta no está reconocida como una  actividad propiamente  "académica" en escenarios de promoción  profesional (ej. en muchos casos, los tribunales de concursos académicos no consideran como un mérito academico ni las revisiones por pares abiertas más brillantes\). Es más, muchas métricas utilizadas en los concursos de promoción - especialmente cierto tipo de bibliometrías - no son ni tan abiertas ni tan  transparentes como querría la comunidad científica. 
 
-Bajo estas circunstancias, en el mejor de los casos las prácticas de Ciencia Abierta son vistas como una carga adicional que no tiene reconocimiento. En el peor, son vistas como actividades que perjudican las posibilidades  de financiamiento y promoción profesional. Un [informe reciente de la Comisión Europea (2017)](https://doi.org/10.2777/75255) reconoce que existen dos aproximaciones para la implementación de la Ciencia Abierta, y las formas en que el el reconocimiento y la evaluación pueden apoyarla son: 
+En estas circunstancias, en el mejor de los casos las prácticas de Ciencia Abierta son vistas como una carga adicional que no tiene reconocimiento. En el peor, son vistas como actividades que perjudican las posibilidades  de financiamiento y promoción profesional. Un [informe reciente de la Comisión Europea (2017)](https://doi.org/10.2777/75255) reconoce que existen dos aproximaciones para la implementación de la Ciencia Abierta, y las formas en que el el reconocimiento y la evaluación pueden apoyarla son: 
 
 1. Mantener simplemente el status quo y promover una mayor apertura, mediante nuevas métricas que midan la producción científica 
 
-2. Experimentar con nuevas prácticas  de investigación y alternativas de evaluación, datos abiertos, ciencia ciudadana y de educación abierta. 
+2. Experimentar con nuevas prácticas  de investigación y de formas alternativas de evaluación y promover los datos abiertos, la ciencia ciudadana y una educación abierta. 
 
 Cada vez más, las  agencias de financiamiento y las instituciones académicas están dando algunos pasos en dichas direcciones, por ejemplo, yendo más allá de evaluaciones simplemente numéricas, e incluyendo indicadores de impacto social en sus ejercicios de evaluación. Otras acciones  que las agencias de financiamiento están tomando, son p.e. permitir más tipos de trabajos de investigación \(como preprints\) en postulaciones y el financiamiento de distintos tipos de investigación \(como estudios de repetibilidad\).
 
@@ -35,7 +35,7 @@ Cada vez más, las  agencias de financiamiento y las instituciones académicas e
 
 1. Reconocer los principales elementos de la revisión por pares abierta y sus potenciales ventajas y desventajas.
 2. Entender las diferencias entre tipos de métricas utilizadas para evaluar la investigación y a los investigadores.
-3. Involucrarse en el debate sobre la forma en que los esquemas de evaluación afectan las maneras de funcionamiento de la academia. 
+3. Involucrarse en el debate sobre la forma en que los esquemas de evaluación afectan a las maneras de funcionamiento de la academia. 
 
 ### Componentes principales
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
@@ -46,13 +46,13 @@ Las editoriales de revistas científicas como Copernicus, Frontiers, BioMed Cent
 
 La revisión por pares abierta, en sus distintas formas, tiene potenciales ventajas para los revisores y los autores:
 
-* La revisión con identidades abiertas \(no-enmascaradas\) promueve una mayor transparencia y responsabilidad de los rcensores, y reduce las oportunidades de sesgos o conflictos de interés no explicitados. 
+* La revisión con identidades abiertas \(no-enmascaradas\) promueve una mayor transparencia y responsabilidad de los recensores, y reduce las oportunidades de sesgos o conflictos de interés no explicitados. 
 
-* Los informes de una evaluación abierta agregan otra capa de control de calidad, permitiendo a la comunidad ampliada desmenuzar las revisiones y examinar los procesos de toma de decisiones.
+* Los informes de una evaluación abierta agregan otra capa de control de calidad, permitiendo a la comunidad científica examinar las revisiones y  los procesos de toma de decisiones.
 
-* Identidades abiertas y reportes abiertos, en combinación, se piensa que llevarán a mejores revisiones, dado que la idea de tener su nombre públicamente conectado a un trabajo o ver su revisión publicada, incentiva que los investigadores sean más rigurosos.
+* Las identidades e informes abiertos, conjuntamente, puede conducir a mejores recensiones, dado que la idea de tener su nombre públicamente conectado a un trabajo o ver su revisión publicada, supone un incentivo para que los investigadores sean más rigurosos.
 
-* Identidades abiertas y reportes abiertos le permiten a los revisores ganar crédito público por su trabajo de revisión, por tanto incentivando esta vital actividad y permitiendo que el trabajo de revisión sea citado en otras publicaciones y en actividades de desarrollo de carrera asociadas a promoción y titularidad. 
+* Las identidades e informes abiertos permiten a los recensores ganar crédito público por su trabajo de evalaución, por tanto incentiva esta actividad y permite que la recesión pueda ser citada en otras publicaciones y reconocida en promociones profesioanel. 
 
 * La participación abierta podría superar los problemas asociados con la selección editorial de revisores \(ej. sesgos, redes cerradas, elitismo\). Especialmente para investigadores jóvenes que no han recibido invitaciones par ser revisores, estos procesos abiertos pueden representar una oportunidad para construir su reputación académica y practicar sus competencias de revisión. 
 
