@@ -50,32 +50,32 @@ La revisión por pares abierta, en sus distintas formas, tiene potenciales venta
 
 * Los informes de una evaluación abierta agregan otra capa de control de calidad, permitiendo a la comunidad científica examinar las revisiones y  los procesos de toma de decisiones.
 
-* Las identidades e informes abiertos, conjuntamente, puede conducir a mejores recensiones, dado que la idea de tener su nombre públicamente conectado a un trabajo o ver su revisión publicada, supone un incentivo para que los investigadores sean más rigurosos.
+* Las identidades e informes abiertos, conjuntamente, puede conducir a mejores recensiones, dado que la idea de tener su nombre públicamente vinculado a un trabajo o ver su revisión publicada, supone un incentivo para que los investigadores sean más rigurosos.
 
-* Las identidades e informes abiertos permiten a los recensores ganar crédito público por su trabajo de evalaución, por tanto incentiva esta actividad y permite que la recesión pueda ser citada en otras publicaciones y reconocida en promociones profesioanel. 
+* Las identidades e informes abiertos permiten a los recensores ganar crédito público por su trabajo de evaluación, por tanto incentiva esta actividad y permite que la recesión pueda ser citada en otras publicaciones y reconocida en promociones profesionales. 
 
-* La participación abierta podría superar los problemas asociados con la selección editorial de revisores \(ej. sesgos, redes cerradas, elitismo\). Especialmente para investigadores jóvenes que no han recibido invitaciones par ser revisores, estos procesos abiertos pueden representar una oportunidad para construir su reputación académica y practicar sus competencias de revisión. 
+* La participación abierta podría superar los problemas asociados con la selección editorial de recensores \(ej. sesgos, redes cerradas, elitismo\). Especialmente para jóvenes investigadores que no han recibido solicitudes previas, estos procesos abiertos pueden representar una oportunidad para construir su reputación académica y practicar sus capacidades de revisión. 
 
 Existen algunos inconvenientes a los que se debe poner atención, incluyendo:
 
-* Las identidades abiertas remueven las condiciones de anonimidad de los revisores \(a ciegas)\ o los autores y revisores \(doble ciego\) que tradicionalmente han sido implementados para contrarrestar sesgos sociales \(aunque no existe evidencia fuerte que este anonimato haya tenido el efecto deseado\). Es por tanto importante para los revisores cuestionar constantemente sus supuestos para asegurar que sus juicios reflejen sólo la calidad del manuscrito, y no el estatus, historia, o afiliación de el/los autor(es)\). Los autores deben hacer lo mismo al recibir comentarios de la revisión por pares.
+* Las identidades abiertas eliminan el anonimato de los revisores \(sistema ciego)\ o la de los autores y de los revisores \(sistema doble ciego\), formas que tradicionalmente se ahn utilizado para contrarrestar sesgos sociales \(aunque no existe evidencia  de  que este anonimato haya tenido el efecto deseado\). Por lo tanto, es  importante para los revisores cuestionar constantemente sus supuestos para asegurar que sus juicios se centren sólo la calidad del manuscrito, y no el estatus, historia, o afiliación de el/los autor(es)\). Los autores deben hacer lo mismo al recibir comentarios de la revisión por pares.
 
-* Dar y recibir criticismos es muchas veces un proceso que conlleva inevitablemente reacciones emocionales - los autores y los revisores pueden subjetivamente acordar o no cómo presentar los resultados y/o que es lo que necesita mejora, enmienda o corrección. En el caso de identidades abiertas y/o reportes abiertos, la transparencia podría exacerbar dichas dificultades. Es entonces esencial que los revisores aseguren comunicar los puntos de una manera clara y civilizada, de manera de maximizar las oportunidades de que sea recibido como retroalimentación valiosa por el autor\(es\).
+* Dar y recibir críticas es un proceso que conlleva inevitablemente reacciones emocionales - los autores y los revisores pueden subjetivamente acordar, o no, cómo presentar los resultados y/o que es lo que necesita mejora, enmienda o corrección. En el caso de identidades abiertas y/o informes abiertos, la transparencia podría dificultar dicho proceso. Por ello, es esencial que los revisores comuniquen de forma clara y respetuosa todos los puntos de su revisión, de manera que los autores la vean como una valiosa retroalimentación.
 
-* La falta de anonimidad de los revisores en el caso de identidades abiertas puede subvertir el proceso al desincentivar que los revisores hagan críticas fuertes, especialmente en contra de colegas de estatus superior. 
+* La falta de anonimato de los revisores en el caso de identidades abiertas puede subvertir el proceso al desincentivar que los revisores hagan críticas desfavorables, especialmente si son para colegas de estatus superior. 
 
-* Finalmente, debido a estos temas, los revisores potenciales podrían ser más propensos a declinar la solicitud de revisión. 
+* Finalmente, debido a estos temas, los potenciales recensores podrían ser más propensos a declinar la solicitud de revisión. 
 
 #### Métricas abiertas
 
-La [Declaración de San Francisco sobre Evaluación de la Investigación \(DORA\)](https://sfdora.org/) recomienda distanciarse de las evaluaciones basadas en revistas científicas, considerando todos los tipos de productos y utilizar varias formas de métricas y evaluaciones narrativas en paralelo. DORA ha sido firmada por miles de investigadores, instituciones, editoriales y agencias de financiamiento, quienes hoy se han comprometido a poner esto en práctica. El [Manifiesto de Leiden](http://www.leidenmanifesto.org/) provee guías sobre cómo utilizar las métricas de manera responsable.
+La [Declaración de San Francisco sobre Evaluación de la Investigación \(DORA\)](https://sfdora.org/) recomienda distanciarse de las evaluaciones basadas solo en la reputación de las revistas científicas, y propone que se tengan en consideración diferentes tipos de  todos los tipos de productos y utilizar varias formas de métricas y evaluaciones narrativas en paralelo. DORA ha sido firmada por miles de investigadores, instituciones, editoriales y agencias de financiamiento, quienes hoy se han comprometido a poner esto en práctica. El [Manifiesto de Leiden](http://www.leidenmanifesto.org/) provee guías sobre cómo utilizar las métricas de manera responsable.
 
 Con respecto a Altmétricas, Priem et al. (2010) aconsejan que las altmétricas tienen los siguientes beneficios: se acumulan de manera más rápida que las citaciones; pueden medir el impacto de los resultados de la investigación distintos de publicaciones científicas (ej. sets de datos, código, protocolos, posteos de blog, tweets, etc.); y pueden proveer distintas medidas de impacto para proyectos individuales. La temporalidad de las almétricas se presenta como una ventaja para investigadores jóvenes, cuyo impacto de investigación puede no estar aún reflejado en un número significativo de citaciones, aún cuando su progresión en la carrera académica dependa de evaluaciones positivas. En adición, las altmétricas pueden ayudar con la identificación temprana de investigación influyente y conexiones potenciales entre investigadores. Un reporte reciente del grupo experto en Altmétricas de la Comisión Europea (Directiva General para Investigación e Innovación, Comisión Europa, 2017) ha identificado desafíos de altmétricas, incluyendo la falta de robustez y su susceptibilidad a ser trucado; que cualquier medida cesa de ser una buena medida una vez que se convierte en un objetivo (‘Ley de Goodhart’); la relativa falta de adopción de redes sociales en algunas disciplinas y regiones geográficas; y la dependencia de entidades comerciales sobre los datos en que se basan estas métricas. 
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 ### Competencias
 
-Ejercicios de ejemplo
+Ejemplos de ejercicios
 
 * Los estudiantes trabajan en grupos de tres. Cada individuo escribe una revisión de un texto académico corto.
 
