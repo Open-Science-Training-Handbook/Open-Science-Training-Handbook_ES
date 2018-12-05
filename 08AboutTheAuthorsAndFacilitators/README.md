@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
-# About the authors & facilitators
+# Acerca de los autores, facilitadores y traductores de la versión al español
 
-## Authors at the sprint event
+## Autores del manual abierto y viviente
 
 ### Sonja Bezjak
 
@@ -11,9 +11,10 @@
 
 <iframe src="https://www.youtube.com/embed/v41JkOz9svA" frameborder="0" allowfullscreen></iframe> 
 
-In the Social Science Data Archives I am primarily engaged with issues related to open access to research data. One of my roles is to train different stakeholders on research data policy, research data management planning, data citation, data publications etc. As a member of CESSDA ERIC training group I try to share my knowledge and experience internationally.
+En los archivos de datos de ciencias sociales, me dedico principalmente a temas relacionados con el acceso abierto a los datos de investigación. Una de mis funciones es capacitar a las diferentes partes interesadas en políticas de datos de investigación, planificación de la gestión de datos de investigación, citación de datos, publicaciones de datos, etc. Como miembro del grupo de capacitación CESSDA ERIC, trato de compartir mi conocimiento y experiencia a nivel internacional.
 
-I was taught about scientific values, including transparency and reproducibility while studying sociology. But only later from my friends, a physicist and an engineer, I learnt about the Open Source movement. I immediately understood the importance of spreading the idea of not hiding your findings and sharing your knowledge with others as soon as possible. Only when I started to work at the Social Science Data Archives \(University of Ljubljana, Slovenia\) and became heavily involved in the Open data project I realized how much effort was needed to change the culture and to be able to get over the barriers of not openly sharing research outputs. I hope this handbook will help in making science as open and understandable as possible.
+Cuando estudiaba sociología me enseñaron sobre los valores de la ciencia, incluidos la transparencia y la reproducibilidad. Pero solo tiempo después, aprendí sobre el movimiento de código abierto de mis amigos, un físico y un ingeniero. Comprendí de inmediato la importancia de difundir la idea de no ocultar tus hallazgos y compartir tu conocimiento con los demás tan pronto como sea posible. Solo cuando comencé a trabajar en los Archivos de Datos de Ciencias Sociales (Universidad de Ljubljana, Eslovenia) y me involucré en el proyecto de datos abiertos, me di cuenta de cuánto esfuerzo se necesitaba para cambiar la cultura y poder superar las barreras. de no compartir abiertamente los resultados de la investigación. Espero que este manual ayude a hacer que la ciencia sea lo más abierta y comprensible posible.
+
 
 ### Philipp Conzett
 
