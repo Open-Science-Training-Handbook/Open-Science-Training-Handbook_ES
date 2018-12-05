@@ -211,8 +211,11 @@ When giving workshops \(e.g., a half day workshop for PhD students and PostDocs 
 * Licenciada en Literatura y Filosofía - Universidad Iberoamericana Puebla (México)
 
 Editora de la revista Salud Pública de México, donde se dedica a la corrección de estilo, en especial a la edición en digital de la Revista. Asimismo, monitorea los indicadores de Factor de Impacto (FI) y diversas métricas de SCOPUS, SCImago, Google Scholar. Participa y promueve a través de su trabajo el movimiento de acceso abierto para incrementar la visibilidad de las publicaciones a través de la correcta utilización de metadatos; y facilitar la citación dentro de los gestores de referencias y repositorios, para finalmente hacer que la literatura científica esté disponible en línea y sin barreras para todos. 
-Benito Castro Pérez – bibliobenito@gmail.com
-Licenciado en Biblioteconomía - Escuela Nacional de Biblioteconomía y Archivonomía de México.
+
+### Benito Castro Pérez – bibliobenito@gmail.com [bibliobenito@gmail.com](mailto:bibliobenito@gmail.com)
+
+* Licenciado en Biblioteconomía - Escuela Nacional de Biblioteconomía y Archivonomía de México.
+
 Trabaja en la Revista Latinoamericana de Investigación en Matemática Educativa (RELIME) lo que lo vincula al mundo de las publicaciones científicas y la comunicación de la ciencia. Se dedica a la Alfabetización Informacional de estudiantes de educación media superior, fomentando el uso de herramientas de acceso abierto y el uso ético de la información. 
 
 ### Lourdes Feria Basurto - lourdesferia@hotmail.com [lourdesferia@hotmail.com](mailto:lourdesferia@hotmail.com)
@@ -239,4 +242,6 @@ Ha trabajado con algunas iniciativas de comunicación académica a nivel regiona
 
 ### Paula Martinez -  paml@dtu.dk [paml@dtu.dk](mailto:paml@dtu.dk)
 
-* Office for Innovation and Sector Services  - AIS-lib-Data Management, DTU Library - Technical University of Denmark. Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
+* Office for Innovation and Sector Services  - AIS-lib-Data Management, DTU Library - Technical University of Denmark. 
+
+Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
