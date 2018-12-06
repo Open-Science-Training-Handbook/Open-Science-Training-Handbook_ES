@@ -83,7 +83,7 @@ Total de palabras del Manual: 43.243.
     <td>Ricardo Hartley</td>
     <td>3.207</td>
     <td>24-09</td>
-    <td>Claudia Vilches</td>
+    <td>Nicolás Alessandroni</td>
     <td></td>
     <td></td>
   </tr>
@@ -92,7 +92,7 @@ Total de palabras del Manual: 43.243.
     <td>Ricardo Hartley</td>
     <td>2.087</td>
     <td>24-09</td>
-    <td>Claudia Vilches</td>
+    <td>Nicolás Alessandroni</td>
     <td></td>
     <td></td>
   </tr>
@@ -101,7 +101,7 @@ Total de palabras del Manual: 43.243.
     <td>Ricardo Hartley</td>
     <td>1.671</td>
     <td>05-11</td>
-    <td>Claudia Vilches</td>
+    <td>Nicolás Alessandroni</td>
     <td></td>
     <td></td>
   </tr>
