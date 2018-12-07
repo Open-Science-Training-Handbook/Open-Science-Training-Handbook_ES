@@ -102,7 +102,7 @@ Total de palabras del Manual: 43.243.
     <td>1.671</td>
     <td>05-11</td>
     <td>Nicolás Alessandroni</td>
-    <td></td>
+    <td>07-12 done</td>
     <td></td>
   </tr>
   <tr>
@@ -138,7 +138,7 @@ Total de palabras del Manual: 43.243.
     <td>24-09</td>
     <td>Reme Melero</td>
     <td>Revisado</td>
-    <td>Reme Melero</td>
+    <td>done Reme Melero</td>
   </tr>
   <tr>
     <td>Open Science Policies</td>
@@ -182,7 +182,7 @@ Total de palabras del Manual: 43.243.
     <td>6.319</td>
     <td>26-10</td>
     <td>Nicolás Alessandroni</td>
-    <td>Revisado</td>
+    <td>done Revisado</td>
     <td></td>
   </tr>
   <tr>
