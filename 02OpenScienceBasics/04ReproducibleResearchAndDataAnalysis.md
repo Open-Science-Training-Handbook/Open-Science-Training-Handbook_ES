@@ -55,7 +55,7 @@ Hay tres objetivos principales que deben ser abordados aquí:
 
 2. Entender la organización global de la investigación reproducible  \(incluyendo el diseño del flujo de trabajo, la gestión de datos y el reporte dinámico\).
 
-3. Ser consciente de las etapas individuales del proceso de reproducibilidad y de los recursos correspondientes que pueden ser utilizados. 
+3. Ser consciente de las etapas individuales del proceso de reproducibilidad y de los recursos correspondientes que pueden ser utilizados.
 
 ### Componentes principales
 
@@ -109,7 +109,7 @@ Pre-registra la información importante vinculada con el diseño de la investiga
 
 ###### Control de versiones
 
-Haz un seguimiento de los cambios en tus archivos, especialmente en tu código de análisis, utilizando el control de versiones \(ver Software de investigación abierta y código abierto\).
+Haz un seguimiento de los cambios en tus archivos, especialmente en tu código de análisis, utilizando el control de versiones \(ver Software de investigación abierto y código abierto\).
 
 ###### Documentación
 
@@ -132,7 +132,7 @@ Comparte tus materiales de modo que puedan ser reutilizados. Deposita los reacti
 
 ###### Software, cuadernos de notas y contenedores
 
-Licencia tu código para informar cómo puede ser \(re\)utilizado. Comparte cuadernos con servicios como  [mybinder](http://mybinder.org), que permiten la vista y ejecución pública de cuadernos de notas completos que hubieran sido compartidos. Comparte contenedores o cuadernos con servicios como [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). Sigue las mejores prácticas indicadas en Software de investigación abierta y código abierto.
+Licencia tu código para informar cómo puede ser \(re\)utilizado. Comparte cuadernos con servicios como  [mybinder](http://mybinder.org), que permiten la vista y ejecución pública de cuadernos de notas completos que hubieran sido compartidos. Comparte contenedores o cuadernos con servicios como [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). Sigue las mejores prácticas indicadas en Software de investigación abierto y código abierto.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
 ##### **4. Reporta tu investigación de modo transparente**
