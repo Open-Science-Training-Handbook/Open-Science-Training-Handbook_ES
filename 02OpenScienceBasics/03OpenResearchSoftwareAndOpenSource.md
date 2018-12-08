@@ -1,4 +1,4 @@
-Código Abierto##<img src="/Images/Icons/open_source_software.png" width="150" height="150" /> <img src="/Images/Icons/publish.png" width="150" height="150" />
+<img src="/Images/Icons/open_source_software.png" width="150" height="150" /> <img src="/Images/Icons/publish.png" width="150" height="150" />
 ## 3. Software de investigación abierto y Código Abierto (Open Source)
 
 ### ¿Qué es?
