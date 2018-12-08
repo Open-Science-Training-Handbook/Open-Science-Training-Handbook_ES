@@ -92,7 +92,7 @@ Comienza la documentación desde el inicio de un estudio escribiendo un plan de 
 
 ###### Elige herramientas y materiales reproducibles
 
-Selecciona anticuerpos que funcionen utilizando un buscador de anticuerpos como [CiteAb](https://www.citeab.com/). Evita la irreproducibilidad causada por las líneas celulares mal identificadas eligiendo aquellas que están autenticadas por el [Comité Internacional de Autenticación de Líneas Celulares](http://iclac.org/). Cuando sea posible elige herramientas de software y hardware con las que puedas mantener la propiedad de tu investigación y que puedan migrar tu investigación fuera de la plataforma para su reutilización \(ver Software de investigación abierto y código abierto\).
+Selecciona anticuerpos que funcionen utilizando un buscador de anticuerpos como [CiteAb](https://www.citeab.com/). Evita la irreproducibilidad causada por las líneas celulares mal identificadas eligiendo aquellas que están autenticadas por el [Comité Internacional de Autenticación de Líneas Celulares](http://iclac.org/). Cuando sea posible elige herramientas de software y hardware con las que puedas mantener la propiedad de tu investigación y que puedan migrar tu investigación fuera de la plataforma para su reutilización \(ver Software de investigación abierto y Código Abierto\).
 
 ###### Organiza un proyecto reproducible
 
@@ -109,7 +109,7 @@ Pre-registra la información importante vinculada con el diseño de la investiga
 
 ###### Control de versiones
 
-Haz un seguimiento de los cambios en tus archivos, especialmente en tu código de análisis, utilizando el control de versiones \(ver Software de investigación abierto y código abierto\).
+Haz un seguimiento de los cambios en tus archivos, especialmente en tu código de análisis, utilizando el control de versiones \(ver Software de investigación abierto y Código Abierto\).
 
 ###### Documentación
 
@@ -132,7 +132,7 @@ Comparte tus materiales de modo que puedan ser reutilizados. Deposita los reacti
 
 ###### Software, cuadernos de notas y contenedores
 
-Licencia tu código para informar cómo puede ser \(re\)utilizado. Comparte cuadernos con servicios como  [mybinder](http://mybinder.org), que permiten la vista y ejecución pública de cuadernos de notas completos que hubieran sido compartidos. Comparte contenedores o cuadernos con servicios como [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). Sigue las mejores prácticas indicadas en Software de investigación abierto y código abierto.
+Licencia tu código para informar cómo puede ser \(re\)utilizado. Comparte cuadernos con servicios como  [mybinder](http://mybinder.org), que permiten la vista y ejecución pública de cuadernos de notas completos que hubieran sido compartidos. Comparte contenedores o cuadernos con servicios como [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). Sigue las mejores prácticas indicadas en Software de investigación abierto y Código Abierto.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
 ##### **4. Reporta tu investigación de modo transparente**
