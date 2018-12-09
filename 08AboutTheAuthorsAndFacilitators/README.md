@@ -252,11 +252,14 @@ Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/
 ## Equipo de Revisores
 
 ### Nicolás Alessandroni - [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
+
 Revisor de la traducción al español
 
-* Magister en Psicología Cognitiva y Aprendizaje - Universidad Autónoma de Madrid (UAM), España; Profesor en Psicología - Universidad Nacional de La Plata (UNLP), Argentina.
+* Departamento Interfacultativo de Psicología Evolutiva y de la Educación, Facultad de Psicología, Universidad Autónoma de Madrid (UAM), España.
+* [@nalessandroni](https://twitter.com/nalessandroni)
+* [0000-0002-6595-0969](https://orcid.org/0000-0002-6595-0969)
 
-Trabaja en el Departamento Interfacultativo de Psicología Evolutiva y de la Educación (Facultad de Psicología, UAM, España). Posee un contrato FPU del Ministerio de Educación, Cultura y Deporte de España para realizar la investigación “_El desarrollo de los primeros conceptos de objeto en la Escuela Infantil 0-1_”. Es investigador en el equipo DETEDUCA (Desarrollo Temprano y Educación). Tiene experiencia en la traducción inglés-español de textos académicos y en la edición académica tanto de libros y documentos de trabajo como de revistas científicas de Acceso Abierto (i.e. [Revista de Psicología UNLP](https://revistas.unlp.edu.ar/revpsi); [Epistemus, Revista de Estudios en Música, Cognición y Cultura](https://revistas.unlp.edu.ar/Epistemus)). Recientemente ha sido ganador de la _OpenUP Blog Competition for Early Career Researchers and Students_ por su ensayo breve [_Open Science, bureaucratisation and learning curves: some practical ideas_](https://www.openuphub.eu/community/blog/item/open-science-bureaucratisation-and-learning-curves-some-practical-ideas) Anteriormente, en Argentina, ha sido investigador de la UNLP y del CONICET, con lugar de trabajo en el Instituto de Investigaciones Filosóficas (IIF-SADAF), el Laboratorio de Investigaciones en Psicoanálisis y Psicopatología (LIPPSI-UNLP) y el Laboratorio para el Estudio de la Experiencia Musical (LEEM-UNLP).
+Es Magister en Psicología Cognitiva y Aprendizaje (UAM) y Profesor en Psicología (UNLP, Argentina). Trabaja en la Facultad de Psicología (UAM) con un contrato FPU del Ministerio de Educación de España para realizar la investigación “_El desarrollo de los primeros conceptos de objeto en la Escuela Infantil 0-1_”. Tiene experiencia en la traducción inglés-español de textos académicos y en la edición académica tanto de libros y documentos de trabajo como de revistas científicas de Acceso Abierto (i.e. [Revista de Psicología UNLP](https://revistas.unlp.edu.ar/revpsi); [Epistemus, Revista de Estudios en Música, Cognición y Cultura](https://revistas.unlp.edu.ar/Epistemus)). Recientemente ha sido ganador de la _OpenUP Blog Competition for Early Career Researchers and Students_ por su ensayo breve [_Open Science, bureaucratisation and learning curves: some practical ideas_](https://www.openuphub.eu/community/blog/item/open-science-bureaucratisation-and-learning-curves-some-practical-ideas). Anteriormente, en Argentina, ha sido investigador de la UNLP y del CONICET en diferentes institutos y laboratorios (IIF-SADAF, LIPPSI-UNLP, y LEEM-UNLP).
 
 ### Rosario Rogel – rosariorogel@gmail.com [rosariorogel@gmail.com](mailto:rosariorogel@gmail.com)
 Traductora y revisora de la traducción al español
