@@ -8,7 +8,7 @@ Reproducibilidad significa que los datos y el código de investigación están d
 
 Mejorar la reproducibilidad conduce a aumentar el rigor y la calidad de los productos científicos y, por tanto, a una mayor confianza en la ciencia. Existe una creciente necesidad y deseo de exponer los flujos de trabajo de la investigación desde el comienzo de un proyecto y la recolección de datos hasta la interpretación y el reporte de los resultados. Estos desarrollos presentan desafíos propios, incluyendo el diseño de flujos de trabajo integrados que pueden ser adoptados por los colaboradores manteniendo altos estándares de integridad.
 
-El concepto de reproducibilidad es directamente aplicado al método científico, la piegra angular de la ciencia,  particularmente en los cinco pasos siguientes:
+El concepto de reproducibilidad es directamente aplicado al método científico, la piegra angular de la ciencia, particularmente en los cinco pasos siguientes:
 
 1. Formulación de la hipótesis
 
@@ -53,7 +53,7 @@ Hay tres objetivos principales que deben ser abordados aquí:
 
 1. Entender el impacto importante de crear investigaciones reproducibles.
 
-2. Entender la organización global de la investigación reproducible  \(incluyendo el diseño del flujo de trabajo, la gestión de datos y el reporte dinámico\).
+2. Entender la organización global de la investigación reproducible \(incluyendo el diseño del flujo de trabajo, la gestión de datos y el reporte dinámico\).
 
 3. Ser consciente de las etapas individuales del proceso de reproducibilidad y de los recursos correspondientes que pueden ser utilizados.
 
@@ -96,7 +96,7 @@ Selecciona anticuerpos que funcionen utilizando un buscador de anticuerpos como 
 
 ###### Organiza un proyecto reproducible
 
-Centraliza y organiza la gestión de tu proyecto utilizando una plataforma online, un repositorio central o una carpeta para todos los archivos de investigación. Podrías usar GitHub como  sitio para almacenar los archivos del proyecto, o bien gestionar todo utilizando un cuaderno de laboratorio electrónico como [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/),o [SciNote](https://scinote.net/). Dentro de tu proyecto centralizado sigue las mejores prácticas separando tus datos y tu código en distintas carpetas. Haz que tus datos primarios sean de sólo lectura y mantenlos separados de los datos procesados \(referencia a Gestión de datos\).
+Centraliza y organiza la gestión de tu proyecto utilizando una plataforma online, un repositorio central o una carpeta para todos los archivos de investigación. Podrías usar GitHub como sitio para almacenar los archivos del proyecto, o bien gestionar todo utilizando un cuaderno de laboratorio electrónico como [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/),o [SciNote](https://scinote.net/). Dentro de tu proyecto centralizado sigue las mejores prácticas separando tus datos y tu código en distintas carpetas. Haz que tus datos primarios sean de sólo lectura y mantenlos separados de los datos procesados \(referencia a Gestión de datos\).
 
 Cuando guardes y respaldes tus archivos de investigación, elige formatos y nombres de archivo informativos, que permitan su reutilización. Los nombres de archivo deben ser legibles tanto por máquinas como por humanos \(referencia a Gestión de datos\). Para tus análisis y código de software usa directorios relativos. Evita archivos con formatos cerrados; utiliza formatos abiertos \(ver 6 Licencias abiertas y formatos de archivo\).
 
@@ -105,7 +105,7 @@ Cuando guardes y respaldes tus archivos de investigación, elige formatos y nomb
 
 ###### Registro
 
-Pre-registra la información importante vinculada con el diseño de la investigación y el análisis para aumentar la transparencia y contrarrestrar los sesgos de publicación de resultados negativos. Algunas herramientas libres que te ayudarán a realizar tu primer registro son  [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/), y [Registered Reports](https://cos.io/rr/). Los ensayos clínicos deben utilizar [Clinicaltrials.gov](https://clinicaltrials.gov/).
+Pre-registra la información importante vinculada con el diseño de la investigación y el análisis para aumentar la transparencia y contrarrestrar los sesgos de publicación de resultados negativos. Algunas herramientas libres que te ayudarán a realizar tu primer registro son [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/), y [Registered Reports](https://cos.io/rr/). Los ensayos clínicos deben utilizar [Clinicaltrials.gov](https://clinicaltrials.gov/).
 
 ###### Control de versiones
 
@@ -132,12 +132,12 @@ Comparte tus materiales de modo que puedan ser reutilizados. Deposita los reacti
 
 ###### Software, cuadernos de notas y contenedores
 
-Licencia tu código para informar cómo puede ser \(re\)utilizado. Comparte cuadernos con servicios como  [mybinder](http://mybinder.org), que permiten la vista y ejecución pública de cuadernos de notas completos que hubieran sido compartidos. Comparte contenedores o cuadernos con servicios como [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). Sigue las mejores prácticas indicadas en Software de investigación abierto y Código Abierto.
+Licencia tu código para informar cómo puede ser \(re\)utilizado. Comparte cuadernos con servicios como [mybinder](http://mybinder.org), que permiten la vista y ejecución pública de cuadernos de notas completos que hubieran sido compartidos. Comparte contenedores o cuadernos con servicios como [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). Sigue las mejores prácticas indicadas en Software de investigación abierto y Código Abierto.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
 ##### **4. Reporta tu investigación de modo transparente**
 
-Reporta y publica tus métodos e intervenciones de modo explícito, transparente, y completo para permitir su reproducción. Las guías de la [Equator Network](http://www.equator-network.org/), herramientas como [Protocols.io](https://www.protocols.io/), o procesos como [Registered Reports](https://cos.io/rr/) pueden ayudarte a reportar la reproducibilidad. Recuerda publicar tus resultados en tu plataforma de registro público \(como [ClinicalTrials.gov](https://www.socialscienceregistry.org/) o el  [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) dentro del año de terminado tu estudio, sin importar la naturaleza o rumbo de tus resultados.
+Reporta y publica tus métodos e intervenciones de modo explícito, transparente, y completo para permitir su reproducción. Las guías de la [Equator Network](http://www.equator-network.org/), herramientas como [Protocols.io](https://www.protocols.io/), o procesos como [Registered Reports](https://cos.io/rr/) pueden ayudarte a reportar la reproducibilidad. Recuerda publicar tus resultados en tu plataforma de registro público \(como [ClinicalTrials.gov](https://www.socialscienceregistry.org/) o el [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) dentro del año de terminado tu estudio, sin importar la naturaleza o rumbo de tus resultados.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Preguntas, obstáculos y equivocaciones comunes
@@ -148,7 +148,7 @@ A: Esta es una de las equivocaciones más comunes. Incluso si se cuenta con una 
 
 Q: "No tengo el tiempo para aprender y establecer un flujo de trabajo reproducible."
 
-A: Además del número significativo de servicios gratuitos y  disponibles en línea que pueden ser combinados para facilitar la organización de un flujo de trabajo completo, emplear tiempo y  esfuerzo a organizar este aspecto aumentará la validez científica de los resultados finales y minimizará el tiempo que tomará volver a realizar el análisis de datos o extenderlo en  estudios posteriores.
+A: Además del número significativo de servicios gratuitos y disponibles en línea que pueden ser combinados para facilitar la organización de un flujo de trabajo completo, emplear tiempo y esfuerzo a organizar este aspecto aumentará la validez científica de los resultados finales y minimizará el tiempo que tomará volver a realizar el análisis de datos o extenderlo en estudios posteriores.
 
 Q: "Las terminologías que describen la reproducibilidad son desafiantes."
 
