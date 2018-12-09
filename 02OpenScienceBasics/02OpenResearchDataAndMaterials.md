@@ -47,7 +47,7 @@ En 2014 se redactó un conjunto nuclear de principios para optimizar la reutiliz
 A diferencia de las iniciativas de pares que se centran en el investigador humano, los principios FAIR ponen un énfasis específico en mejorar la capacidad de las máquinas para encontrar y utilizar automáticamente los datos o cualquier objeto digital, además de apoyar su reutilización por parte de individuos. Los principios FAIR son principios rectores, no estándares. FAIR describe las cualidades o comportamientos necesarios para hacer que los datos sean reutilizables al máximo \(por ejemplo: descripción, cita\). Esas cualidades se pueden lograr con diferentes estándares.
 
 
-![](/Images/02 Open Science Basics/02_open_research_data_material.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png)
 
 ##### Publicación de datos
 
