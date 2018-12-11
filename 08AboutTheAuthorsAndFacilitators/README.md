@@ -242,22 +242,23 @@ Actualmente trabaja en la Universidad Central como Coordinador Ejecutivo de I3S.
 
 Ha trabajado con algunas iniciativas de comunicación académica a nivel regional e internacional como Force11, Latindex, Redalyc, SciELO y SPARC desarrollando proyectos sobre las mejores prácticas en la publicación de revistas de acceso abierto. Ivonne escribe sobre temas relacionados con la comunicación académica, el acceso abierto, las políticas científicas y de investigación y la educación superior. Tiene experiencia en la impartición de cursos sobre comunicación académica y uso de la información científica para estudiantes de posgrado, docentes, bibliotecario/as e investigadore/as.
 
-### Paula Martinez Lavanchy
+### Paula Martínez Lavanchy
 
 * Biblioteca Universidad Técnica de Dinamarca/ Biblioteca Universidad Técnica de Delft (en transición)
 * [paml@dtu.dk](mailto:paml@dtu.dk)
 * [@paulammartinez2](https://twitter.com/paulammartinez2)
 * [0000-0002-6595-0969](https://orcid.org/0000-0002-6595-0969)
 
-Biotecnóloga y doctora en Microbiología. Ha trabajado en los últimos tres años desarrollando y coordinando servicios de asistencia en gestión de datos de investigación en la Universidad Técnica de Dianamarca. Pronta a comenzar un nuevo desafío en la Biblioteca de la Universidad Técnica de Delft. Su acercamiento a la ciencia abierta ha sido a través del acceso abierto a datos de investigación y su promoción entre los investigadores de la Universidad. Este primer acercamiento le hizo adquirir interés en aprender acerca de las otras áreas de ciencia abierta. Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
+Biotecnóloga y doctora en Microbiología. Ha trabajado en los últimos tres años desarrollando y coordinando servicios de asistencia en gestión de datos de investigación en la Universidad Técnica de Dianamarca; y pronta a comenzar un nuevo desafío en la Biblioteca de la Universidad Técnica de Delft. Su acercamiento a la Ciencia Abierta ha sido a través del acceso abierto a datos de investigación y su promoción entre los investigadores de la Universidad. Este primer acercamiento le hizo adquirir interés en aprender acerca de las otras áreas de la Ciencia Abierta. Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
 
 
 ## Equipo de Revisores
 
-### Nicolás Alessandroni - [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
+### Nicolás Alessandroni
 Revisor de la traducción al español
 
 * Departamento Interfacultativo de Psicología Evolutiva y de la Educación, Facultad de Psicología, Universidad Autónoma de Madrid (UAM), España.
+* [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
 * [@nalessandroni](https://twitter.com/nalessandroni)
 * [0000-0002-6595-0969](https://orcid.org/0000-0002-6595-0969)
 
