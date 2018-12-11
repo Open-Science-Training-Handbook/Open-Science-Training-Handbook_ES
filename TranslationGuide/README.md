@@ -84,7 +84,7 @@ Total de palabras del Manual: 43.243.
     <td>3.207</td>
     <td>24-09</td>
     <td>Nicolás Alessandroni</td>
-    <td></td>
+    <td>11-12 done</td>
     <td></td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ Total de palabras del Manual: 43.243.
     <td>2.087</td>
     <td>24-09</td>
     <td>Nicolás Alessandroni</td>
-    <td></td>
+    <td>11-12 done</td>
     <td></td>
   </tr>
   <tr>
