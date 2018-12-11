@@ -242,17 +242,19 @@ Actualmente trabaja en la Universidad Central como Coordinador Ejecutivo de I3S.
 
 Ha trabajado con algunas iniciativas de comunicación académica a nivel regional e internacional como Force11, Latindex, Redalyc, SciELO y SPARC desarrollando proyectos sobre las mejores prácticas en la publicación de revistas de acceso abierto. Ivonne escribe sobre temas relacionados con la comunicación académica, el acceso abierto, las políticas científicas y de investigación y la educación superior. Tiene experiencia en la impartición de cursos sobre comunicación académica y uso de la información científica para estudiantes de posgrado, docentes, bibliotecario/as e investigadore/as.
 
-### Paula Martinez -  paml@dtu.dk [paml@dtu.dk](mailto:paml@dtu.dk)
+### Paula Martinez Lavanchy
 
-* Office for Innovation and Sector Services  - AIS-lib-Data Management, DTU Library - Technical University of Denmark.
+* Biblioteca Universidad Técnica de Dinamarca/ Biblioteca Universidad Técnica de Delft (en transición)
+* [paml@dtu.dk](mailto:paml@dtu.dk)
+* [@paulammartinez2](https://twitter.com/paulammartinez2)
+* [0000-0002-6595-0969](https://orcid.org/0000-0002-6595-0969)
 
-Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
+Biotecnóloga y doctora en Microbiología. Ha trabajado en los últimos tres años desarrollando y coordinando servicios de asistencia en gestión de datos de investigación en la Universidad Técnica de Dianamarca. Pronta a comenzar un nuevo desafío en la Biblioteca de la Universidad Técnica de Delft. Su acercamiento a la ciencia abierta ha sido a través del acceso abierto a datos de investigación y su promoción entre los investigadores de la Universidad. Este primer acercamiento le hizo adquirir interés en aprender acerca de las otras áreas de ciencia abierta. Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
 
 
 ## Equipo de Revisores
 
 ### Nicolás Alessandroni - [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
-
 Revisor de la traducción al español
 
 * Departamento Interfacultativo de Psicología Evolutiva y de la Educación, Facultad de Psicología, Universidad Autónoma de Madrid (UAM), España.
@@ -266,15 +268,14 @@ Traductora y revisora de la traducción al español
 
 * Socióloga, doctora en Ciencias Sociales, especialista en teoría social de sistemas, procesos editoriales científicos, acceso abierto y comunicación científica temas acerca de los cuales cuenta con diversas publicaciones en libros y revistas especializadas. Profesora de la Facultad de Ciencias Políticas y Sociales en la Universidad Autónoma del Estado de México e Investigadora visitante en la Dirección General de Cómputo y de Tecnologías de Información y Comunicación UNAM.
 
-Ha sido directora y fundadora de diversas revistas de científicas y participa como integrante del comité editorial
-de muchas otras, tanto en México como en el extranjero. Experiencia en temas de acceso abierto, tanto desde la investigación como de la promoción de iniciativas legislativas en su país.
+Directora y fundadora de diversas revistas de científicas. Participa como integrante del comité editorial de muchas otras, tanto en México como en el extranjero. Posee experiencia en temas de acceso abierto, tanto desde la investigación como de la promoción de iniciativas legislativas en su país.
 
 ### Claudia Vilches – [claudia.vilches@cepal.org](mailto:claudia.vilches@cepal.org)
 Coordinadora del equipo de traductores y revisora de la traducción al español
 
 * Licenciada en Bibliotecología y Documentación – Universidad Tecnológica Metropolitana, Santiago Chile. Diploma en Biblioteca Digitales – Pontificia Universidad Católica de Chile.
 
-Actualmente es punto focal de asistencia a divisiones de investigación de la CEPAL relacionadas con los temas de gobierno abierto, economía digital y sociedad del conocimiento. Participa en el Proyecto LEARN financiado por el programa de investigación e innovación Horizon 2020 de la Unión Europea, que promueve el desarrollo de políticas a nivel institucional sobre Gestión de Datos de Investigación (GDI). Co-autora de la guía “Gestión de Datos de Investigación” en el marco del mismo Proyecto y traductora de diverso material sobre GDI de The University of Edinburgh y Digital Curation Center (DCC), del Reino Unido. Colabora permanentemente en la promoción de eventos sobre GDI, acceso a la información y ciencia abierta.
+Punto focal de asistencia a divisiones de investigación de la CEPAL relacionadas con los temas de gobierno abierto, economía digital y sociedad del conocimiento. Participa en el Proyecto LEARN (2015-2017) financiado por el programa de investigación e innovación Horizon 2020 de la Unión Europea, que promueve el desarrollo de políticas a nivel institucional sobre Gestión de Datos de Investigación (GDI). Co-autora de la guía “Gestión de Datos de Investigación” en el marco del mismo Proyecto y traductora de diverso material sobre GDI de The University of Edinburgh y Digital Curation Center (DCC), del Reino Unido. Colabora permanentemente en la promoción de eventos sobre GDI, acceso a la información y ciencia abierta.
 
 ## Revisora externa de la traducción al español
 
