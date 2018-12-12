@@ -16,7 +16,7 @@ Las "Métricas Alternativas" o  [altmétricas](https://www.altmetric.com) se han
 ### Argumentación
 
 #### La revisión por pares abierta 
-Desde que en el siglo XVII en la Royal Society of London (1662) y la Académie Royale des Sciences de Paris (1699), asumieron el privilegio de que la ciencia se autocensurase en lugar de hacerlo la iglesia, han apsado muchos años años para que la revisión por pares se estableciera firmemente en el quehacer científico. La revisión por pares, como mecanismo formal, es mucho más joven de lo que muchos piensan. Por ejemplo, la revista Nature la puso en marcha en el año 1967. Aunque algunas encuestas muestran que los investigadores valoran la revisión por pares, también piensan que podría mejorarse. Muchas veces se quejan de que las revisiones toman mucho tiempo, de que son inconsistentes y que muchas veces fallan en la detección de  errores, y que el anonimato puede servir para emitir una opinión sesgada. La revisión por pares abierta (open peer review \(OPR\)) por tanto, busca promover mayor transparencia y participación en los procesos de revisión por pares, formales e informales. Ser un recensor es una oportunidad para los investigadores de involucrarse con una investigación puntera, crear redes académicas y de conocimiento, y mejorar su propia capacidad de comunicación. Es un elemento crucial del control de calidad del trabajo académico. Sin embargo, en general, los investigadores normalmente no reciben una capacitación formal sobre cómo realizar una revisión por pares. A pesar de que los investigadores confían en la evaluación por pares tradicional, las nuevas formas de revisión por pares abierta presentan nuevos desafíos y oportunidades. Como la OPR abarca un grupo de prácticas tan diverso, tanto revisores como autores deben tomar en cuenta las nuevas consideraciones al respecto. 
+Desde que en el siglo XVII la Royal Society of London (1662) y la Académie Royale des Sciences de Paris (1699), asumieron el privilegio de que la ciencia se autocensurase en lugar de hacerlo la iglesia, han pasado muchos años años para que la revisión por pares se estableciera como una práctica habitual en el quehacer científico. La revisión por pares, como mecanismo formal, es mucho más joven de lo que algunos piensan. Por ejemplo, la revista Nature la puso en marcha en el año 1967. Aunque algunas encuestas muestran que los investigadores valoran la revisión por pares, también piensan que podría mejorarse. Muchas veces se quejan de que las revisiones toman mucho tiempo, de que son inconsistentes y que muchas veces fallan en la detección de  errores, y que el anonimato puede servir para emitir una opinión sesgada. La revisión por pares abierta (open peer review \(OPR\)) por tanto, busca promover mayor transparencia y participación en los procesos de revisión por pares, formales e informales. Ser un recensor es una oportunidad para los investigadores de involucrarse con una investigación puntera, crear redes académicas y redes de conocimiento, y mejorar su propia capacidad de comunicación. Es un elemento crucial del control de calidad del trabajo académico. Sin embargo, en general, los investigadores normalmente no reciben una capacitación formal sobre cómo realizar una revisión por pares. A pesar de que los investigadores confían en la evaluación por pares tradicional, las nuevas formas de revisión por pares abierta presentan nuevos desafíos y oportunidades. Como la OPR abarca un grupo de prácticas tan diverso, tanto revisores como autores deben tomar en cuenta unas nuevas consideraciones. 
 
 ## <img src="/Images/02 Open Science Basics/02_open_peer_review.png" />
 
@@ -28,16 +28,16 @@ En estas circunstancias, en el mejor de los casos las prácticas de Ciencia Abie
 
 2. Experimentar con nuevas prácticas  de investigación y de formas alternativas de evaluación y promover los datos abiertos, la ciencia ciudadana y una educación abierta. 
 
-Cada vez más, las  agencias de financiamiento y las instituciones académicas están dando algunos pasos en dichas direcciones, por ejemplo, yendo más allá de evaluaciones simplemente numéricas, e incluyendo indicadores de impacto social en sus ejercicios de evaluación. Otras acciones  que las agencias de financiamiento están tomando, son p.e. permitir más tipos de trabajos de investigación \(como preprints\) en postulaciones y el financiamiento de distintos tipos de investigación \(como estudios de repetibilidad\).
+Cada vez más, las  agencias de financiamiento y las instituciones académicas están dando algunos pasos en dichas direcciones, por ejemplo, yendo más allá de evaluaciones simplemente numéricas, e incluyendo indicadores de impacto social en sus ejercicios de evaluación. Otras acciones  que las agencias de financiamiento están tomando, son p.e., permitir más tipos de trabajos de investigación \(como preprints\) en postulaciones académicas y para el financiamiento de distintos tipos de investigación \(como estudios de repetibilidad\).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Objetivos de aprendizaje
+### Objetivos de la capacitación
 
 1. Reconocer los principales elementos de la revisión por pares abierta y sus potenciales ventajas y desventajas.
 2. Entender las diferencias entre tipos de métricas utilizadas para evaluar la investigación y a los investigadores.
 3. Involucrarse en el debate sobre la forma en que los esquemas de evaluación afectan a las maneras de funcionamiento de la academia. 
 
-### Componentes principales
+### Componentes clave
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 ### Conocimiento
 #### Revisión por pares abierta 
