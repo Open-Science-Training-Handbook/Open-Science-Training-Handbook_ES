@@ -224,12 +224,14 @@ Trabaja en la Revista Latinoamericana de Investigación en Matemática Educativa
 
 Consultora internacional en Gestión de Conocimiento, e-Learning y Bibliotecología. Actualmente es docente en el Posgrado en Bibliotecología y Ciencias de la Información en la Universidad Nacional Autónoma de México.
 
-### Alicia Gómez Sánchez – aliciaf.gomez@yahoo.com [aliciaf.gomez@yahoo.com](mailto:aliciaf.gomez@yahoo.com)
+### Alicia Fátima Gómez Sánchez – [aliciaf.gomez@yahoo.com](mailto:aliciaf.gomez@yahoo.com)
 
-* Bachillerato en traducción e interprete. Diversas Maestrías y Doctorado en Filosofía y Lingüística.
-Trabaja varios años realizando apoyo a la investigación, especialmente asistencia en temas de ciencia abierta y métricas.
+* University of Hertfordshire, Reino Unido
+* [aliciaf.gomez@yahoo.com](mailto:aliciaf.gomez@yahoo.com)
+* [@fagomsan](https://twitter.com/fagomsan)
+* [0000-0003-4898-1680](https://orcid.org/0000-0003-4898-1680)
 
-En España desarrolla el repositorio institucional del Instituto de Salud Carlos III y de otras fundaciones del área de la salud.  Actualmente se desempeña como “Research & Scholarly Communications Information Manager” en la Universidad Hertfordshire, Reino Unido.
+* Doctora en Lingüística por la Universidad el País Vasco y Master en Bibliotecas Digitales por la Universidad Carlos III de Madrid. Tiene amplia experiencia en diversos aspectos relacionados con la comunicación académica, la gestión y evaluación de la investigación, y la ciencia abierta. En la actualidad trabaja como Research & Scholarly Communications Information Manager en la Universidad de Hertfordshire (Reino Unido) donde entre otras tareas se encarga de asesorar en materia de acceso abierto y gestión de datos de investigación. En su puesto anterior en España gestionó la puesta en marcha del servicio de asesoramiento en acceso abierto, y participó en el diseño y desarrollo del repositorio institucional. Es docente en cursos de grado y posgrado.
 
 ### Ricardo Hartley - aufschieben@icloud.com [aufschieben@icloud.com](mailto:aufschieben@icloud.com)
 * Doctor en Biología Molecular Aplicada y Magíster en Ciencias Biológicas, Universidad de La Frontera. Magíster en Biología Celular y del Desarrollo, Universidad de Tarapacá. Tecnólogo Médico, Universidad de Chile.
