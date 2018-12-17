@@ -87,7 +87,7 @@ P: "¿La Ciencia Abierta conduce al mal uso o malentendido de la investigación?
 
 R: No, la aplicación de los principios de Ciencia Abierta es, de hecho, una salvaguarda contra el uso indebido o el malentendido. La transparencia genera confianza, responsabilidad y permite a otros verificar y validar el proceso de investigación.
 
-P: "¿Conducirá la Ciencia Abierta demasiada sobrecarga de información?"
+P: "¿Conducirá la Ciencia Abierta a una sobrecarga de información?"
 
 R: Es mejor tener demasiada información y tratar con ella, que tener muy poca y vivir con el riesgo de perder las partes importantes. Y existen tecnologías como las fuentes RSS, el aprendizaje automático y la inteligencia artificial que facilitan la agregación de contenido.
 
