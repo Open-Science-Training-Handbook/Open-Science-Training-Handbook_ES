@@ -104,15 +104,13 @@ R: Es mejor tener demasiada información y tratar con ella, que tener muy poca y
 
 ### Otras lecturas
 
-* [Ciencia abierta: un término, cinco escuelas de pensamiento](https://doi.org/10.1007/978-3-319-00026-8_2) \(Fecher and Friesike, 2014\).
 
-* [¿Cuándo la 'Ciencia abierta' se convertirá simplemente en 'ciencia'?](https://doi.org/10.1186/s13059-015-0669-2) \(Watson, 2015\).
+* European Commission's Directorate-General for Research & Innovation (RTD) (2016). Open innovation, Open Science, open to the world - a vision for Europe. [ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe)
 
-* [Innovación Abierta, Ciencia Abierta, abierto al mundo - una visión para Europa](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe) \(2016\)
+* Fecher and Friesike (2014). Open Science: One Term, Five Schools of Thought. [doi.org/10.1007/978-3-319-00026-8_2](https://doi.org/10.1007/978-3-319-00026-8_2)
 
-* [¿Hablas Ciencia Abierta? Recursos y consejos para aprender el idioma.](https://doi.org/10.7287/peerj.preprints.2689v1) \(Masuzzo and Martens, 2017\).
+* High Level Group (2017). Europe's future. Open innovation, Open Science, open to the world: reflections of the Research, Innovation and Science Policy Experts \(RISE\). [doi.org/10.2777/79895](https://doi.org/10.2777/79895) 
 
-* [Innovación abierta, ciencia abierta, abierta al mundo](https://doi.org/10.2777/79895) : reflections of the Research, Innovation and Science Policy Experts \(RISE\) High Level Group \(2017\)
+* Masuzzo and Martens (2017). Do you speak Open Science? Resources and tips to learn the language. [doi.org/10.7287/peerj.preprints.2689v1](https://doi.org/10.7287/peerj.preprints.2689v1)
 
-
-
+* Watson (2015). When will ‘Open Science’ become simply ‘science’?. [doi.org/10.1186/s13059-015-0669-2](https://doi.org/10.1186/s13059-015-0669-2)
