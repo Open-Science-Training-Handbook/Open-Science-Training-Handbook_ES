@@ -19,13 +19,13 @@ Dado que el principal motor de la Ciencia Abierta es la política establecida po
 
 1.	Dependiendo del público, los objetivos de la sesión de capacitación serán diferentes. Podemos dividir de manera general a investigadores (en sentido amplio) y responsables de políticas (dentro de una institución o patrocinadores – en un sentido amplio).
 
-2.	Si tu programa de capacitación está dirigido principalmente a investigadores, de todos los “niveles”, entonces el objetivo principal debería ser revisar cómo las políticas de Ciencia Abierta los afectan.
+2.	Si tu programa de capacitación está dirigido principalmente a investigadores, de todos los “niveles”, entonces el objetivo principal debería ser revisar cómo les afectan las políticas de Ciencia Abierta.
 
-3.	Si tu programa de capacitación está dirigido a los responsables de las políticas, te podrías enfocar al diseño e implementación de políticas que fomenten la Ciencia Abierta.
+3.	Si tu programa de capacitación está dirigido a los responsables de las políticas, lo podrías enfocar al diseño e implementación de políticas que fomenten la Ciencia Abierta.
 
-4.	Si tu interés es capacitar a patrocinadores o responsables de política dentro de una institución, entonces sería importante mostrarles cómo diseñar, desarrollar, implementar y monitorear dichas políticas.
+4.	Si tu interés es capacitar a patrocinadores o responsables de las políticas de una institución, entonces sería importante mostrarles cómo diseñar, desarrollar, implementar y monitorear dichas políticas.
 
-### Componentes esenciales
+### Componentes clave
 
 ## <img src="../Images/Icons/brain.png" width="150" height="150" />
 #### Conocimiento
@@ -42,7 +42,7 @@ Además, a nivel internacional algunos editores han introducido nuevas política
 
 Si el público al cual estás capacitando está dispuesto a desarrollar una hoja de ruta –o agenda– para implementar una política nacional de Ciencia Abierta, sería recomendable hacer una evaluación comparativa de lo que se ha hecho en otras partes del mundo. Como punto de partida, **Amsterdam Call for Action 2016** podría mostrar algunos de los problemas que deben considerarse y a quienes están dirigidos. Ejemplos de \([Países Bajos](https://www.openscience.nl/)\), \([Portugal](http://www.ciencia-aberta.pt)\) o \([Finlandia](https://openscience.fi/)\) pueden ayudar a planear las políticas nacionales, esbozar algunas acciones y encontrar cómo medir su implementación. 
 
-En América Latina destacan tres países que, a la fecha, cuentan con legislaciones aprobadas en materia de Acceso Abierto: Perú con la [Ley que regula el Repositorio Nacional Digital de Ciencia, Tecnología e Innovación de Acceso Abierto](https://portal.concytec.gob.pe/images/stories/images2013/portal/areas-institucion/dsic/ley-30035.pdf) aprobada el 5 de junio del 2013; Argentina con la [Ley 26899: Creación de Repositorios Digitales Institucionales de Acceso Abierto, Propios o Compartidos](http://repositorios.mincyt.gob.ar/recursos.php) promulgada el 3 de diciembre del 2013 y México que mediante el [Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ciencia y Tecnología, de la Ley General de Educación y de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología](http://www.dof.gob.mx/nota_detalle.php?codigo=5345503&fecha=20/05/2014) –promulgado el 20 de mayo del 2014– legisló en torno al Acceso Abierto, Acceso a la Información Científica, Tecnológica y de Innovación y del Repositorio Nacional.[^\*]
+En América Latina destacan tres países que, hasta la fecha, cuentan con legislaciones aprobadas en materia de Acceso Abierto: Perú con la [Ley que regula el Repositorio Nacional Digital de Ciencia, Tecnología e Innovación de Acceso Abierto](https://portal.concytec.gob.pe/images/stories/images2013/portal/areas-institucion/dsic/ley-30035.pdf) aprobada el 5 de junio del 2013; Argentina con la [Ley 26899: Creación de Repositorios Digitales Institucionales de Acceso Abierto, Propios o Compartidos](http://repositorios.mincyt.gob.ar/recursos.php) promulgada el 3 de diciembre del 2013 y México que mediante el [Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ciencia y Tecnología, de la Ley General de Educación y de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología](http://www.dof.gob.mx/nota_detalle.php?codigo=5345503&fecha=20/05/2014) –promulgado el 20 de mayo del 2014– legisló en torno al Acceso Abierto, Acceso a la Información Científica, Tecnológica y de Innovación y del Repositorio Nacional.[^\*]
 
 [^\*]: Información añadida a la versión en español.
 
@@ -51,9 +51,9 @@ En América Latina destacan tres países que, a la fecha, cuentan con legislacio
 
 #### Habilidades
 
-Las personas que estés capacitando necesitarán identificar los principales rasgos de cada política, en específico: a quién está dirigida, cuáles son los requerimientos y cómo se traslapan unas con otras.
+Las personas que se estén formando necesitarán identificar los principales rasgos de cada política, en particular: a quién está dirigida, cuáles son los requerimientos y cómo se solapan unas con otras.
 
-Puedes mostrarles cómo los investigadores pueden cumplir con las diferentes políticas: dónde están los servicios, las herramientas que la institución puede proveer y también dónde se pueden encontrar alternativas. Por ejemplo, una institución podría no proveer infraestructura para depositar y publicar datos de investigación, pero puede indicar soluciones externas que cumplan con los requerimientos de las políticas diseñadas. También puede ser útil para comparar ciertas soluciones con otras opciones externas, con características no deseadas.
+Puedes mostrarles cómo los investigadores pueden cumplir con las diferentes políticas: dónde localizar los servicios y las herramientas que la institución puede proveer y también dónde se pueden encontrar alternativas. Por ejemplo, una institución podría no proveer infraestructura para depositar y publicar datos de investigación, pero puede indicar soluciones externas que cumplan con los requerimientos de las políticas diseñadas. También puede ser útil para comparar ciertas soluciones con otras opciones externas, con características no deseadas.
 
 Las personas que estén participando de un proceso de capacitación en materia de Ciencia Abierta necesitan saber cómo definir los propósitos principales de dicha política, así como establecer las metas o cambios que se persiguen. Una vez definidos dichos propósitos, los participantes deben identificar indicadores clave del desempeño para medir si la política ha conseguido sus objetivos; asimismo, deben ser capaces de revisar y actualizar la política en caso de que los objetivos no se llegaran a cumplir.
 
@@ -64,16 +64,16 @@ En las sesiones de capacitación sobre Ciencia Abierta, la pregunta más común 
 
 Otra pregunta frecuente es qué pasa si los investigadores no cumplen con los requisitos. En este caso, puedes mencionar ejemplos de proyectos monitoreados por los patrocinadores, o advertencias recibidas por los propios investigadores.
 
-Una concepción errónea común con relación a las políticas de datos de investigación es que los investigadores deben compartir sus datos de manera abierta. Para abordar este tema sugerimos resaltar las diferentes partes del texto de las políticas donde se explique qué tipo de datos serán afectados por las políticas y cuándo deben ser compartidos. Se sugiere también analizar todas las opciones de autoexclusión presentes en las políticas. Un recurso útil para clarificar estos aspectos es la inforgrafía que [se encuentra disponible en Horizon2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
+Una concepción errónea común en relación a las políticas de datos de investigación es que los investigadores deben compartir sus datos de manera abierta. Para abordar este tema sugerimos resaltar las diferentes partes del texto de las políticas donde se explique qué tipo de datos son los afectados por las políticas y cuándo deben ser compartidos. Se sugiere también analizar todas las opciones de exención presentes en las políticas. Un recurso útil para clarificar estos aspectos es la infografía que [se encuentra disponible en Horizon2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
 
 Al planificar una política es importante saber qué es lo que se quiere hacer, y qué es lo que se intenta lograr o solucionar. Algunas veces las políticas se elaboran imitando a otras iniciativas, sin pensar si son neesarias y si la nueva política se traslapará con otras que ya existen. El reto principal al crear una política es alinearla con otras iniciativas y evitar contradicciones con leyes o regulaciones pre existentes. 
 
 ## <img src="../Images/Icons/output.png" width="150" height="150" />
 ### Resultados del aprendizaje 
 
-Las personas que estén siendo entrenadas en el diseño de políticas de Ciencia Abierta, deberán ser capaces de:
+Las personas que estén siendo formadas en el diseño de políticas de Ciencia Abierta, deberán ser capaces de:
 
-1.	Identificar los requisitos de cualquier política que pueda afectarlos, al llevar a cabo prácticas de Ciencia Abierta.
+1.	Identificar los requisitos de cualquier política que les pueda afectar al llevar a cabo prácticas de Ciencia Abierta.
 2.	Distinguir entre las políticas generales –como Derechos de Autor o Protección de Datos– y políticas específicas relacionadas con la Ciencia Abierta; por ejemplo: cómo difundir los productos de investigación.
 3.	Esbozar los pasos para cumplir con una política determinada.
 4.	Planear una política de Ciencia Abierta estableciendo objetivos e indicadores para medir su implementación. 
@@ -81,9 +81,18 @@ Las personas que estén siendo entrenadas en el diseño de políticas de Ciencia
 ## <img src="../Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Lecturas recomendadas
 
-* Proveer a investigadores de habilidades y competencias que requieren para practicar Ciencia Abierta. [Report of the Working Group on Education and Skills under Open Science](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg).
-* Recursos disponibles a través de [Pasteur4OA](http://www.pasteur4oa.eu/), y [LEARN](http://learn-rdm.eu).
-* Los cursos FOSTER [Designing Successful Open Access and Open Data Policies: Introductory](https://www.fosteropenscience.eu/node/2081) and [Designing Successful Open Access and Open Data Policies: Intermediate](https://www.fosteropenscience.eu/node/2075).
-* How Open Is It? [Guide to Research Funders Policies](http://www.orfg.org/resources/) por Open Research Funders Group & SPARC.
+* EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science. [ec.europa.eu](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg)
+
+* Open Research Funders Group & SPARC. Open Policies 101. [PDF from orfg.org](https://static1.squarespace.com/static/5817749f8419c25c3b5b318d/t/5b75bfc1352f53d3f2e4409f/1534443459039/Grantee.pdf)
+
+### Proyectos e iniciativas
+
+* FOSTER. Designing Successful Open Access and Open Data Policies: Introductory. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2081) 
+
+* FOSTER. Designing Successful Open Access and Open Data Policies: Intermediate. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2075)
+
+* LEARN. [learn-rdm.eu](http://learn-rdm.eu)
+
+* Pasteur4OA. [pasteur4oa.eu](http://www.pasteur4oa.eu/)
 
 
