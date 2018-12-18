@@ -57,8 +57,8 @@ Total de palabras del Manual: 43.243.
     <td>1.330</td>
     <td>03-09</td>
     <td>Rosario Rogel</td>
-    <td></td>
-    <td></td>
+    <td>Revisado Reme</td>
+    <td>Revisado</td>
   </tr>
   <tr>
     <td>Open Science Basics</td>
@@ -75,8 +75,8 @@ Total de palabras del Manual: 43.243.
     <td>1.292</td>
     <td>03-09</td>
     <td>Rosario Rogel</td>
-    <td></td>
-    <td></td>
+    <td>REVISADO</td>
+    <td>Revisado 17-12-2018</td>
   </tr>
   <tr>
     <td>Open Research Data and Materials</td>
