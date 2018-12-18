@@ -1,7 +1,7 @@
 ![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
 ## The Open Science Training Handbook - El Manual de Capacitación de Ciencia Abierta
 
-Un grupo de 14 autores se reunieron en febrero 2018 en la Biblioteca Nacional Alemana de Ciencia y Tecnología (TIB en alemán) en Hannover para crear un manual abierto y vivo de capacitación sobre Ciencia Abierta. Una capacitación de buena calidad es fundamental cuando se apunta a un cambio cultural hacia la implementación de los principios de Ciencia Abierta. Los recursos de enseñanza proporcionan un gran apoyo a los instructores y capacitadores de Ciencia Abierta. El Manual de Capacitación de Ciencia Abierta será un recurso clave y un primer paso para desarrollar currículos y pedagogías de Acceso Abierto y Ciencia Abierta. Apoyando y conectando a una comunidad emergente de Ciencia Abierta deseosa de transmitir sus conocimientos como multiplicadores, el Manual enriquecerá las actividades de capacitación y despertará todo el potencial de la comunidad.
+Un grupo de 14 autores se reunieron en febrero 2018 en la Biblioteca Nacional Alemana de Ciencia y Tecnología (TIB en alemán) en Hannover para crear un manual abierto y vivo de capacitación sobre Ciencia Abierta. Una capacitación de buena calidad es fundamental cuando se apunta a un cambio cultural hacia la implementación de los principios de Ciencia Abierta. Los recursos de aprendizaje proporcionan un gran apoyo a los instructores y capacitadores de Ciencia Abierta. El Manual de Capacitación de Ciencia Abierta será un recurso clave y un primer paso para desarrollar cursos de formación en Acceso Abierto y Ciencia Abierta. Apoyando y conectando a una comunidad emergente de Ciencia Abierta deseosa de transmitir sus conocimientos como multiplicadores, el Manual enriquecerá las actividades de capacitación y despertará todo el potencial de la comunidad.
 
 Los autores al compartir su experiencia y habilidades para transmitir los principios de Ciencia Abierta,  \(see [más abajo](#the-authors-and-the-book-sprint-facilitators)\) han generado un recurso educativo de conocimiento abierto orientado a la enseñanza práctica. El enfoque del nuevo manual no es difundir las ideas de la Ciencia Abierta, sino mostrar **cómo** difundir estas ideas de manera más efectiva. La forma de libro colaborativo (book sprint) como un proceso cooperativo de escritura, potenció la creatividad y la innovación, y aseguró la producción de un recurso valioso en solo unos pocos días.
 
@@ -13,7 +13,7 @@ Agradecemos el recibir comentarios y retroalimentación de todos, independientem
 
 ## Vamos a ejecutar un entrenamiento de Ciencia Abierta juntos
 
-¿Está interesado en impartri o asistir a capacitaciones o seminarios web que hagan uso del Manual de capacitación de Open Science? Póngase en contacto con nosotros en [elearning@fosteropenscience.eu] (mailto: elearning@fosteropenscience.eu) - nos encantaría saber de usted.
+¿Está interesado en impartir o asistir a capacitaciones o seminarios web que hagan uso del Manual de capacitación de Open Science? Póngase en contacto con nosotros en [elearning@fosteropenscience.eu] (mailto: elearning@fosteropenscience.eu) - nos encantaría saber de usted.
 
 ## <img src="/Images/Icons/research_group.png" width="150" height="150" />
 
