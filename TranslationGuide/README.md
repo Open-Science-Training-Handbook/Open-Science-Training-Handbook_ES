@@ -56,7 +56,7 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>1.330</td>
     <td>03-09</td>
-    <td>Rosario Rogel</td>
+    <td>Revisado Reme</td>
     <td>Revisado Reme</td>
     <td>Revisado</td>
   </tr>
