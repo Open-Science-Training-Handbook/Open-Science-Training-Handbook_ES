@@ -2,7 +2,7 @@
 
 * [Léeme](README.md)
 * [Introducción](01Introduction/README.md)
-* [Conceptos Básico de la Ciencia Abierta](02OpenScienceBasics/README.md)
+* [Conceptos Básicos de la Ciencia Abierta](02OpenScienceBasics/README.md)
 	* [Conceptos y Principios Abiertos](02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 	* [Materiales y Datos de Investigación Abierta](02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 	* [Software de Búsqueda Abierta y Acceso Abierto](02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
