@@ -1,8 +1,8 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
 
-## Sobre el aprendizaje y la capacitación
+## Sobre la enseñanza  y la capacitación
 
-Este capítulo proporciona un contexto sobre las estrategias de capacitación, una guía práctica para diseñar un curso y una descripción general de teorías pedagógicas. Se enfocará en tres conceptos clave para la enseñanza y la capacitación:
+Este capítulo proporciona un contexto sobre las estrategias de capacitación, una guía práctica para diseñar un curso y una descripción general de algunas teorías pedagógicas. Se centrará en tres conceptos clave para la enseñanza y la capacitación:
 
 1. Preparación
 
@@ -10,7 +10,7 @@ Este capítulo proporciona un contexto sobre las estrategias de capacitación, u
 
 3. Reflexión
 
-La enseñanza y la capacitación involucran, primeramente, la preparación previa a impartir un curso. La preparación incluye la elección del contenido, la decisión sobre los métodos de enseñanza más appropiados y la secuenciación de los mismos para maximizar la efectividad y el impacto del entrenamiento. En segundo lugar, la enseñanza involucra la impartición de un curso (esto es, la manera en la que actúas e interactúas con los participantes). Incluso si te sientes muy seguro acerca de un tema en particular, es muy aconsejable evitar impartir el curso antes de haber finalizado la preparación de éste. Además, es posible que necesites poner a prueba los contenidos, especialmente los ejercicios prácticos. Luego, durante el curso, necesitas ser flexible porque las cosas rara vez suceden complemente como tú lo esperas. Finalmente, la enseñanza también involucra la evaluación y la auto-evaluación posteriores a la impartición de un curso. Es más que probable que tengas que involucrarte varias veces con un mismo curso o uno similar, especialmente si la evaluación muestra que ha sido bueno.
+La enseñanza y la capacitación involucran, en primer lugar, la preparación previa a la impartición de un curso. La preparación incluye la elección del contenido, la decisión sobre los métodos de enseñanza más appropiados y la secuenciación de los mismos para maximizar la efectividad y el impacto del entrenamiento. En segundo lugar, la enseñanza implica la impartición propiamente dicha,esto es, la manera en que se actúa e interactúa con los participantes. Incluso si estás muy familiarizado con un tema en particular, es muy aconsejable evitar impartir el curso antes de haber finalizado su total preparación. Además, es posible que necesites revisar y probar los contenidos, especialmente los ejercicios prácticos. Luego, durante el curso, necesitas ser flexible porque las cosas rara vez suceden complemente como tú lo esperas. Finalmente, la enseñanza también involucra la evaluación y la auto-evaluación posteriores a la impartición de un curso. Es más que probable que tengas que involucrarte varias veces con un mismo curso o uno similar, especialmente si la evaluación muestra que ha sido bueno.
 
 Para prepararte mejor para futuros eventos deberías reflexionar acerca de qué funcionó bien y qué no funcionó tan bien, y emplear esto para definir iterativamente futuras preparaciones e imparticiones. En pocas palabras, hay un “antes”, un “durante” y un “después” de la clase (las actividades forman un ciclo, similarmente a lo que ocurre en la ciencia). Este capítulo proporciona una guía práctica para los capacitadores acerca de cómo preparar e impartir un curso para audiencias diferentes: cuáles son los principales obstáculos que se deben superar y cuáles son los principales problemas que se deben tener en cuenta al organizar un entrenamiento.
 
@@ -20,7 +20,7 @@ A continuación nos enfocaremos, principalmente, en el primer aspecto \(preparac
 
 ### Capacitación *versus* enseñanza
 
-* La enseñanza está más relacionada que la capacitación con los conceptos teóricos. La capacitación está relacionada con la aplicación práctica del conocimiento \(es decir, con el desarrollo de habilidades\).
+* La enseñanza está más relacionada con los conceptos teóricos que la capacitación. La capacitación está relacionada con la aplicación práctica del conocimiento \(es decir, con el desarrollo de habilidades\).
 
 * La enseñanza busca impartir nuevos conocimientos, mientras que la capacitación equipa a quienes ya están formados con herramientas y técnicas para desarrollar un conjunto específico de habilidades.
 
@@ -32,9 +32,9 @@ Sin embargo...
 
 * La capacitación es el proceso de enseñar o aprender una habilidad o una tarea, y los capacitadores realmente enseñan algo. Por lo tanto, la capacitación se puede considerar como una actividad más amplia que puede abarcar la enseñanza.
 
-* La enseñanza también puede incluír actividades y objetivos típicos de la capacitación, como sesiones prácticas y demostraciones.
+* La enseñanza también puede incluir actividades y objetivos típicos de la capacitación, como sesiones prácticas y demostraciones.
 
-* A pesar de que, a veces, las técnicas de enseñanza y capacitación pueden variar, la diferencia entre la capacitación y la enseñanza no está relacionada con el proceso *per se*, sino con el enfoque. La capacitación generalmente tiene un enfoque más específico que la enseñanza.
+* A pesar de que, a veces, las técnicas de enseñanza y de capacitación pueden variar, la diferencia entre la capacitación y la enseñanza no está relacionada con el proceso *per se*, sino con el enfoque. La capacitación generalmente tiene un enfoque más específico que la enseñanza.
 
 * Para desarrollar capacidades como un profesional una persona necesita intentar comprender los conceptos teóricos y, también, tener exposición práctica. Por lo tanto, la enseñanza y la capacitación son conceptos educacionales igualmente importantes y complementarios.
 
@@ -42,7 +42,7 @@ Sin embargo...
 
 ### Estrategias
 
-Existen diferentes enfoques teóricos para el aprendizaje y la capacitación que, a veces, están influenciados por la cultura en la que vives. A algunas personas les gusta hablar y dictar clases. A otros les gusta escuchar, a otros no. Algunos ejercicios son simples y buscan respuestas claras. Otros ejercicios se centran en problemas y se enfocan en dar tiempo y espacio a los participantes para reflexionar sobre los problemas y encontrar soluciones. Finalmente, algunas capacitaciones están diseñadas para brindar a los participantes la máxima libertad y permitirles ser tan creativos como sea posible. El éxito en capacitaciones como éstas es más difícil de evaluar.
+Existen diferentes enfoques teóricos para el aprendizaje y la capacitación que, a veces, están influenciados por la cultura en la que vives. A algunas personas les gusta hablar y dictar clases. A otros les gusta escuchar, a otros no. Algunos ejercicios son simples y buscan respuestas claras. Otros ejercicios se centran en problemas y se enfocan en dar tiempo y espacio a los participantes para reflexionar sobre los problemas y encontrar soluciones. Finalmente, algunas capacitaciones están diseñadas para brindar a los participantes la máxima libertad y permitirles ser tan creativos como sea posible. El éxito de este tipo de capacitación es más difícil de evaluar.
 
 El conductismo, el cognitivismo, el conectivismo y el constructivismo son cuatro teorías del aprendizaje bien conocidas. Ellas describen diferentes perspectivas sobre cómo aprende la gente.
 
@@ -56,11 +56,11 @@ Transcrito de:
 
 El trabajo realizado por [Software Carpentry](https://carpentries.github.io/instructor-training/01-welcome/index.html) también ayuda a comprender los procesos de aprendizaje: [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
 
-### El "Connected Curriculum Framework"
+### El Marco Curricular Conectado (Connected Curriculum Framework)
 
-El reciente movimiento llamado "Connected Curriculum Framework" tiene como meta modernizar los enfoques de aprendizaje y adaptarlos al estudiante del siglo 21. El objetivo general del Framework es mejorar las relaciones entre la educación de los estudiantes y las prácticas de investigación destruyendo divisiones innecesarias. El Framework valora el diálogo enriquecedor, la investigación activa, la colaboración y las interacciones tanto entre estudiantes e investigadores como entre las universidades y las comunidades más amplias. Esto resulta prometedor para las áreas de la Ciencia Abierta y la Ciencia Ciudadana, la Colaboración Masiva, etc. Aquí puedes leer acerca del "Connected Curriculum Framework": [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
+El reciente movimiento llamado "Connected Curriculum Framework" tiene como meta modernizar los enfoques de aprendizaje y adaptarlos al estudiante del siglo XXI. El objetivo general del Framework es mejorar las relaciones entre la educación de los estudiantes y las prácticas de investigación eliminando  divisiones innecesarias. El Framework valora el diálogo enriquecedor, la investigación activa, la colaboración y las interacciones tanto entre estudiantes e investigadores como entre las universidades y otras comunidades más amplias. Esto resulta prometedor para las áreas de la Ciencia Abierta y la Ciencia Ciudadana, la Colaboración Masiva, etc. Para mas información sobre el "Connected Curriculum Framework" puedes consultar la siguiente fuente: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
-### Por qué esto es relevante para ti?
+### ¿Qué relevante es esto para ti?
 
 Lo que es importante saber es que existen diferentes enfoques y que no debes sentirte obligado a seguir sólo una estrategia. Más bien se trata de decidir en qué punto de tu capacitación debes aplicar cada estrategia para enseñar y evaluar.
 
