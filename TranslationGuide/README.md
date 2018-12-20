@@ -38,7 +38,7 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>86</td>
     <td>03-09</td>
-    <td>Rosario Rogel</td>
+    <td>Revisado Reme</td>
     <td>Revisado Reme</td>
     <td>Revisado</td>
   </tr>
@@ -47,7 +47,7 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>709</td>
     <td>03-09</td>
-    <td>Rosario Rogel</td>
+    <td>Revisado Reme</td>
     <td>Revisado Reme</td>
     <td>Revisado</td>
   </tr>
@@ -65,7 +65,7 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>141</td>
     <td>03-10</td>
-    <td>Rosario Rogel</td>
+    <td>Revisado Reme</td>
     <td>Revisado Reme</td>
     <td>Revisado</td>
   </tr>
@@ -74,7 +74,7 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>1.292</td>
     <td>03-09</td>
-    <td>Rosario Rogel</td>
+    <td>Revisado Reme</td>
     <td>Revisado Reme</td>
     <td>Revisado 17-12-2018</td>
   </tr>
@@ -136,7 +136,7 @@ Total de palabras del Manual: 43.243.
     <td>Ricardo Hartley</td>
     <td>1.137</td>
     <td>24-09</td>
-    <td>Reme Melero</td>
+    <td>Revisado Reme Melero</td>
     <td>Revisado</td>
     <td>done Reme Melero</td>
   </tr>
