@@ -31,7 +31,7 @@ Total de palabras del Manual: 43.243.
     <td>AVANCE Sep-Oct</td>
     <td>RESPONSABLE REVISIÓN</td>
     <td>AVANCE Nov-Dec</td>
-    <td>Reme Melero 20-12-2018</td>
+    <td>Reme Melero</td>
   </tr>
  <tr>
     <td>Summary</td>
@@ -66,8 +66,8 @@ Total de palabras del Manual: 43.243.
     <td>141</td>
     <td>03-10</td>
     <td>Rosario Rogel</td>
-    <td></td>
-    <td></td>
+    <td>Revisado Reme</td>
+    <td>Revisado</td>
   </tr>
   <tr>
     <td>Open Concepts and principles</td>
