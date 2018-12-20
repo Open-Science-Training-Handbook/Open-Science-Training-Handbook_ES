@@ -30,8 +30,8 @@ Total de palabras del Manual: 43.243.
     <td>No.Palabras</td>
     <td>AVANCE Sep-Oct</td>
     <td>RESPONSABLE REVISIÓN</td>
-    <td>ESTADO REVISIÓN Nov-Dic</td>
-    <td>REVISOR EXTERNO (Reme Melero)</td>
+    <td>Revisado Reme</td>
+    <td>Reme Melero 20-12-2018</td>
   </tr>
  <tr>
     <td>Summary</td>
