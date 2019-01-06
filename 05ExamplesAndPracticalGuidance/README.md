@@ -1,6 +1,8 @@
 ## <img src="/Images/Icons/live_event.png" width="200" height="200" /> <img src="/Images/Icons/balloon_thought.png" width="200" height="200" />
 ### Examples & Practical Guidance: adopt, adapt, develop
 
+Un cambio que pide 
+
 In this chapter, you will find a wealth of materials to help you actively engage your trainees in critically examining Open Science issues.
 
 We recommend you approach all of these materials with the motto "Adopt, adapt, develop" in mind—meaning that its best to re-use what exists where possible. Hence, before you start developing training resources from scratch you should find out whether there are existing resources you may use. We give some example resources here, with tips for how they could be adapted for your purposes. We also provide links and strategies to help you find further material. In some cases, existing resources may be used as they are, so you may simply **adopt** them. An example at stake may be an openly available video tutorial about open file formats which you may point your audience to. In other cases, you may have to **adapt** existing resources somewhat in order to make them fit your purposes. For example, you may need to add/replace some institution- or country-specific references to an existing overview of Open Access requirements issued by research funders. Only as a last resort you should **develop** your own training resources from scratch. If you want to develop your own training materials, be sure to develop Open Educational Resources so that other trainers can reuse and adapt your materials.
@@ -87,51 +89,51 @@ Various universities across Europe organize weeklong summer schools on open scie
 
 
     * quick warm-up / short break exercises 
-
+    
     * small group exercises
-
+    
         * role-play
-
+    
         * discuss OS topics/statements
-
+    
         * marketplace: exchange experiences/expertise
-
+    
         * meeting with researchers / policy makers
-
+    
         * ...
-
+    
     * plenary exercises
-
+    
         * collaborative mapping
-
+    
         * simulation game 
-
+    
         * inventorizing
-
+    
         * card games
-
+    
     * presentations
-
+    
         * role-play
-
+    
         * present real-life cases/examples (also by participants)
-
+    
         * one-minute presentations of a concept (by participants) 
-
+    
         * guest lecturers
-
+    
         * ...
-
+    
     * hands-on exercises (individual or in pairs)
-
+    
         * visualizing
-
+    
         * explore / try out tools & platforms
-
+    
         * implement an open science practice in your own research
-
+    
         * check reproducibility of a research paper
-
+    
         * … 
 
 #### Example exercises (including materials)
@@ -269,52 +271,52 @@ Various universities across Europe organize weeklong summer schools on open scie
     <td>Open Licensing and File Formats
 
 Open Educational Resources</td>
-    <td>whole group</td>
-    <td>10-15 min</td>
+​    <td>whole group</td>
+​    <td>10-15 min</td>
   </tr>
   <tr>
-    <td>19</td>
-    <td>Open peer review - participants openly review each others’ texts</td>
-    <td>Open Peer Review, Metrics, and Evaluation</td>
-    <td>small groups</td>
-    <td>90 min</td>
+​    <td>19</td>
+​    <td>Open peer review - participants openly review each others’ texts</td>
+​    <td>Open Peer Review, Metrics, and Evaluation</td>
+​    <td>small groups</td>
+​    <td>90 min</td>
   </tr>
   <tr>
-    <td>20</td>
-    <td>Open peer review - your 2 cents</td>
-    <td>Open Peer Review, Metrics, and Evaluation</td>
-    <td>whole group</td>
-    <td>1.5 hour</td>
+​    <td>20</td>
+​    <td>Open peer review - your 2 cents</td>
+​    <td>Open Peer Review, Metrics, and Evaluation</td>
+​    <td>whole group</td>
+​    <td>1.5 hour</td>
   </tr>
   <tr>
-    <td>21</td>
-    <td>Taking a stance</td>
-    <td>Open Science Policies</td>
-    <td>whole group</td>
-    <td>10 min</td>
+​    <td>21</td>
+​    <td>Taking a stance</td>
+​    <td>Open Science Policies</td>
+​    <td>whole group</td>
+​    <td>10 min</td>
   </tr>
   <tr>
-    <td>22</td>
-    <td>Plain language explanations</td>
-    <td>Citizen Scientists and Science Communication
+​    <td>22</td>
+​    <td>Plain language explanations</td>
+​    <td>Citizen Scientists and Science Communication
 
 Collaborative Platforms</td>
-    <td>small groups</td>
-    <td>2-3 hours</td>
+​    <td>small groups</td>
+​    <td>2-3 hours</td>
   </tr>
   <tr>
-    <td>23</td>
-    <td>Devil’s advocate - convincing the skeptics</td>
-    <td>Open Advocacy</td>
-    <td>small groups</td>
-    <td>30 min</td>
+​    <td>23</td>
+​    <td>Devil’s advocate - convincing the skeptics</td>
+​    <td>Open Advocacy</td>
+​    <td>small groups</td>
+​    <td>30 min</td>
   </tr>
   <tr>
-    <td>24</td>
-    <td>Writing a lay summary</td>
-    <td>Citizen Scientists and Science Communication</td>
-    <td>individually or in pairs</td>
-    <td>60 minutes</td>
+​    <td>24</td>
+​    <td>Writing a lay summary</td>
+​    <td>Citizen Scientists and Science Communication</td>
+​    <td>individually or in pairs</td>
+​    <td>60 minutes</td>
   </tr>
 </table>
 
