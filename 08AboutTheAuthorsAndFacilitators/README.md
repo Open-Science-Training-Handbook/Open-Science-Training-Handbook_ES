@@ -79,7 +79,7 @@ Para mí, el mayor desafío con la capacitación científica abierta es mostrar 
 
 En mi jornada diaria soy bibliotecaria de ciencias de la vida y medicina. Mi proyecto fuera de horario es [101 Innovations in Scholarly Communication] (https://101innovations.wordpress.com) junto con Jeroen Bosman, con el cual hacemos investigación, capacitación y defensa de la Ciencia Abierta, para que la investigación sea más relevante, sólida y equitativa.
 
-La capacitación en Cencia Abierta es gratificante porque no se trata solo de enseñar nuevas habilidades a las personas, sino de discutir conceptos fundamentales e intercambiar puntos de vista y opiniones diferentes. Como dijo un participante de uno de nuestros cursos: "Vine a aprender cosas prácticas para aplicar en mi investigación, pero descubrí que ahora formo parte de un movimiento". Para mí, una capacitación exitosa debe ser interactiva y práctica, de modo de alentar a las personas a explorar y desafiar sus percepciones. Eso incluye mi propio rol como formador: siempre estar abierto a probar cosas nuevas y a aprender de las personas que participan en tu capacitación.
+La capacitación en Cencia Abierta es gratificante porque no se trata solo de enseñar nuevas habilidades a las personas, sino de discutir conceptos fundamentales e intercambiar puntos de vista y opiniones diferentes. Como dijo un participante de uno de nuestros cursos: "Vine a aprender cosas prácticas para aplicar en mi investigación, pero descubrí que ahora formo parte de un movimiento". Para mí, una capacitación exitosa debe ser interactiva y práctica, de modo de alentar a las personas a explorar y desafiar sus percepciones. Eso incluye mi propio rol como formadora: siempre estar abierta a probar cosas nuevas y a aprender de las personas que participan en tu capacitación.
 
 
 ### Ignasi Labastida
@@ -89,11 +89,12 @@ La capacitación en Cencia Abierta es gratificante porque no se trata solo de en
 * [@ignasi](https://twitter.com/ignasi)
 * [0000-0001-7030-7030](https://orcid.org/0000-0001-7030-7030)
 
-<iframe src="https://www.youtube.com/embed/miRXFszYqiE" frameborder="0" allowfullscreen></iframe>
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida](http://img.youtube.com/vi/VTGYlyTnBFg/0.jpg)](http://www.youtube.com/watch?v=VTGYlyTnBFg "Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida")
 
 PhD in Physics, Universitat de Barcelona (UB), 2000. Now, devoted to openness: Head of the [Office for the Dissemination of Knowledge](http://crai.ub.edu/en/crai-services/intellectual-property) at the CRAI of the UB and public leader of Creative Commons in Spain since its beginning in 2003.
 
-I hope in the near future there will be no need to train about open science because those practices, now described here, will be the default ones. There will be no need to attach the open tag anymore, and researchers would need to justify why they close some of their results or activities. I think this book may help to achieve this situation by showing a lot of robust examples and viable cases to perform research openly.
+Espero que en un futuro próximo no haya necesidad de capacitarse en Ciencia Abierta porque esas prácticas, que ahora se describen aquí, serán las predeterminadas. Ya no será necesario adjuntar la etiqueta de abierto, y los investigadores deberán justificar por qué cierran algunos de sus resultados o actividades. Creo que este Manual puede ayudar a lograr esta situación al mostrar muchos ejemplos sólidos y casos viables de ejecución de investigaciones abiertamente.
+
 
 ### Kyle Niemeyer
 
