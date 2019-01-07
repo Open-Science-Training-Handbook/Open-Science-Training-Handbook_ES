@@ -49,11 +49,12 @@ La Ciencia Abierta es una actitud que requiere un gran paso a nivel educacional 
 * [@gorogh\_edit](https://twitter.com/gorogh_edit)
 * [0000-0002-0766-418X](https://orcid.org/0000-0002-0766-418X)
 
-<iframe src="https://www.youtube.com/embed/J3B-pQ7-1Vo" frameborder="0" allowfullscreen></iframe>
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Edit Görögh](http://img.youtube.com/vi/4OOSU4V__RQ/0.jpg)](http://www.youtube.com/watch?v=4OOSU4V__RQ "Writing the Open Science Training Handbook - an author's perspective by Edit Görögh")
 
-I am currently working at the University of Göttingen as a project officer for OpenUP, an EU funded project which aims at developing a cohesive framework for new methods, indicators and tools for peer review, dissemination of research results, and impact measurement. I have been in involved in knowledge management and open science/access related programs for more than 10 years.
+Actualmente trabajo en la Universidad de Göttingen como oficial de proyectos para OpenUP, un proyecto financiado por la Unión Europea que tiene como objetivo desarrollar un marco coherente para nuevos métodos, indicadores y herramientas para la revisión por pares, la difusión de resultados de investigación y la medición de impacto. He estado involucrada en programas realacionados a la gestión del conocimiento y con el acceso abierto y ciencia abierta durante más de 10 años.
 
-Working for Open Science projects, I had the chance to get acquainted with both the diverse community of Open Science advocates and the reluctant, skeptical groups of researchers and decision makers, which both urged me to get more immersed in the Open Science discourse and follow developments and learn about the tools and methods to speak effectively about the benefits and challenges we face in the changing world of research communications.
+Trabajando para proyectos de Ciencia Abierta, tuve la oportunidad de conocer tanto a la comunidad diversa de defensores de la Ciencia Abierta, como a los reticentes y escépticos grupos de investigadores y tomadores de decisiones, que me instaron a sumergirme más en el discurso sobre la Ciencia Abierta y seguir los desarrollos y aprender sobre las herramientas y los métodos para hablar de manera más  efectiva sobre los beneficios y desafíos que enfrentamos en el mundo cambiante de la comunicación ciéntífica y de la investigación.
+
 
 ### Kerstin Helbig
 
