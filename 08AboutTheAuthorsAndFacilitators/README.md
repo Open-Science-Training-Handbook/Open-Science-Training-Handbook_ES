@@ -119,9 +119,10 @@ Como estudiante graduado, con frecuencia enfrenté obstáculos en mi investigaci
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos](http://img.youtube.com/vi/_uNxt3rUlSY/0.jpg)](http://www.youtube.com/watch?v=_uNxt3rUlSY "Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos")
 
-Fotis is a Bioinformatician at the Institute of Applied Biosciences \(INAB\|CERTH\) in Thessaloniki, Greece. He was awarded his PhD in Electrical and Computer Engineering in 2010 with a focus on Bioinformatics and e-infrastructures, and a particular appreciation to open and reproducible methods. He spends significant time in training activities, both within formal academic structures as well as through the Carpentries as a certified Instructor and Trainer. He rambles about bits and pieces on his website.
+Fotis es bioinformático en el Institute of Applied Biosciences (INAB \ | CERTH \) en Salónica, Grecia. Obtuvo su doctorado en Ingeniería Eléctrica e Informática en 2010 con un enfoque en Bioinformática e e-infraestructuras, y una apreciación particular de los métodos abiertos y reproducibles. Pasa un tiempo significativo en actividades de capacitación, tanto dentro de las estructuras académicas formales como a través de las Carpinterías como Instructor y Formador certificados. En su sitio Web divaga sobre esto y lo otro.
 
-Convincing people that spending the extra time to put together a Jupyter notebook with all the text, notes, scripts and data currently stored in various "dusty" and forgotten folders on their computer, will actually help them become a bit more organized. \#smallvictories \#reproducibility
+Convencer a la gente de que pasar un tiempo extra para armar un cuaderno Jupyter con todo el texto, las notas, los scripts y los datos almacenados en diversad carpetas "polvorientas" y olvidadas en su computadora, en realidad les ayudará a organizarse un poco más. \ #salvicultoras \ #reproducibilidad
+
 
 ### Tony Ross-Hellauer
 
@@ -130,9 +131,10 @@ Convincing people that spending the extra time to put together a Jupyter noteboo
 * [@tonyR\_H](https://twitter.com/tonyR_H)
 * [0000-0003-4470-7027](https://orcid.org/0000-0003-4470-7027)
 
-Tony Ross-Hellauer is Senior Researcher \(Open Science\) at Know-Center, Graz, Austria. He has a PhD in Information Studies \(University of Glasgow, 2012\) and is an enthusiastic advocate of Open Access and Open Science whose research interests include peer review, metadata, and the philosophy/history of technology.
+Tony Ross-Hellauer es Investigador Senior \(Open Science\) en Know-Center, Graz, Austria. Tiene un doctorado en Estudios en Ciencias de la Información \(University of Glasgow, 2012\) y es un entusiasta defensor de Acceso Abierto y la Ciencia Abierta. Sus intereses de investigación incluyen la revisión por pares, metadatos y filosofía/historia de la tecnología.
 
-Although creating and delivering training events is very daunting, training others not only to do Open Science, but also to see the value of it for their everyday research, is one of the most rewarding aspects of working in this area. As a trainer, when learners are engaged to share their own experiences and you can feel how they are able to relate their new knowledge to these experiences, it is very exciting.
+Si bien la creación y el impartir capacitación es muy desalentador, capacitar a otros, no solo para hacer Ciencia Abierta sino también para vean el valor de ello en su investigación diaria, es uno de los aspectos más gratificantes de trabajar en esta área. Es muy emocionante ver como instructor cuando los alumnos se comprometen a compartir sus propias experiencias y puedes sentir, cómo son capaces de relacionar sus nuevos conocimientos con estas experiencias.
+
 
 ### René Schneider
 
