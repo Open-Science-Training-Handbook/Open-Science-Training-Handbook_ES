@@ -185,7 +185,7 @@ Ellen es bibliotecaria con una larga experiencia en la Facultad de Bibliotecolog
 * [@april\_cs](https://twitter.com/april_cs) & [@methodpodcast](https://twitter.com/methodpodcast)
 * [0000-0002-5401-7751](https://orcid.org/0000-0002-5401-7751)
 
-April es un epidemióloga, metodóloga y experta en herramientas científicas abiertas, métodos, capacitación y gestión comunitaria. Posee  una maestría en medicina poblacional (epidemiología). Desde 2014, se ha centrado en la capacitación de científicos en métodos de investigación en abierto y reproducibles \(Center for Open Science, Sense About Science, SPARC\). En su rol actual de Outreach Scientist, capacita a científicos en las mejores prácticas de reproducibilidad computacional utilizando Code Ocean.
+April es epidemióloga, metodóloga y experta en herramientas científicas abiertas, métodos, capacitación y gestión de comunidades científicas. Posee  una maestría en medicina poblacional (epidemiología). Desde 2014, se ha centrado en la capacitación de científicos en métodos de investigación en abierto y reproducibles \(Center for Open Science, Sense About Science, SPARC\). En su rol actual de Outreach Scientist, capacita a científicos en las mejores prácticas de reproducibilidad computacional utilizando Code Ocean.
 
 He tenido la suerte de ganarme la vida formando a otros científicos sobre cómo mejorar la ciencia. Mi comunidad de apoyo crece con cada taller y espero que este manual pueda ayudar a que crezca la comunidad de capacitación de investigación en abierto. Las conversaciones sobre investigación abierta a menudo ocurren en \(echo-chambers\) de investigadores bien intencionados \(como yo\) y bibliotecarios con visiones del mundo similares.  Training in open research can be similarly siloed with Western or Northern perspectives being taught as though universal. Añadir contexto y nuevas perspectivas para abrir las conversaciones de investigación es la única manera de hacer que el conocimiento funcione para todos. El contenido que capturamos durante este Manual está limitado por nuestras propias experiencias, pero a medida que otros autores agregan y editan según sus propias experiencias, podemos apuntar a un manual que pueda mejorar la forma en que hablamos y capacitamos a otros en la investigación en abierto.
 
@@ -201,10 +201,11 @@ He tenido la suerte de ganarme la vida formando a otros científicos sobre cómo
 * [@helenebrinken](https://twitter.com/helenebrinken)
 * [0000-0002-3278-0422](https://orcid.org/0000-0002-3278-0422)
 
+Desde mayo de 2017 es responsable de la difusión y promoción del Proyecto Foster en la Göttingen University. Su formación es en Ciencias de la Información con énfasis en e-learning, usabilidad y experiencia de usuarios. Desarrolla materiales de aprendizaje y es facilitadora de Talleres de capacitación.
 
-Responsible for Outreach and Advocacy in the FOSTER project at Göttingen University since May 2017. Background in Information Science with focus on e-learning and usability & user experience, now developing learning materials and facilitating workshops.
+Antes de trabajar para FOSTER, trabajé con jóvenes activistas comprometidos con la educación mundial y contra la injusticia social. Aprendí lo importante que es la dinámica de grupo y lo que se puede lograr al combinar fuerzas. El cambio cultural comienza a nivel de los individuos. Reunir a investigadores interesados en Ciencia Abierta puede ser un gran paso hacia el fomento de la Ciencia Abierta en una institución. Si reciben apoyo, conozcan a otros entusiastas y descubran que pronto podrán ser ellos mismos los multiplicadores.
 
-Before working for FOSTER I worked with young activists engaging for worldwide education and against social injustice. I learned how important group dynamics are and what can be achieved when combining forces. Culture change starts at the level of individuals. Bringing together the researchers interested in Open Science can be a great step forward to foster OS at your institution. If they get support, meet other enthusiasts and learn they can soon be multiplicators themselves.
+
 
 ### Lambert Heller
 
