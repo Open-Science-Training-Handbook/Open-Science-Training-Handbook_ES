@@ -63,11 +63,12 @@ Trabajando para proyectos de Ciencia Abierta, tuve la oportunidad de conocer tan
 * [@FrauHelbig](https://twitter.com/FrauHelbig)
 * [0000-0002-2775-6751](https://orcid.org/0000-0002-2775-6751)
 
-<iframe src="https://www.youtube.com/embed/lOP2zHfVucI" frameborder="0" allowfullscreen></iframe>
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Kerstin Helbig](http://img.youtube.com/vi/uC02v5JuTlo/0.jpg)](http://www.youtube.com/watch?v=uC02v5JuTlo "Writing the Open Science Training Handbook - an author's perspective by Kerstin Helbig")
 
-I am research data management coordinator at Humboldt-Universität zu Berlin, Germany. In my consultative capacity, I assist researchers in the management of their research data and organize training as well as information sessions.
+Soy coordinadora de gestión de datos de investigación en la Humboldt-Universität en Berlín, Alemania. En mi calidad de consultora, asisto a investigadores en la gestión de sus datos de investigación y organizo sesiones de capacitación y de información.
 
-For me the biggest challenge with open science training is to show researchers that open science is more than a political aim or a moral responsibility. It is essential to show that there are levels of open science. One can start with a little step without having to open up completely from one day to another. In my trainings, I especially like the mix of backgrounds, disciplines and prior knowledge. They make the training all the more interesting. I remember one training course in particular: one participant \(a professor\) registered an ORCID on the spot while I was talking about the advantages of persistent identifiers.
+Para mí, el mayor desafío con la capacitación científica abierta es mostrar a los investigadores que la Ciencia Abierta es más que un objetivo político o una responsabilidad moral. Es esencial mostrar que hay niveles de Ciencia Abierta. Uno puede comenzar con un pequeño paso sin tener que abrirse completamente de un día para otro. En mis capacitaciones, me gusta especialmente la mezcla de diversos  antecedentes, disciplinas y conocimientos previo, esto hace que la formación sea vuelva aún más interesante. Recuerdo un curso de capacitación en particular: un participante \(un académico\) registró un ORCID en el lugar mientras yo hablaba sobre las ventajas de los identificadores persistentes.
+
 
 ### Bianca Kramer
 
