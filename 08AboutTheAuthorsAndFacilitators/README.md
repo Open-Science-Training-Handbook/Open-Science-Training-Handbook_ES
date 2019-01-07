@@ -91,7 +91,7 @@ La capacitación en Cencia Abierta es gratificante porque no se trata solo de en
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida](http://img.youtube.com/vi/VTGYlyTnBFg/0.jpg)](http://www.youtube.com/watch?v=VTGYlyTnBFg "Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida")
 
-PhD in Physics, Universitat de Barcelona (UB), 2000. Now, devoted to openness: Head of the [Office for the Dissemination of Knowledge](http://crai.ub.edu/en/crai-services/intellectual-property) at the CRAI of the UB and public leader of Creative Commons in Spain since its beginning in 2003.
+Doctor en Física, Universitat de Barcelona (UB), 2000. Ahora, dedicado a la movimiento Abierto: Jefe de la Oficina de Difusión del Conocimiento en el CRAI de la UB [Office for the Dissemination of Knowledge](http://crai.ub.edu/en/crai-services/intellectual-property) y representante de Creative Commons en España desde su inicio en 2003.
 
 Espero que en un futuro próximo no haya necesidad de capacitarse en Ciencia Abierta porque esas prácticas, que ahora se describen aquí, serán las predeterminadas. Ya no será necesario adjuntar la etiqueta de abierto, y los investigadores deberán justificar por qué cierran algunos de sus resultados o actividades. Creo que este Manual puede ayudar a lograr esta situación al mostrar muchos ejemplos sólidos y casos viables de ejecución de investigaciones abiertamente.
 
@@ -103,11 +103,12 @@ Espero que en un futuro próximo no haya necesidad de capacitarse en Ciencia Abi
 * [@kyleniemeyer](https://twitter.com/kyleniemeyer)
 * [0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)
 
-<iframe src="https://www.youtube.com/embed/sbaH0uVDQkA" frameborder="0" allowfullscreen></iframe>
+[![Writing the Open Science Training Handbook - an author's perspective by Kyle Niemeyer](http://img.youtube.com/vi/93CERDH4Lq0/0.jpg)](http://www.youtube.com/watch?v=93CERDH4Lq0 "Writing the Open Science Training Handbook - an author's perspective by Kyle Niemeyer")
 
-I am an Assistant Professor of Mechanical Engineering at Oregon State University in Corvallis, Oregon, USA. My research group studies combustion and fluid flows using computer simulations, and develop numerical methods and parallel computing strategies. Open science advocate!
+Soy docente asistente de ingeniería mecánica en la Oregon State University en Corvallis, Oregon, EE. UU. Mi grupo de investigación estudia la combustión y los flujos de fluidos utilizando simulaciones por computadora, y desarrolla métodos numéricos y estrategias de computación paralela. ¡Defensor de la Ciencia abierta!
 
-As a graduate student, I frequently faced roadblocks in my research due to software not being shared openly; now, as the leader of a research group, my students and I face data availability and formatting challenges when working with results in the literature. However, simply showing others how easy it can be to share research products openly can be enough to catalyze change, as can leading by example.
+Como estudiante graduado, con frecuencia enfrenté obstáculos en mi investigación debido a que el software no se compartía abiertamente; ahora, como líder de un grupo de investigación, mis alumnos y yo, al trabajar con resultados en la literatura, nos enfrentamo a los desafíos de la disponibilidad y formato de los datos. Sin embargo, simplemente quiero mostrarles a los demás lo fácil que puede ser compartir productos de investigación abiertamente y que liderar con el ejemplo, puede ser suficiente para catalizar el cambio.
+
 
 ### Fotis Psomopoulos
 
@@ -116,7 +117,7 @@ As a graduate student, I frequently faced roadblocks in my research due to softw
 * [@fopsom](https://twitter.com/fopsom)
 * [0000-0002-0222-4273](https://orcid.org/0000-0002-0222-4273)
 
-<iframe src="https://www.youtube.com/embed/rKtNdplYlBc" frameborder="0" allowfullscreen></iframe>
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos](http://img.youtube.com/vi/_uNxt3rUlSY/0.jpg)](http://www.youtube.com/watch?v=_uNxt3rUlSY "Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos")
 
 Fotis is a Bioinformatician at the Institute of Applied Biosciences \(INAB\|CERTH\) in Thessaloniki, Greece. He was awarded his PhD in Electrical and Computer Engineering in 2010 with a focus on Bioinformatics and e-infrastructures, and a particular appreciation to open and reproducible methods. He spends significant time in training activities, both within formal academic structures as well as through the Carpentries as a certified Instructor and Trainer. He rambles about bits and pieces on his website.
 
