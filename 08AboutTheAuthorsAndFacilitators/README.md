@@ -185,11 +185,14 @@ Ellen es bibliotecaria con una larga experiencia en la Facultad de Bibliotecolog
 * [@april\_cs](https://twitter.com/april_cs) & [@methodpodcast](https://twitter.com/methodpodcast)
 * [0000-0002-5401-7751](https://orcid.org/0000-0002-5401-7751)
 
-April is an epidemiologist, methodologist, and expert in open science tools, methods, training, and community stewardship. She holds an MS in Population Medicine (Epidemiology). Since 2014, she has focussed on training scientists in open and reproducible research methods (Center for Open Science, Sense About Science, SPARC). In her current role of Outreach Scientist, she trains scientists in computational reproducibility best practices using Code Ocean.
+April es un epidemióloga, metodóloga y experta en herramientas científicas abiertas, métodos, capacitación y gestión comunitaria. Posee  una maestría en medicina poblacional (epidemiología). Desde 2014, se ha centrado en la capacitación de científicos en métodos de investigación en abierto y reproducibles \(Center for Open Science, Sense About Science, SPARC\). En su rol actual de Outreach Scientist, capacita a científicos en las mejores prácticas de reproducibilidad computacional utilizando Code Ocean.
 
-I have been lucky enough to make a living out of training other scientists how to science better. My community of support grows with each workshop and I hope this handbook might help grow the open research training community. Conversations about open research often occur in echo-chambers of well-meaning researchers \(like myself\) and librarians with similar worldviews. Training in open research can be similarly siloed with Western or Northern perspectives being taught as though universal. Adding context and new perspectives to open research conversations is the only way to make knowledge work for everyone. The content we captured during this sprint is limited by our own experiences, but as other authors add and edit based on their own experiences, we can aim for a handbook that can improve how we talk and train others in open research.
+He tenido la suerte de ganarme la vida formando a otros científicos sobre cómo mejorar la ciencia. Mi comunidad de apoyo crece con cada taller y espero que este manual pueda ayudar a que crezca la comunidad de capacitación de investigación en abierto. Las conversaciones sobre investigación abierta a menudo ocurren en \(echo-chambers\) de investigadores bien intencionados \(como yo\) y bibliotecarios con visiones del mundo similares.  Training in open research can be similarly siloed with Western or Northern perspectives being taught as though universal. Añadir contexto y nuevas perspectivas para abrir las conversaciones de investigación es la única manera de hacer que el conocimiento funcione para todos. El contenido que capturamos durante este Manual está limitado por nuestras propias experiencias, pero a medida que otros autores agregan y editan según sus propias experiencias, podemos apuntar a un manual que pueda mejorar la forma en que hablamos y capacitamos a otros en la investigación en abierto.
+
 
 ## Facilitators on site
+
+[![Video - Writing the Open Science Training Handbook - Helene Brinken and Lambert Heller](http://img.youtube.com/vi/on49K7y8Mlk/0.jpg)](http://www.youtube.com/watch?v=on49K7y8Mlk "Writing the Open Science Training Handbook - an author's perspective by Helene Brinken and Lamber Heller")
 
 ### Helene Brinken
 
@@ -198,7 +201,6 @@ I have been lucky enough to make a living out of training other scientists how t
 * [@helenebrinken](https://twitter.com/helenebrinken)
 * [0000-0002-3278-0422](https://orcid.org/0000-0002-3278-0422)
 
-<iframe src="https://www.youtube.com/embed/VFld9EgF-2I" frameborder="0" allowfullscreen></iframe>
 
 Responsible for Outreach and Advocacy in the FOSTER project at Göttingen University since May 2017. Background in Information Science with focus on e-learning and usability & user experience, now developing learning materials and facilitating workshops.
 
