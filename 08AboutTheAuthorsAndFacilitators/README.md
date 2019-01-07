@@ -171,9 +171,10 @@ Creo que el aspecto más desafiante de la Ciencia Abierta es la educación. Es u
 * [@Ellen4TUData](https://twitter.com/Ellen4TUData)
 * [0000-0002-8194-6724](https://orcid.org/0000-0002-8194-6724)
 
-Ellen is a librarian by education. She has a long experience in faculty librarianship at the TU Delft. After that she worked at the Delft University Press and organised peer review process for three journals. She also designed the open access or the journals, back in 2000! As from 2005 she developed the publication repository from TU Delft and she moved to 4TU.Centre for Research Data \(at that time 3TU.Datacentrum\) in 2009. In 2013 she co-designed the training Essentials 4 Data Support, she is since then an enthusiastic trainer.
+Ellen es bibliotecaria con una larga experiencia en la Facultad de Bibliotecología en la Universidad de Delft. Después de eso, trabajó en la Delft University Press y organizó un proceso de revisión por pares para tres revistas. Estuvo a cargo del también del diseñó el acceso abierto o las revistas, ¡en el año 2000! A partir de 2005, desarrolló el repositorio de publicaciones de TU Delft y luego se cambió a 4TU.Centre for Research Data \ (en ese momento 3TU.Datacentrum \) en 2009. En 2013, co-diseñó la capacitación de Essentials 4 Data Support. Desde entonces ha sido una entusiasta instructora.
 
-Where would we be without training? We need to be aware of all aspects of Open Science and be able to enthusiasm many others! This Handbook helps educators to make their training more effective in order to make Open Science the standard.
+¿Dónde estaríamos sin capacitación? ¡Necesitamos estar al tanto de todos los aspectos de Open Science y ser capaces de entusiasmar a muchos otros! Este Manual ayuda a los educadores a hacer que su capacitación sea más efectiva para que la Ciencia Abierta se vuelva un estándar.
+
 
 ## Authors at the sprint event remotely
 
