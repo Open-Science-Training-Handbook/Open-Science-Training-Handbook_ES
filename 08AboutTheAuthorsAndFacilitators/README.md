@@ -67,7 +67,7 @@ Trabajando para proyectos de Ciencia Abierta, tuve la oportunidad de conocer tan
 
 Soy coordinadora de gestión de datos de investigación en la Humboldt-Universität en Berlín, Alemania. En mi calidad de consultora, asisto a investigadores en la gestión de sus datos de investigación y organizo sesiones de capacitación y de información.
 
-Para mí, el mayor desafío con la capacitación científica abierta es mostrar a los investigadores que la Ciencia Abierta es más que un objetivo político o una responsabilidad moral. Es esencial mostrar que hay niveles de Ciencia Abierta. Uno puede comenzar con un pequeño paso sin tener que abrirse completamente de un día para otro. En mis capacitaciones, me gusta especialmente la mezcla de diversos  antecedentes, disciplinas y conocimientos previo, esto hace que la formación sea vuelva aún más interesante. Recuerdo un curso de capacitación en particular: un participante \(un académico\) registró un ORCID en el lugar mientras yo hablaba sobre las ventajas de los identificadores persistentes.
+Para mí, el mayor desafío con la capacitación científica abierta es mostrar a los investigadores que la Ciencia Abierta es más que un objetivo político o una responsabilidad moral. Es esencial mostrar que hay niveles de Ciencia Abierta. Uno puede comenzar con un pequeño paso sin tener que abrirse completamente de un día para otro. En mis capacitaciones, me gusta especialmente la mezcla de diversos  antecedentes, disciplinas y conocimiento previo, esto hace que la formación sea vuelva aún más interesante. Recuerdo un curso de capacitación en particular: un participante \(un académico\) registró un ORCID en el lugar mientras yo hablaba sobre las ventajas de los identificadores persistentes.
 
 
 ### Bianca Kramer
@@ -77,9 +77,10 @@ Para mí, el mayor desafío con la capacitación científica abierta es mostrar 
 * [@MsPhelps](https://twitter.com/MsPhelps)
 * [0000-0002-5965-6560](https://orcid.org/0000-0002-5965-6560)
 
-By day, I am a librarian for life sciences and medicine. My after hours project is [101 Innovations in Scholarly Communication](https://101innovations.wordpress.com) together with Jeroen Bosman. We do research, training and advocacy on open science, to make research more relevant, robust and equitable.
+En mi jornada diaria soy bibliotecaria de ciencias de la vida y medicina. Mi proyecto fuera de horario es [101 Innovations in Scholarly Communication] (https://101innovations.wordpress.com) junto con Jeroen Bosman, con el cual hacemos investigación, capacitación y defensa de la Ciencia Abierta, para que la investigación sea más relevante, sólida y equitativa.
 
-Training in open science is rewarding because it is not just about teaching people new skills, it's about discussing fundamental concepts and exchanging different viewpoints and opinions. As a participant in one of our courses said: 'I came to learn practical things to apply in my research, but I discovered I am now part of a movement'. To me, a succesfull training should be interactive and hands-on, to  encourage people to explore and challenge their perceptions. That includes my own role as a trainer: always be open to try new things and learn from the people participating in your training.
+La capacitación en Cencia Abierta es gratificante porque no se trata solo de enseñar nuevas habilidades a las personas, sino de discutir conceptos fundamentales e intercambiar puntos de vista y opiniones diferentes. Como dijo un participante de uno de nuestros cursos: "Vine a aprender cosas prácticas para aplicar en mi investigación, pero descubrí que ahora formo parte de un movimiento". Para mí, una capacitación exitosa debe ser interactiva y práctica, de modo de alentar a las personas a explorar y desafiar sus percepciones. Eso incluye mi propio rol como formador: siempre estar abierto a probar cosas nuevas y a aprender de las personas que participan en tu capacitación.
+
 
 ### Ignasi Labastida
 
