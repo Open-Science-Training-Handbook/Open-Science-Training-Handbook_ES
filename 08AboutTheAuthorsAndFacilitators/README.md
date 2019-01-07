@@ -9,6 +9,7 @@
 * [sonja.bezjak@fdv.uni-lj.si](mailto:sonja.bezjak@fdv.uni-lj.si)
 * [@sonja\_adp](https://twitter.com/sonja_adp)
 
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak](http://img.youtube.com/vi/qygm7Byc9eA/0.jpg)](http://www.youtube.com/watch?v=qygm7Byc9eA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
 
 En el Archivo de Datos de Ciencias Sociales, me dedico principalmente a temas relacionados con el acceso abierto a los datos de investigación. Una de mis funciones es capacitar a las diferentes partes interesadas en políticas de datos de investigación, planificación de la gestión de datos de investigación, citación de datos, publicaciones de datos, etc. Como miembro del grupo de capacitación CESSDA ERIC, trato de compartir mi conocimiento y experiencia a nivel internacional.
 
