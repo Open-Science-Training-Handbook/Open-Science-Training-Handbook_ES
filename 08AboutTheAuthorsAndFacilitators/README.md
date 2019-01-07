@@ -23,9 +23,10 @@ Cuando estudiaba sociología me enseñaron sobre los valores de la ciencia, incl
 * [@philippconzett](https://twitter.com/philippconzett)
 * [0000-0002-6754-7911](https://orcid.org/0000-0002-6754-7911)
 
-Trained as a linguist, I only had a vague understanding of Open Science when I started to work as a research librarian at UiT The Arctic University of Norway back in 2014. Luckily, I soon was involved in developing and running research support services, including repositories for open research data, starting with a discipline-specific one \(TROLLing\), then an institutional one \(UiT Open Research Data\), and finally a nationwide one \(DataverseNO\). Participating in the Open Science book sprint has been a fruitful contribution to my training competence.
+Formado como lingüista, solo tenía una vaga comprensión de la Ciencia Abierta cuando comencé a trabajar como bibliotecario de investigación en UiT The Arctic University de Noruega en 2014. Afortunadamente, rápidamente fui involucrado en el desarrollo y administración de servicios de apoyo a la investigación, incluidos repositorios para datos de investigación abiertos, comenzando con uno específico en una disciplina \(TROLLing\), luego uno institucional \(UiT Open Research Data\) y finalmente uno nacional \(DataverseNO\). Participar en el Manual de Ciencia Abierta ha sido una fructífera contribución a la formación de mis competencias como instructor.
 
-There are two major pitfalls for Open Science trainers, as I see it. One, novice trainers may feel so overwhelmed by the topics to cover, and the available resources that they don’t get started. Two, experienced trainers promoting Open Science may turn their efforts too much into a movement only accessible for the initiated. I hope this book can help to overcome both obstacles.
+Puedo ver que hay dos grandes escollos para los formadores de Ciencia Abierta. Uno, que los capacitadores novatos pueden sentirse muy abrumados por los temas a cubrir y los recursos disponibles que no se inician. Dos, que los formadores más experimentados que promueven la Ciencia Abierta pueden convertir sus esfuerzos en un movimiento solo comprensible y accesible para los iniciados. Espero que este libro pueda ayudar a superar ambos obstáculos.
+
 
 ### Pedro L. Fernandes
 
