@@ -35,11 +35,12 @@ Puedo ver que hay dos grandes escollos para los formadores de Ciencia Abierta. U
 * [@pfern](https://twitter.com/pfern)
 * [0000-0003-2124-0241](https://orcid.org/0000-0003-2124-0241)
 
-<iframe src="https://www.youtube.com/embed/5H_0dMEv0N4" frameborder="0" allowfullscreen></iframe>
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes](http://img.youtube.com/vi/r9k729JROEE/0.jpg)](http://www.youtube.com/watch?v=r9k729JROEE "Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes")
 
-I run a training programme in Bioinformatics at the Instituto Gulbenkian de Ciência, in Oeiras, PT since 1999. More than 5000 course participants in 19 years. Extending this activity with distance and e-learning, to better reach for 21st century learners.  I am an advocate of Open Access, Open Data, Open Source and Open Science that takes any possible chance to put these causes through via training. I am conscious that this movement needs to scale-up and reach for non-scientists as well, so I am very interested in its amplification and diffusion.
+Dirijo un programa de capacitación en bioinformática en el Instituto Gulbenkian de Ciência, en Oeiras, Portuga,ldesde 1999. Más de 5000 participantes en cursos en 19 años. Para llegar mejor a los estudiantes del siglo XXI, es necesario extender esta actividad con el e-learning. Soy un defensor del acceso abierto, los datos abiertos, el código abierto y la ciencia abierta y aprovecho cualquier posibilidad para poner en práctica estas causas a través de la capacitación. Soy consciente de que este movimiento debe ampliarse y llegar también a los no científicos, por lo que estoy muy interesado en su amplificación y difusión.
 
-Open Science is an attitude that requires a large but feasible education step. Advocates like me need to join forces and make it happen every day. Training in Open Science is needed at a wide range of levels. To address the entry level, together with Rutger A.Vos, we prepared the free e-book "Open Science, Open Data, Open Source" in 2017 \([http://osodos.org](http://osodos.org)\). More advocacy and training to come.
+La Ciencia Abierta es una actitud que requiere un gran paso pero factible a nivel educacional. Los defensores como yo necesitamos unir fuerzas y hacer que suceda todos los días. La formación en ciencia abierta es necesaria en un amplia rango de niveles. Para abordar el nivel inicial, junto con Rutger A.Vos, preparamos en 2017 el libro electrónico gratuito "Open Science, Open Data, Open Source"(http://osodos.org). En el futuro viene más promoción y capacitación.
+
 
 ### Edit Görögh
 
