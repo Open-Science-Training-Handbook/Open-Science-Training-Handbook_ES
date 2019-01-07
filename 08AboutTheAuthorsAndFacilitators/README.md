@@ -143,11 +143,12 @@ Si bien la creación y el impartir capacitación es muy desalentador, capacitar 
 * [@datosestupendos](https://twitter.com/datosestupendos)
 * [0000-0003-4897-8561 ](https://orcid.org/0000-0003-4897-8561)
 
-<iframe src="https://www.youtube.com/embed/OpRzpIzBlf4" frameborder="0" allowfullscreen></iframe>
+[![Video - Writing the Open Science Training Handbook - an author's perspective by René Schneider](http://img.youtube.com/vi/PoaqS3cp6PI/0.jpg)](http://www.youtube.com/watch?v=PoaqS3cp6PI "Writing the Open Science Training Handbook - an author's perspective by René Schneider")
 
-René Schneider is a professor in Information Science at Geneva School of Business Administration \(being part of the University of Applied Sciences and Arts Western Switzerland\). Originally trained as a computational linguist, he is mainly interested in data and all of its aspects.
+René Schneider es profesor de Ciencias de la Información en la Geneva School of Business Administration \(que forma parte de la University of Applied Sciences and Arts Western Switzerland\). Formado originalmente como lingüista computacional, está principalmente interesado en los datos y todos sus aspectos.
 
-I discovered the field of research data management  quite lately and mainly got engaged because of the complexity and high potential of open science. After having managed a project on how to train librarians to become instructors for research data management \(www.researchdatamanagement.ch\), I experienced myself that open science open doors, leads to a better understanding and reuse of scientific outcomes and finally links the academic ivory tower to the world outside.
+Descubrí el campo de la gestión de datos de investigación no hace mucho tiempo y principalmente me comprometí debido a la complejidad y el alto potencial que tiene la Ciencia Abierta. Después de haber dirigido un proyecto sobre cómo capacitar a los bibliotecarios para que se conviertan en instructores para la gestión de datos de investigación \(www.researchdatamanagement.ch \), experimenté que la Ciencia Abierta abre puertas, conduce a una mejor comprensión y reutilización de los resultados científicos y, finalmente, vincula la "torre de marfil académica" con el mundo exterior.
+
 
 ### Jon Tennant
 
@@ -156,11 +157,12 @@ I discovered the field of research data management  quite lately and mainly got 
 * [@protohedgehog](https://twitter.com/protohedgehog)
 * [0000-0001-7794-0218](https://orcid.org/0000-0001-7794-0218)
 
-<iframe src="https://www.youtube.com/embed/rvLggnE6ZPE" frameborder="0" allowfullscreen></iframe>
+[![Video - Writing the Open Science Training Handbook - an author's perspective by Jon Tennant](http://img.youtube.com/vi/KbD-CdhgC9A/0.jpg)](http://www.youtube.com/watch?v=KbD-CdhgC9A "Writing the Open Science Training Handbook - an author's perspective by Jon Tennant")
 
-Jon finished his award-winning PhD in Palaeontology at Imperial College London in 2017, and became the Communications Director of ScienceOpen for two years in 2015. Now, he is independently continuing his research into dinosaur evolution, while working on building an Open Science MOOC to help train the next generation of researchers in open practices. He has published papers on Open Access and Peer Review, is currently leading the development of the Foundations for Open Science Strategy document, and is the founder of the digital publishing platform paleorXiv. Jon is also an ambassador for ASAPbio and the Center for Open Science, a Mozilla Open Leadership mentor, and the co-runner of the Berlin Open Science meetup. He is also a freelance science communicator and consultant, and has written a kids book called Excavate Dinosaurs.
+Jon terminó su doctorado en Paleontología en el Imperial College de Londres en 2017 y se convirtió en el Director de Comunicaciones de Ciencia Abierta durante dos años en 2015. Ahora, continúa de forma independiente su investigación sobre la evolución de los dinosaurios, mientras trabaja en la construcción de un MOOC de Ciencia Abierta para ayudar a capacitar a la próxima generación de investigadores en prácticas en abierto. Ha publicado artículos sobre acceso abierto y revisión por pares. Actualmente dirige el desarrollo del documento Foundations for Open Science Strategy y es el fundador de la plataforma de publicación digital paleorXiv. Jon es también embajador de ASAPbio y el Center for Open Science, un mentor del Liderazgo Abierto de Mozilla y el movilizador de la reunión de Ciencia Abierta de Berlín. También es un comunicador y consultor científico independiente, y ha escrito un libro para niños llamado Excavate Dinosaurs.
 
-I think the most challenging aspect of Open Science is education. It is an enormously complex paradigm, with its own lexicon, practices, principles, and represents a quite high learning barrier in many cases. However, watching others develop their knowledge and skills is incredibly rewarding, and I find myself learning more with every new experience too. Ultimately, we all have the same thing in mind - a fairer, more equitable, transparent and rigorous system of scientific research, and watching the huge steps the global research community, and especially younger generations, are taking towards this is very inspiring.
+Creo que el aspecto más desafiante de la Ciencia Abierta es la educación. Es un paradigma enormemente complejo, con su propio léxico, prácticas, principios y en muchos casos, representa una barrera de aprendizaje bastante alta. Sin embargo, ver a otros desarrollar sus conocimientos y habilidades es increíblemente gratificante, y también me encuentro aprendiendo más con cada nueva experiencia. En última instancia, todos tenemos lo mismo en mente: un sistema de investigación científica más justo, más equitativo, transparente y riguroso, y observar los enormes pasos que la comunidad mundial de investigación, y especialmente las generaciones más jóvenes, están dando hacia esto es muy inspirador.
+
 
 ### Ellen Verbakel
 
