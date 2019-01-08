@@ -225,9 +225,9 @@ Total de palabras del Manual: 43.243.
     <td>About the Authors & Facilitators</td>
     <td>Claudia Vilches</td>
     <td>2.539</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Done</td>
+    <td>Done</td>
+    <td>Done</td>
     <td></td>
   </tr>
 
