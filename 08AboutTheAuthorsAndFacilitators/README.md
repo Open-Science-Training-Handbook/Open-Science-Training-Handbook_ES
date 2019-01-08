@@ -214,11 +214,11 @@ Antes de trabajar para FOSTER, trabajé con jóvenes activistas comprometidos co
 * [@Lambo](https://twitter.com/Lambo)
 * [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085)
 
-<iframe src="https://www.youtube.com/embed/VFld9EgF-2I?start=18" frameborder="0" allowfullscreen></iframe>
 
-With a background in social sciences, I’m a librarian by training, working as a subject specialist at a university library for several years, and kicked of the Open Science Lab at TIB \(German National Library for Science and Technology\) in 2013, now running a number of grant projects. Facilitating and advising book sprints since 2014. Helped to make VIVO, a free current research information system \(CRIS\) based entirely on Linked Open Data, popular in Germany. Kicked of a few discussions in libraryland and elsewhere, e.g. on Blockchain for Science.
+Soy bibliotecario de formación y trabajo como especialista en el área de de las Ciencias Sociales en una biblioteca universitaria durante varios años y parte activa del Open Science Lab en TIB \(Biblioteca Nacional Alemana de Ciencia y Tecnología\) en 2013. Ahora me encuentro ejecutando una serie de proyectos subvencionados. Desde 2014 soy facilitador de asesor en la creación de libros "vivientes"  También ayudé en la creación de VIVO, un sistema de información de investigación gratuito \(Current Research Information System (CRIS)\), muy popular en Alemania, basado completamente en datos abiertos enlazados \(Linked Open Data\). Soy muy activo en algunas discusiones en el mundo bibliotecario y en otros lugares, por ejemplo, blockchain para la ciencia.
 
-When giving workshops \(e.g., a half day workshop for PhD students and PostDocs from Leibniz Research Association in Germany in 2017, on the matter of scholarly profile and collaborative writing services\) it’s always a pleasure to tap into the curiosity of learners. Even the busiest student has experiences, questions and imagines how things could work best for them. I love to make use of this positive energy! And it makes it much easier for a trainer to run a training session.
+Al impartir talleres \(por ejemplo, un taller de medio día para estudiantes de doctorado y postdoctorado de Leibniz Research Association en Alemania en 2017, sobre el tema del perfil académico y los servicios de redacción colaborativa\), siempre es un placer aprovechar la curiosidad de los alumnos. Incluso el estudiante más ocupado tiene experiencias, preguntas e imagina cómo las cosas podrían funcionar mejor para ellos. ¡Me encanta hacer uso de esta energía positiva! Y hace que sea mucho más fácil para un instructor dirigir una sesión de capacitación.
+
 
 ## Acerca de los traductores de la versión al español
 
