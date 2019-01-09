@@ -15,19 +15,18 @@ En muchos casos los REA se construyen a partir de hallazgos de investigación. S
 ### Objetivos de aprendizaje
 
 1. Los participantes deben comprender la diferencia entre Recursos Educativos Abiertos y no-abiertos.
-2. La licencia es una parte esencial e indica cómo usar y combinar REA fácilmente.
-3. Los participantes deben saber dónde encontrar y colocar REA. 
+2. La licencia es una parte esencial e indica cómo usar y combinar los REA fácilmente.
+3. Los participantes deben saber dónde encontrar y colocar los REA. 
 
 ### Componentes esenciales 
 ## <img src="../Images/Icons/brain.png" width="150" height="150" /> <img src="../Images/Icons/gears.png" width="150" height="150" />
 #### Conocimiento y habilidades
 
-La única forma en que los recursos educativos son Recursos Educativos Abiertos es teniendo una licencia abierta. Sin embargo, no hay una guía clara para la elección de licencias, por tanto es preciso preguntar: ¿qué tipo de licencia es apropiada? En la práctica, las licencias más usadas por los REA son las **Creative Commons (CC)**, en concreto con las siguientes variantes: [CC0 (Dedicación de Dominio Público)](https://creativecommons.org/publicdomain/zero/1.0/), [CC-BY (Atribución)](https://creativecommons.org/licenses/by/4.0/) y [CC-BY-SA (Atribución-Compartir Igual)](https://creativecommons.org/licenses/by-sa/4.0/), las cuales pueden ser usadas por la mayoría de los REA; sin embargo, para la distribución de bases de datos bajo una licencia gratuita, Creative Commons no es lo ideal. En este caso se sugiere recurrir a una licencia abierta adecuada como ODbl, ODC-BY o PDDL para cumplir con la legalidad. 
+La única forma en que los recursos educativos sean Recursos Educativos Abiertos es teniendo una licencia abierta. Sin embargo, no hay una guía clara para la elección de licencias, por tanto es preciso preguntar: ¿qué tipo de licencia es apropiada? En la práctica, las licencias más usadas por los REA son las **Creative Commons (CC)**, en concreto con las siguientes variantes: [CC0 (Dedicación de Dominio Público)](https://creativecommons.org/publicdomain/zero/1.0/), [CC-BY (Atribución)](https://creativecommons.org/licenses/by/4.0/) y [CC-BY-SA (Atribución-Compartir Igual)](https://creativecommons.org/licenses/by-sa/4.0/), las cuales pueden ser usadas por la mayoría de los REA; sin embargo, para la distribución de bases de datos bajo una licencia gratuita, Creative Commons no es lo ideal. En este caso se sugiere recurrir a una licencia abierta adecuada como ODbl, ODC-BY o PDDL para cumplir con la legalidad. 
 
 Es importante destacar la importancia de aclarar, en todos los casos, quién posee los derechos de autor, así como otros derechos relacionados y conexos respecto del producto de la investigación. El titular de los derechos es quien pude decidir eliminar las restricciones, si es que no son eliminadas en automático por las licencias. Por tanto, las licencias deben ser explicadas en detalle para dar crédito de manera apropiada a todos y cada uno de los autores, y crear verdaderos REA. Esto también incluye la combinación de diferentes tipos de licencia y sus implicaciones. 
 
 De hecho, la capacitación en esta materia debe ofrecer un panorama general de las plataformas REA, así como de su uso previsto.
-
 **OpenCourseWare (OCW)** es una de las primeras plataformas de recursos educativos abiertos, y uno de los precursores clave del movimiento de Recursos Educativos Abiertos, fue iniciado en Massachusetts Institute of Technology (MIT) en 2002. Actualmente [Open Education Consortium](http://www.oeconsortium.org) ofrece material de todo el mundo, e incluso cursos bajo licencias gratuitas. Otros pioneros fueron **UNESCO** y la **Fundación William and Flora Hewlett,** que siguen comprometidos con los Recursos Educativos Abiertos. Ejemplos de otras plataformas son:
 
 - [Creative Commons Search](https://search.creativecommons.org/) para imagen, audio y archivos de video
