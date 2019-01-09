@@ -77,14 +77,14 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 4. Elabora tu mensaje, crea mensajes llamativos que atraigan a los intereses de los actores clave.
    1. Sé claro en lo que estás pidiendo.
    2. Manten tu mensaje simple y enfocado.
-   3. Usa un lenguaje positivo. Usa evidencia, los hechos son más convincentes que evidencia anecdótica.
+   3. Usa un lenguaje positivo. Usa evidencia, los hechos son más convincentes que la evidencia anecdótica.
    4. Los argumentos económicos son importantes.
 
 5. Planea y desarrolla tu comunicación y campaña de incidencia política.
 
 6. Identifica métodos de emisión:
    1. La promoción de lo abierto significa construcción de relaciones.
-   2. Cambia de tácticas, dependiendo tu audiencia objetivo.
+   2. Cambia de tácticas, dependiendo de tu audiencia objetivo.
 
 7. Identifica recursos y vacíos:
    1. Elabora un análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas).
@@ -114,7 +114,7 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 
 **Con campañas:** genera respuesta de un público amplio por medio de técnicas diversas, tales como: 
 
-- Cadenas en masa o emails.
+- Cadenas masivas de cartas o correos electrónicos.
 
 - Cartas de opinión y cartas a editores de periódicos.
 
@@ -129,23 +129,24 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 - Eventos públicos.
 
 - Campañas de publicidad de largo alcance.
+
 - Uso de redes sociales (Twitter, Facebook).
 
 ## <img src="../Images/Icons/gears.png" width="150" height="150" />
 #### Habilidades
 
-* Escribe una carta a un boletín o un foro de tu comunidad académica acerca dela importancia del Acceso Abierto. 
+* Escribe una carta a un boletín o un foro de tu comunidad académica acerca de la importancia del Acceso Abierto. 
 * Elabora tu propio modelo de respuesta acerca de sólo hacer revisión por pares para revistas científicas en acceso abierto, etc.
 * Reúsa (o recupera) los modelos que ya están disponibles.
 * Esboza soluciones y beneficios concretos que el Acceso Abierto puede traer para los ‘dolores de cabeza’ que sufren los administradores de tu universidad.
-* Encuentra un grupo local promoción a lo abierto y házte voluntario.
+* Encuentra un grupo local de promoción a lo abierto y házte voluntario.
 
 ## <img src="../Images/Icons/questions.png" width="150" height="150" />
 ### Preguntas, obstáculos y conceptos erróneos comunes
 
 Falta de interés del público. Falta de entendimiento del valor que implica.
 
-A la institución o los altos mandos les importa el impacto de los esfuerzos de la promición de lo abierto.
+A la institución o los altos mandos les importa el impacto de los esfuerzos de la promoción de lo abierto.
 
 ## <img src="../Images/Icons/output.png" width="150" height="150" />
 ### Resultados de aprendizaje
