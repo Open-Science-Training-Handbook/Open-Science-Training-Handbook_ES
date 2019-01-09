@@ -37,7 +37,7 @@ La Ciencia Ciudadana es, al mismo tiempo, el objetivo central y lo que posibilit
 
 #### Conocimiento 
 
-La **European Citizen Science Association (ECSA)** creó una guía de buenas prácticas sobre lo que es la Ciencia Ciudadana y escribió los  [10 Principios de Ciencia Ciudadana](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science). Esta declaración se ha traducido a muchos idiomas ([versión en español] (https://ecsa.citizen-science.net/sites/default/files/ecsa_ten_principles_of_cs_spanish_0.pdf). Estos 10 principios ofrecen una guía de las mejores prácticas para cualquier proyecto basado en Ciencia Ciudadana.
+La **European Citizen Science Association (ECSA)** creó una guía de buenas prácticas sobre lo que es la Ciencia Ciudadana y escribió los  [10 Principios de Ciencia Ciudadana](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science). Esta declaración se ha traducido a muchos idiomas [(versión en español)](https://ecsa.citizen-science.net/sites/default/files/ecsa_ten_principles_of_cs_spanish_0.pdf). Estos 10 principios ofrecen una guía de las mejores prácticas para cualquier proyecto basado en Ciencia Ciudadana.
 
 Al iniciar un proyecto de Ciencia Ciudadana existen algunos elementos esenciales que deben ser tomados en consideración: ¿Cómo vas a involucrar a los ciudadanos? ¿Cómo vas a asegurar la calidad de los datos? ¿Cómo vas a tratar los aspectos éticos y legales? 
 
