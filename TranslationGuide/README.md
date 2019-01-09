@@ -38,45 +38,45 @@ Total de palabras del Manual: 43.243.
     <td>Paloma Bougeois</td>
     <td>86</td>
     <td>03-09</td>
-    <td>Revisado Reme</td>
-    <td>Revisado Reme</td>
-    <td>Revisado</td>
+    <td>Revisado RMelero</td>
+    <td>Revisado RM</td>
+    <td>Revisado RM</td>
   </tr>
  <tr>
     <td>Readme</td>
     <td>Paloma Bougeois</td>
     <td>709</td>
     <td>03-09</td>
-    <td>Revisado Reme</td>
-    <td>Revisado Reme</td>
-    <td>Revisado</td>
+    <td>Revisado RMelero</td>
+    <td>Revisado RM</td>
+    <td>Revisado RM</td>
   </tr>
   <tr>
     <td>Introduction</td>
     <td>Paloma Bougeois</td>
     <td>1.330</td>
     <td>03-09</td>
-    <td>Revisado Reme</td>
-    <td>Revisado Reme</td>
-    <td>Revisado</td>
+    <td>Revisado RMelero</td>
+    <td>Revisado RM</td>
+    <td>Revisado RM</td>
   </tr>
   <tr>
     <td>Open Science Basics</td>
     <td>Paloma Bougeois</td>
     <td>141</td>
     <td>03-10</td>
-    <td>Revisado Reme</td>
-    <td>Revisado Reme</td>
-    <td>Revisado</td>
+    <td>Revisado RMelero</td>
+    <td>Revisado RM</td>
+    <td>Revisado RM</td>
   </tr>
   <tr>
     <td>Open Concepts and principles</td>
     <td>Paloma Bougeois</td>
     <td>1.292</td>
     <td>03-09</td>
-    <td>Revisado Reme</td>
-    <td>Revisado Reme</td>
-    <td>Revisado 17-12-2018</td>
+    <td>Revisado RMelero</td>
+    <td>Revisado RM</td>
+    <td>Revisado RM 17-12-2018</td>
   </tr>
   <tr>
     <td>Open Research Data and Materials</td>
@@ -84,7 +84,7 @@ Total de palabras del Manual: 43.243.
     <td>3.207</td>
     <td>24-09</td>
     <td>Nicolás Alessandroni</td>
-    <td>11-12 done</td>
+    <td>Revisado por NA 11-Dic</td>
     <td></td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ Total de palabras del Manual: 43.243.
     <td>2.087</td>
     <td>24-09</td>
     <td>Nicolás Alessandroni</td>
-    <td>11-12 done</td>
+    <td>Revisado por NA 11-Dic</td>
     <td></td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@ Total de palabras del Manual: 43.243.
     <td>1.671</td>
     <td>05-11</td>
     <td>Nicolás Alessandroni</td>
-    <td>07-12 done</td>
+    <td>Revisado por NA 07-Dic</td>
     <td></td>
   </tr>
   <tr>
@@ -136,9 +136,9 @@ Total de palabras del Manual: 43.243.
     <td>Ricardo Hartley</td>
     <td>1.137</td>
     <td>24-09</td>
-    <td>Revisado Reme Melero</td>
-    <td>Revisado</td>
-    <td>done Reme Melero</td>
+    <td>Revisado por RMelero</td>
+    <td>Revisado por RM</td>
+    <td>Revisador por RM</td>
   </tr>
   <tr>
     <td>Open Science Policies</td>
@@ -146,7 +146,7 @@ Total de palabras del Manual: 43.243.
     <td>917</td>
     <td>16-09</td>
     <td>Claudia Vilches</td>
-    <td>Revisado</td>
+    <td>Revisado por CV</td>
     <td></td>
   </tr>
   <tr>
@@ -155,7 +155,7 @@ Total de palabras del Manual: 43.243.
     <td>922</td>
     <td>16-09</td>
     <td>Claudia Vilches</td>
-    <td></td>
+    <td>Revisado por CV</td>
     <td></td>
   </tr>
   <tr>
@@ -182,7 +182,7 @@ Total de palabras del Manual: 43.243.
     <td>6.319</td>
     <td>26-10</td>
     <td>Nicolás Alessandroni</td>
-    <td>done Revisado</td>
+    <td>Revisado por NA</td>
     <td></td>
   </tr>
   <tr>
