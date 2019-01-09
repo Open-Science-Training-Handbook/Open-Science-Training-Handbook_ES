@@ -198,8 +198,8 @@ Total de palabras del Manual: 43.243.
     <td>Examples and Practical Guidance</td>
     <td>Lourdes Feria</td>
     <td>10.355</td>
-    <td></td>
-    <td>Rosario Rogel? o Nicolás Alessandroni</td>
+    <td>Traducido, CVilches a cargo de subirlo</td>
+    <td>Claudia Vilches</td>
     <td></td>
     <td></td> 
   </tr>
