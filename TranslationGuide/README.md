@@ -164,7 +164,7 @@ Total de palabras del Manual: 43.243.
     <td>693</td>
     <td>16-09</td>
     <td>Claudia Vilches</td>
-    <td></td>
+    <td>Revisado por CV</td>
     <td></td>
   </tr>
   <tr>
