@@ -66,7 +66,7 @@ Otra pregunta frecuente es qué pasa si los investigadores no cumplen con los re
 
 Una concepción errónea común en relación a las políticas de datos de investigación es que los investigadores deben compartir sus datos de manera abierta. Para abordar este tema sugerimos resaltar las diferentes partes del texto de las políticas donde se explique qué tipo de datos son los afectados por las políticas y cuándo deben ser compartidos. Se sugiere también analizar todas las opciones de exención presentes en las políticas. Un recurso útil para clarificar estos aspectos es la infografía que [se encuentra disponible en Horizon2020](https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf).
 
-Al planificar una política es importante saber qué es lo que se quiere hacer, y qué es lo que se intenta lograr o solucionar. Algunas veces las políticas se elaboran imitando a otras iniciativas, sin pensar si son neesarias y si la nueva política se traslapará con otras que ya existen. El reto principal al crear una política es alinearla con otras iniciativas y evitar contradicciones con leyes o regulaciones pre existentes. 
+Al planificar una política es importante saber qué es lo que se quiere hacer, y qué es lo que se intenta lograr o solucionar. Algunas veces las políticas se elaboran imitando a otras iniciativas, sin pensar si son necesarias y si la nueva política se traslapará con otras que ya existen. El reto principal al crear una política es alinearla con otras iniciativas y evitar contradicciones con leyes o regulaciones pre existentes. 
 
 ## <img src="../Images/Icons/output.png" width="150" height="150" />
 ### Resultados del aprendizaje 
