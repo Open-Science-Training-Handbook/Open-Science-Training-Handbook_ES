@@ -53,7 +53,7 @@ Pese a que no existe consenso acerca de cómo evaluar algunas de las activiades 
 ## <img src="../Images/Icons/questions.png" width="150" height="150" />
 ### Preguntas, obstáculos y conceptos erróneos comunes
 
-* Una de las controversias que usualmente se suscitan en los proyectos ciudadanos es cómo los investigadores ponen a disposición del público los datos generados por los ciudadanos. Los investigadores deben estar conscientes que estos datos pueden compartirse tomando en consideración aspectos éticos y legales.
+* Una de las controversias que usualmente se suscitan en los proyectos ciudadanos es cómo los investigadores ponen a disposición del público los datos generados por los ciudadanos. Los investigadores deben ser conscientes que estos datos pueden compartirse tomando en consideración aspectos éticos y legales.
 * La falta de recompensas para los ciudadanos que participan, sobre todo si no son parte de los “tradicionales” productos de investigación (coautores en artículos, en ponencias de congresos, etcétera). Este no es un tema que se aborde durante la capacitación en materia de Ciencia Ciudadana. Probablemente una forma de superar este problema es empezar una conversación acerca de cómo les gustaría a los participantes ser recompensados, y qué métodos proponen.
 
 ## <img src="../Images/Icons/output.png" width="150" height="150" />
