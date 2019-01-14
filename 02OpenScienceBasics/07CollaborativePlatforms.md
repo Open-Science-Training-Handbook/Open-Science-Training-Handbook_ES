@@ -9,7 +9,7 @@ Las plataformas de colaboración en línea conectan a investigadores geográfica
 
 ### Justificación
 
-La colaboración en investigación está creciendo exponencialmente y los equipos son cada vez más interdisciplinarios a medida que los investigadores trabajan cada vez más en consorcios internacionales e interdisciplinarios, para permitir una multitud de perspectivas sobre preguntas de investigación específicas. Fomentar la investigación colaborativa nacional e internacional es cada vez más una prioridad para los financiadores. Por ejemplo, se encuentra en el corazón de la estrategia del Comisionado de Investigación de la CE, Carlos Moedas, que es "Ciencia abierta, innovación abierta, abierta al mundo" \[REF\]
+La colaboración en investigación está creciendo exponencialmente y los equipos son cada vez más interdisciplinarios a medida que los investigadores trabajan cada vez más en consorcios internacionales e interdisciplinarios, para permitir una multitud de perspectivas sobre preguntas de investigación específicas. Fomentar la investigación colaborativa nacional e internacional es cada vez más una prioridad para los financiadores. Por ejemplo, se encuentra en el corazón de la estrategia del Comisionado de Investigación de la CE, Carlos Moedas, que es "Open Science, open innovation, open to the world" \(https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world\).
 
 Los entornos virtuales de investigación (EVI) y las plataformas colaborativas permiten la colaboración entre continentes, zonas horarias y disciplinas. En este módulo, usted conocerá las plataformas de colaboración que funcionan en la actualidad y cómo pueden mejorar en gran medida sus flujos de trabajo de investigación.
 
@@ -25,7 +25,7 @@ Los entornos virtuales de investigación (EVI) y las plataformas colaborativas p
 ### Componentes clave
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Habilidades de conocimiento
+#### Conocimiento y habilidades 
 
 **Entornos virtuales de investigación \(EVI\)**
 
@@ -88,9 +88,9 @@ A: Esto es incorrecto; aunque parezca que está introduciendo herramientas y pla
 
 * Open Science Framework. The promise of Open Science collaboration: [https://osf.io/vmrgu/wiki/home/](https://osf.io/vmrgu/wiki/home/)
 
-* Alexander Voss, Rob Procter, \(2009\) ["Virtual research environments in scholarly work and communications"](https://www.emeraldinsight.com/doi/abs/10.1108/07378830910968146), Library Hi Tech, Vol. 27 Issue: 2, pp.174-190: [doi.org/10.1108/07378830910968146](https://doi.org/10.1108/07378830910968146)
+* Alexander Voss, Rob Procter \(2009\) ["Virtual research environments in scholarly work and communications"](https://www.emeraldinsight.com/doi/abs/10.1108/07378830910968146), Library Hi Tech, Vol. 27 Issue: 2, pp.174-190: [doi.org/10.1108/07378830910968146](https://doi.org/10.1108/07378830910968146)
 
-* Candela, L., Castelli, D. & Pagano, P., \(2013\). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81: [doi.org/10.2481/dsj.GRDI-013](http://doi.org/10.2481/dsj.GRDI-013)
+* Candela, L., Castelli, D. & Pagano, P. \(2013\). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81: [doi.org/10.2481/dsj.GRDI-013](http://doi.org/10.2481/dsj.GRDI-013)
 
 
 
