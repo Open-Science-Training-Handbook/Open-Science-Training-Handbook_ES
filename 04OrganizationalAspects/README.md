@@ -1,49 +1,30 @@
 ## <img src="/Images/Icons/timetable.png" width="200" height="200" />
-## Aspectos organizacionales
+## Aspectos relativos a la organización
 
-This chapter will guide you through the main practical aspects of organizing a training event. Of course, what you need and will use will depend on the type of event you’ll organize! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
 
-Este capítulo te guiara a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Es claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al evento. Así mismo obtendrás información sobre los pasos de preparación y las tareas organizativas necesarias. Esto te proveerá no solamente con conocimiento valioso acerca de la organización de un evento si no que te tranquilizará mientras preparas la capacitación. Notarás que la mayoría del material en este capítulo, y de todo el manual, está enfocado en la capacitación con respecto a talleres prácticos. Gestionar un evento de diferente tipo puede requerir decisiones diferentes a las recomendaciones siguientes.
+Este capítulo te guiara a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Está claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al evento. Así mismo obtendrás información sobre los pasos de preparación y las tareas organizativas necesarias. Esto te proveerá no solamente con conocimiento valioso acerca de la organización de un evento si no que te tranquilizará mientras preparas la capacitación. Notarás que la mayoría del material en este capítulo, y de todo el manual, está enfocado en la capacitación con respecto a talleres prácticos. Gestionar un evento de diferente tipo puede requerir decisiones diferentes a las recomendaciones siguientes.
 
 ## Fundamentos del evento de capacitación
 
 ### Formato
 
-Deciding what type of event you want to coordinate is the first critical step in training exercises. Here are some points to consider:
-
 Decidir que tipo de evento esperas coordinar es el primer paso crítico en ejercicios de capacitación. Aquí hay varios puntos para tomar en consideración:
-
-* Format of the training: live workshop, seminar, lecture, online training or mixture of online and in-person?
 
 * Formato de la capacitación: ¿será un taller práctico presencial, seminario, conferencia, capacitación en línea o mezcla en línea y presencial (mixto)?
 
-* Will it be participatory, formal, self-contained?
-
 * ¿Será participativo, formal, autónomo?
-
-* Can the event be integrated into existing curricula?
 
 * ¿El evento puede integrarse dentro del currículo existente?
 
-* Do you need to invite any other external experts? What are the requirements for that (e.g., funding)?
-
 * ¿Necesitas invitar algún experto externo? ¿Cuáles son los requerimientos para eso (ej. Financiamiento)?
-
-* Is the training a requirement, or something participants are choosing to attend?
 
 * ¿La capacitación es un requisito o los participantes deciden su asistencia?
 
-* Will attendees receive any form of accreditation for the training?
-
 * ¿Los asistentes reciben alguna constancia o acreditación de la capacitación?
-
-* What sort of venue type do you need for this format?
 
 * ¿Qué tipo de sede necesitas para el evento?
 
-To provide you with initial guidance over possible types of training and their characteristics, see the table below for recommendations. 
-
-Para proveerte con una orientación inicial acerca de los posibles tipos de capacitación y sus características, revisa la siguiente tabla para recomendaciones.
+Para facilitarte una orientación inicial acerca de los posibles tipos de capacitación y sus características, revisa la siguiente tabla de recomendaciones.
 
 <table>
   <tr>
@@ -213,95 +194,59 @@ Para proveerte con una orientación inicial acerca de los posibles tipos de capa
 
 ### Audiencia, instructor invitado y colaboradores
 
-Before committing to the event be sure you defined your [target audience](/03OnLearningAndTraining/#target-audience) and that you are aware of their needs. Consider your audience, its size and the number or area of competence of (guest) trainers.
-
-Antes de comprometerte con el evento debes estar seguro de que tienes bien definida tu [audiencia objetivo](/03OnLearningAndTraining/#target-audience) y que estas consciente de sus necesidades. Considera el tamaño de tu audiencia y el número o área de competencia de los instructores. 
+Antes de comprometerte con el evento debes estar seguro de que tienes bien definida tu [audiencia objetivo](/03OnLearningAndTraining/#target-audience) y que eres consciente de sus necesidades. Considera el tamaño de tu audiencia y el número o área de competencia de los instructores. 
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
 #### Cooperando con otros
 
-Some forms of training require more than one instructor. Try to get support from colleagues or service units in your institution. Identify institutional support (e.g., funding, room(s), work time) and reach out to decision makers to ask for these things - for example, you could ask for help with registration, or contact the printing service or communication department regarding advertising. Make sure any volunteers are sufficiently briefed on all activities, and know what the aims and practicalities of the event are. Make them aware of the importance of encouraging participation from the attendees. You can also outsource some tasks, if the budget allows for this.
+Algunas  formas de capacitación requieren más de un instructor, procura tener apoyo de colegas o unidades de servicio en tu institución. Identifica el apoyo institucional (ej. Financiamiento, espacio (s), tiempo de trabajo) y ponte en contacto con los responsables de diferentes áreas para preguntar por los posibles apoyos -por ejemplo, podrías preguntar por ayuda con el registro o contactar con el servicio de imprenta o el departamento de comunicación con respecto a la publicidad del evento. Asegúrate que todos los voluntarios están suficientemente informados de todas las actividades y conocen los objetivos y aspectos prácticos del evento. Hazlos conscientes de la importancia de fomentar la participación de los asistentes. Incluso podrías relegar algunas tareas a alguna empresa, esto si el presupuesto lo permite.
 
-Varias formas de capacitación requieren más de un instructor, procura tener apoyo de colegas o unidades de servicio en tu institución. Identifica apoyo institucional (ej. Financiamiento, espacio (s), tiempo de trabajo) y ponte en contacto con los responsables de diferentes áreas para preguntar por apoyos -por ejemplo, podrías preguntar por ayuda con el registro o contactar con el servicio de imprenta o el departamento de comunicación con respecto a la publicidad del evento. Asegúrate que todos los voluntarios están suficientemente informados de todas las actividades y conocen los objetivos y aspectos prácticos del evento. Hazlos conscientes de la importancia de fomentar la participación de los asistentes. Incluso podrías relegar algunas tareas a alguna empresa, esto si el presupuesto lo permite.
-
-Consider partnering with other departments at your institution or other local institutions to pool resources and increase impact/collaborating with other projects or programs. These are the key points to work out prior to committing to, or announcing any event. Resolving these will help the training run smoothly for yourself and your participants. Also, consider integrating the training into a recognized conference or local/international event.
-
-Considera colaborar con otros departamentos de tu institución u otras instituciones locales para combinar recursos e incrementar impacto/colaboración con otros proyectos o programas. Estos son los puntos principales para trabajar antes de comprometerse o anunciar algún evento. Resolver esto ayudará a que la capacitación se desarrolle sin problemas para ti y los participantes. Adicionalmente, considera integrar la capacitación a una conferencia reconocida o un evento local/internacional.
-
-Identify other trainers or experts/guest speakers that could help with the event. Ideally, these will be other Open Science advocates at the institution or otherwise local to the event, but you may need to find suitable non-local trainers (who may need financial support for travel). Work to have diverse representation (see Representation below). According to [The Carpentries](https://software-carpentry.org/workshops/operations/), a workshop with 40 people needs at least two trainers (and possibly a third) who alternate between talking and supporting learners, including also one helper per 5 participants that will continuously monitor for any issues.
+Considera colaborar con otros departamentos de tu institución u otras instituciones locales para combinar recursos e incrementar el impacto/colaboración con otros proyectos o programas. Estos son los puntos principales para trabajar antes de comprometerse o anunciar algún evento. Resolver esto ayudará a que la capacitación se desarrolle sin problemas para ti y los participantes. Adicionalmente, considera integrar la capacitación a una conferencia reconocida o un evento local/internacional.
 
 Identifica otros instructores o expertos/colaboradores invitados que puedan apoyar con el evento. Idealmente estos pueden ser otros promotores de Ciencia Abierta de la institución o si no de la región del evento, pero puede que necesites encontrar instructores aptos que no sean locales (que necesitarían apoyo financiero para el viaje). De acuerdo con [The Carpentries](https://software-carpentry.org/workshops/operations/) un taller con 40 asistentes necesita por lo menos 2 instructores (y posiblemente 3) quienes se alternarían entre dialogar y apoyar a la audiencia, incluyendo un ayudante por cada 5 participantes que estarían continuamente monitoreando cualquier problema que pueda surgir.
 
 #### Representación
 
-Maintaining an inclusive environment is important for any successful training event. Ensure that each component of your program includes a range of backgrounds. Your organizing team, speakers, and trainers should include representation across gender identities, different disciplines, underrepresented groups, diverse racial backgrounds, and geographic regions (if you intend to open your event to non-local participants). 
+Mantener un ambiente inclusivo es importante para cualquier capacitación exitosa. Asegúrate que todos los componentes de tu programa incluyen diversidad de procedencias. Tu equipo de organización, facilitadores e instructores deben tener representación alrededor de diferentes identidades de género, disciplinas, comunidades subrepresentadas, diversidad racial y regiones geográficas (sólo si pretendes abrir tu evento a participantes foráneos). 
 
-Mantener un ambiente inclusivo es importante para cualquier capacitación exitosa. Asegúrate que todos los componentes de tu programa incluyen diversidad de orígenes. Tu equipo de organización, facilitadores e instructores deben tener representación alrededor de diferentes identidades de género, disciplinas, comunidades subrepresentadas, diversidad racial y regiones geográficas (sólo si pretendes abrir tu evento a participantes foráneos). 
-
-Actively invite trainers and speakers from underrepresented groups. Make sure to discuss with them their specific goals and needs, and include these in the planning of the event. To learn more about trainers see On learning and training chapter, [Expectations about a trainer](/03OnLearningAndTraining.md/#expectations-about-a-trainer) subchapter. Ensure that a proportion of participant spots are reserved for attendees across ethnic backgrounds, gender identities, disciplines and geographic regions (see [Inclusive engagement](/03OnLearningAndTraining.md/#inclusive-engagement)). To learn more about how to make your workshop inclusive and welcoming, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
-
-Invita activamente a instructores y facilitadores de comunidades subrepresentadas. Asegúrate de conversar con ellos sus metas y necesidades e incluye estas en la planeación del evento. Para aprender más acerca de los instructores revisa el Capítulo On learning and training, [expectativas acerca de los instructores](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Asegúrate que una porción de los espacios de los participantes están reservados para asistentes de diferentes orígenes étnicos, identidades de género, disciplinas y regiones geográficas (ver [Inclusive engagement](/03OnLearningAndTraining.md/#expectations-about-a-trainer)). Para aprender más acerca de cómo organizar tu propio evento puedes consultar la [Conference Planning Checklist propuesto por SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+Invita activamente a instructores y facilitadores de comunidades subrepresentadas. Asegúrate de conversar con ellos sus metas y necesidades e incluye estas en la programación del evento. Para aprender más acerca de los instructores revisa el Capítulo On learning and training, [expectativas acerca de los instructores](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Asegúrate que una porción de los espacios de los participantes están reservados para asistentes de diferentes orígenes étnicos, identidades de género, disciplinas y regiones geográficas (ver [Inclusive engagement](/03OnLearningAndTraining.md/#expectations-about-a-trainer)). Para aprender más acerca de cómo organizar tu propio evento puedes consultar la [Conference Planning Checklist propuesto por SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
 ## <img src="/Images/Icons/home.png" width="150" height="150" />
 ### Sede
 
-Before organizing a face-to-face training event consider few things related to a venue. It might help you to reduce several obstacles: 
-
 Antes de organizar un evento presencial considera algunas situaciones relacionadas a la sede. Esto te ayudará a disminuir algunos obstáculos:
 
-The venue should be easily accessible for the participants. The venue should have elevator access, accessible entrances and ramps as well as clear legible signs. Check if the venue is easily accessible by public transport or car (parking spaces) and that it’s not too far away from rail stations or the airport. For a checklist of what makes a workshop accessible, see the [Accessible Meetings Toolkit from the American Bar Association](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) and the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html). Locate a place to greet your attendees and a place for them to circulate and socialize. A separate area for catering should be available. Also, check if the venue offers a maternity room, a prayer room and a gender-neutral washroom. 
+La sede debe ser de fácil acceso para los participantes. La sede debe tener acceso por elevador, entradas accesibles y rampas con señales claras y legibles. Revisa si la sede cuenta con fácil acceso vía transporte público o vehículo (en este caso si cuenta con estacionamiento) y que no esté tan alejada de estaciones de autobús, de trenes o aeropuertos. Para tener una lista de las cosas que hacen que un evento sea accesible puedes ver: [Accesible Meetings Toolkit from the American Bar Association](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) y [Conference Planning Checklist por SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html). Ubica una zona para dar la bienvenida a tus asistentes para que puedan circular y socializar. Debe ahber un área aparte para las comidas. También revisa si la sede ofrece un cuarto de maternidad, sala de oración y baño de genero neutral.
 
-La sede debe ser de fácil acceso para los participantes. La sede debe tener acceso por elevador, entradas accesibles y rampas con señales claras y legibles. Revisa si la sede cuenta con fácil acceso vía transporte público o vehículo (en este caso si cuenta con estacionamiento) y que no esté tan alejada de estaciones de autobús, de trenes o aeropuertos. Para tener una lista de las cosas que hacen que un evento sea accesible puedes ver: [Accesible Meetings Toolkit from the American Bar Association](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) y [Conference Planning Checklist por SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html). Ubica una zona para dar la bienvenida a tus asistentes y para que puedan circular y socializar. Un área aparte para catering debe estar disponible. También revisa si la sede ofrece un cuarto de maternidad, sala de oración y baño de genero neutral.
-
-The training room should be sufficiently equipped (see equipment and media). The room should have sufficient WiFi and power access for every participant (possibly via power strips/extension cords). Check to see if furniture can be rearranged in order to suit your requirements. The presenter will need a high (or raisable) table for standing and a microphone (for recording and/or accessibility). An additional microphone for participant questions aids accessibility. 
-
-La sala de capacitación debe estar suficientemente equipada (ver [Equipos y medios](enlace)). La sala debe tener buen rango de Wifi y enchufes para cada participante (posiblemente vía multicontactos o cables de extensión). Comprueba si los muebles pueden ser reorganizados en orden de satisfacer tus necesidades. El presentador puede necesitar una mesa alta o elevable para colocar un micrófono (para grabar o accesibilidad). Un micrófono adicional para preguntas de los participantes contribuye a la accesibilidad.
+La sala de capacitación debe estar suficientemente equipada (ver [Equipos y medios](enlace)). La sala debe tener una buena conexión Wifi y enchufes para cada participante (posiblemente vía multicontactos o cables de extensión). Comprueba si el mobiliario pueden reorganizarse satisfacer tus necesidades. El presentador puede necesitar una mesa alta o elevable para colocar un micrófono (para grabar o accesibilidad). Un micrófono adicional para preguntas de los participantes facilita la accesibilidad.
 
 ## <img src="/Images/Icons/break.png" width="150" height="150" />
 ### Tiempo
 
-The length of the event depends on the content and depth of the training you intend to provide. You should have an estimate how much time each component will take. Make sure to define an agenda or time schedule, including any icebreakers and introductions. Allow enough time for lunch and coffee breaks. Be reasonable with your start and end times (see chapter [Starting the training](/03OnLearningAndTraining.md/#starting-the-training)). 
-
-La duración del evento depende del contenido y profundidad de la capacitación que te propones ofrecer. Debes tener una estimación de cuánto tiempo puede llevar cada etapa. Asegúrate de definir una agenda o programa, incluyendo recesos e introducciones. Considera suficiente tiempo para almuerzos y pausas para café. Tienes que ser razonable con tus tiempos de inicio y final (ver capítulo [Starting the training](/03OnLearningAndTraining.md/#starting-the-training). 
-
-Before scheduling your event think about obstacles that might prevent or induce people to join and try to pick a suitable time and date of the event. Make sure to avoid conflict with any public holidays, religious holidays, or similar events. If your event is hosted at a university, keep class schedules in mind. Consider to place your training session along with a larger conference or meeting in order to bring more attention, increase the attendance and get the chance to bring any speaker attending the other event. A family friendly workshop should avoid evenings and weekends, provide childcare or childcare sponsorships, and ensure areas for breastfeeding mothers.
+La duración del evento depende del contenido y profundidad de la capacitación que te propones ofrecer. Debes tener una estimación de cuánto tiempo puede llevar cada sesión. Asegúrate de definir una agenda o programa, incluyendo recesos y presentaciones. Ten en cuenta el  tiempo para los almuerzos y las pausas para el café. Tienes que ser razonable con tus tiempos de inicio y final (ver capítulo [Starting the training](/03OnLearningAndTraining.md/#starting-the-training). 
 
 Antes de programar tu evento debes tener en cuenta los obstáculos que podrían impedir o inducir a la gente a unirse e intentar elegir una fecha y horas adecuadas para el evento. Asegúrate de evitar conflictos con algún día festivo, festividades religiosas o algún evento similar. Si tu evento se organiza en alguna universidad debes tener en mente los horarios de clase. Considera organizar tu sesión de capacitación junto con una conferencia o reunión más grande a fin de atraer más atención, incrementando la asistencia y tener la oportunidad de llevar a algún instructor que asista a otro evento. Un taller de capacitación amigable debe evitar las tardes y los fines de semana, proveer guardería o un patrocinador de cuidado de niños y garantiza áreas para madres lactantes.
 
 ## <img src="/Images/Icons/budget.png" width="150" height="150" />
 ### Presupuesto
 
-You may need financial support to help run your event, to pay for things like the venue (if the host institution cannot or will not provide this for free), travel support for non-local trainers/experts, refreshments, materials (e.g., name badges, USB drives) and swag. Most types of training will need at least a little money for material and equipment. Also, keep in mind that the costs associated with human resource are often the largest costs associated with running an event. It is good to identify time needed for staff to prepare materials and content which is often not budgeted for. These costs may be covered through as a core aspect of the job, but if not it might be wise to ensure funding to cover this aspect is sourced.
+Podrías necesitar algún tipo e fiannciación para ayudar a organizar tu evento, para pagar cosas como la sede (si la institución anfitriona no puede proveer esto de manera gratuita), los viajes para instructores o facilitadores externos, refrigerios, materiales (ej. Tarjetas de identificación, dispositivos USB) y material promocional. La mayoría de los tipos de capacitación necesitarán por lo menos algo de dinero para material y equipo. También debes de tener en cuenta que los costes asociados con los recursos humanos son regularmente los costes más altos asociados con la organización de un evento. Es bueno identificar el tiempo necesario por el personal para preparar los materiales y el contenido que a menudo no está presupuestado. Estos costes pueden cubrirse como un aspecto central del trabajo, pero si no, sería prudente asegurar fondos para cubrir este aspecto. 
 
-Podrías necesitar apoyo financiero para ayudar a organizar tu evento, para pagar cosas como la sede (si la institución anfitriona no puede proveer esto de manera gratuita), apoyos de viaje para instructores o facilitadores foráneos, refrigerios, materiales (ej. Tarjetas de identificación, dispositivos USB) y material promocional. La mayoría de los tipos de capacitación necesitarán por lo menos un poco de dinero para material y equipo. También debes de tener en cuenta que los costos asociados con los recursos humanos son regularmente los costos más altos asociados con la organización de un evento. Es bueno identificar el tiempo necesario por el personal para preparar los materiales y el contenido que a menudo no está presupuestado. Estos costos pueden cubrirse como un aspecto central del trabajo, pero si no, sería prudente asegurar fondos para cubrir este aspecto. 
-
-Consider different ways of creating a budget for your training. If possible, request funds from your institution. Otherwise, you might have to charge a fee from participants or look for scholarships and other ways of funding. 
-
-Considera diferentes maneras de adquirir presupuesto para la capacitación. SI es posible solicita fondos de tu institución. De otra manera tendrías que cobrar una cuota a los participantes o buscar becas y otras formas de financiamiento.
+Considera diferentes maneras de conseguir financiación  para la capacitación. Si es posible solicita fondos de tu institución. De otra manera tendrías que cobrar una cuota a los participantes o buscar becas y otras formas de financiamiento.
 
 #### Cuotas
-
-Collecting and managing funds or fees can be tricky. If you plan to do this, you should consider using an existing online registration service (e.g., Eventbrite, Event Smart) or your institution’s conference/event services. Although any cost impacts accessibility of the event, charging a nominal registration fee (e.g., $20–40 or €15–30) encourages those who register to actually attend—Software Carpentry found this reduced no-shows from almost a third to about 5% (Wilson 2016). 
 
 Recolectar y administrar fondos o cuotas puede ser complicado. Si planeas hacer esto debes considerar utilizar algún servicio en línea de registro (ej. Eventbrite, Event Smart) o los servicios de conferencias y eventos de tu institución. Aunque cualquier costo tiene un impacto en la accesibilidad al evento, cobrar un tarifa de registro (ej. $200-1000 MXN o $20-40 USD)(Aquí va nota: Es importante que la tarifa siempre este expresada en la moneda local y tenga la opción de un pago en moneda extranjera para asistentes provenientes de otros países)  alienta a aquellos que hicieron el registro a asistir al mismo- Software Carpentry (Aquí va nota: ‘Software and data carpentry’: iniciativas de comunidades de voluntarios investigadores, y educadores, quienes desarrollan lecciones y enseñan habilidades básicas de computación y datos para investigadores. Software Carpentry se enfoca en ayudar a los investigadores a desarrollar habilidades computacionales fundamentales; Data Carpentry se enfoca en ayudar a los investigadores a trabajar efectivamente con sus datos a través de su ciclo de vida.
 https://carpentries.github.io/instructor-training/01-welcome/index.html
 )  encontró que esto reduce la no asistencia de un tercio a cerca de 5% (Wilson, 2016). 
 
-If planning to charge a fee of any sort, it is good to clarify with your institution's finance team how best to handle this. In some cases, the amount of time/effort required to set such things up can outweigh the value of charging - particularly if it is only a nominal fee being charged. Your institution will likely have specific financial processes and budget codes that need to be used, so speak to them early on to see what the best approach is. This is true even when using external services such as Eventbrite (you'll need an institutional budget center to allow the income to come into your institution).
-
 Si tienes planeado cobrar una cuota de cualquier tipo, es buena idea esclarecer con tu equipo financiero quien es el más capacitado para manejar los recursos. En muchos casos la cantidad de tiempo/esfuerzo requerido para establecer tales cosas puede superar el valor de la carga- particularmente si solo se cobra una cuota. Tu institución probablemente tenga procesos específicos de financiamiento y códigos de presupuesto que se necesita utilizar, así que entabla comunicación con ellos y las áreas correspondientes desde el principio para ver cuál es la mejor estrategia. Incluso cuando se utilizan servicio externos cómo Eventbrite podrías necesitar al departamento de presupuesto institucional para permitir que los ingresos se incorporen a la institución. 
-
-If you do charge a fee, consider making a waiver available upon request for those unable to pay or creating scholarships. Scholarship allocation should be prioritized for groups that face the most barriers for self-funding.
 
 Si vas a cobrar una cuota de registro, considera hacer una exención bajo solicitud para aquellos que no pueden pagar o puedes utilizar recursos para ofrecer becas. La asignación de becas debe priorizar grupos que enfrentan más barreras para autofinanciarse.
 
 #### Financiamiento
 
-You can get funding from a few difference sources: the host institution, external sponsors like companies, budgeted funds on faculty/principal investigator’s grants, or through registration fees. Check if there are any internal sources for funding, or relevant local organizations who can sponsor your event. If you have found a potential partner, check the funding conditions. This could include advertising on your event website or at the event itself.
-
 Puedes obtener financiamiento de diferentes fuentes: la institución sede, patrocinadores externos cómo compañías, fondos presupuestados en subvenciones de la facultad/investigador principal, o a través de cuotas de registro. Revisa si hay algunas fuentes internas de financiamiento u organizaciones locales relevantes que pueden patrocinar tu evento. Si ya encontraste un patrocinador potencial, revisa las condiciones de financiamiento ya que esto podría incluir publicidad en el sitio web del evento o en el propio evento.
-
-Consider different levels of sponsorship (bronze, silver, gold) in case of bigger events. You might also want to look at other projects or programs to co-organize and  share costs with. 
 
 Considera diferentes niveles de patrocinadores (bronce, plata, oro) en caso de eventos grandes. Podrías incluso buscar otros proyectos o programas para coorganizar y compartir costos.
 
