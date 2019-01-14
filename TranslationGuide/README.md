@@ -112,6 +112,7 @@ Total de palabras del Manual: 43.243.
     <td>04-11</td>
     <td>Rosario Rogel</td>
     <td>Revisado por RR 12-Ene</td>
+    <td>Revisado por RM</td>
   </tr>
   <tr>
     <td>Open Licensing and File Formats</td>
@@ -119,8 +120,7 @@ Total de palabras del Manual: 43.243.
     <td>1.828</td>
     <td>04-11</td>
     <td>Rosario Rogel</td>
-    <td></td>
-    <td></td>
+    <td>Revisado por RM</td>
   </tr>
   <tr>
     <td>Collaborative Platforms</td>
@@ -128,9 +128,8 @@ Total de palabras del Manual: 43.243.
     <td>1.005</td>
     <td>04-11</td>
     <td>Rosario Rogel</td>
-    <td></td>
-    <td></td>
-  </tr>
+    <td>Revisado por RM</td>
+    </tr>
   <tr>
     <td>Open Peer Review, Metrics and Evaluation</td>
     <td>Ricardo Hartley</td>
