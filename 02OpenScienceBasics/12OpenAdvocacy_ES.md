@@ -28,11 +28,11 @@ La capacitación (talleres, seminarios, presentaciones) puede ser usada como her
 ### Componentes esenciales
 
 ## <img src="../Images/Icons/brain.png" width="150" height="150" />
-#### Conocimientos
+#### Conocimiento
 
 ##### Objectivos a lograr
 
-*SMART* es una forma de recordarte cuáles deben ser tus objetivos:
+*SMART* es un acrónimo que puede ayudar a recordar cuáles deben ser sus objetivos:
 
 **S**pecific (específico): con lo cual queremos decir que necesitas fijar un objetivo específico para tus programas.
 
@@ -52,7 +52,7 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 
 **Principales objetivos de un programa de apoyo a lo abierto:**
 
-- Incrementar la conciencia entre grupos influyentes y el público.
+- Incrementar la conciencia entre grupos influyentes y en el público.
 
 - Reducir el estigma y el miedo.
 
@@ -76,8 +76,8 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 
 4. Elabora tu mensaje, crea mensajes llamativos que atraigan a los intereses de los actores clave.
    1. Sé claro en lo que estás pidiendo.
-   2. Manten tu mensaje simple y enfocado.
-   3. Usa un lenguaje positivo. Usa evidencia, los hechos son más convincentes que la evidencia anecdótica.
+   2. Mantén tu mensaje simple y enfocado.
+   3. Usa un lenguaje positivo. Básalo en la evidencia, los hechos son más convincentes que la evidencia anecdótica.
    4. Los argumentos económicos son importantes.
 
 5. Planea y desarrolla tu comunicación y campaña de incidencia política.
@@ -135,7 +135,7 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 ## <img src="../Images/Icons/gears.png" width="150" height="150" />
 #### Habilidades
 
-* Escribe una carta a un boletín o un foro de tu comunidad académica acerca de la importancia del Acceso Abierto. 
+* Envíaun escrito a un boletín o un foro de tu comunidad académica acerca de la importancia del Acceso Abierto. 
 * Elabora tu propio modelo de respuesta acerca de sólo hacer revisión por pares para revistas científicas en acceso abierto, etc.
 * Reúsa (o recupera) los modelos que ya están disponibles.
 * Esboza soluciones y beneficios concretos que el Acceso Abierto puede traer para los ‘dolores de cabeza’ que sufren los administradores de tu universidad.
