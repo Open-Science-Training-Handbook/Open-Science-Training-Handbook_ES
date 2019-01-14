@@ -61,7 +61,7 @@ Elementos de licencia principales a considerar \(de la [Data Packaging Guide](ht
 
 La capacitación debe proporcionar una visión general de las políticas de propiedad intelectual en universidades e instituciones públicas de investigación. Es importante subrayar la necesidad de definir quién posee los derechos de autor o cualquier otro derecho relacionado de los resultados de la investigación. El titular de los derechos de autor es el que puede decidir levantar las restricciones si no se eliminan de forma predeterminada a través de las licencias. En cuanto a los resultados de la investigación, el titular de los derechos de autor puede ser un investigador, un editor, una sociedad científica, una institución de investigación, un financiador, etcétera.
 
-En el contexto de Ciencia Abierta, y para un archivamiento óptimo a largo plazo, los archivos no deben comprimirse y deben evitarse formatos de propietarios o con patente y optar por formatos abiertos basados en estándares documentados. Esto asegura el acceso y la reutilización del contenido. Solo los archivos sin cifrar deben publicarse y archivarse. Ejemplos de formatos de archivo abiertos son:
+En el contexto de Ciencia Abierta, y para un conservación óptima a largo plazo, los archivos no deben comprimirse y deben evitarse formatos de propietarios y optar por formatos abiertos basados en estándares documentados. Esto asegura el acceso y la reutilización del contenido. Solo deben archivarse y publicarse los archivos sin cifrar . Ejemplos de formatos de archivo abiertos son:
 
 * Texto: TXT, ODT, PDF/A, XML
 
@@ -75,18 +75,18 @@ En el contexto de Ciencia Abierta, y para un archivamiento óptimo a largo plazo
 
 * Datos jerárquicos binarios: HDF5
 
-Algunos formatos de archivo no se pueden convertir a formatos abiertos, pero aún así se archivan. A menudo son específicos de algún dispositivo, pero tienen una amplia comunidad de usuarios. Compruebe si el repositorio en el que desea depositar una publicación tiene una lista de formatos preferidos.
+Algunos formatos de ficheros no se pueden convertir a formatos abiertos, pero aún así se archivan. A menudo son específicos de algún dispositivo, pero tienen una amplia comunidad de usuarios. Compruebe si el repositorio en el que desea depositar una publicación tiene una lista de formatos preferidos.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Preguntas, obstáculos y conceptos erróneos comunes
 
-P: "¿Por qué debo usar la licencia CC-BY para mi contenido escrito / creativo?"
+P: "¿Por qué debo usar la licencia CC-BY para mi documetno u otra obra creativa?"
 
-R: La licencia CC-BY es la licencia más permisiva que también retiene algunos derechos para los creadores; el único requisito es que quien que use, modifique o distribuya los contenidos otorgue atribución al creador original. Otros atributos de las licencias Creative Commons incluyen No Derivados (ND), No Comercial (NC) y Compartir Igual (SA), que agregan restricciones adicionales que pueden limitar el uso potencial y el impacto de su trabajo. La prevención de derivados con ND limita en gran medida el impacto y el uso de su trabajo, ya que nadie más podrá crear a partir de lo que usted ha hecho. De manera similar, si bien muchos investigadores prefieren la limitación de NC para evitar que las compañías comercialicen o ganen dinero con su trabajo, definir estrictamente el uso comercial es un desafío. Además, la intención de gran parte de la investigación financiada con fondos públicos es llevar al desarrollo económico a través del uso comercial (ventual), el cual se evitaría con esta licencia. El uso de una licencia de SA permite su reutilización y distribución, pero requiere que los trabajos posteriores apliquen la misma licencia, limitando el uso y la combinación con otros trabajos.
+R: La licencia CC-BY es la licencia más permisiva que también retiene algunos derechos para los creadores; el único requisito es que quien que use, modifique o distribuya los contenidos otorgue atribución al creador original. Otros atributos de las licencias Creative Commons incluyen obras No Derivadas (ND), No Comercial (NC) y Compartir Igual (SA), que agregan restricciones adicionales que pueden limitar el uso potencial y el impacto de su trabajo. La prevención de derivados con ND limita en gran medida el impacto y el uso de su trabajo, ya que nadie más podrá crear a partir de lo que usted ha hecho. De manera similar, si bien muchos investigadores prefieren la limitación de NC para evitar que las compañías comercialicen o ganen dinero con su trabajo, definir estrictamente el uso comercial es un desafío. Además, la intención de gran parte de la investigación financiada con fondos públicos es llevar al desarrollo económico a través del uso comercial (eventual), el cual se evitaría con esta licencia. El uso de una licencia SA permite su reutilización y distribución, pero requiere que los trabajos posteriores apliquen la misma licencia, limitando el uso y la combinación con otros trabajos.
 
 Un temor común cuando se usa CC0 es que se elimina el requisito de atribución; sin embargo, los proponentes afirman que la atribución es un elemento clave en la buena práctica científica, independientemente del estado de copyright de las condiciones de la licencia del trabajo citado. Algunos repositorios que aplican CC0 mencionan explícitamente la atribución, véase el ejemplo de Dataverse: "Las Normas de nuestra comunidad, así como las buenas prácticas científicas, esperan que se otorgue el crédito adecuado a través de citas. Utilice la cita de datos anterior, generada por Dataverse".
 
-Obstáculo: los diferentes países tienen diferentes leyes de derechos de autor, que pueden limitar la capacidad de elegir cualquier licencia o dedicar el trabajo al dominio público. Por ejemplo, en Alemania y otros países europeos no es posible renunciar por completo a los derechos de autor, por lo que no es legalmente posible dedicar el trabajo al dominio público. En cambio, la licencia CC0 se puede usar como una licencia de dominio público "efectiva" que permite el uso sin restricciones.
+Obstáculos: los diferentes países tienen diferentes leyes de derechos de autor, que pueden limitar la capacidad de elegir cualquier licencia o dedicar el trabajo al dominio público. Por ejemplo, en Alemania y otros países europeos no es posible renunciar por completo a los derechos de autor, por lo que no es legalmente posible dedicar el trabajo al dominio público. En cambio, la licencia CC0 se puede usar como una licencia de dominio público "efectiva" que permite el uso sin restricciones.
 
 Interoperabilidad de las licencias: tenga en cuenta que a veces, cuando mezcla contenido con licencia de manera diferente, puede ser imposible liberar el trabajo derivado. Por ejemplo, el material distribuido con una licencia de SA solo se puede combinar con otro contenido con licencia de SA.
 
@@ -95,10 +95,9 @@ Sostenibilidad de las licencias: por ejemplo, las licencias CC no deben utilizar
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Resultados del aprendizaje
 
-1. Podrá usar los recursos existentes para elegir una licencia adecuada para trabajos de investigación escritos, en función de la libertad / limitación deseada para que otros usen o reutilicen.
+1. Podrá usar los recursos existentes para elegir una licencia adecuada para trabajos de investigación escritos, en función de los permisos  para que otros los usen o reutilicen.
 
-2. Podrá usar los recursos existentes para elegir una licencia adecuada para los datos, en función de la libertad / limitación deseada para que otros usen / reutilicen.
-
+2. Podrá usar los recursos existentes para elegir una licencia adecuada para los datos, en función de los permisos para que otros los usen o reutilicen
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Otras lecturas
 
