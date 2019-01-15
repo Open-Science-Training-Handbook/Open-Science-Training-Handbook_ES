@@ -4,11 +4,11 @@
 
 ### ¿En qué consiste?
 
-Reproducibilidad significa que los datos y el código de investigación están disponibles para que otros sean capaces de obtener los mismos resultados declarados en los productos científicos. Íntimamente relacionado está el concepto de replicabilidad, el acto de repetir una metodología científica con el objetivo de alcanzar conclusiones similares. Estos conceptos son elementos centrales de la investigación empírica.
+Reproducibilidad significa que los datos y el código de investigación están disponibles para que otros sean capaces de obtener los mismos resultados que se exponen en los trabajos publicados. Este concepto está íntimamente relacionado con el de replicabilidad, el acto de repetir una metodología científica con el objetivo de alcanzar conclusiones similares. Estos conceptos son elementos centrales de la investigación empírica.
 
-Mejorar la reproducibilidad conduce a aumentar el rigor y la calidad de los productos científicos y, por tanto, a una mayor confianza en la ciencia. Existe una creciente necesidad y deseo de exponer los flujos de trabajo de la investigación desde el comienzo de un proyecto y la recolección de datos hasta la interpretación y el reporte de los resultados. Estos desarrollos presentan desafíos propios, incluyendo el diseño de flujos de trabajo integrados que pueden ser adoptados por los colaboradores manteniendo altos estándares de integridad.
+Mejorar la reproducibilidad conduce a aumentar el rigor y la calidad de los trabajos científicos y, por tanto, a una mayor confianza en la ciencia. Existe una creciente necesidad y deseo de exponer los flujos de trabajo de la investigación desde el comienzo de un proyecto y la recolección de datos, hasta la interpretación y el informe  de los resultados. Estos desarrollos presentan desafíos propios, que incluyen el diseño de flujos de trabajo integrados que pueden ser adoptados por los colaboradores a la vez que se mantienen altos estándares de integridad.
 
-El concepto de reproducibilidad es directamente aplicado al método científico, la piegra angular de la ciencia, particularmente en los cinco pasos siguientes:
+El concepto de reproducibilidad se aplica directamente al método científico, la piedra angular de la ciencia, y particularmente a los siguientes cinco fases:
 
 1. Formulación de la hipótesis
 
@@ -18,17 +18,17 @@ El concepto de reproducibilidad es directamente aplicado al método científico,
 
 4. Análisis de datos
 
-5. Reporte del estudio
+5.Informe del estudio
 
-Cada uno de estos pasos debe ser claramente reportado proveyendo documentación clara y abierta, haciendo que el estudio sea transparente y reproducible.
+Cada uno de estos pasos debe estar informado con claridad,  con una  documentación clara y accesible, que faciltie la transparencia y la reproducibilidad del estudio.
 
 ![](/Images/02%20Open%20Science%20Basics/02_reproducible_research_data_analysis.png)
 
 ### Justificación
 
-Los factores generales pueden contribuir a las causas de no-reproducibilidad, pero también pueden impulsar la implementación de medidas específicas para abordar estas causas. La cultura y el ambiente en que se desarrolla la investigación son factores generales 'arriba-abajo' importantes. Desde una perspectiva 'abajo-arriba', la educación y capacitación continuas de los investigadores pueden crear conciencia y diseminar buenas prácticas.
+Los factores generales pueden contribuir a las causas de no-reproducibilidad, pero también pueden impulsar la implementación de medidas específicas para abordar dichas causas. La cultura y el ambiente en que se desarrolla la investigación son factores generales de  'arriba-abajo' importantes. Desde una perspectiva 'abajo-arriba', la educación y capacitación continuas de los investigadores pueden crear conciencia y diseminar buenas prácticas.
 
-Aunque entender el amplio rango de factores que contribuyen a la reproducibilidad es importante, también puede ser difícil desglosar estos factores en medidas que puedan ser adoptadas inmediatamente al interior de programas de investigación existentes para mejorar inmediatamente su reproducibilidad. Uno de los primeros pasos a seguir es evaluar el estado actual de las cosas y monitorear las mejoras a medida que toman decisiones para aumentar aún más la reproducibilidad. Algunos de los temas más comunes relacionados con la reproducibilidad de la investigación se muestran en la siguiente figura.
+Aunque entender el amplio rango de factores que contribuyen a la reproducibilidad es importante, también puede ser difícil desglosar estos factores en medidas que puedan ser adoptadas inmediatamente en programas de investigación ya existentes para mejorar inmediatamente su reproducibilidad. Uno de los primeros pasos a seguir es evaluar el estado actual de las cosas y monitorear las mejoras a medida que toman decisiones para aumentar aún más la reproducibilidad. Algunos de los temas más comunes relacionados con la reproducibilidad de la investigación se muestran en la siguiente figura.
 
 ![](/Images/image_2.png)
 
@@ -36,13 +36,9 @@ Fuente: [Reproducibilidad y confiabilidad de la investigación biomédica: mejor
 
 Goodman, Fanelli, & Ioannidis \(2016\) mencionan que en epidemiología, biología computacional, economía y ensayos clínicos, la reproducibilidad comúnmente se define como:
 
-_la habilidad de un investigador de duplicar los resultados de un estudio previo utilizando los mismos materiales que fueron utilizados por el investigador original. Esto es, un segundo investigador puede utilizar los mismos datos primarios para construir los mismos archivos de análisis e implementar el mismo análisis estadístico en un intento de alcanzar los mismos resultados._
+_la habilidad de un investigador de duplicar los resultados de un estudio previo utilizando los mismos materiales que fueron utilizados por el investigador original. Esto es, un segundo investigador puede utilizar los mismos datos primarios para generar los mismos archivos resutlado de su análisis e implementar el mismo análisis estadístico en un intento de alcanzar los mismos resultados._
 
-Se distingue de la replicabilidad:
-
-_que se refiere a la habilidad de un investigador para duplicar los resultados de un estudio previo si se siguen los mismos procedimientos pero recolectando datos nuevos._
-
-Una manera más simple de pensar en esto es que la reproducibilidad está orientada a los métodos, mientras que la replicabilidad está orientada a los resultados.
+Esto es distinto de  la replicabilidad: "que se refiere a la habilidad de un investigador para duplicar los resultados de un estudio previo si se siguen los mismos procedimientos pero recolectando datos nuevos". Una manera simple de distinguir un concepto de otro,  es orientar  la  reproducibilidad  a los métodos, mientras que la replicabilidad está orientada a los resultados.
 
 La reproducibilidad puede ser evaluada en varios niveles diferentes: al nivel de un proyecto individual \(por ej., un artículo, un experimento, un método o un set de datos\), un investigador individual, un laboratorio o grupo de investigación, una institución o incluso un campo de investigaciones. Para estos niveles diferentes podrían aplicarse tipos de criterios y puntos de evaluación levemente diferentes. Por ejemplo, una institución apoya las prácticas de reproducibilidad si instituye políticas que recompensan a los investigadores que desarrollan investigaciones de modo reproducible. Por otro lado, se puede considerar que un campo de investigaciones posee un mayor nivel de reproducibilidad si desarrolla recursos que promueven y permiten prácticas de investigación reproducible mantenidos por la comunidad, como repositorios de datos o estándares comunes para el intercambio de datos.
 
