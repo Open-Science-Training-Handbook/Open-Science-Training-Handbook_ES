@@ -1,4 +1,4 @@
-## <img src="/Images/Icons/open_access.png" width="200" height="200" />
+## <img src="../Images/Icons/open_access.png" width="200" height="200" />
 ## 5. Acceso abierto a los resultados de investigación publicados 
 
 ### ¿Qué es?
@@ -21,7 +21,7 @@ El auge de muchos modelos de negocios en torno a las revistas de acceso abierto 
 
 Con respecto al autoarchivo, los investigadores están confundidos por los diferentes requisitos establecidos por los editores en relación con la versión de un documento que pueden depositar en un repositorio y cuándo esta versión puede estar disponible para el público. Esta demora en permitir el acceso público al texto completo a menudo se denomina período de embargo y no es uniforme para todas las revistas. Las instituciones que proporcionan un repositorio para sus investigadores deben facilitar las prácticas de autoarchivo analizando todos los requisitos de los editores.
 
-## <img src="/Images/Icons/finish.png" width="150" height="150" />
+## <img src="../Images/Icons/finish.png" width="150" height="150" />
 ### Objetivos de aprendizaje
 
 1. Conocer las diferentes opciones que tiene un investigador para decidir dónde publicar un documento, incluidos los requisitos de los financiadores.
@@ -38,7 +38,7 @@ Con respecto al autoarchivo, los investigadores están confundidos por los difer
 
 ### Componentes clave
 
-## <img src="/Images/Icons/brain.png" width="150" height="150" />
+## <img src="../Images/Icons/brain.png" width="150" height="150" />
 #### Conocimiento
 
 **Repositorios y autoarchivo**
