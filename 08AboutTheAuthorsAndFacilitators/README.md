@@ -282,7 +282,7 @@ Revisor de la traducción al español
 
 Es Magister en Psicología Cognitiva y Aprendizaje (UAM) y Profesor en Psicología (UNLP, Argentina). Trabaja en la Facultad de Psicología (UAM) con un contrato FPU del Ministerio de Educación de España para realizar la investigación “_El desarrollo de los primeros conceptos de objeto en la Escuela Infantil 0-1_”. Tiene experiencia en la traducción inglés-español de textos académicos y en la edición académica tanto de libros y documentos de trabajo como de revistas científicas de Acceso Abierto (i.e. [Revista de Psicología UNLP](https://revistas.unlp.edu.ar/revpsi); [Epistemus, Revista de Estudios en Música, Cognición y Cultura](https://revistas.unlp.edu.ar/Epistemus)). Recientemente ha sido ganador de la _OpenUP Blog Competition for Early Career Researchers and Students_ por su ensayo breve [_Open Science, bureaucratisation and learning curves: some practical ideas_](https://www.openuphub.eu/community/blog/item/open-science-bureaucratisation-and-learning-curves-some-practical-ideas). Anteriormente, en Argentina, ha sido investigador de la UNLP y del CONICET en diferentes institutos y laboratorios (IIF-SADAF, LIPPSI-UNLP, y LEEM-UNLP).
 
-### Rosario Rogel – [rosariorogel@gmail.com](mailto:rosariorogel@gmail.com)
+### Rosario Rogel – [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx)
 * Universidad Autónoma del Estado de México, México
 * [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx )
 * [@rosariorogel](https://twitter.com/rosariorogel)
