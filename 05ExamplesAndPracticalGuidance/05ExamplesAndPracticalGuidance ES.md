@@ -57,8 +57,6 @@ Varias universidades de Europa organizan escuelas de verano de una semana sobre 
 [LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, descripción, objetivos de aprendizaje) 
 
 
-
-
 ![image alt text](/Images/image_6.png)
 
 *Programa del curso Summer School Open Science and Scholarship, Utrecht University 2017*
