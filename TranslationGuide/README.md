@@ -190,7 +190,7 @@ Total de palabras del Manual: 43.243.
     <td>4.095</td>
     <td>26-10</td>
     <td>Rosario Rogel</td>
-    <td></td>
+    <td>Revisado por RRS 16 Ene</td>
     <td></td>
   </tr>
   <tr>
