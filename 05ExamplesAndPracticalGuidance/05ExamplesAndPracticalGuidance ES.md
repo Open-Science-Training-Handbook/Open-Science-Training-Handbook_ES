@@ -56,8 +56,7 @@ Varias universidades de Europa organizan escuelas de verano de una semana sobre 
 
 [LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, descripción, objetivos de aprendizaje) 
 
-
-![image alt text](/Images/image_6.png)
+![image_6 ES](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_6 ES.png)
 
 *Programa del curso Summer School Open Science and Scholarship, Utrecht University 2017*
 
@@ -370,14 +369,14 @@ Plataformas Colaborativas</td>
     * Posterior a ello, los participantes podran incluir otros post-its similares en el documento conjunto.
     * Discute los resultados con todo el grupo. Asegúrate que cuando las personas vean las marcas, se den cuenta que ésa puede ser una gran oportunidad para aprender de los otros participantes.
 
-![image alt text](/Images/image_7.png)
+![image_7 ES](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_7 ES.png)
 
 * Materiales y herramientas:
 
     * Impresión del [ciclo de investigación con actividades:](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0) una copia para cada participante y una para el equipo.
     * Post-its en dos colores.
 
-![image alt text](/Images/image_8.png)
+![image_8 ES](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_8 ES.png)
 
 * Nivel de conocimiento previo:
 
@@ -413,24 +412,36 @@ Plataformas Colaborativas</td>
 * Descripción del ejercicio:
 
     * Previo al ejercicio, clasifica las tarjetas de acuerdo con la fase de investigación/actividad y extiéndelas por el salón (por ejemplo, en las mesas o en un área amplia sobre el piso).
+
     * Marca una sección grande de una pared (también se pueden usar ventanas o tableros) con las diferentes fases del ciclo de investigación (por ejemplo, preparación, descubrimiento, análisis, redacción, publicación, divulgación, evaluación).
+
     * Pide a los participantes que seleccionen prácticas que sean realmente importantes para la Ciencia Abierta, y pide que las cuelguen en la pared, agrupadas por fase de investigación.
+
     * Motiva a las personas a agregar prácticas de investigación que no están incluidas en las tarjetas
+
     * Divide a los participantes en siete grupos.
+
     * Cada grupo examinará las prácticas seleccionadas para una fase de investigación y, de entre ellas, elegirán las dos que consideren *más factibles de implementar y más efectivas para una investigación más abierta*. También puedes mover dichas cartas hacia arriba en la pared, o quitar las otras.
+
     * Cada grupo explicará su elección a todos los participantes.
+
     * Juntas, las prácticas de investigación seleccionadas, pueden formar parte de un proyecto de flujo de trabajo de Ciencia Abierta.
+
     * Como complemento del ejercicio, los participantes pueden discutir posibles pasos para implementar estas prácticas:
-    * 1. ¿Qué herramientas/plataformas se pueden utilizar?
-        2. ¿Qué posibles recompensas y barreras habría?
-        3. ¿Qué apoyos son necesarios?
-        4. ¿Qué cambios de política se necesitarían?
 
-![image alt text](/Images/image_9.png)
+      a. ¿Qué herramientas/plataformas se pueden utilizar?
 
-![image alt text](/Images/image_10.png)
+      b. ¿Qué posibles recompensas y barreras habría?
 
-![image alt text](/Images/image_11.png)
+      c. ¿Qué apoyos son necesarios?
+
+      d. ¿Qué cambios de política se necesitarían?
+
+![image_9](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_9.png)
+
+![image_10 ES](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_10 ES.png)
+
+![image_11](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_11.png)
 
 * Materiales y herramientas:
 
@@ -466,32 +477,47 @@ Plataformas Colaborativas</td>
     * Confronta tus experiencias y opiniones acerca de la Ciencia Abierta, con las perspectivas de los
       demás. 
 
-![image alt text](/Images/image_12.png)
+![image_12 ES](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_12 ES.png)
 
 * Descripción del ejercicio:
 
     * Divide a los participantes en grupos de cuatro o cinco, y distribuye temas de discusión (por ejemplo, impresos o en papel).
+
     * Has que los grupos discutan los temas desde las propias perspectivas de los participantes
+
     * (Opcional) Invita a cada equipo a que resuma los puntos más importantes que surgieron en todo el grupo.
+
     * Sugerencias para temas de discusión: 
 
+        e. “Trabajar Ciencia Abierta de tal manera que la investigación sea más divertida”.
 
-        1. “Trabajar Ciencia Abierta de tal manera que la investigación sea más divertida”.
-        2. “Seleccionar es un problema real y tangible que hace que la Ciencia Abierta sea una elección difícil”.
-        3. “Los APCs (cargos por procesamiento de artículos) son el principal obstáculo para publicar más en Acceso Abierto”.
-        4. “Necesitamos apoyo más explícito para la Ciencia Abierta de parte de los financiadores y del gobierno”.
-        5. “Participar en revisión por pares abierta es problemático para los jóvenes investigadores que quieren hacer una carrera”.
-        6. “Debemos tomar con mayor seriedad a los científicos ciudadanos, y no solo verlos como proveedores de datos”.
-        7. “El Factor de Impacto es un síntoma y no la causa de la competencia feroz por publicar”
-        8. “No hay absolutamente ninguna razón para no difundir un documento vía preprint, tan pronto como esté listo”.
-        9. “Solo compartir nuestros datos está bien, pero para acelerar la ciencia necesitamos también trabajar en la interoperabilidad y la reusabilidad de esos datos”.
-        10. “Compartir ideas y proyectos a través de ResearchGate es un buen medio de divulgación para nuestra investigación”.
-        11. “Las demandas de nuestros PIs son, probablemente, la principal razón por la cual los investigadores jóvenes no se involucran más en Ciencia Abierta”.
-        12. “Deberíamos esforzarnos por crear una especie de ‘patrimonio común’ donde compartamos todos nuestros resultados/objetivos de investigación, para fomentar la colaboración y la reutilización”
+        f. “Seleccionar es un problema real y tangible que hace que la Ciencia Abierta sea una elección difícil”.
+
+        g. “Los APCs (cargos por procesamiento de artículos) son el principal obstáculo para publicar más en Acceso Abierto”.
+
+        h. “Necesitamos apoyo más explícito para la Ciencia Abierta de parte de los financiadores y del gobierno”.
+
+        i. “Participar en revisión por pares abierta es problemático para los jóvenes investigadores que quieren hacer una carrera”.
+
+        j. “Debemos tomar con mayor seriedad a los científicos ciudadanos, y no solo verlos como proveedores de datos”.
+
+        k. “El Factor de Impacto es un síntoma y no la causa de la competencia feroz por publicar”
+
+        l. “No hay absolutamente ninguna razón para no difundir un documento vía preprint, tan pronto como esté listo”.
+
+        m. “Solo compartir nuestros datos está bien, pero para acelerar la ciencia necesitamos también trabajar en la interoperabilidad y la reusabilidad de esos datos”.
+
+        n. “Compartir ideas y proyectos a través de ResearchGate es un buen medio de divulgación para nuestra investigación”.
+
+        o. “Las demandas de nuestros PIs son, probablemente, la principal razón por la cual los investigadores jóvenes no se involucran más en Ciencia Abierta”.
+
+        p. “Deberíamos esforzarnos por crear una especie de ‘patrimonio común’ donde compartamos todos nuestros resultados/objetivos de investigación, para fomentar la colaboración y la reutilización”
+
 * Materiales y herramientas:
 
     * Impresiones de temas de discusión.
 * Nivel de conocimiento previo:
+
     * Cierta familiaridad con el sistema de investigación.
 * Elementos para tener en cuenta:
 
@@ -1050,7 +1076,7 @@ Plataformas Colaborativas</td>
     * A continuación, discuten uno de los aspectos de la revisión por pares abierta desde la perspectiva del papel que le correspondió a cada uno. ¿Cuáles son los beneficios y los posibles inconvenientes?
     * Posteriormente los grupos pequeños informan a todo el grupo, y se discuten perspectivas/puntos de vista adicionales. 
 
-![image alt text](/Images/image_13.png)
+![image_13 ES](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_13 ES.png)
 
 * Materiales y herramientas:
 
@@ -1058,7 +1084,7 @@ Plataformas Colaborativas</td>
       participante y otra por equipo (está disponible una [presentación con diapositivas animadas](https://doi.org/10.6084/m9.figshare.4210254))
     * Monedas de baja denominación.
 
-![image alt text](/Images/image_14.png)
+![image_14 ES](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_14 ES.png)
 
 * Nivel de concocimiento previo:
 
@@ -1100,7 +1126,7 @@ Plataformas Colaborativas</td>
         a. ¿Para los investigadores individuales la Ciencia Abierta tiene más costos o beneficios? 
         b. ¿Debería la Ciencia Abierta organizarse de abajo hacia arriba, o de arriba hacia abajo?
 
-![image alt text](/Images/image_15.png)
+![image_15 ES](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_15 ES.png)
 
 * Materiales y herramientas:
 
@@ -1214,8 +1240,7 @@ Listado de algunos recursos de herramientas y plataformas de investigación:
 * [400+ Tools and innovations in scholarly communication](http://bit.ly/innoscholcomm-list) (todas las disciplinas)
 * [Tool combinations](https://tinyurl.com/toolcombinations-cb) (¿qué herramientas se usan juntas generalmente?) [amigable para daltónicos]
 
-![image alt text](/Images/image_16.png)
-Figura x – Arcoíris de prácticas de Ciencia Abierta (disponible en Zenodo en diferentes formatos, se incluye como diapositiva editable:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
+![image_16 ES](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_16 ES.png)Figura x – Arcoíris de prácticas de Ciencia Abierta (disponible en Zenodo en diferentes formatos, se incluye como diapositiva editable:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
 
 #### Otros recursos (aún sin evaluar)
 
@@ -1243,7 +1268,7 @@ PF - 1 Mapas mentales y conceptuales
 
 Es posible conceptualizar temas de mayor complejidad, gracias a los recientes desarrollos de visualizaciones. Se puede generar mucho entusiasmo con herramientas simples de código abierto, tanto individual como colectivamente. El título general de este conjunto de técnicas es “mapa de ideas” y “mapa conceptual”. Un software relativamente simple como [X-Mind](http://www.xmind.net/) es una buena base para comenzar. 
 
-![image alt text](/Images/image_17.png)
+![image_17 ES](/Users/rosariorogel/Documents/GitHub/Open-Science-Training-Handbook_ES/Images/image_17 ES.png)
 
 Figura X Ejemplo de un mapa de ideas para representar el contenido en un curso de capacitación.
 
