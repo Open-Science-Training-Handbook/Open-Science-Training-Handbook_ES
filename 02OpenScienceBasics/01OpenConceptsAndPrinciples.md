@@ -21,7 +21,7 @@ Pontika et al. \(2015\)
 
 * **Escuela de infraestructura:** Esta concepción viene apoyada por el hecho de que una investigación eficiente requiere plataformas, herramientas y servicios fácilmente disponibles para la difusión y la colaboración.
 
-* **Escuela pública: ** Se basan en el reconocimiento de que el verdadero impacto social requiere un compromiso social en la investigación y una comunicación de resultados científicos fácilmente comprensible, esta escuela busca atraer al público a colaborar en la investigación a través de la Ciencia Ciudadana, y buscan hacer que los estudios sean más fáciles de entender a través de resúmenes laicos, blogs y otros métodos comunicativos menos formales.
+* **Escuela pública: ** Se basan en el reconocimiento de que el verdadero impacto social requiere un compromiso social en la investigación y una comunicación de resultados científicos fácilmente comprensible, esta escuela busca atraer al público a colaborar en la investigación a través de la Ciencia Ciudadana, y buscan hacer que los estudios sean más fáciles de entender a través de resúmenes informativos, blogs y otros métodos comunicativos menos formales.
 
 * **Escuela de la métrica:** Motivado por el reconocimiento de que las métricas tradicionales para medir el impacto científico han demostrado ser problemáticas (al centrarse demasiado en las publicaciones, a menudo solo a nivel de revista, por ejemplo), los prootores de esta escuela buscan "alternativas métricas" que puedan hacer uso de las nuevas posibilidades de las herramientas digitalizadas en red para rastrear y medir el impacto académico a través de actividades antes invisibles.
 
