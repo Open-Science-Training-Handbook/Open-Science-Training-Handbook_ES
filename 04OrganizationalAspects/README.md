@@ -2,13 +2,13 @@
 ## Aspectos relativos a la organización
 
 
-Este capítulo te guiara a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Está claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al evento. Así mismo obtendrás información sobre los pasos de preparación y las tareas organizativas necesarias. Esto te proveerá no solamente con conocimiento valioso acerca de la organización de un evento si no que te tranquilizará mientras preparas la capacitación. Notarás que la mayoría del material en este capítulo, y de todo el manual, está enfocado en la capacitación con respecto a talleres prácticos. Gestionar un evento de diferente tipo puede requerir decisiones diferentes a las recomendaciones siguientes.
+Este capítulo te guiara a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Está claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al evento. Así mismo, obtendrás información sobre los pasos a seguir para su preparación y las tareas organizativas necesarias. Este capítulo no solo te facilitará un  conocimiento valioso acerca de la organización de un evento sino que dará traquilidad mientras preparas la capacitación. Notarás que la mayoría del material en este capítulo, y de todo el manual, está enfocado en la capacitación con respecto a talleres prácticos. Gestionar un evento de otro yipo puede requerir decisiones diferentes a las siguientes recomendaciones.
 
 ## Fundamentos del evento de capacitación
 
 ### Formato
 
-Decidir que tipo de evento esperas coordinar es el primer paso crítico en ejercicios de capacitación. Aquí hay varios puntos para tomar en consideración:
+Decidir que tipo de evento esperas coordinar es el primer paso crítico en los ejercicios de capacitación. Aquí hay varios puntos para tener en consideración:
 
 * Formato de la capacitación: ¿será un taller práctico presencial, seminario, conferencia, capacitación en línea o mezcla en línea y presencial (mixto)?
 
@@ -119,14 +119,14 @@ Para facilitarte una orientación inicial acerca de los posibles tipos de capaci
     <td></td>
   </tr>
   <tr>
-    <td> Menos de ½ día</td>
+    <td> Menos de medio día</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>½ - 1 día</td>
+    <td> DE medio a un  día</td>
     <td>x</td>
     <td></td>
     <td></td>
@@ -197,9 +197,9 @@ Para facilitarte una orientación inicial acerca de los posibles tipos de capaci
 Antes de comprometerte con el evento debes estar seguro de que tienes bien definida tu [audiencia objetivo](/03OnLearningAndTraining/#target-audience) y que eres consciente de sus necesidades. Considera el tamaño de tu audiencia y el número o área de competencia de los instructores. 
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
-#### Cooperando con otros
+#### Cooperación
 
-Algunas  formas de capacitación requieren más de un instructor, procura tener apoyo de colegas o unidades de servicio en tu institución. Identifica el apoyo institucional (ej. Financiamiento, espacio (s), tiempo de trabajo) y ponte en contacto con los responsables de diferentes áreas para preguntar por los posibles apoyos -por ejemplo, podrías preguntar por ayuda con el registro o contactar con el servicio de imprenta o el departamento de comunicación con respecto a la publicidad del evento. Asegúrate que todos los voluntarios están suficientemente informados de todas las actividades y conocen los objetivos y aspectos prácticos del evento. Hazlos conscientes de la importancia de fomentar la participación de los asistentes. Incluso podrías relegar algunas tareas a alguna empresa, esto si el presupuesto lo permite.
+Algunas  formas de capacitación requieren más de un instructor, procura tener apoyo de colegas o unidades de servicio en tu institución. Identifica el apoyo institucional (ej. Financiamiento, espacio (s), tiempo de trabajo) y ponte en contacto con los responsables de diferentes áreas para preguntar por los posibles apoyos -por ejemplo, podrías pedir ayuda para las inscripciones o contactar con el servicio de publicaciones o el departamento de comunicación con respecto a la publicidad del evento. Asegúrate que todos los voluntarios están suficientemente informados de todas las actividades y conocen los objetivos y aspectos prácticos del evento. Deben ser conscientes de la importancia de fomentar la participación de los asistentes. Incluso podrías relegar algunas tareas en alguna empresa, esto si el presupuesto lo permite.
 
 Considera colaborar con otros departamentos de tu institución u otras instituciones locales para combinar recursos e incrementar el impacto/colaboración con otros proyectos o programas. Estos son los puntos principales para trabajar antes de comprometerse o anunciar algún evento. Resolver esto ayudará a que la capacitación se desarrolle sin problemas para ti y los participantes. Adicionalmente, considera integrar la capacitación a una conferencia reconocida o un evento local/internacional.
 
