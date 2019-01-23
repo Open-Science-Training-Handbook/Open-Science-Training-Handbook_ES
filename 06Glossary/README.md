@@ -25,6 +25,12 @@
 * El grupo al que se dirige una comunicación (por ejemplo, los que asisten a una formaciónm de Ciencia Abierta). El público objetivo es el grupo de personas al que se dirige dicha formación.
 
 
+**Capacitación** / 
+**Training**
+
+* Capacitación es cualquier actividad organizada que enseña, informa o transfiere habilidades o conocimientos sobre competencias específicas útiles mediante el aprendizaje activo y comprometido.
+
+
 **Ciencia Abierta** / 
 **Open Science**
 
@@ -71,6 +77,12 @@
 **Constructivism**
 
 * En sentido estricto el constructivismo se refiere a que el mundo no es como es. En cambio, el mundo es principalmente el producto de nuestras experiencias y mentes individuales. En el contexto de la enseñanza y el aprendizaje, esto significa que los propios alumnos crean su propio camino de aprendizaje. Por lo tanto, la atención se centra en la creatividad del alumno, y la evaluación del progreso no se basa en la diferenciación entre lo correcto y lo incorrecto.
+
+
+**Control de versión** / 
+**Version Control**
+
+* El control de versión es la gestión de cambios en documentos, programas de ordenador, sitios web grandes y otras recopilaciones de información de manera lógica y persistente, permitiendo tanto cambios de seguimiento como la capacidad de revertir una parte de información a una revisión previa.
 
 
 **Copyright**
@@ -142,6 +154,12 @@
 * Formatos no propietarios que siguen estándares internacionales documentados, y que son comúnmente utilizados por la comunidad de investigación, utilizan la codificación de caracteres estándar (por ejemplo, ASCII, UTF-8), y la compresión, si se usa, no ocasiona pérdidas.
 
 
+**Formato de capacitación** / 
+**Training Format**
+
+* Un método estandarizado y con un nombre convencional que aplica un formador e incluye cualquier tipo de herramientas pedagógicas necesarias (es decir, motivación / desmotivación, enfoques prácticos, etc.).
+
+
 **Gamificación** / 
 **Gamification**
 
@@ -169,6 +187,12 @@
 **Research Impact**
 
 * Involucra aspectos académicos, económicos y sociales, o una combinación de los tres. El impacto es la contribución demostrable de la investigación para cambiar la comprensión y el avance científico, el método, la teoría y la aplicación entre y a través disciplinas, y el papel más amplio que desempeña fuera del sistema de investigación.
+
+
+**Instructor** / 
+**Trainer**
+
+*	El moderador e instructor de una formación, cuya función es garantizar que se cumplan los objetivos de dicha formación, llevar a cabo las prácticas y asegurar que nadie sea excluido.
 
 
 **Investigación reproducible** / 
@@ -218,67 +242,41 @@
 * Un término legal que se refiere a las creaciones de la mente. Como ejemplos de propiedad intelectual están la música, literatura, pintura, escultura, video y otras obras artísticas; descubrimientos e invenciones; así como frases, símbolos y diseños.
 
 
-**Subscripción**
-**Subscription**
-
-* Una forma de modelo comercial mediante el cual se paga un importe para obtener acceso a un producto o servicio, en este caso, los resultados de la investigación académica.
-
-* A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research.
-
-**Formador**
-**Trainer**
-
-*	El moderador e instructor de una formación, cuya función es garantizar que se cumplan los objetivos de dicha formación, llevar a cabo las prácticas y asegurar que no quede nadie excluido.
-
-* The moderator and instructor of a training, whose role is to ensure the training objectives are met, run the practice, and ensure no one is left out.
-
-**Formación**
-**Training**
-
-* Formación es cualquier actividad organizada que enseña, informa o transfiere habilidades o conocimientos sobre competencias específicas útiles mediante el aprendizaje activo y comprometido.
-
-* Training is any organised activity that teaches, informs, or transfers skills or knowledge on specific useful competencies through active, engaged learning. 
-
-**Formato de formación**
-**Training Format**
-
-* Un método estandarizado y con un nombre convencional que aplica un formador e incluye cualquier tipo de herramientas pedagógicas necesarias (es decir, motivación / desmotivación, enfoques prácticos, etc.).
-
-* A conventionally named, standardised delivery method that is applied by a trainer and includes any number of the pedagogical tools necessary (i.e. motivation/demotivation, hands-on approaches, etc).
-
-**Control de versión**
-**Version Control**
-
-* El control de versión es la gestión de cambios en documentos, programas de ordenador, sitios web grandes y otras recopilaciones de información de manera lógica y persistente, permitiendo tanto cambios de seguimiento como la capacidad de revertir una parte de información a una revisión previa.
-
-* Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
-
 **Repositorio** / 
 **Repository**
 
 * Un repositorio se define como la infraestructura y el servicio que permiten el almacenamiento persistente, eficiente y sostenible de objetos digitales (como documentos, datos y códigos).
+
 
 **Revisión por pares** / 
 **Peer Review**
 
 *	Un proceso mediante el cual un artículo de investigación es examinado por expertos de la comunidad antes de su publicación.
 
+
 **Revisión por pares en abierto** / 
 **Open Peer Review**
 
 *	Un término general que se refiere a una serie de formas superpuestas en que los modelos de revisión por pares se pueden adaptar de acuerdo con los objetivos de la ciencia abierta, que incluyen la apertura de identidades de revisores y autores, la publicación de informes de revisión y la habilitación de una mayor participación en el proceso de revisión por pares.
+
 
 **Revista**
 **Journal**
 
 * Publicación seriada que incluye artículos de investigación. Historicamente se divide en volúmenes y números.
 
-* A series of published research articles. Historically divided into volumes and issues.
 
 **Sesgos en la publicación** / 
 **Reporting Bias**
 
 * Se habla de sesgos en la publicación cuando ciertos aspectos de un estudio no se reportan de manera transparente, lo que genera desperdicio y redundancia a través de informes selectivos o no publicados.
+
+
+**Subscripción** / 
+**Subscription**
+
+* Una forma de modelo comercial mediante el cual se paga un importe para obtener acceso a un producto o servicio, en este caso, los resultados de la investigación académica.
+
 
 ## Additional Resources
 
