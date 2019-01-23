@@ -13,12 +13,25 @@
 
 * Las altmétricas o métricas alternativas son nuevas formas de evaluar el uso y el impacto de la actividad científica y la investigación. En lugar de limitarse a medir el número de veces que un documento ha sido citado en la literatura académica, las métricas alternativas también consideran y analizan otros aspectos como el impacto en medios de comunicación sociales -también denominados medios sociales- (como Facebook, Twitter, blogs, wikis, etc.), las descargas, los enlaces a investigación publicada o no publicada, así como otros usos de la investigación, para proporcionar así una medida más completa del alcance y el impacto de la producción científica.   
 
+**Archivo README** / 
+**README file**
+
+* Archivo en el que se documentan aspectos relativos a los datos de investigación. La documentación debe ser suficiente para que otros investigadores puedan comprender.
 
 **Audiencia** / 
 **Audience**
 
 * El grupo al que se dirige una comunicación (por ejemplo, los que asisten a una formaciónm de Ciencia Abierta). El público objetivo es el grupo de personas al que se dirige dicha formación.
 
+**Ciencia Abierta** / 
+**Open Science**
+
+* Ciencia Abierta es el movimiento que hace que la investigación científica, los datos y la difusión sean accesibles a todos los niveles de la sociedad.
+
+**Código abierto** / 
+**Open Source**
+
+* Disponibilidad del código fuente de un software, que va acompañado de una licencia de código abierto que permite su reutilización, adaptación y distribución adicional.
 
 **Conductismo (Teoría del aprendizaje)** / 
 **Behaviorism (Learning Theory)**
@@ -92,6 +105,11 @@
 
 * Una medida numérica que indica el promedio de citas que reciben en un año los artículos publicados en una revista en los últimos dos años. Con frecuencia se utiliza como un indicador de la importancia relativa de una revista. Su transferencia al impacto de artículos individuales publicados en una revista se considera problemática.
 
+**Formato de archivo persistente/preferido** / 
+**Persistent/Preferred File Formats**
+
+* Formatos no propietarios que siguen estándares internacionales documentados, y que son comúnmente utilizados por la comunidad de investigación, utilizan la codificación de caracteres estándar (por ejemplo, ASCII, UTF-8), y la compresión, si se usa, no ocasiona pérdidas.
+
 **Gamificación** / 
 **Gamification**
 
@@ -102,9 +120,26 @@
 
 * La GDPR, por sus siglas en inglés (General Data Protection Regulation), o RGPD por sus siglas en español (Reglamento General de Protección de Datos) tiene por objetivo la creación de un marco armonizado para legislar la protección de datos en toda la Unión Europea (UE). Su objetivo es restituir el control de los datos personales a los ciudadanos, a la vez que impone reglas estrictas sobre el alojamiento y procesamiento de estos datos en cualquier parte del mundo. El Reglamento también introduce normas relativas a la libre circulación de datos personales dentro y fuera de la UE.
 
+**Identificador persistente (PID)** / 
+**Persistent Identifier (PID)**
+
+* Un identificador persistente (también PID) es una denominación única y estable (referencia) de un recurso digital (por ejemplo, datos de investigación) mediante la asignación de un código al que se puede hacer referencia de forma persistente y explícita en Internet.
+
 **Identificador de Objeto Digital (DOI por sus sigla en inglés Digital Object Identifier)**
 
 * Una cadena de texto única que se utiliza para identificar objetos digitales como artículos de revistas, conjuntos de datos o versiones de software de código abierto. Un DOI es un tipo de identificador persistente (PID).
+
+**Impacto de la investigación** / 
+**Research Impact**
+
+* Involucra aspectos académicos, económicos y sociales, o una combinación de los tres. El impacto es la contribución demostrable de la investigación para cambiar la comprensión y el avance científico, el método, la teoría y la aplicación entre y a través disciplinas, y el papel más amplio que desempeña fuera del sistema de investigación.
+
+
+**Investigación reproducible** / 
+**Reproducible Research**
+
+* La reproducibilidad es un gama de aspectos en la que cada formador deberá elegir la definición más utilizada por su audiencia. En términos generales, una investigación reproducible permite obtener resultados similares a los de un estudio o experimento y resultados independientes obtenidos con los mismos métodos pero en diferentes condiciones (es decir, relacionadas con los resultados). Algunos diferencian la definición en niveles de reproducibilidad, incluyendo la reproducibilidad computacional (también denominada "reproducible"): en la que el código y los datos pueden analizarse de manera similar a la investigación original para lograr los mismos resultados, y la empíricamente reproducible (también denominada "replicable”): en la que un investigador independiente puede repetir un estudio utilizando los mismos métodos pero creando nuevos datos.
+
 
 **Licencia** / 
 **Licence**
@@ -126,96 +161,26 @@
 
 * Proceso analítico diseñado para explorar datos en busca de patrones consistentes o relaciones sistemáticas entre variables, transformando datos en información para uso futuro.
 
+**Preprint (manuscrito previo a la revisión por pares)**
+
+* Un manuscrito que aún no ha sido sometido a una revisión formal por pares, distribuido para recibir comentarios previos a la publicación por parte de otros investigadores.
+
+
+**Prerregistro** / 
+**Preregistration**
+
+* Los investigadores tienen la opción o están obligados a enviar información importante sobre su estudio (por ejemplo: motivos para una investigación, hipótesis, diseño y estrategia analítica) a un registro público antes de comenzar el estudio. EL prerregistro puede ayudar a contrarrestar sesgos.
+
+
 **Propiedad intelectual** / 
 **Intellectual Property**
 
 * Un término legal que se refiere a las creaciones de la mente. Como ejemplos de propiedad intelectual están la música, literatura, pintura, escultura, video y otras obras artísticas; descubrimientos e invenciones; así como frases, símbolos y diseños.
 
 
-**Ciencia abierta**
-**Open Science**
-
-* Ciencia abierta es el movimiento que hace que la investigación científica, los datos y la difusión sean accesibles a todos los niveles de la sociedad.
-
-* Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.
-
-**Código abierto**
-**Open Source**
-
-* Disponibilidad de código fuente para software, que va acompañado de una licencia de código abierto que permite su reutilización, adaptación y distribución adicional.
-
-* Availability of source code for a piece of software, along with an open source license permitting reuse, adaptation, and further distribution.
-
-**Revisión por pares**
-**Peer Review**
-
-*	Un proceso mediante el cual un artículo de investigación es examinado por expertos de la comunidad antes de su publicación.
-
-* A process by which a research article is vetted by experts from the community before publication.
-
-**Identificador persistente (PID)**
-**Persistent Identifier (PID)**
-
-* Un identificador persistente (también PID) es una denominación única y estable (referencia) de un recurso digital (por ejemplo, datos de investigación) mediante la asignación de un código al que se puede hacer referencia de forma persistente y explícita en Internet.
-
-* A persistent identifier (also PID) is a unique and stable denomination (reference) of a digital resource (e.g. research data) through allocation of a code that can be persistently and explicitly referenced on the internet.
-
-**Formato de archivo persistente/preferido**
-**Persistent/Preferred File Formats**
-
-* Formatos no propietarios que siguen estándares internacionales documentados, y que son comúnmente utilizados por la comunidad de investigación, utilizan la codificación de caracteres estándar (por ejemplo, ASCII, UTF-8), y la compresión, si se usa, no ocasiona pérdidas.
-
-* Non-proprietary formats that follow documented international standards, are commonly used by the research community, use standard character encoding (e.g. ASCII, UTF-8), and were compression, if used at all, is lossless.
 
 
-**Preprint (manuscrito previo a la revisión por pares)**
-**Preprint**
 
-* Un manuscrito que aún no ha sido sometido a una revisión formal por pares, distribuido para recibir comentarios previos a la publicación por parte de otros investigadores.
-
-* A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
-
-**Prerregistro**
-**Preregistration**
-
-* Los investigadores tienen la opción o están obligados a enviar información importante sobre su estudio (por ejemplo: motivos para una investigación, hipótesis, diseño y estrategia analítica) a un registro público antes de comenzar el estudio. EL prerregistro puede ayudar a contrarrestar sesgos.
-
-* Researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
-
-**Archivo README**
-**README file**
-
-* Archivo en el que se documentan aspectos relativos a los datos de investigación. La documentación debe ser suficiente para que otros investigadores puedan comprender.
-
-* File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
-
-**Sesgos en la publicación**
-**Reporting Bias**
-
-* Se habla de sesgos en la publicación cuando ciertos aspectos de un estudio no se reportan de manera transparente, lo que genera desperdicio y redundancia a través de informes selectivos o no publicados.
-
-* Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
-
-**Repositorio**
-**Repository**
-
-* Un repositorio se define como la infraestructura y el servicio que permiten el almacenamiento persistente, eficiente y sostenible de objetos digitales (como documentos, datos y códigos).
-
-* Repository is defined as the infrastructure and corresponding service that allows for the persistent, efficient and sustainable storage of digital objects (such as documents, data and code). 
-
-**Investigación reproducible**
-**Reproducible Research**
-
-* La reproducibilidad es un gama de aspectos en la que cada formador deberá elegir la definición más utilizada por su audiencia. En términos generales, una investigación reproducible permite obtener resultados similares a los de un estudio o experimento y resultados independientes obtenidos con los mismos métodos pero en diferentes condiciones (es decir, relacionadas con los resultados). Algunos diferencian la definición en niveles de reproducibilidad, incluyendo la reproducibilidad computacional (también denominada "reproducible"): en la que el código y los datos pueden analizarse de manera similar a la investigación original para lograr los mismos resultados, y la empíricamente reproducible(también denominada "replicable”): en la que un investigador independiente puede repetir un estudio utilizando los mismos métodos pero creando nuevos datos.
-
-* Reproducibility is a spectrum and instructors should choose the definition most used by their audience. Generally speaking, reproducible research makes it possible to obtain similar results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results). Some break the definition into levels of reproducibility, including computationally reproducible (also called "reproducible"): where code and data can be analyzed in a similar manner as in the original research to achieve the same results, and empirically reproducible (also called “replicable”): where an independent researcher can repeat a study using the same methods but creating new data.
-
-**Impacto de la investigación**
-**Research Impact**
-
-* Involucra aspectos académicos, económicos y sociales, o una combinación de los tres. El impacto es la contribución demostrable de  la investigación para cambiar la comprensión y el avance científico, el método, la teoría y la aplicación entre y a través disciplinas, y el papel más amplio que desempeña fuera del sistema de investigación.
-
-* Involve academic, economic and societal aspects, or some combination of all three. Impact is the demonstrable contribution that research makes in shifting understanding and advancing scientific, method, theory and application across and within disciplines, and the broader role that this plays outside of the research system.
 
 **Financiador de la investigación**
 **Research Funder**
@@ -274,6 +239,16 @@
 
 * Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
 
+**Repositorio** / 
+**Repository**
+
+* Un repositorio se define como la infraestructura y el servicio que permiten el almacenamiento persistente, eficiente y sostenible de objetos digitales (como documentos, datos y códigos).
+
+**Revisión por pares** / 
+**Peer Review**
+
+*	Un proceso mediante el cual un artículo de investigación es examinado por expertos de la comunidad antes de su publicación.
+
 **Revisión por pares en abierto** / 
 **Open Peer Review**
 
@@ -285,6 +260,11 @@
 * Publicación seriada que incluye artículos de investigación. Historicamente se divide en volúmenes y números.
 
 * A series of published research articles. Historically divided into volumes and issues.
+
+**Sesgos en la publicación** / 
+**Reporting Bias**
+
+* Se habla de sesgos en la publicación cuando ciertos aspectos de un estudio no se reportan de manera transparente, lo que genera desperdicio y redundancia a través de informes selectivos o no publicados.
 
 ## Additional Resources
 
