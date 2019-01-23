@@ -18,31 +18,47 @@
 
 * Archivo en el que se documentan aspectos relativos a los datos de investigación. La documentación debe ser suficiente para que otros investigadores puedan comprender.
 
+
 **Audiencia** / 
 **Audience**
 
 * El grupo al que se dirige una comunicación (por ejemplo, los que asisten a una formaciónm de Ciencia Abierta). El público objetivo es el grupo de personas al que se dirige dicha formación.
+
 
 **Ciencia Abierta** / 
 **Open Science**
 
 * Ciencia Abierta es el movimiento que hace que la investigación científica, los datos y la difusión sean accesibles a todos los niveles de la sociedad.
 
+
 **Código abierto** / 
 **Open Source**
 
 * Disponibilidad del código fuente de un software, que va acompañado de una licencia de código abierto que permite su reutilización, adaptación y distribución adicional.
-
-**Conductismo (Teoría del aprendizaje)** / 
-**Behaviorism (Learning Theory)**
-
-* El conductismo se refiere al aprendizajeque se rige por el ejercicio práctico y se realiza a través de los estímulos a los que responden los alumnos. Generalmente esto significa que se pide al alumno que haga un ejercicio para el cual hay una respuesta clara o un camino claro a seguir. La evaluación es clara y se puede llevar a cabo fácilmente con la ayuda de métricas simples.
 
 
 **Cognitivismo** / 
 **Cognitivism**
 
 * El cognitivismo se basa en la interacción entre el mundo exterior y lo que el cerebro reflexivo hace a partir de la información percibida en combinación con el conocimiento que ya tiene almacenado. En definitiva, el cognitivismo se centra en la resolución de problemas.
+
+
+**Communicación académica/científica** / 
+**Scholarly Communication**
+
+* La creación, transformación, difusión y preservación del conocimiento relacionado con la enseñanza, la investigación y los desempeños académicos; el proceso de académicos e investigadores que comparten y publican los resultados de sus investigaciones para que estén disponibles para la comunidad académica en general. 
+
+
+**Compartir** / 
+**Sharing**
+
+* El uso conjunto de un recurso o espacio. Un aspecto fundamental de la investigación colaborativa. Como la mayoría de las investigaciones se crean y publican digitalmente, el contenido digital resultante no se percibe como competidor y se puede compartir sin ninguna pérdida para el creador original. 
+
+
+**Conductismo (Teoría del aprendizaje)** / 
+**Behaviorism (Learning Theory)**
+
+* El conductismo se refiere al aprendizajeque se rige por el ejercicio práctico y se realiza a través de los estímulos a los que responden los alumnos. Generalmente esto significa que se pide al alumno que haga un ejercicio para el cual hay una respuesta clara o un camino claro a seguir. La evaluación es clara y se puede llevar a cabo fácilmente con la ayuda de métricas simples.
 
 
 **Connectivismo** / 
@@ -66,68 +82,88 @@
 
 * Conjunto de licencias estandarizadas que permiten a los titulares de derechos de autor otorgar algunos derechos a los usuarios de forma predeterminada. Las licencias CC son ampliamente utilizadas, fáciles de usar, legibles por máquina y han sido creadas por expertos legales. Hay diversos tipos de licencias CC, cada una de ellas incluye difernetes cláusulas. Algunas licencias son compatibles con el acceso abierto tal y como se entiende según la Declaración de Budapest (CC0 o aquellas que llevan las cláusulas BY, SA y ND), y otras no (con la cláusula NC).
 
+
 **Cuadernos de laboratorio abiertos** / 
 **Open Lab Notebooks**
 
 * Se refiere al concepto de escribir regularmente sobre la investigación, de manera que las notas de investigación y los datos se acumulen y se publiquen en línea tan pronto como se obtengan.
 
+
 **Curriculum**
 
 * Contenido docente o formativo que se enseña en un programa o curso específico con una estructura definida. 
+
 
 **Datos** / 
 **Data**
 
 * Se entiende por datos como todos los objetos disponibles digitalmente (simples o complejos) que surgen o son el resultado del proceso de investigación.
 
+
 **Datos abiertos** /
 **Open Data**
 
 * Los datos abiertos son conjuntos de datos en línea accesibles de forma libre y gratuita, que se pueden usar, reutilizar y distribuir siempre que la fuente de datos sea atribuida.
+
 
 **Datos FAIR** / 
 **FAIR Data**
 
 * Los datos FAIR (de acuerdo con [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) y según lo publicado en [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) son datos Encontrables, Accesibles, Interoperables y Reutilizables, con el fin de facilitar el descubrimiento de conocimiento con o sin ayuda de operadores humanos, así como el acceso, integración y análisis de datos científicos relevantes, y de los algoritmos y flujos de trabajo asociados a los mismos.
 
+
 **Documentación** / 
 **Documentation**
 
 * Documentación es el registro de información detallada de los antecedentes y enfoque metodológico sobre los datos o el código (por ejemplo, descripción del proyecto, variables e instrumentos de medición).
+
 
 **Evaluación abierta** / 
 **Open Evaluation**
 
 * El desarrollo de un sistema o protocolo de evaluación justo para las propuestas de investigación, basado en la transparencia del proceso y de las personas involucradas.
 
+
 **Factor de impacto** / 
 **Impact Factor**
 
 * Una medida numérica que indica el promedio de citas que reciben en un año los artículos publicados en una revista en los últimos dos años. Con frecuencia se utiliza como un indicador de la importancia relativa de una revista. Su transferencia al impacto de artículos individuales publicados en una revista se considera problemática.
+
+
+**Financiador de la investigación** / 
+**Research Funder**
+
+* Un instituto, corporación o entidad gubernamental que proporciona asistencia financiera para la investigación.
+
 
 **Formato de archivo persistente/preferido** / 
 **Persistent/Preferred File Formats**
 
 * Formatos no propietarios que siguen estándares internacionales documentados, y que son comúnmente utilizados por la comunidad de investigación, utilizan la codificación de caracteres estándar (por ejemplo, ASCII, UTF-8), y la compresión, si se usa, no ocasiona pérdidas.
 
+
 **Gamificación** / 
 **Gamification**
 
 * Técnica que traslada el uso de elementos del diseño y de la mecánica de los juegos a contextos no relacionados con el juego, como en la educación, donde se puede utilizar para conseguir una mayor implicación o interés. 
+
 
 **GDPR (o RGPD)** / 
 **GDPR**
 
 * La GDPR, por sus siglas en inglés (General Data Protection Regulation), o RGPD por sus siglas en español (Reglamento General de Protección de Datos) tiene por objetivo la creación de un marco armonizado para legislar la protección de datos en toda la Unión Europea (UE). Su objetivo es restituir el control de los datos personales a los ciudadanos, a la vez que impone reglas estrictas sobre el alojamiento y procesamiento de estos datos en cualquier parte del mundo. El Reglamento también introduce normas relativas a la libre circulación de datos personales dentro y fuera de la UE.
 
+
 **Identificador persistente (PID)** / 
 **Persistent Identifier (PID)**
 
 * Un identificador persistente (también PID) es una denominación única y estable (referencia) de un recurso digital (por ejemplo, datos de investigación) mediante la asignación de un código al que se puede hacer referencia de forma persistente y explícita en Internet.
 
+
 **Identificador de Objeto Digital (DOI por sus sigla en inglés Digital Object Identifier)**
 
 * Una cadena de texto única que se utiliza para identificar objetos digitales como artículos de revistas, conjuntos de datos o versiones de software de código abierto. Un DOI es un tipo de identificador persistente (PID).
+
 
 **Impacto de la investigación** / 
 **Research Impact**
@@ -146,20 +182,24 @@
 
 * Una licencia permite a un tercero realizar ciertas acciones con un trabajo o datos. La licencia informa sobre los derechos de uso de un recurso (por ejemplo, texto, datos, código fuente).
 
+
 **Materiales en abierto** / 
 **Open Materials**
 
 * Materiales de investigación destinados a ser compartidos, por ejemplo, muestras biológicas y geológicas; se trata de otra práctica de Ciencia Abierta.
+
 
 **Metadatos** / 
 **Metadata**
 
 * Los metadatos proporcionan una descripción básica de los datos; a menudo incluyen la autoría, fechas, título, resumen, palabras clave y la información de licencia. Principalmente sirven para la localización de datos (por ejemplo, creador, período de tiempo, ubicación geográfica).
 
+
 **Minería de datos** / 
 **Data Mining**
 
 * Proceso analítico diseñado para explorar datos en busca de patrones consistentes o relaciones sistemáticas entre variables, transformando datos en información para uso futuro.
+
 
 **Preprint (manuscrito previo a la revisión por pares)**
 
@@ -176,32 +216,6 @@
 **Intellectual Property**
 
 * Un término legal que se refiere a las creaciones de la mente. Como ejemplos de propiedad intelectual están la música, literatura, pintura, escultura, video y otras obras artísticas; descubrimientos e invenciones; así como frases, símbolos y diseños.
-
-
-
-
-
-
-**Financiador de la investigación**
-**Research Funder**
-
-* Un instituto, corporación o entidad gubernamental que proporciona asistencia financiera para la investigación.
-
-* An institute, corporation or government body that provides financial assistance for research.
-
-**Communicación académica**
-**Scholarly Communication**
-
-* La creación, transformación, difusión y preservación del conocimiento relacionado con la enseñanza, la investigación y los desempeños académicos; el proceso de académicos e investigadores que comparten y publican los resultados de sus investigaciones para que estén disponibles para la comunidad académica en general. La creación, transformación, difusión y preservación del conocimiento relacionado con la enseñanza, la investigación y los esfuerzos académicos; el proceso de académicos, académicos e investigadores que comparten y publican los resultados de sus investigaciones para que estén disponibles para la comunidad académica en general.
-
-* The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community.
-
-**Compartir**
-**Sharing**
-
-* El uso conjunto de un recurso o espacio. Un aspecto fundamental de la investigación colaborativa. Como la mayoría de las investigaciones se crean y publican digitalmente, el contenido digital resultante no se percibe como competidor y se puede compartir sin ninguna pérdida para el creador original. 
-
-* The joint use of a resource or space. A fundamental aspect of collaborative research. As most research is digitally-authored & digitally-published, the resulting digital content is non-rivalrous and can be shared without any loss to the original creator.
 
 
 **Subscripción**
