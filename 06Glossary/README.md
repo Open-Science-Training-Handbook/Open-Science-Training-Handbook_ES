@@ -2,12 +2,9 @@
 ## Glosario
 
 **Altmétricas**
-**Altmetrics**
-
+**Almetrics**
 
 * Las altmétricas o métricas alternativas son nuevas formas de evaluar el uso y el impacto de la actividad científica y la investigación. En lugar de limitarse a medir el número de veces que un documento ha sido citado en la literatura académica, las métricas alternativas también consideran y analizan otros aspectos como el impacto en medios de comunicación sociales -también denominados medios sociales- (como Facebook, Twitter, blogs, wikis, etc.), las descargas, los enlaces a investigación publicada o no publicada, así como otros usos de la investigación, para proporcionar así una medida más completa del alcance y el impacto de la producción científica.   
-
-* Altmetrics are alternative ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of reach and impact.
 
 
 **Audiencia**
@@ -15,125 +12,97 @@
 
 * El grupo al que se dirige una comunicación (por ejemplo, los que asisten a una formaciónm de Ciencia Abierta). El público objetivo es el grupo de personas al que se dirige dicha formación.
 
-* The group addressed by a communication (e.g., those in attendance of an Open Science training). The target audience is a group of individuals that will be addressed or affected by the training.
 
 **Conductismo (Teoría del aprendizaje)**
 **Behaviorism (Learning Theory)**
 
 * El conductismo se refiere al aprendizajeque se rige por el ejercicio práctico y se realiza a través de los estímulos a los que responden los alumnos. Generalmente esto significa que se pide al alumno que haga un ejercicio para el cual hay una respuesta clara o un camino claro a seguir. La evaluación es clara y se puede llevar a cabo fácilmente con la ayuda de métricas simples.
 
-* Behaviorism means that learning is governed by drill-and-practice and is best done with the use of stimuli to which the learners respond. This generally means that you ask the learner to do an exercise for which there is a clear answer or a clear path to follow. Evaluation is clear and can easily be done with the help of simple metrics.
-
 
 **Cognitivismo**
 **Cognitivism**
 
-* El cognitivismo se basa en la interacción entre el mundo exterior y lo que la mente que recibe la información percibide en combinación con el conocimiento almacenado previamente. En definitiva, el cognitivismo se centra en la resolución de problemas.
-
-* Cognitivism is based on the interaction between the outer world and what the reflecting brain makes out of the information perceived in combination with the knowledge that it has already stored. Cognitivism concentrates therefore on problem solving.
+* El cognitivismo se basa en la interacción entre el mundo exterior y lo que el cerebro reflexivo hace a partir de la información percibida en combinación con el conocimiento que ya tiene almacenado. En definitiva, el cognitivismo se centra en la resolución de problemas.
 
 
 **Connectivismo**
 **Connectivism**
 
-* El connectivismo es la integración de los principios explorados por el caos, la red, la complejidad y las teorías de la auto-organización. Se fundamenta en que la comprensión de las decisiones se apoya en una base que cambian rápidamente, a medida que se adquiere nueva información.
-
-* Connectivism is the integration of principles explored by chaos, network, complexity and self-organization theories. Connectivism is driven by the understanding that decisions are based on rapidly altering foundations, as new information is continually being acquired. 
+* El connectivismo es la integración de los principios explorados por las teorías del caos, la red, la complejidad y la auto-organización. Se fundamenta en que la comprensión de que las decisiones se apoyan en bases que cambian rápidamente, a medida que se adquiere nueva información.
 
 
 **Constructivismo**
 **Constructivism**
 
-* En sentido estricto el constructivismo se refiere a que el mundo no es como es. En cambio, el mundo es principalmente el producto de nuestras experiencias y mentes individuales. En el contexto de la enseñanza y el aprendizaje, esto significa que los propios alumnos crean su propio el camino de aprendizaje. Por lo tanto, la atención se centra en la creatividad del alumno, y la evaluación del progreso no se basa en la diferenciación entre lo correcto y lo incorrecto.
+* En sentido estricto el constructivismo se refiere a que el mundo no es como es. En cambio, el mundo es principalmente el producto de nuestras experiencias y mentes individuales. En el contexto de la enseñanza y el aprendizaje, esto significa que los propios alumnos crean su propio camino de aprendizaje. Por lo tanto, la atención se centra en la creatividad del alumno, y la evaluación del progreso no se basa en la diferenciación entre lo correcto y lo incorrecto.
 
-* Constructivism in the strict sense means the world is not as it is. Instead the world is primarily the product of our individual experiences and minds. In the context of teaching and learning this means that learners themselves create the path of learning. The focus is hence on the learner’s creativity and evaluation of progress is not based on the differentiation between right or wrong.
 
 **Copyright**
 **Copyright**
 
 * Se refiere a la parte de propiedad intelectual que otorga a los creadores el derecho de permitir (o no permitir) la reproducción de sus creaciones. Es distinto de la propiedad industrial, que abarca las patentes, diseños industriales y derechos de marca, o de los derechos morales.
 
-* The aspect of Intellectual property that grants creators the right to permit (or not permit) the reproduction of their creations. It is distinct from trademark rights or moral rights.
 
-**Creative Commons**
 **Creative Commons**
 
 * Conjunto de licencias estandarizadas que permiten a los titulares de derechos de autor otorgar algunos derechos a los usuarios de forma predeterminada. Las licencias CC son ampliamente utilizadas, fáciles de usar, legibles por máquina y han sido creadas por expertos legales. Hay diversos tipos de licencias CC, cada una de ellas incluye difernetes cláusulas. Algunas licencias son compatibles con el acceso abierto tal y como se entiende según la Declaración de Budapest (CC0 o aquellas que llevan las cláusulas BY, SA y ND), y otras no (con la cláusula NC).
 
-* A suite of standardized licences that allow copyright holders to grant some rights to users by default. CC licences are widely used, simple to use, machine readable, and have been created by legal experts. There are a variety of CC licences, each of which use one or more clauses. Some licences are compatible with Open Access in the Budapest sense (CC0 or those carrying the BY, SA, and ND clauses), and some are not (carrying the NC clause). 
 
-**Curriculum**
 **Curriculum**
 
 * Contenido docente o formativo que se enseña en un programa o curso específico con una estructura definida. 
 
-* Curriculum refers to the lessons and other training content taught in a school or in a specific course or program within a defined structure.
 
 **Datos**
 **Data**
 
-* Se trata de datos como todos los objetos disponibles digitalmente (simples o complejos) que surgen o son el resultado del proceso de investigación.
-
-* Data in the sense used here are all digitally available objects (simple or complex) that emerge or are the result of the research process.
-
-**Minería de datos**
-**Data Mining**
-
-* Proceso analítico diseñado para explorar datos en busca de patrones consistentes o relaciones sistemáticas entre variables, transformando datos en información para uso futuro.
-
-* An analytic process designed to explore data in search of consistent patterns or systematic relationships between variables, transforming data into information for future use.
-
-**Identificador de objeto digital (DOI por sus sigla en inglés Digital Object Identifier)**
-**Digital Object Identifier (DOI)**
-
-* Una cadena de texto única que se utiliza para identificar objetos digitales como artículos de revistas, conjuntos de datos o versiones de software de código abierto. Un DOI es un tipo de odentificador persistente (PID).
-
-* A unique text string that is used to identify digital objects such as journal articles, data sets or open source software releases. A DOI is one type of Persistent Identifier (PID).
-
-**Documentación**
-**Documentation**
-
-* Documentación como la información detallada, así como antecedentes y enfoque metodológico sobre los datos o el código (por ejemplo, descripción del proyecto, variables e instrumentos de medición).
-
-* A documentation is detailed information as well as background and methodological approach about the data or code (e.g., description of the project, variables, and measuring instruments). 
+* Se entiende por datos como todos los objetos disponibles digitalmente (simples o complejos) que surgen o son el resultado del proceso de investigación.
 
 **Datos FAIR**
 **FAIR Data**
 
-* Los datos FAIR (de acuerdo con [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) y según los publicado en [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) son datos Encontrables, Accesibles, Interoperables y Reutilizables, con el fin de facilitar el descubrimiento de conocimiento con o sin ayuda de operadores humanos, así como el acceso, integración y análisis de datos científicos relevantes, y de los algoritmos y flujos de trabajo asociados a los mismos.
-
-* FAIR Data (according to [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) and published in [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
+* Los datos FAIR (de acuerdo con [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) y según lo publicado en [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) son datos Encontrables, Accesibles, Interoperables y Reutilizables, con el fin de facilitar el descubrimiento de conocimiento con o sin ayuda de operadores humanos, así como el acceso, integración y análisis de datos científicos relevantes, y de los algoritmos y flujos de trabajo asociados a los mismos.
 
 
-**Gamificación**
-**Gamification**
+**Documentación**
+**Documentation**
 
-* Técnica que traslada el uso de elementos del diseño y de la mecánica de los juego a contextos no relacionados con el juego, como la educación, donde se puede utilizar para conseguir una mayor implicación o interés. 
-
-* The use of game design elements and game mechanics in non-game contexts, such as education where it can be used to bring extra engagement.
-
-
-**GDPR o (o RGPD)**
-**GDPR**
-
-* La GDPR, por sus siglas en inglés (General Data Protection Regulation), o RGPD por sus siglas en español (Reglamento General de Protección de Datos) tiene por objetivo la creación busca de un marco armonizado para legislar la protección de datos en toda la UE. Su objetivo es restituir el control de los datos personales a los ciudadanos, a la vez que impone reglas estrictas sobre el alojamiento y procesamiento de estos datos en cualquier parte del mundo. El Reglamento también introduce normas relativas a la libre circulación de datos personales dentro y fuera de la UE.
-
-* (General Data Protection Regulation) seeks to create a harmonised data protection law framework across the EU. It aims to restitute the control of personal data to citizens, whilst imposing strict rules on those hosting and 'processing' these data, anywhere in the world. The Regulation also introduces rules relating to the free movement of personal data within and outside the EU.
-
+* Documentación es el registro de información detallada de los antecedentes y enfoque metodológico sobre los datos o el código (por ejemplo, descripción del proyecto, variables e instrumentos de medición).
 
 **Factor de impacto**
 **Impact Factor**
 
 * Una medida numérica que indica el promedio de citas que reciben en un año los artículos publicados en una revista en los últimos dos años. Con frecuencia se utiliza como un indicador de la importancia relativa de una revista. Su transferencia al impacto de artículos individuales publicados en una revista se considera problemática.
 
-* A numerical measure that indicates the average number of citations to articles published over the previous two years in a journal. It is frequently used as a proxy for a journal's relative importance. Its transfer to the impact of individual articles published in a journal is considered to be problematic.
+
+**Gamificación**
+**Gamification**
+
+* Técnica que traslada el uso de elementos del diseño y de la mecánica de los juegos a contextos no relacionados con el juego, como en la educación, donde se puede utilizar para conseguir una mayor implicación o interés. 
+
+
+**GDPR (o RGPD)**
+**GDPR**
+
+* La GDPR, por sus siglas en inglés (General Data Protection Regulation), o RGPD por sus siglas en español (Reglamento General de Protección de Datos) tiene por objetivo la creación de un marco armonizado para legislar la protección de datos en toda la Unión Europea (UE). Su objetivo es restituir el control de los datos personales a los ciudadanos, a la vez que impone reglas estrictas sobre el alojamiento y procesamiento de estos datos en cualquier parte del mundo. El Reglamento también introduce normas relativas a la libre circulación de datos personales dentro y fuera de la UE.
+
+
+**Identificador de Objeto Digital (DOI por sus sigla en inglés Digital Object Identifier)**
+
+* Una cadena de texto única que se utiliza para identificar objetos digitales como artículos de revistas, conjuntos de datos o versiones de software de código abierto. Un DOI es un tipo de identificador persistente (PID).
+
+
+**Minería de datos**
+**Data Mining**
+
+* Proceso analítico diseñado para explorar datos en busca de patrones consistentes o relaciones sistemáticas entre variables, transformando datos en información para uso futuro.
+
 
 **Propiedad intelectual**
 **Intellectual Property**
 
 * Un término legal que se refiere a las creaciones de la mente. Como ejemplos de propiedad intelectual están la música, literatura, pintura, escultura, video y otras obras artísticas; descubrimientos e invenciones; así como frases, símbolos y diseños.
 
-* A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
 
 **Revista**
 **Journal**
