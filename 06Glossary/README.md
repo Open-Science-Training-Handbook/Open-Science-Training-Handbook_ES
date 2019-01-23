@@ -53,19 +53,22 @@
 
 * Conjunto de licencias estandarizadas que permiten a los titulares de derechos de autor otorgar algunos derechos a los usuarios de forma predeterminada. Las licencias CC son ampliamente utilizadas, fáciles de usar, legibles por máquina y han sido creadas por expertos legales. Hay diversos tipos de licencias CC, cada una de ellas incluye difernetes cláusulas. Algunas licencias son compatibles con el acceso abierto tal y como se entiende según la Declaración de Budapest (CC0 o aquellas que llevan las cláusulas BY, SA y ND), y otras no (con la cláusula NC).
 
+**Cuadernos de laboratorio abiertos** / 
+**Open Lab Notebooks**
+
+* Se refiere al concepto de escribir regularmente sobre la investigación, de manera que las notas de investigación y los datos se acumulen y se publiquen en línea tan pronto como se obtengan.
 
 **Curriculum**
 
 * Contenido docente o formativo que se enseña en un programa o curso específico con una estructura definida. 
-
 
 **Datos** / 
 **Data**
 
 * Se entiende por datos como todos los objetos disponibles digitalmente (simples o complejos) que surgen o son el resultado del proceso de investigación.
 
+**Datos abiertos** /
 **Open Data**
-**Datos abiertos**
 
 * Los datos abiertos son conjuntos de datos en línea accesibles de forma libre y gratuita, que se pueden usar, reutilizar y distribuir siempre que la fuente de datos sea atribuida.
 
@@ -78,6 +81,11 @@
 **Documentation**
 
 * Documentación es el registro de información detallada de los antecedentes y enfoque metodológico sobre los datos o el código (por ejemplo, descripción del proyecto, variables e instrumentos de medición).
+
+**Evaluación abierta** / 
+**Open Evaluation**
+
+* El desarrollo de un sistema o protocolo de evaluación justo para las propuestas de investigación, basado en la transparencia del proceso y de las personas involucradas.
 
 **Factor de impacto** / 
 **Impact Factor**
@@ -103,6 +111,11 @@
 
 * Una licencia permite a un tercero realizar ciertas acciones con un trabajo o datos. La licencia informa sobre los derechos de uso de un recurso (por ejemplo, texto, datos, código fuente).
 
+**Materiales en abierto** / 
+**Open Materials**
+
+* Materiales de investigación destinados a ser compartidos, por ejemplo, muestras biológicas y geológicas; se trata de otra práctica de Ciencia Abierta.
+
 **Metadatos** / 
 **Metadata**
 
@@ -118,34 +131,6 @@
 
 * Un término legal que se refiere a las creaciones de la mente. Como ejemplos de propiedad intelectual están la música, literatura, pintura, escultura, video y otras obras artísticas; descubrimientos e invenciones; así como frases, símbolos y diseños.
 
-
-**Evaluación abierta**
-**Open Evaluation**
-
-* El desarrollo de un sistema o protocolo de evaluación justo para las propuestas de investigación, basado en la transparencia del proceso y de las personas involucradas.
-
-* The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
-
-**Open Lab Notebooks**
-**Cuadernos de laboratorio abiertos (open notebooks)** 
-
-* Un concepto de escribir habitualmente investigación de manera que las notas de investigación y los datos se acumulen y se publiquen en línea tan pronto como se obtengan.
-
-* A concept of writing about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
-
-**Open Materials**
-**Materiales abiertos (materiales en abierto)**
-
-* Materiales de investigación destinados a ser compartidos, por ejemplo, muestras biológicas y geológicas; se trata de otra práctica de ciencia abierta.
-
-* Sharing of research materials, for example, biological and geological samples, is another Open Science practice.
-
-**Open Peer Review**
-**Revisión abierta (revisión en abierto)**
-
-*	Un término general que se refiere a una serie de formas superpuestas en que los modelos de revisión por pares se pueden adaptar de acuerdo con los objetivos de la ciencia abierta, que incluyen la apertura de identidades de revisores y autores, la publicación de informes de revisión y la habilitación de una mayor participación en el proceso de revisión por pares.
-
-* An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process.
 
 **Ciencia abierta**
 **Open Science**
@@ -288,6 +273,11 @@
 * El control de versión es la gestión de cambios en documentos, programas de ordenador, sitios web grandes y otras recopilaciones de información de manera lógica y persistente, permitiendo tanto cambios de seguimiento como la capacidad de revertir una parte de información a una revisión previa.
 
 * Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
+
+**Revisión por pares en abierto** / 
+**Open Peer Review**
+
+*	Un término general que se refiere a una serie de formas superpuestas en que los modelos de revisión por pares se pueden adaptar de acuerdo con los objetivos de la ciencia abierta, que incluyen la apertura de identidades de revisores y autores, la publicación de informes de revisión y la habilitación de una mayor participación en el proceso de revisión por pares.
 
 **Revista**
 **Journal**
