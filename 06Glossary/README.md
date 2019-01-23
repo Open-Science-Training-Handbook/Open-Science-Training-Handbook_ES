@@ -278,7 +278,7 @@
 * Una forma de modelo comercial mediante el cual se paga un importe para obtener acceso a un producto o servicio, en este caso, los resultados de la investigación académica.
 
 
-## Additional Resources
+## Recursos adicionales
 
 * [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), hosted by the R2RC.
 
