@@ -197,8 +197,8 @@ Total de palabras del Manual: 43.243.
     <td>Examples and Practical Guidance</td>
     <td>Lourdes Feria</td>
     <td>10.355</td>
-    <td>Traducido, CVilches a cargo de subirlo, RRogel lo revisó y subió. Faltan imágenes</td>
-    <td>Claudia Vilches/Rosario Rogel</td>
+    <td>RRogel lo revisó y subió. Faltan imágenes</td>
+    <td>Rosario Rogel</td>
     <td>Revisado por RR 10-Ene</td>
     <td></td> 
   </tr>
