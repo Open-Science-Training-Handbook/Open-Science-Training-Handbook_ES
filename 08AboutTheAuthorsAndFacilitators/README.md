@@ -261,9 +261,9 @@ Actualmente trabaja en la Universidad Central como Coordinador Ejecutivo de I3S.
 Ha trabajado con algunas iniciativas de comunicación académica a nivel regional e internacional como Force11, Latindex, Redalyc, SciELO y SPARC desarrollando proyectos sobre las mejores prácticas en la publicación de revistas de acceso abierto. Ivonne escribe sobre temas relacionados con la comunicación académica, el acceso abierto, las políticas científicas y de investigación y la educación superior. Tiene experiencia en la impartición de cursos sobre comunicación académica y uso de la información científica para estudiantes de posgrado, docentes, bibliotecario/as e investigadore/as.
 
 ### Paula Martínez Lavanchy
-Reasearch Data Officer 
 
-* Biblioteca Universidad Técnica de Delft, Holanda (en transición)
+
+* Reasearch Data Officer - Biblioteca Universidad Técnica de Delft, Holanda (en transición)
 * [paml@dtu.dk](mailto:p.m.martinezlavanchy@tudelft.nl)
 * [@paulammartinez2](https://twitter.com/paulammartinez2)
 * [0000-0002-6595-0969](https://orcid.org/0000-0002-6595-0969)
@@ -274,7 +274,6 @@ Biotecnóloga y doctora en Microbiología. Ha trabajado en los últimos tres añ
 ## Equipo de Revisores
 
 ### Nicolás Alessandroni
-Revisor de la traducción al español
 
 * Departamento Interfacultativo de Psicología Evolutiva y de la Educación, Facultad de Psicología, Universidad Autónoma de Madrid (UAM), España.
 * [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
@@ -284,6 +283,7 @@ Revisor de la traducción al español
 Es Magister en Psicología Cognitiva y Aprendizaje (UAM) y Profesor en Psicología (UNLP, Argentina). Trabaja en la Facultad de Psicología (UAM) con un contrato FPU del Ministerio de Educación de España para realizar la investigación “_El desarrollo de los primeros conceptos de objeto en la Escuela Infantil 0-1_”. Tiene experiencia en la traducción inglés-español de textos académicos y en la edición académica tanto de libros y documentos de trabajo como de revistas científicas de Acceso Abierto (i.e. [Revista de Psicología UNLP](https://revistas.unlp.edu.ar/revpsi); [Epistemus, Revista de Estudios en Música, Cognición y Cultura](https://revistas.unlp.edu.ar/Epistemus)). Recientemente ha sido ganador de la _OpenUP Blog Competition for Early Career Researchers and Students_ por su ensayo breve [_Open Science, bureaucratisation and learning curves: some practical ideas_](https://www.openuphub.eu/community/blog/item/open-science-bureaucratisation-and-learning-curves-some-practical-ideas). Anteriormente, en Argentina, ha sido investigador de la UNLP y del CONICET en diferentes institutos y laboratorios (IIF-SADAF, LIPPSI-UNLP, y LEEM-UNLP).
 
 ### Rosario Rogel – [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx)
+
 * Universidad Autónoma del Estado de México, México
 * [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx )
 * [@rosariorogel](https://twitter.com/rosariorogel)
@@ -296,7 +296,7 @@ Traductora y revisora de la traducción al español
 Directora y fundadora de diversas revistas de científicas. Participa como integrante del comité editorial de muchas otras, tanto en México como en el extranjero. Posee experiencia en temas de acceso abierto, tanto desde la investigación como de la promoción de iniciativas legislativas en su país.
 
 ### Claudia Vilches – [claudia.vilches@cepal.org](mailto:claudia.vilches@cepal.org)
-Coordinadora del equipo de traductores y revisora de la traducción al español
+Coordinadora del equipo de traductores 
 
 * Licenciada en Bibliotecología y Documentación – Universidad Tecnológica Metropolitana, Santiago Chile. Diploma en Biblioteca Digitales – Pontificia Universidad Católica de Chile.
 
