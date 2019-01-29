@@ -261,9 +261,10 @@ Actualmente trabaja en la Universidad Central como Coordinador Ejecutivo de I3S.
 Ha trabajado con algunas iniciativas de comunicación académica a nivel regional e internacional como Force11, Latindex, Redalyc, SciELO y SPARC desarrollando proyectos sobre las mejores prácticas en la publicación de revistas de acceso abierto. Ivonne escribe sobre temas relacionados con la comunicación académica, el acceso abierto, las políticas científicas y de investigación y la educación superior. Tiene experiencia en la impartición de cursos sobre comunicación académica y uso de la información científica para estudiantes de posgrado, docentes, bibliotecario/as e investigadore/as.
 
 ### Paula Martínez Lavanchy
+Reasearch Data Officer 
 
-* Biblioteca Universidad Técnica de Dinamarca/ Biblioteca Universidad Técnica de Delft (en transición)
-* [paml@dtu.dk](mailto:paml@dtu.dk)
+* Biblioteca Universidad Técnica de Delft, Holanda (en transición)
+* [paml@dtu.dk](mailto:p.m.martinezlavanchy@tudelft.nl)
 * [@paulammartinez2](https://twitter.com/paulammartinez2)
 * [0000-0002-6595-0969](https://orcid.org/0000-0002-6595-0969)
 
