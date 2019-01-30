@@ -142,9 +142,9 @@ Una buena manera de comenzar con tu entrenamiento sobre Ciencia Abierta es dirig
 
 **El resultado de la capacitación debería ser que los estudiantes:**
 
-1. tengan una mejor comprensión práctica de los conceptos clave y sus correspondientes aplicaciones para la Ciencia Abierta.
-2. usen con confianza lo aprendido durante la capacitación, aumentando su impacto en su entorno profesional.
-3. sean capaces de vincularse con defensores de disciplinas variadas y de actuar en una iniciativa global para la Ciencia Abierta.
+1. Tengan una mejor comprensión práctica de los conceptos clave y sus correspondientes aplicaciones para la Ciencia Abierta.
+2. Usen con confianza lo aprendido durante la capacitación, aumentando su impacto en su entorno profesional.
+3. Sean capaces de vincularse con defensores de distintas disciplinas y de actuar en una iniciativa global para la Ciencia Abierta.
 
 ## <img src="/Images/Icons/guidance.png" width="150" height="150" />
 
