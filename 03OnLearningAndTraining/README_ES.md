@@ -120,11 +120,11 @@ Una buena manera de comenzar con tu entrenamiento sobre Ciencia Abierta es dirig
 
 6. Tamaño de la audiencia:
 
-   1. establece el tamaño de la audiencia basándote en la disponibilidad de espacio/capacidad y de tiempo para el trabajo práctico.
+   1. Establece el tamaño de la audiencia basándote en la disponibilidad de espacio/capacidad y de tiempo para el trabajo práctico.
 
-   2. el tamaño de la audiencia impactará sobre la forma en que sus miembros se relacionarán e interactuarán con el proceso.
+   2. El tamaño de la audiencia impactará sobre la forma en que sus miembros se relacionarán e interactuarán con el proceso.
 
-   3. si deseas una audiencia más numerosa, considera separar a los asistentes en grupos y los requisitos logísticos que esto podría conllevar.
+   3. Si deseas una audiencia más numerosa, considera separar a los asistentes en grupos y los requisitos logísticos que esto podría conllevar.
 
 7. Considera si tu evento será abierto al público o limitado a los afiliados a la institución anfitriona. Un evento público puede ayudar a aumentar y diversificar la asistencia, mientras que uno limitado puede ayudarte a enfocar temas particulares. Por otro lado, es probable que los asistentes de una misma institución ya se conozcan entre sí.
 
@@ -134,11 +134,11 @@ Una buena manera de comenzar con tu entrenamiento sobre Ciencia Abierta es dirig
 
 10. Con una audiencia heterogénea, ten en cuenta a las diferentes partes interesadas para abordar sus diferentes necesidades, conocimientos y/o responsabilidades:
 
-    1. financiador, institución/empleador, investigador \(estudiante de grado, estudiante de doctorado, investigador, líder de proyecto\),
+    1. Financiador, institución/empleador, investigador \(estudiante de grado, estudiante de doctorado, investigador, líder de proyecto\),
 
-    2. servicio de soporte \(oficina de investigación, biblioteca, TI\)
+    2. Servicio de soporte \(oficina de investigación, biblioteca, TI\)
 
-    3. colaborador comercial en un proyecto
+    3. Colaborador comercial en un proyecto
 
 **El resultado de la capacitación debería ser que los estudiantes:**
 
@@ -168,11 +168,11 @@ La investigación académica es practicada por adultos. Por lo tanto, es probabl
 
 Por lo tanto, necesitarás:
 
-* proporcionar los puntos de descubrimiento, herramientas y brindar apoyo a los investigadores sobre dónde encontrarlos
+* Proporcionar los puntos de descubrimiento, herramientas y brindar apoyo a los investigadores sobre dónde encontrarlos
 
-* preparar documentación en línea con una guía clara, comprensible y actualizada
+* Preparar documentación en línea con una guía clara, comprensible y actualizada
 
-* reunir herramientas de calidad, utilizables \(y descubribles\), o plantillas para generarlas.
+* Reunir herramientas de calidad, utilizables \(y localizables\), o plantillas para generarlas.
 
 En resumen, los adultos enfocan sus intereses en su propia mejoría y ven a la capacitación como un ejercicio centrado en sí mismos para desarrollar capacidades. A los adultos les gusta ser respetados como tales y que sus expectativas individuales se cumplan de manera exhaustiva, siempre que ello sea posible.
 
