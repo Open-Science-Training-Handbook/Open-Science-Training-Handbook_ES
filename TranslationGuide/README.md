@@ -218,7 +218,7 @@ Total de palabras del Manual: 43.243.
     <td></td>
     <td>Claudia Vilches</td>
     <td></td>
-    <td></td>
+    <td>Revidsado por RM 30-01-19</td>
   </tr>
   <tr>
     <td>About the Authors & Facilitators</td>
