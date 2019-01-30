@@ -8,7 +8,7 @@ Los datos de investigación abiertos son datos de acceso gratuito que pueden ser
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
 ### Justificación
 
-Los datos de investigación son a menudo el producto más valioso de los proyectos de investigación, pues se utilizan como fuente primaria para sustentar la investigación científica y permitir la derivación de hallazgos teóricos o aplicados. Para hacer que los hallazgos/estudios sean replicables, o al menos reproducibles o reutilizables de otra forma \(consulta la sección sobre Investigación reproducible y análisis de datos\), la recomendación de buenas prácticas es que los datos de investigación sean tan abiertos y tan   \([FAIR](https://www.force11.org/fairprinciples)\ como sea posible, teniendo en cuenta las limitaciones éticas y comerciales y las restricciones de privacidad de los datos confidenciales o privados.
+Los datos de investigación son a menudo el producto más valioso de los proyectos de investigación, pues se utilizan como fuente primaria para sustentar la investigación científica y permitir la derivación de hallazgos teóricos o aplicados. Para hacer que los hallazgos/estudios sean replicables, o al menos reproducibles o reutilizables de otra forma \(consulta la sección sobre Investigación reproducible y análisis de datos\), la recomendación de buenas prácticas es que los datos de investigación sean tan abiertos y tan   \[FAIR](https://www.force11.org/fairprinciples) como sea posible, teniendo en cuenta las limitaciones éticas y comerciales y las restricciones de privacidad de los datos confidenciales o privados.
 
 ![](/Images/Icons/finish.png)
 
