@@ -227,7 +227,7 @@ Total de palabras del Manual: 43.243.
     <td>Done</td>
     <td>Done</td>
     <td>Done</td>
-    <td></td>
+    <td>Revidsado por RM 30-01-19</td>
   </tr>
 
 </table>
