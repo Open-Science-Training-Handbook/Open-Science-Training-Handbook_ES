@@ -121,6 +121,7 @@ Total de palabras del Manual: 43.243.
     <td>04-11</td>
     <td>Rosario Rogel</td>
     <td>Revisado por RM</td>
+    <td>Revisado por RM</td>
   </tr>
   <tr>
     <td>Collaborative Platforms</td>
@@ -128,6 +129,7 @@ Total de palabras del Manual: 43.243.
     <td>1.005</td>
     <td>04-11</td>
     <td>Rosario Rogel</td>
+    <td>Revisado por RM</td>
     <td>Revisado por RM</td>
     </tr>
   <tr>
