@@ -431,11 +431,11 @@ _Retroalimentación verbal_
 
 _Autoevaluación_
 
-* Haz tu propia evaluación: ¿Qué anduvo bien? ¿Qué salió mal?
+* Haz tu propia evaluación: ¿Qué marchó bien? ¿Qué salió mal?
 
 _Retroalimentación a largo plazo_
 
-* 6 meses después, se pregunta sobre cambios plásticos en el comportamiento, más generalmente sobre modificaciones en la actitud y sus efectos potenciales.
+* 6 meses después, se pregunta sobre cambios  en el comportamiento, generalmente más sobre modificaciones en la actitud y sus efectos potenciales.
 
 _Comentarios entre pares_
 
