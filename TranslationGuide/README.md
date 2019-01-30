@@ -103,7 +103,7 @@ Total de palabras del Manual: 43.243.
     <td>05-11</td>
     <td>Nicolás Alessandroni</td>
     <td>Revisado por NA 07-Dic</td>
-    <td></td>
+    <td>Revidsado por RM 30-01-19</td>
   </tr>
   <tr>
     <td>Open Access to Published Research Results</td>
