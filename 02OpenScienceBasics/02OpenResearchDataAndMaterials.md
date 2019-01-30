@@ -42,7 +42,7 @@ En 2014 se redactó un conjuntode principios para optimizar la reutilización de
 
 **Interoperables:** Los datos deberían poder combinarse y usarse con otros datos o herramientas. Por lo tanto, el formato de los datos debe ser abierto e interpretable por distintas herramientas, incluyendo otros registros de datos. El concepto de interoperabilidad se aplica tanto en el nivel de los datos como en el de los metadatos. Por ejemplo, los \(meta\)datos deberían emplear un vocabulario que siga los principios FAIR.
 
-**Reutilizable:** En última instancia, los principios FAIR buscan optimizar la reutilización de los datos. Para lograr esto, los metadatos y los datos deben estar bien descritos de modo que puedan ser replicados y/o combinados en diferentes entornos. Además, la reutilización de los \(meta\)datos debe estar indicada a través de licencias claras y accesibles.
+**Reutilizables:** En última instancia, los principios FAIR buscan optimizar la reutilización de los datos. Para lograr esto, los metadatos y los datos deben estar bien descritos de modo que puedan ser replicados y/o combinados en diferentes entornos. Además, la reutilización de los \(meta\)datos debe estar indicada a través de licencias claras y accesibles.
 
 A diferencia de las iniciativas entre pares que se centran en el investigador como humano, los principios FAIR ponen un énfasis específico en mejorar la capacidad de las máquinas para encontrar y utilizar automáticamente los datos o cualquier objeto digital, además de apoyar su reutilización por parte de los individuos. Los principios FAIR son principios rectores, no estándares. FAIR describe las cualidades o comportamientos necesarios para hacer que los datos sean reutilizables al máximo \(por ejemplo: descripción, cita\). Esas cualidades se pueden lograr con diferentes estándares.
 
@@ -55,13 +55,13 @@ La mayoría de los investigadores está más o menos familiarizada con la public
 
 Hay diferentes formas para hacer que los datos de investigación sean accesibles, incluyendo \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
-* Publicar los datos como material complementario asociado con un [artículo de investigación](https://en.wikipedia.org/wiki/Research_article). Generalmente los archivos de datos serán alojados por la editorial del artículo.
+* Publicar los datos como material complementario asociado a un [artículo de investigación](https://en.wikipedia.org/wiki/Research_article). Generalmente los archivos de datos serán alojados por la editorial del artículo.
 
-* Alojar los datos en un sitio web de disponibilidad pública que permita que los archivos estén disponibles para su descarga.
+* Alojar los datos en un sitio web de disponibilidad pública que permita acceder a los archivos para su descarga.
 
-* Depositar los datos en un repositorio desarrollado para apoyar la publicación de datos, por ejemplo, [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repositorio)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
+* Depositar los datos en un repositorio siseñado  para la la publicación de datos, por ejemplo, [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repositorio)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
 
-* Existen un gran número de repositorios de datos generales y de dominio/disciplina específico/a que pueden proporcionar apoyo adicional a los investigadores al momento de depositar sus datos.
+* Existen un gran número de repositorios de datos generalistas y temáticos propios d ealguna disciplina que pueden proporcionar apoyo adicional a los investigadores en el momento de depositar sus datos.
 
 * Publicar un artículo de datos \(_data paper_\) sobre el conjunto de datos, que puede publicarse como un preprint, en una revista o en una revista de datos dedicada a mantener artículos de datos. Los datos pueden ser alojados por la revista o alojados por separado en un repositorio de datos. Algunos ejemplos de revistas de datos son [Scientific Data](https://www.nature.com/sdata/) \(de SpringerNature\) y [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(de CODATA\). Para una revisión integral de las revistas de datos, consulta [Candela et al.](https://doi.org/10.1002%2Fasi.23358)
 
