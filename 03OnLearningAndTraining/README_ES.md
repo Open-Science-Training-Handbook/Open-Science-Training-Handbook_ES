@@ -270,7 +270,7 @@ Encontrarás más información sobre la planificación y la ejecución concretas
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
 
-### Diseñando un curso
+### Cómo diseñar un curso
 
 La creación de tu curso estará impulsada por la planificación de los objetivos o resultados del mismo.
 
