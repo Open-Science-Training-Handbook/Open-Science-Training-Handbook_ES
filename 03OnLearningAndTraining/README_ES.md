@@ -340,7 +340,7 @@ Una vez más, la información entregada por [Software Carpentry](https://carpent
 
 #### Romper el hielo
 
-Con el fin de energizar a los miembros de la audiencia y ayudarlos a conocer a los capacitadores y a los demás, muchas sesiones de capacitación comienzan con un ejercicio para romper el hielo. Crear un ambiente de aprendizaje cálido, acogedor, amigable y positivo debería permitir a los asistentes participar y aprender mejor, y ayudar a que ellos se sientan más cómodos.
+Con el fin de activar a los miembros de la audiencia y ayudarlos a conocer a los capacitadores y a los demás, muchas sesiones de capacitación comienzan con un ejercicio para romper el hielo. Crear un ambiente de aprendizaje cálido, acogedor, amigable y positivo debería permitir a los asistentes participar y aprender mejor, y ayudar a que ellos se sientan más cómodos.
 
 Si bien los juegos para romper el hielo pueden ayudar a crear una atmósfera positiva, uno mal elegido puede producir el efecto contrario, haciendo que las personas se sientan nerviosas o incómodas. Debes considerar cuidadosamente a tus asistentes y las posibles dinámicas de grupo al elegir un juego para romper el hielo. Las personas no deben sentirse avergonzadas ni ser obligadas a revelar información personal que no desean compartir. Los grupos diferirán en aspectos importantes. Que los asistentes tengan edades o estatus diferentes dentro de una organización, diferentes niveles culturales o diferentes niveles educativos afectará el grado de confluencia que podría existir entre ellos. Trata de mantener estos ejercicios vinculados con los resultados de aprendizaje esperados.
 
