@@ -67,7 +67,7 @@ Trabajando para proyectos de Ciencia Abierta, tuve la oportunidad de conocer tan
 
 Soy coordinadora de gestión de datos de investigación en la Humboldt-Universität en Berlín, Alemania. En mi calidad de consultora, asisto a investigadores en la gestión de sus datos de investigación y organizo sesiones de capacitación y de información.
 
-Para mí, el mayor desafío con la capacitación científica abierta es mostrar a los investigadores que la Ciencia Abierta es más que un objetivo político o una responsabilidad moral. Es esencial mostrar que hay niveles de Ciencia Abierta. Uno puede comenzar con un pequeño paso sin tener que abrirse completamente de un día para otro. En mis capacitaciones, me gusta especialmente la mezcla de diversos  antecedentes, disciplinas y conocimiento previo, esto hace que la formación sea vuelva aún más interesante. Recuerdo un curso de capacitación en particular: un participante \(un académico\) registró un ORCID en el lugar mientras yo hablaba sobre las ventajas de los identificadores persistentes.
+Para mí, el mayor desafío con la capacitación científica abierta es mostrar a los investigadores que la Ciencia Abierta es más que un objetivo político o una responsabilidad moral. Es esencial mostrar que hay niveles de Ciencia Abierta. Uno puede comenzar con un pequeño paso sin tener que abrirse completamente de un día para otro. En mis cursos de capacitación, me gusta especialmente la mezcla de diversos  antecedentes, disciplinas y conocimiento previo, esto hace que la formación sea vuelva aún más interesante. Recuerdo un curso de capacitación en particular: un participante \(un académico\) registró un ORCID en el lugar mientras yo hablaba sobre las ventajas de los identificadores persistentes.
 
 
 ### Bianca Kramer
@@ -121,7 +121,7 @@ Como estudiante graduado, con frecuencia enfrenté obstáculos en mi investigaci
 
 Fotis es bioinformático en el Institute of Applied Biosciences \(INAB \ | CERTH \) en Salónica, Grecia. Obtuvo su doctorado en Ingeniería Eléctrica e Informática en 2010 con un enfoque en Bioinformática e e-infraestructuras, y una apreciación particular de los métodos abiertos y reproducibles. Pasa un tiempo significativo en actividades de capacitación, tanto dentro de las estructuras académicas formales como a través de las Carpinterías como Instructor y Formador certificados. En su sitio Web divaga sobre esto y lo otro.
 
-Convencer a la gente de que pasar un tiempo extra para armar un cuaderno Jupyter con todo el texto, las notas, los scripts y los datos almacenados en diversad carpetas "polvorientas" y olvidadas en su computadora, en realidad les ayudará a organizarse un poco más. \ #salvicultoras \ #reproducibilidad
+Convencer a la gente de que pasar un tiempo extra para armar un cuaderno Jupyter con todo el texto, las notas, los scripts y los datos almacenados en diversas carpetas "polvorientas" y olvidadas en su computadora, en realidad les ayudará a organizarse un poco más. \ #salvicultoras \ #reproducibilidad
 
 
 ### Tony Ross-Hellauer
@@ -131,9 +131,9 @@ Convencer a la gente de que pasar un tiempo extra para armar un cuaderno Jupyter
 * [@tonyR\_H](https://twitter.com/tonyR_H)
 * [0000-0003-4470-7027](https://orcid.org/0000-0003-4470-7027)
 
-Tony Ross-Hellauer es Investigador Senior \(Open Science\) en Know-Center, Graz, Austria. Tiene un doctorado en Estudios en Ciencias de la Información \(University of Glasgow, 2012\) y es un entusiasta defensor de Acceso Abierto y la Ciencia Abierta. Sus intereses de investigación incluyen la revisión por pares, metadatos y filosofía/historia de la tecnología.
+Tony Ross-Hellauer es Investigador Senior \(Open Science\) en el Know-Center, Graz, Austria. Tiene un doctorado en Estudios en Ciencias de la Información \(University of Glasgow, 2012\) y es un entusiasta defensor de Acceso Abierto y la Ciencia Abierta. Sus intereses de investigación incluyen la revisión por pares, metadatos y filosofía/historia de la tecnología.
 
-Si bien la creación y el impartir capacitación es muy desalentador, capacitar a otros, no solo para hacer Ciencia Abierta sino también para vean el valor de ello en su investigación diaria, es uno de los aspectos más gratificantes de trabajar en esta área. Es muy emocionante ver como instructor cuando los alumnos se comprometen a compartir sus propias experiencias y puedes sentir, cómo son capaces de relacionar sus nuevos conocimientos con estas experiencias.
+Si bien la creación y el impartir capacitación es muy desalentador, capacitar a otros, no solo para hacer Ciencia Abierta sino también para que vean el valor de ello en su investigación diaria, es uno de los aspectos más gratificantes de trabajar en esta área. Es muy emocionante ver como instructor cuando los alumnos se comprometen a compartir sus propias experiencias y puedes sentir, cómo son capaces de relacionar sus nuevos conocimientos con estas experiencias.
 
 
 ### René Schneider
@@ -159,7 +159,7 @@ Descubrí el campo de la gestión de datos de investigación no hace mucho tiemp
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Jon Tennant](http://img.youtube.com/vi/KbD-CdhgC9A/0.jpg)](http://www.youtube.com/watch?v=KbD-CdhgC9A "Writing the Open Science Training Handbook - an author's perspective by Jon Tennant")
 
-Jon terminó su doctorado en Paleontología en el Imperial College de Londres en 2017 y se convirtió en el Director de Comunicaciones de Ciencia Abierta durante dos años en 2015. Ahora, continúa de forma independiente su investigación sobre la evolución de los dinosaurios, mientras trabaja en la construcción de un MOOC de Ciencia Abierta para ayudar a capacitar a la próxima generación de investigadores en prácticas en abierto. Ha publicado artículos sobre acceso abierto y revisión por pares. Actualmente dirige el desarrollo del documento Foundations for Open Science Strategy y es el fundador de la plataforma de publicación digital paleorXiv. Jon es también embajador de ASAPbio y el Center for Open Science, un mentor del Liderazgo Abierto de Mozilla y el movilizador de la reunión de Ciencia Abierta de Berlín. También es un comunicador y consultor científico independiente, y ha escrito un libro para niños llamado Excavate Dinosaurs.
+Jon terminó su doctorado en Paleontología en el Imperial College de Londres en 2017 y se convirtió en el Director de Comunicaciones de Ciencia Abierta durante dos años en 2015. Ahora, continúa de forma independiente su investigación sobre la evolución de los dinosaurios, mientras trabaja en la construcción de un MOOC de Ciencia Abierta para ayudar a capacitar a la próxima generación de investigadores en prácticas en abierto. Ha publicado artículos sobre acceso abierto y revisión por pares. Actualmente dirige el desarrollo del documento Foundations for Open Science Strategy y es el fundador de la plataforma de publicación digital paleorXiv. Jon es también embajador de ASAPbio y el Center for Open Science, un mentor del Liderazgo Abierto de Mozilla y organizador  de la reunión de Ciencia Abierta de Berlín. También es un comunicador y consultor científico independiente, y ha escrito un libro para niños llamado Excavate Dinosaurs.
 
 Creo que el aspecto más desafiante de la Ciencia Abierta es la educación. Es un paradigma enormemente complejo, con su propio léxico, prácticas, principios y en muchos casos, representa una curva de aprendizaje bastante alta. Sin embargo, ver a otros desarrollar sus conocimientos y habilidades es increíblemente gratificante, y también me encuentro aprendiendo más con cada nueva experiencia. En última instancia, todos tenemos lo mismo en mente: un sistema de investigación científica más justo, más equitativo, transparente y riguroso, y observar los enormes pasos que la comunidad mundial de investigación, y especialmente las generaciones más jóvenes, están dando hacia esto es muy inspirador.
 
@@ -176,7 +176,7 @@ Ellen es bibliotecaria con una larga experiencia en la Facultad de Bibliotecolog
 ¿Dónde estaríamos sin capacitación? ¡Necesitamos estar al tanto de todos los aspectos de la Ciencia Abierta y ser capaces de entusiasmar a muchos otros! Este Manual ayuda a los educadores a hacer que su capacitación sea más efectiva para que la Ciencia Abierta se vuelva un estándar.
 
 
-## Authors at the sprint event remotely
+## Autores, participantes de forma remota
 
 ### April Clyburne-Sherin
 
@@ -187,10 +187,10 @@ Ellen es bibliotecaria con una larga experiencia en la Facultad de Bibliotecolog
 
 April es epidemióloga, metodóloga y experta en herramientas científicas abiertas, métodos, capacitación y gestión de comunidades científicas. Posee  una maestría en medicina poblacional (epidemiología). Desde 2014, se ha centrado en la capacitación de científicos en métodos de investigación en abierto y reproducibles \(Center for Open Science, Sense About Science, SPARC\). En su rol actual de Outreach Scientist, capacita a científicos en las mejores prácticas de reproducibilidad computacional utilizando Code Ocean.
 
-He tenido la suerte de ganarme la vida formando a otros científicos sobre cómo mejorar la ciencia. Mi comunidad de apoyo crece con cada taller y espero que este manual pueda ayudar a que crezca la comunidad de capacitación de investigación en abierto. Las conversaciones sobre investigación abierta a menudo ocurren en \(echo-chambers\) de investigadores bien intencionados \(como yo\) y bibliotecarios con visiones del mundo similares.  La capacitación en investigación en abierto puede ser igualmente parcelada con las perspectivas del Norte y Occidente cuando son enseñadas como si fueran universales. (Training in open research can be similarly siloed with Western or Northern perspectives being taught as though universal). Añadir contexto y nuevas perspectivas para abrir las conversaciones de investigación es la única manera de hacer que el conocimiento funcione para todos. El contenido que capturamos durante este Manual está limitado por nuestras propias experiencias, pero a medida que otros autores agregan y editan según sus propias experiencias, podemos apuntar a un manual que pueda mejorar la forma en que hablamos y capacitamos a otros en la investigación en abierto.
+He tenido la suerte de ganarme la vida formando a otros científicos sobre cómo mejorar la ciencia. Mi comunidad de apoyo crece con cada taller y espero que este manual pueda ayudar a que crezca la comunidad de capacitación de investigación en abierto. Las conversaciones sobre investigación abierta a menudo ocurren en \(echo-chambers\) de investigadores bien intencionados \(como yo\) y bibliotecarios con visiones del mundo similares.  La capacitación en investigación en abierto puede ser igualmente parcelada con las perspectivas del Norte y Occidente cuando se enseñan como si fueran universales (Training in open research can be similarly siloed with Western or Northern perspectives being taught as though universal). Añadir contexto y nuevas perspectivas para abrir las conversaciones de investigación es la única manera de hacer que el conocimiento funcione para todos. El contenido que capturamos durante este Manual está limitado por nuestras propias experiencias, pero a medida que otros autores agregan y editan según sus propias experiencias, podemos apuntar a un manual que pueda mejorar la forma en que hablamos y capacitamos a otros en la investigación en abierto.
 
 
-## Facilitators on site
+## Facilitadores en vivo
 
 [![Video - Writing the Open Science Training Handbook - Helene Brinken and Lambert Heller](http://img.youtube.com/vi/on49K7y8Mlk/0.jpg)](http://www.youtube.com/watch?v=on49K7y8Mlk "Writing the Open Science Training Handbook - an author's perspective by Helene Brinken and Lamber Heller")
 
@@ -201,7 +201,7 @@ He tenido la suerte de ganarme la vida formando a otros científicos sobre cómo
 * [@helenebrinken](https://twitter.com/helenebrinken)
 * [0000-0002-3278-0422](https://orcid.org/0000-0002-3278-0422)
 
-Desde mayo de 2017 es responsable de la difusión y promoción del Proyecto Foster en la Göttingen University. Su formación es en Ciencias de la Información con énfasis en e-learning, usabilidad y experiencia de usuarios. Desarrolla materiales de aprendizaje y es facilitadora de Talleres de capacitación.
+Desde mayo de 2017 es responsable de la difusión y promoción del Proyecto Foster+ en la Universidad de Göttingen. Su formación es en Ciencias de la Información con énfasis en e-learning, usabilidad y experiencia de usuarios. Desarrolla materiales de aprendizaje y es facilitadora de Talleres de capacitación.
 
 Antes de trabajar para FOSTER, trabajé con jóvenes activistas comprometidos con la educación mundial y contra la injusticia social. Aprendí lo importante que es la dinámica de grupo y lo que se puede lograr al combinar fuerzas. El cambio cultural comienza a nivel de los individuos. Reunir a investigadores interesados en Ciencia Abierta puede ser un gran paso hacia el fomento de la Ciencia Abierta en una institución. Si reciben apoyo, conozcan a otros entusiastas y descubran cuan pronto podrán ser ellos mismos los multiplicadores.
 
@@ -289,7 +289,6 @@ Es Magister en Psicología Cognitiva y Aprendizaje (UAM) y Profesor en Psicolog�
 * [@rosariorogel](https://twitter.com/rosariorogel)
 * [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)
 
-Traductora y revisora de la traducción al español
 
 * Socióloga, doctora en Ciencias Sociales, especialista en teoría social de sistemas, procesos editoriales científicos, acceso abierto y comunicación científica temas acerca de los cuales cuenta con diversas publicaciones en libros y revistas especializadas. Profesora de la Facultad de Ciencias Políticas y Sociales en la Universidad Autónoma del Estado de México e Investigadora visitante en la Dirección General de Cómputo y de Tecnologías de Información y Comunicación UNAM.
 
