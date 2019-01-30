@@ -33,7 +33,7 @@ Al compartir cualquier contenido abierto, no basta con adjuntar una licencia, ta
 ### Componentes clave
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Conocimeinto y Habilidades
+#### Conocimiento y Habilidades
 
 Se necesitan conceptos básicos de derechos de autor para comprender cómo funcionan las licencias. Dado que las leyes de derechos de autor no están armonizadas internacionalmente, usted debe consultar las leyes aplicables en su contexto.
 
