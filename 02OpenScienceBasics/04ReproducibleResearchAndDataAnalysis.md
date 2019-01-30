@@ -43,7 +43,7 @@ Esto es distinto de  la replicabilidad: "que se refiere a la habilidad de un inv
 La reproducibilidad puede ser evaluada a diferentes niveles: a nivel de proyecto individual \(por ej., un artículo, un experimento, un método o un set de datos\), de un investigador individual, a un laboratorio o grupo de investigación, a una institución o incluso una disciplina. A cada uno de estos diferentes niveles podrían aplicarse distintos tipos de criterios y puntos de evaluación levemente diferentes. Por ejemplo, una institución apoya las prácticas de reproducibilidad si establece políticas que recompensan a los investigadores que desarrollan investigaciones de modo reproducible. Por otro lado, se puede considerar que un campo de investigación posee un mayor nivel de reproducibilidad si desarrolla recursos que promueven y permiten prácticas de investigación reproducible mantenidos por la comunidad, como repositorios de datos o estándares comunes para el intercambio de datos.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Objetivos de aprendizaje
+### Objetivos del aprendizaje
 
 Hay tres objetivos principales que deben ser abordados aquí:
 
@@ -84,7 +84,7 @@ Hay distintos consejos prácticos sobre reproducibilidad que se deben tener en c
 
 ###### Crea un plan de estudio o protocolo.
 
-Comienza la documentación desde el inicio de un estudio escribiendo un plan de estudio o protocolo que incluya el diseño y los métodos propuestos. Usa la guía directriz para el reporte de [Equator Network](http://www.equator-network.org/) si aplica. Haz un seguimiento de los cambios en tu plan de estudio o protocolo utilizando el control de versiones \(referencia a Control de versiones \). Calcula el poder o tamaño de muestra necesario y reporta este cálculo en tu protocolo, dado que los estudios de bajo poder estadístico son proclives a la irreproducibilidad.
+Comienza la documentación desde el inicio de un estudio escribiendo un plan de estudio o protocolo que incluya el diseño y los métodos propuestos. Usa la guía directriz para el informe de [Equator Network](http://www.equator-network.org/) si corresponde. Haz un seguimiento de los cambios en tu plan de estudio o protocolo utilizando el control de versiones \(referencia a Control de versiones \). Calcula el poder o tamaño de muestra necesario y aporta este cálculo en tu protocolo, dado que los estudios de bajo poder estadístico son proclives a la irreproducibilidad.
 
 ###### Elige herramientas y materiales reproducibles
 
@@ -124,19 +124,19 @@ Evita archivos suplementarios, decide utilizar una licencia permisiva y comparte
 
 ###### Materiales
 
-Comparte tus materiales de modo que puedan ser reutilizados. Deposita los reactivos en repositorios como [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), y [ATCC](https://www.atcc.org/) para hacer que sean fácilmente accesibles para otros investigadores. Para mayor información, mira la subsección de Datos y materiales de investigación abiertos.
+Comparte tus materiales de modo que puedan ser reutilizados. Deposita repositorios como [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), y [ATCC](https://www.atcc.org/) para hacer que sean fácilmente accesibles para otros investigadores. Para mayor información, mira la subsección de Datos y materiales de investigación abiertos.
 
 ###### Software, cuadernos de notas y contenedores
 
 Licencia tu código para informar cómo puede ser \(re\)utilizado. Comparte cuadernos con servicios como [mybinder](http://mybinder.org), que permiten la vista y ejecución pública de cuadernos de notas completos que hubieran sido compartidos. Comparte contenedores o cuadernos con servicios como [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). Sigue las mejores prácticas indicadas en Software de investigación abierto y Código Abierto.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
-##### **4. Reporta tu investigación de modo transparente**
+##### **4. Publica tu investigación de modo transparente**
 
-Reporta y publica tus métodos e intervenciones de modo explícito, transparente, y completo para permitir su reproducción. Las guías de la [Equator Network](http://www.equator-network.org/), herramientas como [Protocols.io](https://www.protocols.io/), o procesos como [Registered Reports](https://cos.io/rr/) pueden ayudarte a reportar la reproducibilidad. Recuerda publicar tus resultados en tu plataforma de registro público \(como [ClinicalTrials.gov](https://www.socialscienceregistry.org/) o el [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) dentro del año de terminado tu estudio, sin importar la naturaleza o rumbo de tus resultados.
+Informa y publica tus métodos e intervenciones de modo explícito, transparente, y completo para permitir su reproducción. Las guías de la [Equator Network](http://www.equator-network.org/), herramientas como [Protocols.io](https://www.protocols.io/), o procesos como [Registered Reports](https://cos.io/rr/) pueden ayudarte a reportar la reproducibilidad. Recuerda publicar tus resultados en tu plataforma de registro público \(como [ClinicalTrials.gov](https://www.socialscienceregistry.org/) o el [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) dentro del año de finalización de tu estudio, sin importar la naturaleza o rumbo de tus resultados.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos y equivocaciones comunes
+### Preguntas, obstáculos y malas interpretaciones  comunes
 
 Q: "Todo está en el papel; cualquiera puede reproducirlo desde allí!"
 
@@ -151,7 +151,7 @@ Q: "Las terminologías que describen la reproducibilidad son desafiantes."
 A: Mira Barba \(2018\) para una discusión sobre la terminología que describe la reproducibilidad y la replicabilidad.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Resultados de aprendizaje
+### Resultados del aprendizaje
 
 1. Entender la necesidad de una investigación reproducible y sus fundamentos.
 
@@ -160,7 +160,7 @@ A: Mira Barba \(2018\) para una discusión sobre la terminología que describe l
 3. Conocer herramientas que pueden contribuyen con la investigación reproducible.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Lecturas adicionales
+### Lecturas complementarias
 
 * Calcula tu poder: [Button et al. \(2013\) study of the relationship between reproducibility and power.](https://www.nature.com/articles/nrn3475)
 
