@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
 # Acerca de los autores, facilitadores y traductores de la versión al español
 
-## Autores del manual abierto y viviente
+## Autores del manual
 
 ### Sonja Bezjak
 
@@ -13,7 +13,7 @@
 
 En el Archivo de Datos de Ciencias Sociales, me dedico principalmente a temas relacionados con el acceso abierto a los datos de investigación. Una de mis funciones es capacitar a las diferentes partes interesadas en políticas de datos de investigación, planificación de la gestión de datos de investigación, citación de datos, publicaciones de datos, etc. Como miembro del grupo de capacitación CESSDA ERIC, trato de compartir mi conocimiento y experiencia a nivel internacional.
 
-Cuando estudiaba sociología me enseñaron sobre los valores de la ciencia, incluidos la transparencia y la reproducibilidad. Pero solo tiempo después, aprendí de mis amigos, un físico y un ingeniero, acerca del movimiento de código abierto. Comprendí de inmediato la importancia de difundir la idea de no ocultar tus hallazgos y compartir el conocimiento con los demás tan pronto como sea posible. Solo cuando comencé a trabajar en el Archivo de Datos de Ciencias Sociales (Universidad de Ljubljana, Eslovenia) y me involucré en el proyecto de datos abiertos, me di cuenta de cuánto esfuerzo se necesitaba para cambiar la cultura y poder superar las barreras de no compartir abiertamente los resultados de la investigación. Espero que este Manual ayude a hacer que la ciencia sea lo más abierta y comprensible posible.
+Cuando estudiaba sociología me enseñaron sobre los valores de la ciencia, incluidos la transparencia y la reproducibilidad. Pero solo un tiempo después, aprendí de mis amigos, un físico y un ingeniero, acerca del movimiento de código abierto. Comprendí de inmediato la importancia de difundir la idea de no ocultar tus hallazgos y compartir el conocimiento con los demás tan pronto como sea posible. Solo cuando comencé a trabajar en el Archivo de Datos de Ciencias Sociales (Universidad de Ljubljana, Eslovenia) y me involucré en el proyecto de datos abiertos, me di cuenta de cuánto esfuerzo se necesitaba para cambiar la cultura y poder superar las barreras de no compartir abiertamente los resultados de la investigación. Espero que este Manual ayude a hacer que la ciencia sea lo más abierta y comprensible posible.
 
 
 ### Philipp Conzett
@@ -51,7 +51,7 @@ La Ciencia Abierta es una actitud que requiere un gran paso a nivel educacional 
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Edit Görögh](http://img.youtube.com/vi/4OOSU4V__RQ/0.jpg)](http://www.youtube.com/watch?v=4OOSU4V__RQ "Writing the Open Science Training Handbook - an author's perspective by Edit Görögh")
 
-Actualmente trabajo en la Universidad de Göttingen como oficial de proyectos para OpenUP, un proyecto financiado por la Unión Europea que tiene como objetivo desarrollar un marco coherente para nuevos métodos, indicadores y herramientas para la revisión por pares, la difusión de resultados de investigación y la medición de impacto. He estado involucrada en programas realacionados a la gestión del conocimiento y con el acceso abierto y ciencia abierta durante más de 10 años.
+Actualmente trabajo en la Universidad de Göttingen como gestor del proyecto OpenUP, un proyecto financiado por la Unión Europea que tiene como objetivo desarrollar un marco coherente para nuevos métodos, indicadores y herramientas para la revisión por pares, la difusión de resultados de investigación y la medición de impacto. He estado involucrada en programas realacionados a la gestión del conocimiento y con el acceso abierto y ciencia abierta durante más de 10 años.
 
 Trabajando para proyectos de Ciencia Abierta, tuve la oportunidad de conocer tanto a la comunidad diversa de defensores de la Ciencia Abierta, como a los reticentes y escépticos grupos de investigadores y tomadores de decisiones, que me instaron a sumergirme más en el discurso sobre la Ciencia Abierta y seguir los desarrollos y aprender sobre las herramientas y los métodos para hablar de manera más  efectiva sobre los beneficios y desafíos que enfrentamos en el mundo cambiante de la comunicación ciéntífica y de la investigación.
 
