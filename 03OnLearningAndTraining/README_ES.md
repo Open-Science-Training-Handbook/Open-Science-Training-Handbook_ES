@@ -276,7 +276,7 @@ La creación de tu curso estará impulsada por la planificación de los objetivo
 
 #### Planificación basada en objetivos más que en resultados
 
-SMART es una técnica interesante para especificar metas / objetivos que también es utilizada en la gestión de proyectos. SMART es un acrónimo para cinco criterios: Simple - Medible - Ambicioso - Realista - a Tiempo (Simple – Measurable – Ambitious – Realistic – Timed en inglés).
+SMART es una técnica interesante para especificar metas u objetivos que también es utilizada en la gestión de proyectos. SMART es un acrónimo para cinco criterios: Simple - Medible - Ambicioso - Realista - a Tiempo (Simple – Measurable – Ambitious – Realistic – Timed en inglés).
 
 * Tu objetivo es **simple** si puede ser comprendido por una persona que no está familiarizada con el tema. Es decir que puedes explicar a tus alumnos, de antemano, qué es lo que van a aprender. Por lo general, es una buena idea presentar tu objetivo al comienzo de una lección. Simple significa que la meta se puede resumir en no más de una oración concisa.
 
