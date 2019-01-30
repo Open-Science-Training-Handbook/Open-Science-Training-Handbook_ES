@@ -15,7 +15,7 @@ Un formato de archivo es una forma estándar en que la información se codifica 
 
 La aplicación de una licencia abierta a un trabajo científico (ya sea un artículo, un conjunto de datos u otro tipo de resultados de investigación) es una forma para que el titular de los derechos de autor exprese las condiciones bajo las cuales se puede acceder, reutilizar y modificar el trabajo.
 
-Es importante saber que una licencia se basa en las regulaciones de derechos de autor existentes. En otras palabras: usted solo puede autorizar el contenido si es el propietario de los derechos y no puede autorizar ninguna forma de reutilización si no está bajo la normativa de derechos de autor existente.
+Es importante saber que una licencia se basa en las legislaciones  existentes sobre derechos de autor. En otras palabras: usted solo puede autorizar el contenido si es el propietario de los derechos y no puede autorizar ninguna forma de reutilización si no está bajo la normativa de derechos de autor correspondiente.
 
 Al compartir cualquier contenido abierto, no basta con adjuntar una licencia, también debe tener en cuenta el formato. La elección de un formato de archivo no abierto puede imposibilitar la reutilización del contenido. Por ese motivo es importante conocer las opciones disponibles al decidir en qué formato desea compartir su contenido.
 
