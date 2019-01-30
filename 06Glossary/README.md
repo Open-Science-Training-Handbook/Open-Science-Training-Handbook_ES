@@ -5,7 +5,7 @@
 **Acceso abierto** / 
 **Open Access**
 
-* El acceso abierto se refiere al acceso en línea libre y gratuito al contenido científico revisado por expertos con libertad de reusabilidad con respecto a las restricciones de derechos de autor.
+* El acceso abierto se refiere al acceso en línea libre y gratuito al contenido científico revisado por expertos y libres toal o parcialmente de restricciones relacionadas con los derechos de autor.
 
 
 **Altmétricas** / 
@@ -64,7 +64,7 @@
 **Conductismo (Teoría del aprendizaje)** / 
 **Behaviorism (Learning Theory)**
 
-* El conductismo se refiere al aprendizajeque se rige por el ejercicio práctico y se realiza a través de los estímulos a los que responden los alumnos. Generalmente esto significa que se pide al alumno que haga un ejercicio para el cual hay una respuesta clara o un camino claro a seguir. La evaluación es clara y se puede llevar a cabo fácilmente con la ayuda de métricas simples.
+* El conductismo se refiere al aprendizaje que se rige por el ejercicio práctico y se realiza a través de los estímulos a los que responden los alumnos. Generalmente esto significa que se pide al alumno que haga un ejercicio para el cual hay una respuesta clara o un camino claro a seguir. La evaluación es clara y se puede llevar a cabo fácilmente con la ayuda de métricas simples.
 
 
 **Connectivismo** / 
@@ -92,13 +92,13 @@
 
 **Creative Commons**
 
-* Conjunto de licencias estandarizadas que permiten a los titulares de derechos de autor otorgar algunos derechos a los usuarios de forma predeterminada. Las licencias CC son ampliamente utilizadas, fáciles de usar, legibles por máquina y han sido creadas por expertos legales. Hay diversos tipos de licencias CC, cada una de ellas incluye difernetes cláusulas. Algunas licencias son compatibles con el acceso abierto tal y como se entiende según la Declaración de Budapest (CC0 o aquellas que llevan las cláusulas BY, SA y ND), y otras no (con la cláusula NC).
+* Conjunto de licencias estandarizadas que permiten a los titulares de derechos de autor otorgar algunos derechos a los usuarios de forma predeterminada. Las licencias CC son ampliamente utilizadas, fáciles de usar, legibles por máquina y han sido creadas por expertos legales. Hay diversos tipos de licencias CC, cada una de ellas incluye diferentes cláusulas. Algunas licencias son compatibles con el acceso abierto tal y como se entiende según la Declaración de Budapest (CC0 o aquellas que llevan las cláusulas BY, SA y ND), y otras no (con la cláusula NC).
 
 
 **Cuadernos de laboratorio abiertos** / 
 **Open Lab Notebooks**
 
-* Se refiere al concepto de escribir regularmente sobre la investigación, de manera que las notas de investigación y los datos se acumulen y se publiquen en línea tan pronto como se obtengan.
+* Se refiere al concepto de escribir regularmente durante la investigación, de manera que las notas de investigación y los datos se acumulen y se publiquen en línea tan pronto como se obtengan.
 
 
 **Curriculum**
@@ -121,7 +121,7 @@
 **Datos FAIR** / 
 **FAIR Data**
 
-* Los datos FAIR (de acuerdo con [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) y según lo publicado en [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) son datos Encontrables, Accesibles, Interoperables y Reutilizables, con el fin de facilitar el descubrimiento de conocimiento con o sin ayuda de operadores humanos, así como el acceso, integración y análisis de datos científicos relevantes, y de los algoritmos y flujos de trabajo asociados a los mismos.
+* Los datos FAIR (de acuerdo con [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) y según lo publicado en [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) son datos Localizables, Accesibles, Interoperables y Reutilizables, con el fin de facilitar el descubrimiento de conocimiento con o sin ayuda de operadores humanos, así como el acceso, integración y análisis de datos científicos relevantes, y de los algoritmos y flujos de trabajo asociados a los mismos.
 
 
 **Documentación** / 
@@ -148,7 +148,7 @@
 * Un instituto, corporación o entidad gubernamental que proporciona asistencia financiera para la investigación.
 
 
-**Formato de archivo persistente/preferido** / 
+**Formatos de archivo persistente/preferido** / 
 **Persistent/Preferred File Formats**
 
 * Formatos no propietarios que siguen estándares internacionales documentados, y que son comúnmente utilizados por la comunidad de investigación, utilizan la codificación de caracteres estándar (por ejemplo, ASCII, UTF-8), y la compresión, si se usa, no ocasiona pérdidas.
@@ -254,7 +254,7 @@
 *	Un proceso mediante el cual un artículo de investigación es examinado por expertos de la comunidad antes de su publicación.
 
 
-**Revisión por pares en abierto** / 
+**Revisión por pares abierta** / 
 **Open Peer Review**
 
 *	Un término general que se refiere a una serie de formas superpuestas en que los modelos de revisión por pares se pueden adaptar de acuerdo con los objetivos de la ciencia abierta, que incluyen la apertura de identidades de revisores y autores, la publicación de informes de revisión y la habilitación de una mayor participación en el proceso de revisión por pares.
