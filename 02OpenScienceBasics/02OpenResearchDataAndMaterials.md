@@ -8,21 +8,21 @@ Los datos de investigación abiertos son datos de acceso gratuito que pueden ser
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
 ### Justificación
 
-Los datos de investigación son a menudo el producto más valioso de los proyectos de investigación, pues se utilizan como fuente primaria para sustentar la investigación científica y permitir la derivación de hallazgos teóricos o aplicados. Para hacer que los hallazgos/estudios sean replicables, o al menos reproducibles o reutilizables de otra forma \(consulta la sección sobre Investigación reproducible y análisis de datos\), la recomendación de buenas prácticas es que los datos de investigación sean tan abiertos y tan   \[FAIR](https://www.force11.org/fairprinciples) como sea posible, teniendo en cuenta las limitaciones éticas y comerciales y las restricciones de privacidad de los datos confidenciales o privados.
+Los datos de investigación son a menudo el producto más valioso de los proyectos de investigación, pues se utilizan como fuente primaria para sustentar la investigación científica y permitir la derivación de hallazgos teóricos o aplicados. Para hacer que los hallazgos/estudios sean replicables, o al menos reproducibles o reutilizables de otra forma \(consulta la sección sobre Investigación reproducible y análisis de datos\), la recomendación de buenas prácticas es que los datos de investigación sean tan abiertos y tan   \([FAIR](https://www.force11.org/fairprinciples)\) como sea posible, teniendo en cuenta las limitaciones éticas y comerciales y las restricciones de privacidad de los datos confidenciales o privados.
 
 ![](/Images/Icons/finish.png)
 
 ### Objetivos del aprendizaje
 
-1. Obtener una comprensión de las características y principios básicos de los datos de investigación abiertos y datos FAIR \(_FAIR_\), incluyendo el empaquetado y la documentación apropiados, para permitir que otros los entiendan, reproduzcan y reutilicen de maneras alternativas.
+1. Obtener una comprensión de las características y principios básicos de los datos de investigación abiertos y datos FAIR \(_FAIR_\), incluyendo el empaquetado y la documentación apropiados, para permitir que otros los entiendan, reproduzcan y reutilicen de distintas maneras.
 
 2. Familiarizarse con los tipos de datos que pueden considerarse confidenciales y las restricciones legales para compartirlos en abierto.
 
-3. Ser capaz de convertir un conjunto de datos "cerrado" en uno "abierto" mediante la implementación de las medidas necesarias en un plan de gestión de datos, administrando adecuadamente los datos y metadatos.
+3. Ser capaz de convertir un conjunto de datos "cerrado" en uno "abierto" mediante la implementación de las medidas necesarias plasmadas en un plan de gestión de datos, administrando adecuadamente los datos y metadatos.
 
-4. Ser capaz de utilizar un plan de gestión de datos de investigación y hacer que los resultados de tu investigación sean encontrables y accesibles, incluso si contienen datos confidenciales.
+4. Ser capaz de utilizar un plan de gestión de datos de investigación y hacer que los resultados de tu investigación sean localizables y accesibles, incluso si contienen datos confidenciales.
 
-5. Comprender las ventajas y desventajas de compartir en abierto diferentes tipos de datos \(por ejemplo, referidas a la privacidad, confidencialidad, des-identificación, y acceso mediado\).
+5. Comprender las ventajas y desventajas de compartir en abierto diferentes tipos de datos \(por ejemplo, referidas a la privacidad, confidencialidad, anoimización, y acceso mediado\).
 
 6. Comprender la importancia de la adecuación de los metadatos para el archivo sostenible de datos de investigación.
 
@@ -30,28 +30,28 @@ Los datos de investigación son a menudo el producto más valioso de los proyect
 
 ### Componentes clave
 
-#### Habilidades de conocimiento
+#### Conocimiento y habilidades
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
-##### Principios justos \(_FAIR principles_\)
+##### Principios FAIR \(_FAIR principles_\)
 
-En 2014 se redactó un conjunto nuclear de principios para optimizar la reutilización de los datos de investigación. Fue denominado [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). Los principios representan un conjunto de directrices y buenas prácticas desarrolladas por la comunidad para garantizar que los datos \(o cualquier objeto digital\) sean _**F**indable_ \(encontrables\), _**A**ccessible_ \(accesibles\), _**I**nteroperable_ \(interoperables\) y _**R**e-usable_ \(reutilizables\):
+En 2014 se redactó un conjuntode principios para optimizar la reutilización de los datos de investigación. Fue denominado [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). Los principios representan un conjunto de directrices y buenas prácticas desarrolladas por los propios académicos  para garantizar que los datos \(o cualquier objeto digital\) sean _**F**indable_ \(localizables\), _**A**ccessible_ \(accesibles\), _**I**nteroperable_ \(interoperables\) y _**R**e-usable_ \(reutilizables\):
 
-**Encontrables:** Para que los datos sean reutilizables, primero deben poder ser encontrados. Debería ser fácil encontrar los datos y los metadatos tanto para humanos como para computadoras. El descubrimiento automático y confiable de conjuntos de datos y servicios depende de los identificadores persistentes \(PIDs\) legibles por máquinas y de los metadatos.
+**Localizables:** Para que los datos sean reutilizables, primero se deben localizar. Debería ser fácil encontrar los datos y los metadatos tanto para humanos como para las computadoras. El descubrimiento automático y fiable de conjuntos de datos y servicios depende de los identificadores persistentes \(PIDs\) legibles por máquinas y de sus  metadatos.
 
-**Accesibles:** Los datos y metadatos deberían poder ser recuperados mediante su identificador utilizando un protocolo de comunicaciones abierto y estandarizado, que posiblemente incluya autenticación y autorización. Además, los metadatos deberían estar disponibles incluso si los datos ya no están disponibles.
+**Accesibles:** Los datos y metadatos deberían poder ser recuperados mediante su identificador utilizando un protocolo de comunicaciones abierto y estandarizado, que posiblemente incluya autenticación y autorización. Además, los metadatos deberían estar disponibles incluso si los datos ya no lo están.
 
-**Interoperables:** Los datos deberían poder combinarse y usarse con otros datos o herramientas. Por lo tanto, el formato de los datos debe ser abierto e interpretable para varias herramientas, incluyendo otros registros de datos. El concepto de interoperabilidad se aplica tanto en el nivel de los datos como en el de los metadatos. Por ejemplo, los \(meta\)datos deberían emplear un vocabulario que siga los principios FAIR.
+**Interoperables:** Los datos deberían poder combinarse y usarse con otros datos o herramientas. Por lo tanto, el formato de los datos debe ser abierto e interpretable por distintas herramientas, incluyendo otros registros de datos. El concepto de interoperabilidad se aplica tanto en el nivel de los datos como en el de los metadatos. Por ejemplo, los \(meta\)datos deberían emplear un vocabulario que siga los principios FAIR.
 
-**Re-utilizable:** En última instancia, FAIR busca optimizar la reutilización de datos. Para lograr esto, los metadatos y datos deben estar bien descritos de modo que puedan ser replicados y/o combinados en diferentes entornos. Además, la reutilización de los \(meta\)datos debe estar indicada a través de licencias claras y accesibles.
+**Reutilizable:** En última instancia, los principios FAIR buscan optimizar la reutilización de los datos. Para lograr esto, los metadatos y los datos deben estar bien descritos de modo que puedan ser replicados y/o combinados en diferentes entornos. Además, la reutilización de los \(meta\)datos debe estar indicada a través de licencias claras y accesibles.
 
-A diferencia de las iniciativas de pares que se centran en el investigador humano, los principios FAIR ponen un énfasis específico en mejorar la capacidad de las máquinas para encontrar y utilizar automáticamente los datos o cualquier objeto digital, además de apoyar su reutilización por parte de individuos. Los principios FAIR son principios rectores, no estándares. FAIR describe las cualidades o comportamientos necesarios para hacer que los datos sean reutilizables al máximo \(por ejemplo: descripción, cita\). Esas cualidades se pueden lograr con diferentes estándares.
+A diferencia de las iniciativas entre pares que se centran en el investigador como humano, los principios FAIR ponen un énfasis específico en mejorar la capacidad de las máquinas para encontrar y utilizar automáticamente los datos o cualquier objeto digital, además de apoyar su reutilización por parte de los individuos. Los principios FAIR son principios rectores, no estándares. FAIR describe las cualidades o comportamientos necesarios para hacer que los datos sean reutilizables al máximo \(por ejemplo: descripción, cita\). Esas cualidades se pueden lograr con diferentes estándares.
 
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png)
 
 ##### Publicación de datos
 
-La mayoría de los investigadores está más o menos familiarizada con la publicación en Acceso Abierto de artículos de investigación y libros \(véase el capítulo 5\). Más recientemente, y por las razones mencionadas anteriormente, la publicación de datos ha cautivado la atención. Cada vez más patrocinadores esperan que los datos producidos en los proyectos de investigación que financian sean fáciles de encontrar, accesibles y lo más abiertos que sea posible.
+La mayoría de los investigadores está más o menos familiarizada con la publicación en Acceso Abierto de artículos de investigación y libros \(véase el capítulo 5\). Más recientemente, y por las razones mencionadas anteriormente, la publicación de datos ha cautivado la atención. Cada vez más patrocinadores esperan que los datos producidos en los proyectos de investigación que financian sean fáciles de encontrar, accesibles y lo más abiertos  posible.
 
 Hay diferentes formas para hacer que los datos de investigación sean accesibles, incluyendo \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
