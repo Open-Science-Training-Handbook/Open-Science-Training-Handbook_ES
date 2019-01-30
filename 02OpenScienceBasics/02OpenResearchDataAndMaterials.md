@@ -51,7 +51,7 @@ A diferencia de las iniciativas entre pares que se centran en el investigador co
 
 ##### Publicación de datos
 
-La mayoría de los investigadores está más o menos familiarizada con la publicación en Acceso Abierto de artículos de investigación y libros \(véase el capítulo 5\). Más recientemente, y por las razones mencionadas anteriormente, la publicación de datos ha cautivado la atención. Cada vez más patrocinadores esperan que los datos producidos en los proyectos de investigación que financian sean fáciles de encontrar, accesibles y lo más abiertos  posible.
+La mayoría de los investigadores está más o menos familiarizada con la publicación en Acceso Abierto de artículos de investigación y libros \(véase el capítulo 5\). Más recientemente, y por las razones mencionadas anteriormente, la publicación de datos ha cautivado la atención. Cada vez más los financiadores de investigación esperan que los datos producidos en los proyectos de investigación que financian sean fáciles de encontrar, sean accesibles y lo más abiertos  posible.
 
 Hay diferentes formas para hacer que los datos de investigación sean accesibles, incluyendo \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
@@ -61,11 +61,11 @@ Hay diferentes formas para hacer que los datos de investigación sean accesibles
 
 * Depositar los datos en un repositorio siseñado  para la la publicación de datos, por ejemplo, [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repositorio)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
 
-* Existen un gran número de repositorios de datos generalistas y temáticos propios d ealguna disciplina que pueden proporcionar apoyo adicional a los investigadores en el momento de depositar sus datos.
+* Existen un gran número de repositorios de datos generalistas y temáticos propios de alguna disciplina que pueden proporcionar apoyo adicional a los investigadores en el momento de depositar sus datos.
 
-* Publicar un artículo de datos \(_data paper_\) sobre el conjunto de datos, que puede publicarse como un preprint, en una revista o en una revista de datos dedicada a mantener artículos de datos. Los datos pueden ser alojados por la revista o alojados por separado en un repositorio de datos. Algunos ejemplos de revistas de datos son [Scientific Data](https://www.nature.com/sdata/) \(de SpringerNature\) y [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(de CODATA\). Para una revisión integral de las revistas de datos, consulta [Candela et al.](https://doi.org/10.1002%2Fasi.23358)
+* Publicar un artículo de datos \(_data paper_\) sobre el conjunto de datos, que puede publicarse como un preprint, en una revista o en una revista de datos dedicada a publicar artículos de datos. Los datos pueden ser alojados por la revista o alojados por separado en un repositorio de datos. Algunos ejemplos de revistas de datos son [Scientific Data](https://www.nature.com/sdata/) \(de SpringerNature\) y [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(de CODATA\). Para una revisión integral de las revistas de datos, consulta [Candela et al.](https://doi.org/10.1002%2Fasi.23358)
 
-La [Guía de Expertos en Gestión de Datos - CESSDA ERIC](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) proporciona una perspectiva de las ventajas y desventajas de las diferentes rutas para la publicación de datos. A veces, tu financiador u otro organismo externo te requerirá que utilices un repositorio específico. Si puedes elegir libremente, puedes considerar el orden de preferencia en las [recomendaciones de OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide):
+La [Guía de Expertos en Gestión de Datos - CESSDA ERIC](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) proporciona una perspectiva de las ventajas y desventajas de las diferentes rutas para la publicación de datos. A veces, tu financiador u otro organismo externo te requerirá que utilices un repositorio específico. Si puedes elegir libremente, puedes considerar el orden de preferencia sugerido en las [recomendaciones de OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide):
 
 1. Utiliza un archivo de datos externo o repositorio ya establecido en tu área de investigación para preservar los datos de acuerdo con estándares reconocidos en tu disciplina.
 
@@ -73,20 +73,20 @@ La [Guía de Expertos en Gestión de Datos - CESSDA ERIC](https://www.cessda.eu/
 
 3. Utiliza un repositorio de datos gratuito como por ejemplo [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://en.wikipedia.org/wiki/Figshare) o [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
 
-4. Busca otros repositorios de datos en [re3data](https://www.re3data.org/). No hay una única opción de filtro en re3data que cubra los principios FAIR, pero teniendo en cuenta las siguientes opciones de filtro podrás encontrar repositorios compatibles con FAIR: categorías de acceso, licencias de uso de datos, repositorios de datos confiables \(con un certificado o que adhieren explícitamente a estándares para el archivo\) y si un repositorio asigna a los datos un identificador persistente \(PID\). Otro aspecto a considerar es si el repositorio admite el control de versiones.
+4. Busca otros repositorios de datos en [re3data](https://www.re3data.org/). No hay una única opción de filtro en re3data que cubra los principios FAIR, pero teniendo en cuenta las siguientes opciones de filtro podrás encontrar repositorios compatibles con los principios FAIR: categorías de acceso, licencias de uso de datos, repositorios de datos fiables \(con un certificado,  o bien que  explícitamente mencionen los  estándares para el archivo\) y si un repositorio asigna a los datos un identificador persistente \(PID\). Otro aspecto a considerar es si el repositorio admite el control de versiones.
 
 ## <img src="/Images/Icons/archive.png" width="150" height="150" />
-Deberías considerar dónde depositar y publicar tus datos en tu plan de gestión de datos de investigación. CESSDA ofrece algunas preguntas prácticas que es recomendable considerar. Por ejemplo: ¿Qué datos y metadatos asociados, documentación y código serán depositados? ¿Cuánto tiempo deben conservarse los datos? ¿Por cuánto tiempo deben permanecer reutilizables los datos? ¿Cómo estarán disponibles los datos? ¿Qué categoría de acceso se elegirá? Para más preguntas, consulta [Adap your DMP: parte 6.](https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6) Por otro lado, no se debe olvidar verificar si el repositorio elegido cumple con los requisitos de tu investigación y de tu financiador. Algunos repositorios ya han obtenido una certificación, como CoreTrustSeal, que los certifica como confiables y capaces de cumplir con los Requisitos Centrales para Repositorios de Datos Fiables \(_Core Trustworthy Data Repositories Requirements_\). Vale la pena mencionar que algunos repositorios de dominio específico pueden aceptar únicamente datos de alta calidad, con potencial para la reutilización y que pueden compartirse públicamente.
+Deberías considerar dónde depositar y publicar tus datos en el plan de gestión de datos de investigación. CESSDA ofrece algunas cuestiones a tener en cuenta. Por ejemplo: ¿Qué datos y metadatos asociados, documentación y código serán depositados? ¿Durante cuánto tiempo deben conservarse los datos? ¿Por cuánto tiempo deben permanecer reutilizables los datos? ¿Cómo estarán disponibles los datos? ¿Qué tipo  de acceso se elegirá? Para más preguntas, consulta [Adap your DMP: parte 6.](https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6) Por otro lado, no se debe olvidar verificar si el repositorio elegido cumple con los requisitos de tu investigación y de tu financiador. Algunos repositorios ya han obtenido una certificación, como CoreTrustSeal, que los certifica como confiables y capaces de cumplir con los Requisitos Centrales para Repositorios de Datos Fiables \(_Core Trustworthy Data Repositories Requirements_\). Vale la pena mencionar que algunos repositorios de dominio específico pueden aceptar únicamente datos de alta calidad, con potencial para la reutilización y que pueden compartirse públicamente.
 
-Dado que hay varias rutas para publicar tus datos, debes notar que para que un conjunto de datos "cuente" como una publicación debe seguir un proceso de publicación similar al de un artículo \([Brase et al., 2009](https://doi.org/10.3233/ISU-2009-0595)\) y debería ser:
+Dado que hay varias rutas para publicar tus datos, debes tener en cuenta que para que un conjunto de datos "cuente" como una publicación debe seguir un proceso de publicación similar al de un artículo \([Brase et al., 2009](https://doi.org/10.3233/ISU-2009-0595)\) y debería:
 
-* Adecuadamente documentado con metadatos;
+* Estar adecuadamente documentado con metadatos
 
-* Revisado en relación con su calidad \(por ejemplo: contenido del estudio, metodología, relevancia, consistencia legal y documentación de los materiales\);
+* Estar revisado en relación con su calidad \(por ejemplo: contenido del estudio, metodología, relevancia, consistencia legal y documentación de los materiales\)
 
-* Buscable y descubrible en catálogos \(o bases de datos\);
+* Permitir su búsqueda y ser localizable en catálogos o bases de datos \(o bases de datos\);
 
-* Citable en artículos.
+* Ser citable en artículos.
 
 ## <img src="/Images/Icons/metadata.png" width="150" height="150" />
 ##### Cita de datos
