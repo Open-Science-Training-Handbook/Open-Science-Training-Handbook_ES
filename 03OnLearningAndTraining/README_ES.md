@@ -405,7 +405,7 @@ En cualquier caso, debes tener una idea de qué hacer cuando surge una conversac
 
 Al final de cada módulo, solicita retroalimentación de los participantes bajo la forma de "uno arriba/uno abajo" (esto es, que indiquen una cosa que fue útil/buena en el módulo y una cosa que no estuvo clara/podría mejorarse). Esto también puede hacerse de modo más graduado/estandarizado. [Aquí] (http://www.academis.eu/posts/fist_or_five) hay un ejemplo de retroalimentación con 6 grados.
 
-Otra forma de obtener retroalimentación instantánea, especialmente en puntos predefinidos, es a través de encuestas continuas. Por ejemplo, Slack puede emplearse para proporcionar retroalimentación anónima sobre la marcha, proveyendo a los miembros de un canal la opción de cambiar su elección en una encuesta en cualquier momento. Los conteos de retroalimentación deben ser mostrados a los participantes. Mostrar números totales o gráficos puede actuar como un incentivo. Las herramientas en línea basadas en la nube generan mayor participación, especialmente porque la dependencia de dispositivos como los mandos para presentaciones está desapareciendo. Los estudiantes pueden usar dispositivos móviles conectados a Internet y sentirse empoderados. Los ejemplos de esto son abundantes. Debes probar los métodos antes de usarlos con una audiencia real, y comenzar con los sistemas que tengan pasos de familiarización más simples, como [Socrative](https://www.socrative.com/) y [Learning](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html)[Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), o [Directpoll. ](http://directpoll.com/).
+Otra forma de obtener retroalimentación instantánea, especialmente en puntos predefinidos, es a través de encuestas continuas. Por ejemplo, Slack puede emplearse para proporcionar retroalimentación anónima sobre la marcha, proveyendo a los miembros de un canal la opción de cambiar su elección en una encuesta en cualquier momento. Los casos de retroalimentación deben  mostrarse  a los participantes. Mostrar números totales o gráficos puede actuar como un incentivo. Las herramientas en línea basadas en la nube generan mayor participación, especialmente porque la dependencia de dispositivos como los mandos para presentaciones está desapareciendo. Los estudiantes pueden usar dispositivos móviles conectados a Internet y sentirse empoderados. Los ejemplos de esto son abundantes. Debes probar los métodos antes de usarlos con una audiencia real, y comenzar con los sistemas que tengan pasos de familiarización más simples, como [Socrative](https://www.socrative.com/) y [Learning](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html)[Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), o [Directpoll. ](http://directpoll.com/).
 
 Algunas otras estrategias de retroalimentación instantáneas se pueden encontrar en [teachthought.com](https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)
 
@@ -479,11 +479,11 @@ Ten en cuenta que te puede tomar hasta tres intentos tener la sensación de que 
 
 ## Resultados de aprendizaje de este capítulo
 
-Luego de leer este capítulo deberías poder responder a solicitudes para planificar y realizar capacitaciones en Ciencia Abierta a audiencias específicas.
+Después de leer este capítulo deberías poder planificar y realizar actividades de capacitación en Ciencia Abierta para  audiencias específicas.
 
 **Ejercicio**
 
-Considera la siguiente situación hipotética: has sido invitado para entrenar a investigadores principales en una facultad de ingeniería. La capacitación será sobre la gestión de datos que se comparten entre los grupos de investigación en la facultad y sus colegas en Canadá y Nueva Zelanda, en un contexto de Ciencia Abierta.
+Considera la siguiente situación hipotética: has sido invitado para entrenar a investigadores principales en una Facultad de Ingeniería. La capacitación será sobre la gestión de datos que se comparten entre los grupos de investigación en la facultad y sus colegas en Canadá y Nueva Zelanda, en un contexto de Ciencia Abierta.
 
 * Describe en un párrafo la estrategia de diseño para tu sesión de capacitación a través de sus etapas principales (por ejemplo: qué planeas hacer antes, durante y después de tu sesión de capacitación).
 
@@ -542,6 +542,6 @@ Se pueden aplicar ejercicios similares para capacitar a diferentes audiencias, p
 
 * Klaus W. Döring: Handbuch Lehren und Trainieren in der Weiterbildung. Beltz Verlag \(Weinheim, Basel\) 2008.
 
-**Para una comprensión más profunda sobre el tema:**
+**Para una lectura más profunda sobre el tema:**
 
 * Knowles, Malcolm S, Elwood F Holton y Richard A Swanson. The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. Oxford: Butterworth-Heinemann, 2011.
