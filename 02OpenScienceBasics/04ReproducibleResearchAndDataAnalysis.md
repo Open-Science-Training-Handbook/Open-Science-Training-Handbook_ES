@@ -36,11 +36,11 @@ Fuente: [Reproducibilidad y confiabilidad de la investigación biomédica: mejor
 
 Goodman, Fanelli, & Ioannidis \(2016\) mencionan que en epidemiología, biología computacional, economía y ensayos clínicos, la reproducibilidad comúnmente se define como:
 
-_la habilidad de un investigador de duplicar los resultados de un estudio previo utilizando los mismos materiales que fueron utilizados por el investigador original. Esto es, un segundo investigador puede utilizar los mismos datos primarios para generar los mismos archivos resutlado de su análisis e implementar el mismo análisis estadístico en un intento de alcanzar los mismos resultados._
+_La habilidad de un investigador de duplicar los resultados de un estudio previo utilizando los mismos materiales que fueron utilizados por el investigador original. Esto es, un segundo investigador puede utilizar los mismos datos primarios para generar los mismos archivos resultado de su análisis e implementar el mismo análisis estadístico en un intento de alcanzar los mismos resultados._
 
 Esto es distinto de  la replicabilidad: "que se refiere a la habilidad de un investigador para duplicar los resultados de un estudio previo si se siguen los mismos procedimientos pero recolectando datos nuevos". Una manera simple de distinguir un concepto de otro,  es orientar  la  reproducibilidad  a los métodos, mientras que la replicabilidad está orientada a los resultados.
 
-La reproducibilidad puede ser evaluada a diferentes niveles: a nivel de proyecto individual \(por ej., un artículo, un experimento, un método o un set de datos\), de un investigador individual, a un laboratorio o grupo de investigación, a una institución o incluso una disiciplina. A cada uno de estos diferentes niveles podrían aplicarse distintos tipos de criterios y puntos de evaluación levemente diferentes. Por ejemplo, una institución apoya las prácticas de reproducibilidad si instituye políticas que recompensan a los investigadores que desarrollan investigaciones de modo reproducible. Por otro lado, se puede considerar que un campo de investigaciones posee un mayor nivel de reproducibilidad si desarrolla recursos que promueven y permiten prácticas de investigación reproducible mantenidos por la comunidad, como repositorios de datos o estándares comunes para el intercambio de datos.
+La reproducibilidad puede ser evaluada a diferentes niveles: a nivel de proyecto individual \(por ej., un artículo, un experimento, un método o un set de datos\), de un investigador individual, a un laboratorio o grupo de investigación, a una institución o incluso una disciplina. A cada uno de estos diferentes niveles podrían aplicarse distintos tipos de criterios y puntos de evaluación levemente diferentes. Por ejemplo, una institución apoya las prácticas de reproducibilidad si establece políticas que recompensan a los investigadores que desarrollan investigaciones de modo reproducible. Por otro lado, se puede considerar que un campo de investigación posee un mayor nivel de reproducibilidad si desarrolla recursos que promueven y permiten prácticas de investigación reproducible mantenidos por la comunidad, como repositorios de datos o estándares comunes para el intercambio de datos.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Objetivos de aprendizaje
@@ -66,7 +66,7 @@ La siguiente es una lista indicativa de aportes sobre la reproducibilidad:
 
 * Cuáles son las opciones y ambientes computacionales que permiten estructuras colaborativas y reproducibles.
 
-* Factores que afectan la reproducibilidad de la investigación.
+* Factores que afectan a la reproducibilidad de la investigación.
 
 * Documentación del análisis de datos y flujos de trabajo abiertos.
 
