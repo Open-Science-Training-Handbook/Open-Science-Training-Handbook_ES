@@ -348,11 +348,11 @@ Si bien los juegos para romper el hielo pueden ayudar a crear una atmósfera pos
 
 Define los resultados esperados de la capacitación y siempre brinda orientación a tus estudiantes:
 
-* Dónde estamos?
+* ¿Dónde estamos?
 
-* Dónde queremos ir?
+* ¿Dónde queremos ir?
 
-* Qué abarcaremos?
+* ¿Qué abarcaremos?
 
 Establece un equilibrio entre las exposiciones orales sobre el contenido \(máx. 20 minutos\) y las sesiones de actividades para trabajar sobre el contenido \(Klaus Döring, 2008\).
 
