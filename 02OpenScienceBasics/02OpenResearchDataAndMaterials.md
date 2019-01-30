@@ -1,20 +1,20 @@
 ## <img src="/Images/Icons/open_data.png" width="200" height="200" />
-## 2. Datos y materiales de investigación abiertos
+## 2. Datos de investigación abiertos y materiales 
 
-### ¿En qué consiste?
+### ¿En qué consisteN?
 
-Los datos de investigación abiertos son datos de acceso gratuito que pueden ser reutilizados, remezclados y redistribuidos para la investigación académica y propósitos de docencia, entre otros. Idealmente, los datos abiertos no tienen restricciones para su reutilización y redistribución y cuentan con licencias acordes a ello. En casos excepcionales \(por ejemplo, para proteger la identidad de sujetos humanos\), se pueden incluir restricciones de acceso especiales o limitadas. Compartir los datos de manera abierta los expone a la inspección, formando la base para la reproducibilidad y verificación de investigación, y abre un camino para promover la colaboración. Como máximo, los datos abiertos pueden estar sujetos los requisitos de _atribución_ y de _compartir igual_ \(_sharealike_\) \(ver el [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\)
+Los datos de investigación abiertos son datos de acceso gratuito que pueden ser reutilizados, remezclados y redistribuidos para la investigación académica y la docencia, entre otros. Idealmente, los datos abiertos no tienen restricciones para su reutilización y redistribución y cuentan con licencias acordes a ello. En casos excepcionales \(por ejemplo, para proteger la identidad de sujetos humanos\), se pueden incluir restricciones de acceso especiales o limitadas. Compartir los datos de manera abierta facilita su examen, supone la base para la reproducibilidad y verificación de la investigación, y abre un camino para promover la colaboración. Como máximo, los datos abiertos pueden estar sujetos a los requisitos de _atribución_ y de _compartir igual_ \(_sharealike_\) \(ver el [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\)
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
 ### Justificación
 
-Los datos de investigación son a menudo el producto más valioso de los proyectos de investigación, pues se utilizan como fuente primaria para sustentar la investigación científica y permitir la derivación de hallazgos teóricos o aplicados. Para hacer que los hallazgos/estudios sean replicables, o al menos reproducibles o reutilizables de otra forma \(consulta la sección sobre Investigación reproducible y análisis de datos\), la recomendación de buenas prácticas es que los datos de investigación sean tan abiertos y justos \([FAIR](https://www.force11.org/fairprinciples)\) como sea posible, teniendo en cuenta las limitaciones éticas y comerciales y las restricciones de privacidad de los datos confidenciales o privados.
+Los datos de investigación son a menudo el producto más valioso de los proyectos de investigación, pues se utilizan como fuente primaria para sustentar la investigación científica y permitir la derivación de hallazgos teóricos o aplicados. Para hacer que los hallazgos/estudios sean replicables, o al menos reproducibles o reutilizables de otra forma \(consulta la sección sobre Investigación reproducible y análisis de datos\), la recomendación de buenas prácticas es que los datos de investigación sean tan abiertos  \([FAIR](https://www.force11.org/fairprinciples)\) y tan FAIR como sea posible, teniendo en cuenta las limitaciones éticas y comerciales y las restricciones de privacidad de los datos confidenciales o privados.
 
 ![](/Images/Icons/finish.png)
 
-### Objetivos de aprendizaje
+### Objetivos del aprendizaje
 
-1. Obtener una comprensión de las características y principios básicos de los datos de investigación abiertos y justos \(_FAIR_\), incluyendo el empaquetado y la documentación apropiados, para permitir que otros los entiendan, reproduzcan y reutilicen de maneras alternativas.
+1. Obtener una comprensión de las características y principios básicos de los datos de investigación abiertos y datos FAIR \(_FAIR_\), incluyendo el empaquetado y la documentación apropiados, para permitir que otros los entiendan, reproduzcan y reutilicen de maneras alternativas.
 
 2. Familiarizarse con los tipos de datos que pueden considerarse confidenciales y las restricciones legales para compartirlos en abierto.
 
