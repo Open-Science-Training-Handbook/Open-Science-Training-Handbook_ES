@@ -90,7 +90,7 @@ La mayoría de los estudiantes esperarán que:
 
 * Comprendas las expectativas que se generan en el tejido social sobre el uso de recursos y los resultados de las actividades científicas, tales como su impacto en la Ciencia Ciudadana, la comprensión pública de la ciencia, la influencia sobre los profesionales de la educación, etc.
 
-* Seas capaz de enseñar y tener un profundo conocimiento sobre la Ciencia Abierta. \(De hecho, de esto se trata este libro.\)
+* Seas capaz de enseñar y tener un profundo conocimiento sobre la Ciencia Abierta \(de hecho, de esto se trata este libro\)
 
 * Proporciones enlaces a documentos en línea y recursos que apoyen a los principiantes.
 
