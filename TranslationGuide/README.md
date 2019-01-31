@@ -85,7 +85,7 @@ Total de palabras del Manual: 43.243.
     <td>24-09</td>
     <td>Nicolás Alessandroni</td>
     <td>Revisado por NA 11-Dic</td>
-    <td></td>
+    <td>Revisado por RMM 31-01-2019</td>
   </tr>
   <tr>
     <td>Open Research Software and Open Source</td>
