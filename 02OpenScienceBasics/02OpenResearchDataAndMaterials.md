@@ -129,30 +129,30 @@ Muchos conjuntos de datos que contienen información privada de participantes pu
 
 ###### Etiquetado de datos \(_DataTags_\)
 
-[DataTags](https://datatags.org/) es un marco diseñado para permitir evaluaciones asistidas por computadora de restricciones legales, contractuales y políticas que rigen las decisiones sobre el intercambio de datos. El sistema DataTags hace a un usuario una serie de preguntas para determinar las propiedades clave de un conjunto de datos y aplica reglas inferenciales para determinar qué leyes, contratos y buenas prácticas son aplicables. El resultado es un conjunto de DataTags recomendados, o etiquetas simples e icónicas que representan una política de datos legible por humanos y utilizable por máquinas, y un acuerdo de licencia a medida para el conjunto de datos. El sistema DataTags está siendo diseñado para integrarse con el software del repositorio de datos y también funcionará como una herramienta independiente. DataTags se está desarrollando en la Universidad de Harvard. En Europa, DANS está trabajando para ajustar DataTags a la legislación europea _General Data Protection Regulation_ \([GDPR](https://www.eugdpr.org/)\) \(cf. [DANS GDPR DataTags](https://zingtree.com/host.php?style=buttons&tree_id=442670046&persist_names=Restart&persist_node_ids=58#58)\).
+[DataTags](https://datatags.org/) es un marco digital que permite asesorar sobre las restricciones legales, contractuales y políticas que rigen las decisiones sobre el intercambio de datos. El sistema DataTags hace a un usuario una serie de preguntas para determinar las propiedades clave de un conjunto de datos y aplica reglas inferenciales para determinar qué leyes, contratos y buenas prácticas son aplicables. El resultado es un conjunto de DataTags recomendados, o etiquetas simples e icónicas que representan una política de datos legible por humanos y utilizable por máquinas, y un acuerdo de licencia a medida para el conjunto de datos. El sistema DataTags está  diseñado para integrarse con el software del repositorio de datos y también funciona como una herramienta independiente. DataTags se ha desarrollado en la Universidad de Harvard. En Europa, DANS está trabajando para ajustar DataTags a la legislación europea _General Data Protection Regulation_ \([GDPR](https://www.eugdpr.org/)\) \(cf. [DANS GDPR DataTags](https://zingtree.com/host.php?style=buttons&tree_id=442670046&persist_names=Restart&persist_node_ids=58#58)\).
 
 Como se mencionó anteriormente, el objetivo final de compartir tus datos de investigación es hacerlos reutilizables al máximo. Para ello, antes de compartir datos debe gestionarlos de acuerdo con las mejores prácticas. Esto incluye, por ejemplo, la documentación y la elección de formatos de archivos y licencias abiertos. Puedes leer más sobre estos temas en [Sección 4: Investigación reproducible y análisis de datos](#heading=h.jy7n9xm9zn9o) así como [Sección 6: Licenciamiento abierto y formatos de archivo](#heading=h.3rdryh4tn529).
 
 ## <img src="/Images/Icons/usb.png" width="150" height="150" />
 ##### Materiales abiertos
 
-Además de compartir los datos, la apertura de la investigación depende del intercambio de materiales. Los materiales que utilizan los investigadores son específicos de cada disciplina y, a veces, exclusivos de un laboratorio. A continuación hay ejemplos de materiales que puedes compartir. Siempre consulta con pares de tu disciplina qué repositorios utilizan. Cuando tengas materiales, datos y publicaciones del mismo proyecto de investigación compartidos en diferentes repositorios, haz una referencia cruzada con un enlace y un identificador único para que puedan ubicarse fácilmente.
+Además de compartir los datos, la apertura de la investigación depende del intercambio de materiales. Los materiales que utilizan los investigadores son específicos de cada disciplina y, a veces, exclusivos de un laboratorio. A continuación se dan algunos ejemplos de materiales que puedes compartir, sin embargo,  consulta con pares de tu disciplina qué repositorios son los que se  utilizan. Cuando tengas materiales, datos y publicaciones del mismo proyecto de investigación compartidos en diferentes repositorios, haz una referencia cruzada con un enlace y un identificador único para que puedan localizarse fácilmente.
 
 ###### Reactivos
 
-Un reactivo es una sustancia, compuesto o mezcla que se puede agregar a un sistema para crear una reacción química o de otro tipo. Los reactivos se pueden depositar en repositorios como [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) y [ATCC](https://www.atcc.org/) para que sean fácilmente accesibles para otros investigadores. Licencia tus materiales para que puedan ser reutilizados por otros investigadores.
+Un reactivo es una sustancia, compuesto o mezcla que se puede agregar a un sistema para crear una reacción química o de otro tipo. Los reactivos se pueden documentar en repositorios como [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) y [ATCC](https://www.atcc.org/) para que sean fácilmente accesibles para otros investigadores. Licencia tus materiales para que puedan ser reutilizados por otros investigadores.
 
 ###### Protocolos
 
-Un protocolo describe un registro formal u oficial de observaciones experimentales científicas en un formato estructurado. Deposita los protocolos virtuales para su cita, adaptación y reutilización empleando [Protocolos](https://www.protocols.io/).
+Un protocolo describe un registro formal u oficial de observaciones experimentales científicas en un formato estructurado. Deposita los protocolos virtuales para su citación, adaptación y reutilización empleando [Protocolos](https://www.protocols.io/).
 
 ###### Cuadernos, contenedores, software y hardware
 
-El uso de la programación literaria, la tecnología de contenedores y la virtualización ayudan al análisis reproducible. Además de compartir tu código y tus datos, también comparte tus cuadernos Jupyter, imágenes Docker u otros materiales de análisis o dependencias de software. Comparte cuadernos con servicios abiertos como [mybinder](http://mybinder.org) que permiten la visualización y ejecución pública de todo el bloc de notas de manera compartida. Los contenedores y los cuadernos se pueden compartir con [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). El software y el hardware utilizados en tu investigación se deben compartir siguiendo buenas prácticas para la documentación, tal como se describe en la [Sección 3]. Los protocolos de sólo lectura deben depositarse en un registro de tu disciplina, como [ClinicalTrials.gov](https://clinicaltrials.gov/) y [SocialScienceRegistry](https://www.socialscienceregistry.org/), o en un registro general como [Open Science Framework](https://osf.io/). Muchas revistas, como [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/) o [Bio-Protocol](https://bio-protocol.org/) publicarán tu protocolo. Las mejores prácticas para publicar tu protocolo en acceso abierto son las mismas que para publicar tu informe en acceso abierto \(mira la [Sección 5](#heading=h.go419g8z6pnt)\).
+El uso de la programación, la tecnología de contenedores y la virtualización ayudan al análisis reproducible. Además de compartir tu código y tus datos, también comparte tus cuadernos Jupyter, imágenes Docker u otros materiales de análisis o tipos de software. Comparte cuadernos con servicios abiertos como [mybinder](http://mybinder.org) que permiten la visualización y ejecución pública de todo el bloc de notas de manera compartida. Los contenedores y los cuadernos se pueden compartir con [Rocker](https://arxiv.org/abs/1710.03675) o [Code Ocean](https://codeocean.com/). El software y el hardware utilizados en tu investigación se deben compartir siguiendo buenas prácticas para su documentación, tal como se describe en la [Sección 3]. Los protocolos de sólo lectura deben depositarse en un registro de tu disciplina, como [ClinicalTrials.gov](https://clinicaltrials.gov/) y [SocialScienceRegistry](https://www.socialscienceregistry.org/), o en un registro general como [Open Science Framework](https://osf.io/). Muchas revistas, como [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/) o [Bio-Protocol](https://bio-protocol.org/) publican protocolos. Las mejores prácticas para publicar tu protocolo en acceso abierto son las mismas que para publicar tu informe en acceso abierto \(mira la [Sección 5](#heading=h.go419g8z6pnt)\).
 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos y equivocaciones comunes
+### Preguntas, obstáculos y malos entendidos  comunes
 
 P: "¿Es suficiente hacer que mis datos estén disponibles de manera abierta?"
 
@@ -162,9 +162,9 @@ P: "¿Qué significan/implican los principios FAIR para diferentes partes intere
 
 R: "¡Este es un gran tema para discusión!"
 
-Obstáculo: los investigadores pueden ser reacios a compartir sus datos porque temen que otros los reutilicen antes de haberlos aprovechado al máximo, o que otros podrían no comprender completamente sus datos y, por lo tanto, hacer un mal uso de ellos.
+Obstáculo: los investigadores pueden ser reacios a compartir sus datos porque temen que otros los reutilicen antes de haberlos aprovechado al máximo, o que otros podrían no entender completamente sus datos y, por lo tanto, hacer un mal uso de ellos.
 
-\(sugerido \) R: Puedes publicar tus datos con metadatos para que ellos se puedan encontrar, pero establecer un período de embargo en los datos para asegurarte de que puedes publicar tus propios artículos primero.
+\(sugerido \) R: Puedes publicar tus datos con metadatos para que se puedan localizar, y establecer un período de embargo en los datos para asegurarte de que puedes publicar tus propios artículos primero.
 
 P: "¿Implica mucho trabajo extra hacer que mis datos sean FAIR?"
 
@@ -172,29 +172,29 @@ R: "¡No necesariamente! Hacer que los datos sean FAIR no sólo es responsabilid
 
 P: "Quiero compartir mis datos. ¿Cómo debo licenciarlos?"
 
-R: "Esa es una buena pregunta. Primero, piensa en quién posee la propiedad de los datos: un financiador de la investigación o una institución para la que trabajas. Luego, piensa en la autoría. La aplicación de una licencia adecuada a sus datos es crucial para hacerlos reutilizables. Para más información sobre las licencias, consulta la [Sección 6: Licenciamiento abierto y formatos de archivo](#heading=h.3rdryh4tn529).
+R: "Esa es una buena pregunta. Primero, piensa en quién posee la propiedad de los datos: un financiador de la investigación o una institución para la que trabajas. Luego, piensa en la autoría. La aplicación de una licencia adecuada a sus datos es crucial para hacerlos reutilizables. Para más información sobre las licencias, consulta la [Sección 6: Licencias abiertas y formatos de archivo](#heading=h.3rdryh4tn529).
 
 P: "No puedo hacer que mis datos estén disponibles de manera directa: son demasiado grandes para compartir de manera conveniente / tienen restricciones relacionadas con cuestiones de privacidad. ¿Qué debo hacer?"
 
-R: "Debería hablar con expertos en repositorios de dominio específico sobre cómo obtener instrucciones suficientes para hacer que sus datos sean encontrables y accesibles".
+R: "Debería hablar con expertos en repositorios disciplinares sobre cómo hacer que sus datos sean localizables  y accesibles".
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Resultados de aprendizaje
+### Resultados del aprendizaje
 
-1. Comprender las características de los datos abiertos, y en particular los principios FAIR.
+1. Conocer las características de los datos abiertos, y en particular los principios FAIR.
 
-2. Estar familiarizado con algunos de los argumentos a favor y en contra de los datos abiertos.
+2. Estar familiarizado con algunos de los argumentos en  favor y en contra de los datos abiertos.
 
 3. Ser capaz de diferenciar y trabajar con datos confidenciales y datos abiertos/FAIR; estas dos categorías no son necesariamente incompatibles.
 
-4. Ser capaz de transformar un conjunto de datos en uno que pueda compartirse en abierto \(formato no privado\), cumpla con los estándares de los principios FAIR y esté diseñado para maximizar la accesibilidad, la transparencia y la reutilización, proporcionando metadatos suficientes.
+4. Ser capaz de transformar un conjunto de datos en uno que pueda compartirse en abierto \(formato no propietario\), cumpla con los estándares de los principios FAIR y esté diseñado para maximizar el acceso, la transparencia y la reutilización, y proporcione metadatos suficientes.
 
 5. Conocer la diferencia entre datos primarios y procesados \(o depurados\), y la importancia de las etiquetas de versión.
 
 6. Conocer los formatos de archivo más comunes y los estándares comunitarios para asegurar la máxima reutilización.
 
-7. Ser capaz de escribir un Plan de Gestión de Datos.
+7. Ser capaz de crear un Plan de Gestión de Datos.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Lecturas adicionales
