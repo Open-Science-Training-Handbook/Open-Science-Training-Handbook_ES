@@ -2,7 +2,7 @@
 ## Aspectos relativos a la organización
 
 
-Este capítulo te guiará a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Está claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al evento. Así mismo, obtendrás información sobre los pasos a seguir para su preparación y las tareas organizativas necesarias. Este capítulo no solo te facilitará un  conocimiento valioso acerca de la organización de un evento sino que dará traquilidad mientras preparas la capacitación. Notarás que la mayoría del material en este capítulo, y de todo el manual, está enfocado en la capacitación con respecto a talleres prácticos. Gestionar un evento de otro yipo puede requerir decisiones diferentes a las siguientes recomendaciones.
+Este capítulo te guiará a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Está claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al evento. Así mismo, obtendrás información sobre los pasos a seguir para su preparación y las tareas organizativas necesarias. Este capítulo no solo te facilitará un  conocimiento valioso acerca de la organización de un evento sino que dará traquilidad mientras preparas la capacitación. Notarás que la mayoría del material en este capítulo, y de todo el manual, está enfocado a una capacitación eminentemente práctica. Gestionar un evento de otro tipo puede requerir decisiones diferentes a las que aqui se recomiendan.
 
 ## Fundamentos del evento de capacitación
 
@@ -126,7 +126,7 @@ Para facilitarte una orientación inicial acerca de los posibles tipos de capaci
     <td>x</td>
   </tr>
   <tr>
-    <td> DE medio a un  día</td>
+    <td> De medio a un  día</td>
     <td>x</td>
     <td></td>
     <td></td>
@@ -203,11 +203,11 @@ Algunas  formas de capacitación requieren más de un instructor, procura tener 
 
 Considera colaborar con otros departamentos de tu institución u otras instituciones locales para combinar recursos e incrementar el impacto/colaboración con otros proyectos o programas. Estos son los puntos principales para trabajar antes de comprometerse o anunciar algún evento. Resolver esto ayudará a que la capacitación se desarrolle sin problemas para ti y los participantes. Adicionalmente, considera integrar la capacitación a una conferencia reconocida o un evento local/internacional.
 
-Identifica otros instructores o expertos/colaboradores invitados que puedan apoyar con el evento. Idealmente estos pueden ser otros promotores de Ciencia Abierta de la institución o si no de la región del evento, pero puede que necesites encontrar instructores aptos que no sean locales (que necesitarían apoyo financiero para el viaje). De acuerdo con [The Carpentries](https://software-carpentry.org/workshops/operations/) un taller con 40 asistentes necesita por lo menos 2 instructores (y posiblemente 3) quienes se alternarían entre dialogar y apoyar a la audiencia, incluyendo un ayudante por cada 5 participantes que estarían continuamente monitoreando cualquier problema que pueda surgir.
+Identifica otros instructores o expertos/colaboradores invitados que puedan ayudar en el evento. Idealmente estos pueden ser otros promotores de Ciencia Abierta de la institución o si no de la región del evento, pero puede que necesites encontrar instructores aptos que no sean locales (que necesitarían apoyo financiero para el viaje). De acuerdo con [The Carpentries](https://software-carpentry.org/workshops/operations/) un taller con 40 asistentes necesita por lo menos 2 instructores (y posiblemente 3) quienes se alternarían entre exponer y de apoya a la audiencia, incluyendo un ayudante por cada 5 participantes que estarían continuamente monitoreando cualquier problema que pueda surgir.
 
 #### Representación
 
-Mantener un ambiente inclusivo es importante para cualquier capacitación exitosa. Asegúrate que todos los componentes de tu programa incluyen diversidad de procedencias. Tu equipo de organización, facilitadores e instructores deben tener representación alrededor de diferentes identidades de género, disciplinas, comunidades subrepresentadas, diversidad racial y regiones geográficas (sólo si pretendes abrir tu evento a participantes foráneos). 
+Mantener un ambiente inclusivo es importante para cualquier actividad de capacitación con éxito. Asegúrate que todos los componentes de tu programa incluyen diversidad de procedencias. Tu equipo de organización, facilitadores e instructores deben tener representación alrededor de diferentes identidades de género, disciplinas, comunidades subrepresentadas, diversidad racial y regiones geográficas (sólo si pretendes abrir tu evento a participantes foráneos). 
 
 Invita activamente a instructores y facilitadores de comunidades subrepresentadas. Asegúrate de conversar con ellos sus metas y necesidades e incluye estas en la programación del evento. Para aprender más acerca de los instructores revisa el Capítulo On learning and training, [expectativas acerca de los instructores](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Asegúrate que una porción de los espacios de los participantes están reservados para asistentes de diferentes orígenes étnicos, identidades de género, disciplinas y regiones geográficas (ver [Inclusive engagement](/03OnLearningAndTraining.md/#expectations-about-a-trainer)). Para aprender más acerca de cómo organizar tu propio evento puedes consultar la [Conference Planning Checklist propuesto por SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
