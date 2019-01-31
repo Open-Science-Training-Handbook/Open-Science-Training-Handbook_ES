@@ -225,7 +225,7 @@ La sala para las sesiones de capacitación debe estar suficientemente equipada (
 
 La duración del evento depende del contenido y profundidad de la capacitación que te propones ofrecer. Debes tener una estimación de cuánto tiempo puede llevar cada sesión. Asegúrate de definir una agenda o programa, incluyendo descansos y presentaciones. Ten en cuenta el  tiempo para los almuerzos y las pausas para el café. Tienes que ser razonable con tus tiempos de inicio y final (ver capítulo [Starting the training](/03OnLearningAndTraining.md/#starting-the-training). 
 
-Antes de programar tu evento debes tener en cuenta los obstáculos que podrían impedir o impedir que la gente se apunte a el e intentar elegir una fecha y horas adecuadas. Asegúrate de evitar coincidir con algún día festivo, festividades religiosas o algún evento similar. Si tu evento se organiza en alguna universidad debes tener en cuenta los horarios de clase. Considera organizar tu sesión de capacitación junto con una conferencia o reunión más grande a fin de atraer más atención, incrementando la asistencia y tener la oportunidad de llevar a algún instructor que asista a otro evento. Un taller de capacitación amigable debe evitar las tardes y los fines de semana, proveer guardería o financiación para el cuidado de niños y garantizar áreas para madres de lactantes.
+Antes de programar tu evento debes tener en cuenta los obstáculos que podrían impedir que la gente se apunte a el e intentar elegir una fecha y horas adecuadas. Asegúrate de evitar coincidir con algún día festivo, festividades religiosas o algún evento similar. Si tu evento se organiza en alguna universidad debes tener en cuenta los horarios de clase. Considera organizar tu sesión de capacitación junto con una conferencia o reunión más grande a fin de atraer más atención, incrementando la asistencia y tener la oportunidad de llevar a algún instructor que asista a otro evento. Un taller de capacitación amigable debe evitar las tardes y los fines de semana, proveer guardería o financiación para el cuidado de niños y garantizar áreas para madres de lactantes.
 
 ## <img src="/Images/Icons/budget.png" width="150" height="150" />
 ### Presupuesto
@@ -296,23 +296,23 @@ Publica imágenes y videos cortos del evento en tu sitio web y redes sociales. I
 
 #### Mucho antes del evento
 
-Configura un registro para el evento utilizando un servicio como [Eventbrite](https://www.eventbrite.com) o [Event Smart](https://eventsmart.com) (ambos son gratuitos siempre y cuando el evento sea libre de cuotas, pero pueden incluir un ligero costo si el evento tiene costo de registro), o puedes utilizar Google Forms para capturar información básica. Para eventos pequeños podrías incluso registrar a los asistentes vía correo electrónico, pero no olvides enviarles un correo de confirmación cuando se registren y un recordatorio poco antes del evento.
+Configura un registro para el evento utilizando un servicio como [Eventbrite](https://www.eventbrite.com) o [Event Smart](https://eventsmart.com) (ambos son gratuitos siempre y cuando el evento sea libre de cuotas, pero pueden incluir un ligero coste si el evento tiene coste de registro), o puedes utilizar Google Forms para capturar información básica. Para eventos pequeños podrías incluso registrar a los asistentes vía correo electrónico, pero no olvides enviarles un correo de confirmación cuando se registren y un recordatorio poco antes del evento.
 
-Piensa acerca de la cuota que esperas o necesitas cobrar (ver financiamiento). Piensa acerca de los créditos que los estudiantes pueden obtener, ¿Es necesario un certificado? (ver certificado de asistencia).
+Piensa acerca de la cuota que esperas o necesitas cobrar (ver financiación). Piensa acerca de los créditos que los estudiantes pueden obtener, ¿Es necesario un certificado? (ver certificado de asistencia).
 
 Debes ser sensible y transparente acerca de la información que vas a recopilar. Si necesitas información como el género, edad o nacionalidad, debes tener en cuenta que esto no siempre es tan sencillo como parece- siempre ofrece la opción de un campo en blanco. No utilices la distinción entre Sra. y Srta., por favor.
 
-Puedes hacer una pequeña encuesta para medir el conocimiento de los participantes acerca del tema (sus conocimientos previos). Esto te ayudará a preparar el material de capacitación. Debes dejar muy claro que datos se compartirán o retendrán y por qué. Siempre debes ofrecer la opción de que la gente diga que no y mantenga toda la información proporcionada archivada de forma segura. Considera crear una lista de participantes interesados en boletines informativos o para estar en contacto, debes estar consciente de la protección de datos (como la General Data Protection Regulation de la Unión Europea (Regulation (EU) 2016/679))(Aquí va nota: En este caso recomendamos revisar la Ley General de Protección de Datos de cada país.
+Puedes hacer una pequeña encuesta para medir el conocimiento de los participantes acerca del tema (sus conocimientos previos). Esto te ayudará a preparar el material de capacitación. Debes dejar muy claro qué datos se compartirán o retendrán y por qué. Siempre debes ofrecer la opción de que la gente diga que no y mantenga toda la información proporcionada archivada de forma segura. Considera crear una lista de participantes interesados en boletines informativos o para estar en contacto, debes ser conocedor de la protección de datos (como la General Data Protection Regulation de la Unión Europea (Regulation (EU) 2016/679))
 
 #### Poco antes del evento
 
-Dependiendo del tamaño de la audiencia debes proveer personal por separado en mesas de registro. Asegúrate que todo el personal que apoya en la organización tiene toda la información, incluyendo la lista de participantes y deja que se encarguen de las credenciales y hojas de asistencia/certificados.
+Dependiendo del tamaño de la audiencia debes proveer varias mesas de registro. Asegúrate que todo el personal que colabora en la organización tiene toda la información, incluyendo la lista de participantes y deja que se encarguen de las credenciales y hojas de asistencia/certificados.
 
 Si no hay mesas de registro separadas, prepara fichas de ayuda con información para tener a la mano (transporte público, números de emergencia, solicitud de certificados, seguridad durante el evento, etc.)
 
 #### Durante el evento
 
-¿Tienes consentimiento de los participantes para reutilizar o compartir su información de contacto o de tomarles fotografías y publicarlas? ¿Todos los participantes firmaron la lista de participantes?
+¿Tienes el consentimiento de los participantes para reutilizar o compartir su información de contacto o para hacerles fotografías y publicarlas? ¿Todos los participantes firmaron la lista de participantes?
 
 ## <img src="/Images/Icons/email.png" width="150" height="150" />
 ### Comunicación
