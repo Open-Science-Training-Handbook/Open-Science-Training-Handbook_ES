@@ -2,7 +2,7 @@
 ## Aspectos relativos a la organización
 
 
-Este capítulo te guiara a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Está claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al evento. Así mismo, obtendrás información sobre los pasos a seguir para su preparación y las tareas organizativas necesarias. Este capítulo no solo te facilitará un  conocimiento valioso acerca de la organización de un evento sino que dará traquilidad mientras preparas la capacitación. Notarás que la mayoría del material en este capítulo, y de todo el manual, está enfocado en la capacitación con respecto a talleres prácticos. Gestionar un evento de otro yipo puede requerir decisiones diferentes a las siguientes recomendaciones.
+Este capítulo te guiará a través de los aspectos principales y prácticos para la organización de un evento de capacitación. Está claro que lo que necesitas y puedas usar dependerá del tipo de evento que deseas organizar por lo que la lista de verificación debe ajustarse acorde al evento. Así mismo, obtendrás información sobre los pasos a seguir para su preparación y las tareas organizativas necesarias. Este capítulo no solo te facilitará un  conocimiento valioso acerca de la organización de un evento sino que dará traquilidad mientras preparas la capacitación. Notarás que la mayoría del material en este capítulo, y de todo el manual, está enfocado en la capacitación con respecto a talleres prácticos. Gestionar un evento de otro yipo puede requerir decisiones diferentes a las siguientes recomendaciones.
 
 ## Fundamentos del evento de capacitación
 
