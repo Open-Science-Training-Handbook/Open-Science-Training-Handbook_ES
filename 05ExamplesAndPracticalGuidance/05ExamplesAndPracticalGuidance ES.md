@@ -10,7 +10,7 @@ Sugerimos acercarte a estos materiales teniendo en mente el lema “Adoptar, ada
 **Encuentros Göttingen de Ciencia Abierta, Biblioteca de la Universidad de Göttingen (3
 horas)**
 
-La Red de Ciencia Abierta de Göttingen (Open Science Network Göttingen) agrupa a investigadores y bibliotecarios que apoyan prácticas e intercambios de conocimientos sobre Ciencia Abierta. Dicha red organiza regularmente estos encuentros donde discuten y analizan cuestiones relacionadas con Ciencia Abierta. La red agrupa a personas interesadas en estos temas del campus Göttingen, pero también está abierta a quien quiera participar. Han ganado popularidad dado que atraen académicos de diferentes disciplinas que desean compartir sus experiencias sobre Educación Abierta, así como aprender sobre nuevos métodos, herramientas y prácticas. Generalmente los conferencistas invitados presentan los temas y, posterior a ello, se organizan debates grupales para ofrecer una visión más detallada sobre cada aspecto abordado.
+La Red de Ciencia Abierta de Göttingen (Open Science Network Göttingen) agrupa a investigadores y bibliotecarios que apoyan prácticas e intercambios de conocimientos sobre Ciencia Abierta. Dicha red organiza regularmente estos encuentros donde discuten y analizan cuestiones relacionadas con Ciencia Abierta. La red agrupa a personas interesadas en estos temas del campus Göttingen, pero también está abierta a quien quiera participar. Han ganado popularidad dado que atraen académicos de diferentes disciplinas que desean compartir sus experiencias sobre Educación Abierta, así como aprender sobre nuevos métodos, herramientas y prácticas. Generalmente los conferenciantes invitados presentan los temas y, posteriormente, se organizan debates grupales para ofrecer una visión más detallada sobre cada aspecto abordado.
 
 Más información: [https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/)
 
@@ -32,7 +32,7 @@ El objetivo de este taller es ofrecer a investigadores y administradores ejemplo
 
 **Talleres Carpentry (2 días)**
 
-Los talleres Carpentry son encuentros prácticos de dos días, durante los cuales se comparten habilidades básicas necesarias para ser productivo en pequeños equipos de investigación. Se alternan tutoriales cortos con ejercicios prácticos, y toda la capacitación se realiza mediante programación en vivo. Software Carpentry fue fundado en 1998 y Data Carpentry en 2013; ambas soluciones se enfocan en compartir habilidades computacionales, se imparten en talleres de dos días con instructores voluntarios y tienen el objetivo de llenar el vacío que actualmente existe en capacitación para investigadores; sin embargo, difieren en cuanto a su contenido y público objetivo. Los talleres Data Carpentry se orientan a las mejores prácticas relacionadas con datos, sus participantes no son aquellos interesados en aprender a programar, sino quienes tienen muchos datos y no saben qué hacer con ellos; es decir, están dirigidos a aprendices, son de un ámbito específico y presentan un programa de estudios completo centrado en un solo conjunto de datos. Los talleres Software Carpentry, por su parte, están destinados a personas que necesitan programar de manera más efectiva para resolver sus retos computacionales; y si bien son modulares, no son de asignaturas específicas —cada lección de Software Carpentry es independiente.
+Los talleres Carpentry son encuentros prácticos de dos días, durante los cuales se comparten habilidades básicas necesarias para ser productivo en pequeños equipos de investigación. Se alternan tutoriales cortos con ejercicios prácticos, y toda la capacitación se realiza mediante programación en vivo. Software Carpentry fue fundado en 1998 y Data Carpentry en 2013; ambas soluciones se enfocan en compartir habilidades computacionales, se imparten en talleres de dos días con instructores voluntarios y tienen el objetivo de llenar el vacío que actualmente existe en la capacitación para investigadores; sin embargo, difieren en cuanto a su contenido y público objetivo. Los talleres Data Carpentry se orientan a las mejores prácticas relacionadas con datos, sus participantes no son aquellos interesados en aprender a programar, sino quienes tienen muchos datos y no saben qué hacer con ellos; es decir, están dirigidos a aprendices, son de un ámbito específico y presentan un programa de estudios completo centrado en un solo conjunto de datos. Los talleres Software Carpentry, por su parte, están destinados a personas que necesitan programar de manera más efectiva para resolver sus retos computacionales; y si bien son modulares, no son de asignaturas específicas —cada lección de Software Carpentry es independiente.
 
 Software Carpentry: [https://software-carpentry.org](https://software-carpentry.org)
 
@@ -86,51 +86,51 @@ Varias universidades de Europa organizan escuelas de verano de una semana sobre 
 #### Tipos de ejercicios
 
 
-    * ejercicios rápidos de calentamiento / breves ejercicios de descanso 
+    * Ejercicios rápidos de calentamiento / breves ejercicios de descanso 
     
-    * ejercicios en grupos pequeños
+    * Ejercicios en grupos pequeños
     
-        * juego de rol
+        * Juego de rol
     
-        * debate temas OS/comentarios
+        * Debate temas OS/comentarios
     
-        * comunidad o foro: intercambio de experiencias/conocimiento
+        * Comunidad o foro: intercambio de experiencias/conocimiento
     
-        * reuniones con investigadores/responsables de elaboración de políticas
-    
-        * ...
-    
-    * ejercicios plenarios
-    
-        * mapeo colaborativo
-    
-        * juego de simulación
-    
-        * inventario
-    
-        * juego de cartas
-    
-    * presentaciones
-    
-        * juego de rol
-    
-        * presentación de casos reales/ejemplos (por parte de participantes)
-    
-        * presentaciones de un minuto acerca de algún concepto (por parte de participantes) 
-    
-        * oradores invitados
+        * Reuniones con investigadores/responsables de elaboración de políticas
     
         * ...
     
-    * ejercicios práctivos (individual o en parejas)
+    * Ejercicios plenarios
     
-        * visualización
+        * Mapeo colaborativo
     
-        * exploración/experimentación con herramientas y plataformas
+        * Juego de simulación
     
-        * implementación de una práctica de Ciencia Abierta en su propia investigación
+        * Inventario
     
-        * verificar la reproducibilidad de un trabajo de investigación
+        * Juego de cartas
+    
+    * Presentaciones
+    
+        * Juego de rol
+    
+        * Presentación de casos reales/ejemplos (por parte de participantes)
+    
+        * Presentaciones de un minuto acerca de algún concepto (por parte de participantes) 
+    
+        * Oradores invitados
+    
+        * ...
+    
+    * Ejercicios práctivos (individual o en parejas)
+    
+        * Visualización
+    
+        * Exploración/experimentación con herramientas y plataformas
+    
+        * Implementación de una práctica de Ciencia Abierta en su propia investigación
+    
+        * Verificar la reproducibilidad de un trabajo de investigación
     
         * … 
 
@@ -329,7 +329,7 @@ Plataformas Colaborativas</td>
     * Rompiendo el hielo, puede estar o no relacionado con el tema. 
 * Objetivos del aprendizaje:
 
-    * Has que los participantes se relajen.
+    * Haz que los participantes se relajen.
 * Descripción del ejercicio:
 
     * La línea imaginaria en el salón comprende un rango entre "totalmente de acuerdo" y "totalmente en desacuerdo". Un participante, o el moderador, hace una exposición (puede ser sobre el tema "los datos cerrados no deben citarse" o fuera del tema “los leggings no son pantalones"). Todos los participantes tienen que colocarse a lo largo de la línea imaginaria. El presentador les pide a algunos participantes que expliquen su punto de vista (literal). 
@@ -471,7 +471,7 @@ Plataformas Colaborativas</td>
 * Descripción del ejercicio:
 
     * Divide a los participantes en grupos de cuatro o cinco, y distribuye temas de discusión (por ejemplo, impresos o en papel).
-    * Has que los grupos discutan los temas desde las propias perspectivas de los participantes
+    * Haz que los grupos discutan los temas desde las propias perspectivas de los participantes
     * (Opcional) Invita a cada equipo a que resuma los puntos más importantes que surgieron en todo el grupo.
     * Sugerencias para temas de discusión: 
 
@@ -522,11 +522,11 @@ Plataformas Colaborativas</td>
 
 * Descripción del ejercicio:
 
-    * El montaje: 6-8 personas se reúnen alrededor de una mesa con un moderador y una persona que tomará notas. Para iniciar las conversaciones, se entrega a los participanrtes una baraja de cartas con declaraciones y preguntas relacionadas con la Ciencia Abierta y proyectos relacionados. Estas declaraciones sirven como detonadores de la conversación. Alguien puede elegir una carta, el grupo habla de ello durante un tiempo y luego pasa al siguiente. De esta manera, las personas aprenden unas de otras y empiezan a pensar desde una perspectiva más amplia. Mientras tanto se pueden recopilar valiosas aportaciones de los diferentes participantes.
+    * El montaje: 6-8 personas se reúnen alrededor de una mesa con un moderador y una persona que tomará notas. Para iniciar las conversaciones, se entrega a los participantes una baraja de cartas con declaraciones y preguntas relacionadas con la Ciencia Abierta y proyectos relacionados. Estas declaraciones sirven como detonadores de la conversación. Alguien puede elegir una carta, el grupo habla de ello durante un tiempo y luego pasa al siguiente. De esta manera, las personas aprenden unas de otras y empiezan a pensar desde una perspectiva más amplia. Mientras tanto se pueden recopilar valiosas aportaciones de los diferentes participantes.
     * La persona que toma notas: recopila puntos interesantes de la conversación de dos maneras diferentes:
         1. Las tarjetas de mapa mental: Se pueden usar estas tarjetas para temas que reciben mucha atención en la conversación. Si las cosas van demasiado rápido, no temas detener la conversación y solicita a las personas que proporcionen información para este mapa mental. Escribe el tema principal en el centro y trabaja desde ahí. ¿Resulta difícil encontrar relaciones? Entonces a partir de aquí puedes recopilar pensamientos y comentarios al azar.
         2. Citas e ideas brillantes: A veces, alguien dice algo que es simplemente ¡Wow!, dando justo en el punto o de alguna manera resultando muy útil. Para esto se cuenta con la tarjeta de 'citas e ideas brillantes'. Solo hay una, así que aquí tienes que ser muy selectivo. Has un comentario acerca de esto, si crees que algo es tan bueno que mereces continuar con esta tarjeta.  
-    * Después de 20-30 minutos, has que el grupo cambie las tablas. Los moderadores y los anotadores permanecen sentados.
+    * Después de 20-30 minutos, haz que el grupo cambie las tablas. Los moderadores y los anotadores permanecen sentados.
     * Al final, cada moderador informa sobre lo que han dicho los diferentes grupos en su mesa. 
 
 **Ejemplo 6: ¿Qué es para mí la investigación de datos?**
@@ -660,7 +660,7 @@ Plataformas Colaborativas</td>
 
 * Elementos para tener en cuenta: 
 
-    * Has un planteamiento por etapas
+    * Haz un planteamiento por etapas
 
 * Cómo adaptarlo a otros objetivos:
 
@@ -676,20 +676,20 @@ Plataformas Colaborativas</td>
     * [Datos de investigación abierta](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
 * Objetivos de aprendizaje:
 
-    * Concientizar a los participantes acerca de los repositorios de datos-específicos más apropiados
+    * Conciencizar a los participantes acerca de los repositorios de datos-específicos más apropiados
       para cada tema, así como sus características y estándares.
 * Descripción del ejercicio:
 
     * Los participantes tienen que encontrar un repositorio específico para sus datos de investigación. Para ello, revisarán [re3data.org](https://www.re3data.org) y buscarán/explorarán por tema y/o tipo de contenido. Pídeles que limiten su búsqueda a repositorios de datos con asignación de DOI (Digital Object Identifier). Dales tiempo para ver la descripción del repositorio y deja que anoten los que consideren más relevantes. Después discutirán sus logros y experiencias.
 * Materiales y herramientas:
 
-    * Computadora con acceso a internet para cada participante (si es necesario, también pueden estar en parejas).
+    * Ordenador con acceso a internet para cada participante (si es necesario, también pueden estar en parejas).
 * Nivel de conocimiento previo:
 
-    * Los participantes deben saber qué tipo de datosde investigación generan. 
+    * Los participantes deben saber qué tipo de datos de investigación generan. 
     * No aplica para estudiantes de licenciatura (pre-grado).
 * Elementos para tener en cuenta:
-    * Algunas personas no pueden encontrar un repositorio apropiado, así que prepara una lista de repositorios genéricos e institucionales que puedan ser utlizados para mostrarlos o explorarlos despué
+    * Algunas personas no pueden encontrar un repositorio apropiado, así que prepara una lista de repositorios genéricos e institucionales que puedan ser utlizados para mostrarlos o explorarlos después
 * Cómo adaptarlos a otros objetivos:
 
     * Puedes adaptar este ejercicio para Acceso Abierto utilizando el Directory of Open Access Journal
@@ -711,11 +711,11 @@ Plataformas Colaborativas</td>
 
 * Descripción del ejercicio:
 
-    * Este ejercicio debe usarse al final de la capacitación. Deja que los participantes jueguen a "Estoy empacando mi maleta" donde tienen que nombrar los elementos necesarios para publicar sus datos (por ejemplo: datos de investigación [archivos], metadatos, palabras clave, documentación, licencias, ORCID, repositorios, buen título, referencias/fuentes, citas de datos, tiempo y ¡Valentía!).  
+    * Este ejercicio debe usarse al final de la capacitación. Deja que los participantes jueguen a "Estoy haciendo mi maleta" donde tienen que nombrar los elementos necesarios para publicar sus datos (por ejemplo: datos de investigación [archivos], metadatos, palabras clave, documentación, licencias, ORCID, repositorios, buen título, referencias/fuentes, citas de datos, tiempo y ¡Valentía!).  
 
 * Materiales y herramientas:
 
-    * No se neceita material.
+    * No se necesita material.
 
 * Nivel de conocimiento previo:
 
@@ -724,7 +724,7 @@ Plataformas Colaborativas</td>
 * Elementos para tomar en cuenta:
 
     * Si los participantes olvidan un elemento, trata de ayudarlos o darles sugerencias
-    * Menciona “valentía” como el útlimo elemento a tomar en cuenta.
+    * Menciona “valentía” como el último elemento a tomar en cuenta.
 
 * Cómo adaptarlo a otros objetivos:
 
@@ -742,7 +742,7 @@ Plataformas Colaborativas</td>
 
 * Objetivos de aprendizaje:
 
-    * Ser capaz de crear metadatos para datos de investigación.
+    * Ser capaz de crear metadatos para los datos de investigación.
 
 * Descripción del ejercicio:
 
@@ -781,16 +781,16 @@ Plataformas Colaborativas</td>
 * Descripción del ejercicio:
 
     * Este ejercicio está dirigido a investigadores que utilicen software/código en su investigación, ya sea que realicen un trabajo puramente computacional o experimental (o que usen posteriormente el software para el análisis, etcétera).
-    * Primero, has que todos se registren para obtener una cuenta gratuita en [GitHub](https://github.com/) –si aún no tienen
+    * Primero, haz que todos se registren para obtener una cuenta gratuita en [GitHub](https://github.com/) –si aún no tienen
       una. Esta cuenta será suficiente para trabajar con código exclusivamente abierto/público, aunque también puedes informarles que los estudiantes, educadores e investigadores pueden solicitar una [excención para una cuenta profesional gratuita](https://education.github.com/).
-    * Adicionalmente, has que los participantes se registren para obtener una cuenta [Zenodo](https://zenodo.org/), y ayúdalos a que la vinculen a su cuenta [GitHub](https://github.com/).
+    * Adicionalmente, haz que los participantes se registren para obtener una cuenta [Zenodo](https://zenodo.org/), y ayúdalos a que la vinculen a su cuenta [GitHub](https://github.com/).
     * Luego, ayúdalos a que generen un nuevo repositorio público y que seleccionen una licencia adecuada, según los permisos deseados (aquí puede ser útil recurrir a <https://choosealicense.com>).  En Zenodo activa la [integración GitHub–Zenodo](https://guides.github.com/activities/citable-code/) para el repositorio recién creado. 
-    * Has que los participantes agreguen sus archivos fuente al repositorio y agrega alguna descripción del programa/texto al archivo “README”. Una vez que se hayan agregado estos archivos, elige un número de versión y procede a ["crear y lanzar" el software](https://help.github.com/articles/creating-releases/).
+    * Haz que los participantes agreguen sus archivos fuente al repositorio y agrega alguna descripción del programa/texto al archivo “README”. Una vez que se hayan agregado estos archivos, elige un número de versión y procede a ["crear y lanzar" el software](https://help.github.com/articles/creating-releases/).
     * Dirígete a Zenodo y obten el DOI (Digital Object Identifier) que se ha generado para tu software.
     * ¡Felicidades, tu software ahora es citable! Puedes agregar una sección al archivo “README” con el DOI (Digital Object Identifier) y el formato de cita sugerido, o incluso agregar la insignia DOI que proporciona Zenodo.
 * Materiales y herramientas:
 
-    * Las personas necesitan tener una computadora con conexión a internet.
+    * Las personas necesitan tener un ordenador con conexión a internet.
     * Los participantes deben tener listo algún código, script o programa, –incluso en "borrador"–, que deseen compartir públicamente.
 * Nivel de conocimiento previo:
 
@@ -821,7 +821,7 @@ Plataformas Colaborativas</td>
 
     * Cada participante selecciona un conjunto de datos y el correspondiente proceso de análisis de datos que es relevante para su campo. Tanto el conjunto de datos, como el proceso de análisis deben ser lo suficientemente cortos como para concluir en pocos minutos. Además, para los propósitos de este ejercicio, el lenguaje de programación debe ser Python o R, pero puedes adaptar otros lenguajes con ligeros cambios en las herramientas básicas.
     * El participante inicialmente ejecuta el proceso en la forma tradicional y luego le pide a alguno de los participantes que lo vuelva a ejecutar sin ayuda externa. Identifica tanto el tiempo requerido para que otra persona lo ejecute, como los obstáculos encontrados.
-    * Aplica el mismo proceso utilizando Jupyter, Git y MyBinder. Escribe el proceso como un cuaderno de Jupyter, carga el conjunto de datos y el cuaderno en un repositorio en GitHub, y luego conecta el repositorio a MyBinder. Después de ello, pide nuevamente a la misma persona que vuelva a correrlo. Identifica el cambio en los tiempos y su accesibilidad.
+    * Aplica el mismo proceso utilizando Jupyter, Git y MyBinder. Escribe el proceso como un cuaderno de Jupyter, carga el conjunto de datos y el cuaderno en un repositorio en GitHub, y luego conecta el repositorio a MyBinder. Después de ello, pide nuevamente a la misma persona que vuelva a correrlo (¡OJO!). Identifica el cambio en los tiempos y su accesibilidad.
 
 * Materiales y herramientas:
 
@@ -829,7 +829,7 @@ Plataformas Colaborativas</td>
 
 * Nivel de conocimiento previo:
 
-    * El taller se puede realizar a partir de diferentes niveles esperados de conocimiento previo que se irán adaptando con el tiempo. Por ejemplo, se puede incluir una breve introducción básica a Git, pero en todos los casos, los participantes deben estar conscientes de los requerimientos computacionales de su propio particular.
+    * El taller se puede realizar a partir de diferentes niveles esperados de conocimiento previo que se irán adaptando con el tiempo. Por ejemplo, se puede incluir una breve introducción básica a Git, pero en todos los casos, los participantes deben ser conscientes de los requerimientos computacionales de su propio particular (¡OJO!).
 
 * Elementos para tener en cuenta:
 
@@ -932,7 +932,7 @@ Plataformas Colaborativas</td>
 
 * Materiales y herramientas:
 
-    * Computadora con proyector, pizarrón, rotafolio u hojas de papel para todos los asistentes.
+    * Ordenador con proyector, pizarrón, rotafolio u hojas de papel para todos los asistentes.
 
 * Nivel de conocimiento previo:
 
@@ -1044,7 +1044,7 @@ Plataformas Colaborativas</td>
 
     * Introducir diferentes aspectos de la revisión por pares, incluidos algunos ejemplos de revistas/plataformas donde se ponen en práctica.
     * Pídales a los participantes que identifiquen individualmente de dos a tres aspectos de la revision por pares abierta que, a su juicio, contribuirían más a la Ciencia Abierta.
-    * En una gran copia impresa, los participantes colocan una moneda de baja denominación sobre cada uno de los aspectos que seleccionaron en el paso anterior.
+    * En una gran copia impresa, los participantes colocan una moneda de baja denominación (OJO) sobre cada uno de los aspectos que seleccionaron en el paso anterior.
     * Los resultados se observan juntos y se identifican los aspectos que fueron elegidos con mayor frecuencia.
     * Después, en grupos pequeños, los participantes toman el papel de lector, autor o revisor (todos los papeles deben estar presentes en cada grupo).
     * A continuación, discuten uno de los aspectos de la revisión por pares abierta desde la perspectiva del papel que le correspondió a cada uno. ¿Cuáles son los beneficios y los posibles inconvenientes?
@@ -1060,14 +1060,14 @@ Plataformas Colaborativas</td>
 
 ![image alt text](/Images/image_14.png)
 
-* Nivel de concocimiento previo:
+* Nivel de conocimiento previo:
 
     * Ninguno, sería de utilidad alguna familiaridad con el proceso tradicional de revisión por pares.
 
 * Elementos para tener en cuenta:
 
     * Para las personas que no están familiarizadas con la forma en que opera la revisión por pares se podría requerir cierta explicación, en cuyo caso se deberá considerar el tiempo necesario para ello.
-    * En las discusiones, puede ser difícil para las personas separar su opinión de su papel asignado. Alienta y recuerda a las personas cuando sea necesario que se apeguen a su función.
+    * En las discusiones, puede ser difícil para las personas separar su opinión de su papel asignado. Alienta y recuerda a las personas cuando sea necesario que se apeguen a su papel.
     * La cantidad de monedas por persona depende del número de participantes (por ejemplo, tres para grupos más pequeños, dos para grupos más grandes).
 
 * Cómo adaptarlo a otros objetivos:
@@ -1105,7 +1105,7 @@ Plataformas Colaborativas</td>
 * Materiales y herramientas:
 
     * Acceso a una herramienta en línea como [Mentimeter]([https://www.mentimeter.com/](https://www.mentimeter.com/)), con una cuenta pagada que permita la exportación de los resultados, pero no es necesaria para este ejercicio.
-    * Acceso a un teléfono inteligente, tableta o computadora con acceso a internet para cada participante.
+    * Acceso a un teléfono inteligente, tablet u ordenador con acceso a internet para cada participante.
     * Alternativa sin conexión: una hoja grande de papel con ejes impresos o dibujados, círculos adhesivos.
 
 * Nivel de conocimiento previo:
@@ -1165,8 +1165,8 @@ Plataformas Colaborativas</td>
 * Descripción del ejercicio:
 
     * En grupos pequeños, de tres o cuatro personas, una o dos asumen el papel de “incrédulo” de la Ciencia Abierta, y los demás fungen como defensores.
-    * Has que los "defensores” de la Ciencia Abierta intenten convencer a los "incrédulos”.
-    * Después de 10 minutos, has que los participantes cambien de roles y tengan otra discusión (sin repetir los mismos argumentos).
+    * Haz que los "defensores” de la Ciencia Abierta intenten convencer a los "incrédulos”.
+    * Después de 10 minutos, haz que los participantes cambien de roles y tengan otra discusión (sin repetir los mismos argumentos).
     * Después de dos rondas, reúnete como grupo para compartir experiencias. ¿Qué argumentos fueron los más difíciles de rebatir? ¿Qué argumentos funcionaron mejor para convencer a los incrédulos? ¿Los participantes sienten que estos argumentos también serían útiles en situaciones de la vida real?
 
 * Materiales y herramientas:
@@ -1200,7 +1200,7 @@ Plataformas Colaborativas</td>
 
 #### **¿Qué herramientas y plataformas usar/recomendar?**
 
-Existen muchas herramientas y plataformas que admiten prácticas de Ciencia Abierta (ver la figura a continuación para una selección). Qué herramientas y plataformas usar (o aconsejar) depende de muchos factores, por ejemplo: si la herramienta está disponible (ya sea sin costo o con licencia para tu institución), si funciona en tu navegador o para tu sistema operativo, si está disponible en tu idioma y si cumple con tus requisitos de seguridad y privacidad. Más allá de las cuestiones técnicas, considera si una herramienta se adapta a tu forma de trabajo. ¿Funciona bien con otras herramientas y plataformas que usas? ¿Las personas con las que colaboras usan la misma herramienta para prácticas simlares, o al menos usan alguna que sea compatible con la que usas? Considera también el ciclo de aprendizaje: ¿necesitas invertir mucho tiempo en aprender la nueva herramienta y, de ser así, vale la pena? ¿Tienes soporte (ya sea en la vida real o en línea) que puede ayudarte a aprender a utilizar la herramienta?
+Existen muchas herramientas y plataformas que admiten prácticas de Ciencia Abierta (ver la figura a continuación para una selección). Qué herramientas y plataformas usar (o aconsejar) depende de muchos factores, por ejemplo: si la herramienta está disponible (ya sea sin coste o con licencia para tu institución), si funciona en tu navegador o para tu sistema operativo, si está disponible en tu idioma y si cumple con tus requisitos de seguridad y privacidad. Más allá de las cuestiones técnicas, considera si una herramienta se adapta a tu forma de trabajo. ¿Funciona bien con otras herramientas y plataformas que usas? ¿Las personas con las que colaboras usan la misma herramienta para prácticas simlares, o al menos usan alguna que sea compatible con la que usas? Considera también el ciclo de aprendizaje: ¿necesitas invertir mucho tiempo en aprender la nueva herramienta y, de ser así, vale la pena? ¿Tienes soporte (ya sea en la vida real o en línea) que puede ayudarte a aprender a utilizar la herramienta?
 
 Quizá el mejor consejo es, primero, considerar qué es lo que te gustaría hacer: ¿Cuál es la práctica de Ciencia Abierta que te gustaría implementar? Luego, explora qué herramientas/plataformas están disponibles, cuáles usan las personas de tu comunidad y por qué (¡pregunta por todas partes!). Entonces toma tu propia decisión. ¡No tengas miedo de experimentar y probar algo nuevo!
 
