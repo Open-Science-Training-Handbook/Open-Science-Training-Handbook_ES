@@ -194,14 +194,14 @@ Para facilitarte una orientación inicial acerca de los posibles tipos de capaci
 
 ### Audiencia, instructor invitado y colaboradores
 
-Antes de comprometerte con el evento debes estar seguro de que tienes bien definida tu [audiencia objetivo](/03OnLearningAndTraining/#target-audience) y que eres consciente de sus necesidades. Considera el tamaño de tu audiencia y el número o área de competencia de los instructores. 
+Antes de comprometerte con el evento debes estar seguro de que tienes bien definida tu [audiencia](/03OnLearningAndTraining/#target-audience) y que eres consciente de sus necesidades. Considera el núemro de asistentes y el número o área de competencia de los instructores. 
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
 #### Cooperación
 
 Algunas  formas de capacitación requieren más de un instructor, procura tener apoyo de colegas o unidades de servicio en tu institución. Identifica el apoyo institucional (ej. Financiamiento, espacio (s), tiempo de trabajo) y ponte en contacto con los responsables de diferentes áreas para preguntar por los posibles apoyos -por ejemplo, podrías pedir ayuda para las inscripciones o contactar con el servicio de publicaciones o el departamento de comunicación con respecto a la publicidad del evento. Asegúrate que todos los voluntarios están suficientemente informados de todas las actividades y conocen los objetivos y aspectos prácticos del evento. Deben ser conscientes de la importancia de fomentar la participación de los asistentes. Incluso podrías relegar algunas tareas en alguna empresa, esto si el presupuesto lo permite.
 
-Considera colaborar con otros departamentos de tu institución u otras instituciones locales para combinar recursos e incrementar el impacto/colaboración con otros proyectos o programas. Estos son los puntos principales para trabajar antes de comprometerse o anunciar algún evento. Resolver esto ayudará a que la capacitación se desarrolle sin problemas para ti y los participantes. Adicionalmente, considera integrar la capacitación a una conferencia reconocida o un evento local/internacional.
+Considera colaborar con otros departamentos de tu institución u otras instituciones locales para combinar recursos e incrementar el impacto/colaboración con otros proyectos o programas. Estos son los puntos principales para trabajar antes de comprometerse o anunciar algún evento. Resolver esto ayudará a que la foramción se desarrolle sin problemas para ti y paralos participantes. Adicionalmente, considera integrar la capacitación con  una conferencia reconocida o un evento local/internacional.
 
 Identifica otros instructores o expertos/colaboradores invitados que puedan ayudar en el evento. Idealmente estos pueden ser otros promotores de Ciencia Abierta de la institución o si no de la región del evento, pero puede que necesites encontrar instructores aptos que no sean locales (que necesitarían apoyo financiero para el viaje). De acuerdo con [The Carpentries](https://software-carpentry.org/workshops/operations/) un taller con 40 asistentes necesita por lo menos 2 instructores (y posiblemente 3) quienes se alternarían entre exponer y de apoya a la audiencia, incluyendo un ayudante por cada 5 participantes que estarían continuamente monitoreando cualquier problema que pueda surgir.
 
@@ -209,7 +209,7 @@ Identifica otros instructores o expertos/colaboradores invitados que puedan ayud
 
 Mantener un ambiente inclusivo es importante para el éxito de cualquier actividad de capacitación. Asegúrate que en los integrantes de tu programa son de distinta procedencia. Tu equipo de organización, facilitadores e instructores deben estar formados con una representación de diversas identidades de género, disciplinas, comunidades subrepresentadas, diversidad racial y regiones geográficas (sólo si pretendes abrir tu evento a participantes extranjeros).
 
-Invita activamente a instructores y facilitadores de comunidades subrepresentadas. Asegúrate de conversar con ellos sus metas y necesidades e incluye esta información en la programación del evento. Para aprender más acerca de los instructores revisa el Capítulo On learning and training, [expectativas acerca de los instructores](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Asegúrate que una parte de los espacios de los participantes están reservados para asistentes de diferentes orígenes étnicos, identidades de género, disciplinas y regiones geográficas (ver [Inclusive engagement](/03OnLearningAndTraining.md/#expectations-about-a-trainer)). Para aprender más acerca de cómo organizar tu propio evento puedes consultar la [Conference Planning Checklist propuesto por SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+Invita activamente a instructores y facilitadores de comunidades subrepresentadas. Asegúrate de conversar con ellos sobre sus metas y necesidades e incluye esta información en la programación del evento. Para aprender más acerca de los instructores revisa el Capítulo sobre Enseñanaza y Capacitación, [expectativas acerca de los instructores](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Asegúrate que una parte de los espacios de los participantes están reservados para asistentes de diferentes orígenes étnicos, identidades de género, disciplinas y regiones geográficas (ver [Inclusive engagement](/03OnLearningAndTraining.md/#expectations-about-a-trainer)). Para aprender más acerca de cómo organizar tu propio evento puedes consultar la [Conference Planning Checklist propuesto por SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
 ## <img src="/Images/Icons/home.png" width="150" height="150" />
 ### Sede
@@ -230,13 +230,13 @@ Antes de programar tu evento debes tener en cuenta los obstáculos que podrían 
 ## <img src="/Images/Icons/budget.png" width="150" height="150" />
 ### Presupuesto
 
-Podrías necesitar algún tipo e financiación para ayudar a organizar tu evento, para pagar cosas tales como la sede (si la institución anfitriona no puede proveer esto de manera gratuita), los viajes para instructores o facilitadores externos, tentempiés, materiales (ej. Tarjetas de identificación, dispositivos USB) y material promocional. La mayoría de los tipos de capacitación necesitarán por lo menos algo de dinero para material y equipo. También debes de tener en cuenta que los costes asociados con los recursos humanos son habitualmente los más elevados asociados con la organización de un evento. Es recomendable identificar el tiempo que necesitará  el personal para preparar los materiales y el contenido, ya que a menudo no están presupuestados. Estos costes pueden estar cubiertos como un aspecto central del trabajo, pero si no lo están, sería prudente asegurar fondos para cubrirlos. 
+Podrías necesitar algún tipo e financiación para ayudar a organizar tu evento, para pagar cosas tales como la sede (si la institución anfitriona no puede proveer esto de manera gratuita), los viajes para instructores o facilitadores externos, tentempiés, materiales (ej. tarjetas de identificación, dispositivos USB) y material promocional. La mayoría de los tipos de capacitación necesitarán por lo menos algo de dinero para material y equipo. También debes de tener en cuenta que los costes asociados con los recursos humanos son habitualmente los más elevados asociados con la organización de un evento. Es recomendable identificar el tiempo que necesitará  el personal para preparar los materiales y el contenido, ya que a menudo no están presupuestados. Estos costes pueden estar cubiertos como un aspecto central del trabajo, pero si no lo están, sería prudente asegurar fondos para cubrirlos. 
 
 Considera diferentes vías de conseguir financiación  para la capacitación. Si es posible solicita fondos de tu institución. De otra manera tendrías que cobrar una cuota a los participantes o buscar becas y otras formas de financiamiento.
 
-#### Cuotas
+#### Inscripciones 
 
-Recolectar y administrar fondos o cuotas puede ser complicado. Si planeas hacer esto debes considerar utilizar algún servicio en línea de registro (ej. Eventbrite, Event Smart) o los servicios de conferencias y eventos de tu institución. Aunque cualquier costo tiene un impacto en la accesibilidad al evento, cobrar un tarifa de registro (ej. $200-1000 MXN o $20-40 USD)alienta a aquellos que hicieron el registro a asistir al mismo- Software Carpentry encontró que esto reduce la no asistencia de un tercio a cerca de 5% (Wilson, 2016). 
+Recolectar y administrar fondos o cuotas puede ser complicado. Si planeas hacer esto debes considerar utilizar algún servicio en línea de registro (ej. Eventbrite, Event Smart) o los servicios de conferencias y eventos de tu institución. Aunque cualquier costo tiene un impacto en la accesibilidad al evento, cobrar un tarifa de registro (ej. $200-1000 MXN o $20-40 USD) alienta a aquellos que hicieron el registro a asistir al mismo- Software Carpentry encontró que esto reduce la no asistencia de un tercio a cerca de 5% (Wilson, 2016). 
 
 Si tienes planeado cobrar una cuota de cualquier tipo, es buena idea aclarar con tu equipo financiero quien es el más capacitado para organizar los recursos. En muchos casos la cantidad de tiempo/esfuerzo requerido para establecer esto puede superar el valor de los ingresos obtenidos- particularmente si solo se cobra una cuota. Tu institución probablemente tenga procesos específicos de financiación y códigos de presupuesto que hay que emplear, así que comunícate con ellos y con las áreas correspondientes desde el principio para ver cuál es la mejor estrategia. Incluso cuando se utilizan servicios externos cómo Eventbrite podrías necesitar al departamento de presupuesto institucional para saber cómo proceder para que los ingresos se incorporen a la institución. 
 
@@ -256,7 +256,7 @@ Considera diferentes niveles de patrocinadores (bronce, plata, oro) en caso de e
 
 Hay que tomar en consideración varias cosas:
 
-¿Los participantes necesitarán acceso a Wifi? Asegúrate que cualquier requisito para el acceso se trata con anticipación (ej. Proporcionando detalles de la cuenta de invitado). Revisa si la sede tiene suficientes tomas de corriente. Asegúrate de consultar con el propietario de la sede con antelación la disponibilidad de soporte técnico. Si planeas grabar el evento asegúrate de tener el equipo correcto y que los asistentes están informados (y han dado su consentimiento) para ser grabados. Piensa cómo vas a licenciar cualquier resultado: ¿Puedes aplicar una licencia Creative Commons (CC) a las imágenes, videos y materiales utilizados? ¿Los autores están de acuerdo con la licencia?
+¿Los participantes necesitarán acceso a Wifi? Asegúrate que cualquier requisito para el acceso se trata con anticipación (ej. Proporcionando detalles de la cuenta de invitado). Revisa si la sede tiene suficientes tomas de corriente. Asegúrate de consultar con el propietario de la sede con antelación la disponibilidad de soporte técnico. Si planeas grabar el evento asegúrate de tener el equipo correcto y que los asistentes estén informados (y han dado su consentimiento) para ser grabados. Piensa cómo vas a licenciar cualquier resultado: ¿Puedes aplicar una licencia Creative Commons (CC) a las imágenes, videos y materiales utilizados? ¿Los autores están de acuerdo con la licencia?
 
 #### Poco antes del evento
 
@@ -264,11 +264,11 @@ Asegúrate que todo tu equipo, medios y materiales están funcionando correctame
 
 Asegúrate de imprimir cualquier folleto con anticipación y contar con suficientes para el resto. Si planeas repartir abundante material, considera proveer portafolios o carpetas para ayudar con la organización del material, o considera ponerlo todo disponible digitalmente vía tu sitio web y redes sociales.
 
-Prepara una variedad de medios que puedan ayudar a atraer una audiencia con diversos estilos de aprendizaje. Debes preparar los materiales didácticos a utilizar con anticipación (ej. Rotafolios, ejercicios prácticos, juegos). Lleva libretas, notas, bolígrafos, chinchetas, etc. Si los participantes necesitan algún otro material que requiera ordenador asegúrate de que está disponible y bien organizado con anticipación.
+Prepara una variedad de medios que puedan ayudar a atraer una audiencia con diversos estilos de aprendizaje. Debes preparar los materiales didácticos a utilizar con anticipación (ej. ejercicios prácticos, juegos). Lleva libretas, notas, bolígrafos, chinchetas, etc. Si los participantes necesitan algún otro material que requiera ordenador asegúrate de que está disponible y bien organizado con anticipación.
 
 #### Durante el evento
 
-Si tu equipo falla… no te preocupes, llama al personal de apoyo de tecnologías y explica el problema a los asistentes, la mayoría de la gente entiende estos problemas. Lo que atí te puede llevar horas resolver pueden ser solo pocos minutos de tiempo perdido. Si el equipo sigue sin estar disponible trata de trabajar con el rotafolio y herramientas que no requieran tecnología. Si dependes mucho del equipo y es solo un grupo pequeño, puedes sugerir reprogramar la sesión.
+Si tu equipo falla… no te preocupes, llama al personal de apoyo  tecnológico y explica el problema a los asistentes, la mayoría de la gente entiende estos problemas. Lo que a tí te puede llevar horas resolver pueden ser solo pocos minutos de tiempo perdido. Si el equipo sigue sin estar disponible trata de trabajar con el rotafolio y herramientas que no requieran tecnología. Si dependes mucho del equipo y es solo un grupo pequeño, puedes sugerir reprogramar la sesión.
 
 ## <img src="/Images/Icons/shout.png" width="150" height="150" />
 ### Estrategia de mercadotecnia y publicidad
@@ -281,7 +281,7 @@ Considera cómo se llamará tu evento. Piensa en dónde se enmarca y el mensaje 
 
 Considera tanto los medios digitales como los no digitales. Utiliza listas de correo institucionales y medios sociales (ej. Twitter, Facebook, blog), puedes incluso hacer un hashtag relacionado con tu evento.  ¿Tendrás que utilizar un perfil específico de medios sociales? ¿Qué tipo de contenido vas a compartir? Piensa en imágenes y logos que sean relevantes, esto es especialmente importante si esperas realizar más de un evento. Si el evento va a ser organizado con el patrocinador, o coordinado con una organización institucional (ej. La biblioteca, un colegio o departamento en particular), entonces puedes querer o necesitar usar los perfiles de la organización. Esto va a requerir que alguien más publique material en tu perfil, así que tenlo presente. Muchas de estas recomendaciones van a requerir firmas de las organizaciones o apoyo financiero- comienza a investigar estas opciones lo más pronto posible.
 
-Investiga si puedes pegar flyers o posters en tu institución ¿Diseñarás algún poster o flyer? ¿Qué tipo de logos, imágenes, texto e información necesitas incluir? Asegúrate de comunicar claramente los objetivos predefinidos (habilidades y conocimientos), puedes consultar a diferentes organizaciones en busca de ayuda para la publicidad. Contacta con medios relevantes, crea una nota o comunicado de prensa y recuerda utilizar los canales existentes de comunicación que tienes a tu alcance, por ejemplo la biblioteca de la universidad, podrías hablar con los bibliotecarios para que promuevan el evento en sus comunidades académicas.
+Investiga si puedes pegar folletos o posters en tu institución ¿Diseñarás algún poster o folleto? ¿Qué tipo de logos, imágenes, texto e información necesitas incluir? Asegúrate de comunicar claramente los objetivos predefinidos (habilidades y conocimientos), puedes consultar a diferentes organizaciones en busca de ayuda para la publicidad. Contacta con medios relevantes, crea una nota o comunicado de prensa y recuerda utilizar los canales existentes de comunicación que tienes a tu alcance, por ejemplo la biblioteca de la universidad, podrías hablar con los bibliotecarios para que promuevan el evento en sus comunidades académicas.
 
 #### Poco antes del evento
 
@@ -306,7 +306,7 @@ Puedes hacer una pequeña encuesta para medir el conocimiento de los participant
 
 #### Poco antes del evento
 
-Dependiendo del tamaño de la audiencia debes proveer varias mesas de registro. Asegúrate que todo el personal que colabora en la organización tiene toda la información, incluyendo la lista de participantes y deja que se encarguen de las credenciales y hojas de asistencia/certificados.
+Dependiendo del tamaño de la audiencia debes proveer varias mesas para el registro. Asegúrate que todo el personal que colabora en la organización tiene toda la información, incluyendo la lista de participantes y deja que se encarguen de las credenciales y hojas de asistencia/certificados.
 
 Si no hay mesas de registro separadas, prepara fichas de ayuda con información para tener a la mano (transporte público, números de emergencia, solicitud de certificados, seguridad durante el evento, etc.)
 
@@ -344,7 +344,7 @@ Recuerda a los asistentes sobre la ubicación y accesibilidad de la sede. Envía
 Dedica suficiente tiempo a la gestión durante el inicio del evento. Anota en un lugar visible el hashtag y las contraseñas del internet.
 
 ## <img src="/Images/Icons/lunch_break.png" width="150" height="150" />
-### Catering
+### Servicio de Catering
 
 #### Mucho antes del evento
 
@@ -365,7 +365,7 @@ Asegúrate de tener la información de contacto del servicio de catering, esto e
 
 #### Mucho antes del evento
 
-Para asegurarte que el curso de capacitación es amigable, inclusivo y de un ambiente de respeto para los instructores y participantes, identifica y crea un Código de Conducta bastante sólido para tu evento. Asegúrate que el Código de Conducta se comunica previamente - se recomienda colocar en un lugar visible en el sitio web del evento (ver tarea 2) y en la sede. Se debe pedir a los participantes que revisen y reconozcan el Código de Conducta mientras se registran para el evento. En el Código de Conducta debes incluir cuales serían las consecuencias en caso de violación de este (por ejemplo, expulsión del evento). Asegúrate de que el proceso de notificación de violaciones es claramente comunicado antes y durante el evento y que por lo menos un organizador sea identificado como el punto de contacto, quién debe ser fácilmente accesible para recibir notificaciones de violaciones al código de conducta. Algunos ejemplos que puedes tomar prestados o adaptar son:
+Para asegurarte que el curso de capacitación es amigable, inclusivo y de un ambiente de respeto para los instructores y participantes, identifica y crea un Código de Conducta bastante sólido para tu evento. Asegúrate que el Código de Conducta se comunica previamente - se recomienda colocar en un lugar visible en el sitio web del evento (ver tarea 2) y en la sede. Se debe pedir a los participantes que revisen y reconozcan el Código de Conducta mientras se registran para el evento. En el Código de Conducta debes incluir cuales serían las consecuencias en caso de la violación de este (por ejemplo, expulsión del evento). Asegúrate de que el proceso de notificación de violaciones es claramente comunicado antes y durante el evento y que por lo menos un organizador sea identificado como el punto de contacto, quién debe ser fácilmente accesible para recibir notificaciones de violaciones al código de conducta. Algunos ejemplos que puedes tomar prestados o adaptar son:
 
 * [The Mozilla Science Lab Code of Conduct](https://science.mozilla.org/code-of-conduct)
 
@@ -447,7 +447,7 @@ Habla con otros colaboradores/instructores para autoevaluar el evento.
 
 ### Evaluación
 
-Envía una encuesta de evaluación post evento (ver [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) o distribuye una hoja de evaluación durante el evento y asegúrate de que al final la gente lo entregue.
+Envía una encuesta de evaluación post evento (ver [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) o distribuye una hoja de evaluación durante el mismo y asegúrate de que al final la gente lo entregue.
 
 Lee y contabiliza las preguntas de la hoja de evaluación. Recuerda hacer una autoevaluación. 
 
@@ -455,7 +455,7 @@ Lee y contabiliza las preguntas de la hoja de evaluación. Recuerda hacer una au
 
 Sube al sitio web todo el material utilizado durante el evento (presentaciones, documentos) en caso de que no estuvieran disponibles previamente. Asegúrate de proveer licencias abiertas en lo posible y asegúrate de que los participantes no sean identificables (ej. Dentro de un documento de notas).
 
-Prepara un reporte para el financiador o la institución y si es necesario hazlo público (ej. Vía blog, Twitter, sitio web).
+Prepara un informe para el financiador o la institución y si es necesario hazlo público (ej. Vía blog, Twitter, sitio web).
 
 ## <img src="/Images/Icons/coffee_break.png" width="150" height="150" /> <img src="/Images/Icons/toilets.png" width="150" height="150" />
 ## Checklist
