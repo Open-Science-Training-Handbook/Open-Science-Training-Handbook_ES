@@ -327,15 +327,15 @@ Asegúrate que todos los recursos clave son visibles y accesibles. Si quieres qu
 
 #### Poco antes del evento
 
-Comunica los requerimiento para la audiencia con anticipación:
+Comunica los requisitos para la audiencia con antelación:
 
-* Hazles saber si necesitan llevar laptop u otros materiales de trabajo.
+* Hazles saber si necesitan llevar portátil u otros materiales de trabajo.
 
-* Asegúrate que los requisitos previos para software o habilidades de programación son comunicados con anticipación.
+* Asegúrate que los requisitos previos para software o habilidades de programación son comunicados con antelación.
 
 * Provee materiales de lectura básicos que ayuden a contextualizar, de esta manera no tienes que comenzar desde un punto de inicio muy básico.
 
-Envía un correo de recordatorio a tus asistentes un día o dos antes del evento, esto si es posible (esto no debe ser necesario si confías en tu servicio de registro).
+Envía un correo de recordatorio a tus asistentes un día o dos antes del evento, esto si es posible (No será necesario si confías en tu servicio de registro).
 
 Recuerda a los asistentes sobre la ubicación y accesibilidad de la sede. Envía instrucciones detalladas de opciones de estacionamiento y transporte público.
 
@@ -348,7 +348,7 @@ Dedica suficiente tiempo a la gestión durante el inicio del evento. Anota en un
 
 #### Mucho antes del evento
 
-¿Qué tipo de refrigerios necesitaras proporcionar? o ¿La gente necesita traer su propio refrigerio? Si vas a proporcionar refrigerios, probamente necesites obtener financiamiento o cobrar una cuota de registro.
+¿Qué tipo de tentempié necesitaras proporcionar? o ¿La gente necesita traer su propio refrigerio? Si vas a proporcionar refrigerios, probamente necesites obtener financiación o cobrar una cuota de registro.
 
 Si es relevante puedes preguntar durante el registro previo al evento por requisitos dietéticos, pero debes tener en mente que esto podría hacerse muy complicado para ti. Algunas veces es mejor preguntar al servicio de catering si puede proveer variedades suficientes de refrigerios (vegetarianos, veganos, libres de gluten, etc.) y agregar un campo en blanco en el formulario de envío, de esta formar los participantes pueden anotar solicitudes específicas si es necesario (ej. Intolerancia o alergia a ciertos alimentos).
 
@@ -365,7 +365,7 @@ Asegúrate de tener la información de contacto del servicio de catering, esto e
 
 #### Mucho antes del evento
 
-Para asegurarte que el curso de capacitación es amigable, inclusivo y de un ambiente de respeto para los instructores y participantes, identifica y crea un Código de Conducta bastante sólido para tu evento. Asegúrate que el Código de Conducta es previamente comunicado- se recomienda colocar en un lugar visible en el sitio web del evento (ver tarea 2) y en la sede. Se debe pedir a los participantes que revisen y reconozcan el Código de Conducta mientras se registran para el evento. En el Código de Conducta debes incluir cuales serían las consecuencias en caso de violación de este (por ejemplo, expulsión del evento). Asegúrate de que el proceso de reporte de violaciones es claramente comunicado antes y durante el evento y que por lo menos un organizador sea identificado como el punto de contacto, quién debe ser fácilmente accesible para recibir reportes de violaciones al código de conducta. Algunos ejemplos que puedes tomar prestados o adaptar son:
+Para asegurarte que el curso de capacitación es amigable, inclusivo y de un ambiente de respeto para los instructores y participantes, identifica y crea un Código de Conducta bastante sólido para tu evento. Asegúrate que el Código de Conducta se comunica previamente - se recomienda colocar en un lugar visible en el sitio web del evento (ver tarea 2) y en la sede. Se debe pedir a los participantes que revisen y reconozcan el Código de Conducta mientras se registran para el evento. En el Código de Conducta debes incluir cuales serían las consecuencias en caso de violación de este (por ejemplo, expulsión del evento). Asegúrate de que el proceso de notificación de violaciones es claramente comunicado antes y durante el evento y que por lo menos un organizador sea identificado como el punto de contacto, quién debe ser fácilmente accesible para recibir notificaciones de violaciones al código de conducta. Algunos ejemplos que puedes tomar prestados o adaptar son:
 
 * [The Mozilla Science Lab Code of Conduct](https://science.mozilla.org/code-of-conduct)
 
@@ -383,7 +383,7 @@ Asegúrate que el Código de Conducta es claramente visible y accesible en el si
 
 #### Durante el evento
 
-Asegúrate que hay un espacio seguro para que los participantes reporten cualquier infracción al Código de Conducta. En caso de que ocurra cualquier infracción, comunica las sanciones y dales seguimiento.
+Asegúrate que hay un espacio seguro para que los participantes notifiquen cualquier infracción al Código de Conducta. En caso de que ocurra cualquier infracción, comunica las sanciones y dales seguimiento.
 
 ## <img src="/Images/Icons/badge.png" width="150" height="150" />
 ### Certificado de asistencia
@@ -432,7 +432,7 @@ Prepara documentos de notas (ej. Google Docs públicos o editores web colaborati
 
 Pregunta a tu audiencia si están de acuerdo en ser filmados, fotografiados o mostrados en redes sociales. Si es una audiencia muy grande, debes considerar repartir etiquetas o calcomanías a aquellos que no están de acuerdo y así evitar grabarlos o fotografiarlos.
 
-Asigna gente que tome las notas y sea responsable de los medios sociales. Idealmente rota considerablemente para evitar descuidos y perdidas de atención.
+Asigna gente que tome las notas y sea responsable de los medios sociales. Idealmente rota con frecuencia a este personal para evitar descuidos y perdidas de atención.
 
 ## <img src="/Images/Icons/key.png" width="150" height="150" />
 ## Cierre del evento
@@ -447,7 +447,7 @@ Habla con otros colaboradores/instructores para autoevaluar el evento.
 
 ### Evaluación
 
-Envía una encuesta de evaluación post evento (ver [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) o distribuye una hoja de evaluación durante el evento y asegúrate de que al final del evento la gente lo entregue.
+Envía una encuesta de evaluación post evento (ver [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) o distribuye una hoja de evaluación durante el evento y asegúrate de que al final la gente lo entregue.
 
 Lee y contabiliza las preguntas de la hoja de evaluación. Recuerda hacer una autoevaluación. 
 
@@ -512,7 +512,7 @@ Prepara un reporte para el financiador o la institución y si es necesario hazlo
     <td></td>
   </tr>
   <tr>
-    <td>Elevadores de acceso, entradas accesibles, rampas</td>
+    <td>Ascensores de acceso, entradas accesibles, rampas</td>
     <td></td>
     <td></td>
   </tr>
@@ -522,7 +522,7 @@ Prepara un reporte para el financiador o la institución y si es necesario hazlo
     <td></td>
   </tr>
   <tr>
-    <td>Cuarto de maternidad, sala de oración y baños neutrales de genero</td>
+    <td>Cuarto de lactancia, sala de oración y baños neutrales de genero</td>
     <td></td>
     <td></td>
   </tr>
