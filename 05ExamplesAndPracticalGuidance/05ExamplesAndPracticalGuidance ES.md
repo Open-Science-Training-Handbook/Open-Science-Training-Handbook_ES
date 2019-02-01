@@ -1,11 +1,11 @@
 ## <img src="../Images/Icons/live_event.png" width="200" height="200" /> <img src="../Images/Icons/balloon_thought.png" width="200" height="200" />
 ### Ejemplos y guías prácticas: adoptar, adaptar, desarrollar
 
-En este capítulo encontrarás diversos materiales que te ayudarán a involucrar activamente a las personas que estás capacitando, en el análisis crítico de los problemas relacionados con la Ciencia Abierta. 
+En este capítulo encontrarás diversos materiales que te ayudarán a involucrar activamente a los asistentes al curso de formación, en el análisis crítico de los problemas relacionados con la Ciencia Abierta. 
 
-Sugerimos acercarte a estos materiales teniendo en mente el lema “Adoptar, adaptar, desarrollar", siempre considerando que es mejor reutilizar –hasta donde sea posible– lo que ya existe. Por tanto, antes de que empieces a desarrollar materiales de capacitación desde cero, debes averiguar si ya existen recursos que puedas utilizar. Aquí te proporcionamos algunos recursos como ejemplo, con consejos acerca de cómo adaptarlos a tus propósitos. De igual forma, te ofrecemos enlaces y estrategias para localizar material adicional. Algunos recursos pueden ser usados tal como están, en cuyo caso sólo tienes que **adoptarlos**; por ejemplo, puedes recomendar a tu audiencia un video tutorial disponible en abierto. En otros casos será preciso **adaptar** recursos ya existentes con el fin de ajustarlos a tus propósitos; por ejemplo, agregar o reemplazar las referencias de alguna institución o país, por una visión más general sobre requisitos de Acceso Abierto emitidos por quienes financian investigación. Solo como último recurso te recomendamos **desarrollar** tus propios materiales de capacitación desde cero, en cuyo caso es preciso que te asegures de desarrollarlos como Recursos Educativos Abiertos, para que otros capacitadores puedan reusarlos y adaptarlos. 
+Sugerimos considerar estos materiales teniendo en mente el lema “Adoptar, adaptar, desarrollar", siempre considerando que es mejor reutilizar –hasta donde sea posible– lo que ya existe. Por tanto, antes de que empieces a desarrollar materiales de capacitación desde cero, debes averiguar si ya existen recursos que puedas utilizar. Aquí te proporcionamos algunos recursos como ejemplo, con consejos acerca de cómo adaptarlos a tus objetivos. De igual forma, te ofrecemos enlaces y estrategias para localizar material adicional. Algunos recursos pueden usarse tal y como están, en cuyo caso sólo tienes que **adoptarlos**; por ejemplo, puedes recomendar a tu audiencia un video tutorial disponible en abierto. En otros casos será preciso **adaptar** recursos ya existentes con el fin de ajustarlos a tus propósitos; por ejemplo, agregar o reemplazar las referencias de alguna institución o país, por una visión más general sobre requisitos de Acceso Abierto emitidos por quienes financian investigación. Solo como último recurso te recomendamos **desarrollar** tus propios materiales de capacitación desde cero, en cuyo caso es preciso que te asegures de desarrollarlos como Recursos Educativos Abiertos, para que otros capacitadores puedan reusarlos y adaptarlos. 
 
-### Ejemplos de estructuras de capacitación
+### Ejemplos de formatos de capacitación
 
 **Encuentros Göttingen de Ciencia Abierta, Biblioteca de la Universidad de Göttingen (3
 horas)**
@@ -26,13 +26,13 @@ Transparencia, Compartir en Abierto y Reproducibilidad son valores fundamentales
 
 El objetivo de este taller es ofrecer a investigadores y administradores ejemplos prácticos de herramientas de Ciencia Abierta; así como también flujos de trabajo en diversas disciplinas, para empezar a aplicarlos y discutirlos. Para ello, se presenta una descripción general de las prácticas y herramientas de Ciencia Abierta que se utilizan a lo largo del flujo del trabajo científico, con ejemplos prácticos, encuestas y debates interactivos. El segundo día del taller está orientado a aplicar y compartir. En varias rondas los participantes exploran y, cuando es posible, prueban o aplican herramientas y prácticas. Todo ello lo hacen tanto en grupos pequeños como de forma individual y también en un foro interactivo. En la sesión final se lleva a cabo un debate sobre los obstáculos e incentivos para transformar su propia investigación en Ciencia Abierta.
 
-[Open Science - what’s in it for me](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Viena, 2017, reporte del taller)
+[Open Science - what’s in it for me](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Viena, 2017, informe  del taller)
 
 [Open Science - what’s in it for me](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Turín, 2018, programa del taller)
 
 **Talleres Carpentry (2 días)**
 
-Los talleres Carpentry son encuentros prácticos de dos días, durante los cuales se comparten habilidades básicas necesarias para ser productivo en pequeños equipos de investigación. Se alternan tutoriales cortos con ejercicios prácticos, y toda la capacitación se realiza mediante programación en vivo. Software Carpentry fue fundado en 1998 y Data Carpentry en 2013; ambas soluciones se enfocan en compartir habilidades computacionales, se imparten en talleres de dos días con instructores voluntarios y tienen el objetivo de llenar el vacío que actualmente existe en la capacitación para investigadores; sin embargo, difieren en cuanto a su contenido y público objetivo. Los talleres Data Carpentry se orientan a las mejores prácticas relacionadas con datos, sus participantes no son aquellos interesados en aprender a programar, sino quienes tienen muchos datos y no saben qué hacer con ellos; es decir, están dirigidos a aprendices, son de un ámbito específico y presentan un programa de estudios completo centrado en un solo conjunto de datos. Los talleres Software Carpentry, por su parte, están destinados a personas que necesitan programar de manera más efectiva para resolver sus retos computacionales; y si bien son modulares, no son de asignaturas específicas —cada lección de Software Carpentry es independiente.
+Los talleres Carpentry son encuentros prácticos de dos días, durante los cuales se comparten habilidades básicas necesarias para ser productivo en pequeños equipos de investigación. Se alternan tutoriales cortos con ejercicios prácticos, y toda la capacitación se realiza mediante programación en vivo. Software Carpentry fue fundado en 1998 y Data Carpentry en 2013; ambas soluciones se enfocan en compartir habilidades computacionales, se imparten en talleres de dos días con instructores voluntarios y tienen el objetivo de llenar el vacío que actualmente existe en la capacitación para investigadores; sin embargo, difieren en cuanto a su contenido y público objetivo. Los talleres Data Carpentry se orientan a las mejores prácticas relacionadas con datos, sus participantes no son aquellos interesados en aprender a programar, sino quienes tienen muchos datos y no saben qué hacer con ellos; es decir, están dirigidos a principiantes, son de un ámbito específico y presentan un programa de estudios completo centrado en un solo conjunto de datos. Los talleres Software Carpentry, por su parte, están destinados a personas que necesitan programar de manera más efectiva para resolver sus retos computacionales; y si bien son modulares, no son de asignaturas específicas —cada lección de Software Carpentry es independiente.
 
 Software Carpentry: [https://software-carpentry.org](https://software-carpentry.org)
 
@@ -177,7 +177,7 @@ Varias universidades de Europa organizan escuelas de verano de una semana sobre 
     <td>Café LIBER de Ciencia Abierta</td>
     <td>Conceptos y principios de lo Abierto</td>
     <td>Grupos pequeños</td>
-    <td>1.5 hora</td>
+    <td>1,5 horas</td>
   </tr>
   <tr>
     <td>6</td>
@@ -283,7 +283,7 @@ Recursos Educativos Abiertos</td>
     <td>Revisión por pares abierta: ¡va mi apuesta!</td>
     <td>Revision por pares abierta, Métricas y Evaluación</td>
     <td>Grupo completo</td>
-    <td>1.5 horas</td>
+    <td>1,5 horas</td>
   </tr>
   <tr>
     <td>21</td>
@@ -302,7 +302,7 @@ Plataformas Colaborativas</td>
   </tr>
   <tr>
     <td>23</td>
-    <td>El abogado del diablo - convenciendo a los escépticos</td>
+    <td>El abogado del diablo - cómo convencer a los escépticos</td>
     <td>Promoción de lo Abierto</td>
     <td>Grupos pequeños</td>
     <td>30 minutos</td>
