@@ -356,7 +356,7 @@ Plataformas Colaborativas</td>
 
     * [Conceptos y principios de lo abierto](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md).
 
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
     * Identifica brechas de conocimiento/áreas en las que los participantes sienten que se beneficiarían más de la capacitación.
     * (Opcional) Identifica áreas en las que los participantes se sientan competentes (y puedan compartir su propio conocimiento).
@@ -391,7 +391,7 @@ Plataformas Colaborativas</td>
     * Se pueden tener impresiones individuales para prevenir la presión/sesgos entre compañeros. 
     * Las impresiones individuales se pueden conservar como referencia durante el resto de la capacitación.
 
-* Cómo adaptarlo a otros propósitos:
+* Cómo adaptarlo a otros objetivos:
 
     * Este ejercicio puede fácilmente ser adaptado para analizar otros temas.
 
@@ -399,7 +399,7 @@ Plataformas Colaborativas</td>
 
 * Formato, tiempo necesario:
 
-    * Pleanria, 1–1.5 horas.
+    * Plenaria 1–1,5 horas.
 
 * Tema:
 
@@ -436,7 +436,7 @@ Plataformas Colaborativas</td>
 
     * Pared grande, ventanas o tableros múltiples para colgar materiales.
     * Suficiente espacio para moverse.
-    * Impresos de las [tarjetas con prácticas sobre Ciencia Abierta](https://doi.org/10.6084/m9.figshare.4627954.v1) (también disponibles como [diapositivas de powerpoint editables](https://doi.org/10.6084/m9.figshare.4627999.v1) o en [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496))
+    * Tarjetas impresas [tarjetas con prácticas sobre Ciencia Abierta](https://doi.org/10.6084/m9.figshare.4627954.v1) (también disponibles como [diapositivas de powerpoint editables](https://doi.org/10.6084/m9.figshare.4627999.v1) o en [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496))
     * Tarjetas vacías, bolígrafos/marcadores.
     * Chinchetas o cinta. 
 * Nivel de conocimiento previo:
@@ -470,27 +470,27 @@ Plataformas Colaborativas</td>
 
 * Descripción del ejercicio:
 
-    * Divide a los participantes en grupos de cuatro o cinco, y distribuye temas de discusión (por ejemplo, impresos o en papel).
+    * Divide a los participantes en grupos de cuatro o cinco, y distribuye temas de discusión (por ejemplo, impresos en papel).
     * Haz que los grupos discutan los temas desde las propias perspectivas de los participantes
     * (Opcional) Invita a cada equipo a que resuma los puntos más importantes que surgieron en todo el grupo.
     * Sugerencias para temas de discusión: 
 
 
-        1. “Trabajar Ciencia Abierta de tal manera que la investigación sea más divertida”.
-        2. “Seleccionar es un problema real y tangible que hace que la Ciencia Abierta sea una elección difícil”.
-        3. “Los APCs (cargos por procesamiento de artículos) son el principal obstáculo para publicar más en Acceso Abierto”.
-        4. “Necesitamos apoyo más explícito para la Ciencia Abierta de parte de los financiadores y del gobierno”.
-        5. “Participar en revisión por pares abierta es problemático para los jóvenes investigadores que quieren hacer una carrera”.
-        6. “Debemos tomar con mayor seriedad a los científicos ciudadanos, y no solo verlos como proveedores de datos”.
+        1. “Trabajar Ciencia Abierta de tal manera que la investigación sea más divertida”
+        2. “Seleccionar es un problema real y tangible que hace que la Ciencia Abierta sea una elección difícil”
+        3. “Los APCs (cargos por procesamiento de artículos) son el principal obstáculo para publicar más en Acceso Abierto”
+        4. “Necesitamos apoyo más explícito para la Ciencia Abierta de parte de los financiadores y del gobierno”
+        5. “Participar en revisión por pares abierta es problemático para los jóvenes investigadores que quieren hacer una carrera”
+        6. “Debemos tomar con mayor seriedad a los científicos ciudadanos, y no solo verlos como proveedores de datos”
         7. “El Factor de Impacto es un síntoma y no la causa de la competencia feroz por publicar”
-        8. “No hay absolutamente ninguna razón para no difundir un documento vía preprint, tan pronto como esté listo”.
-        9. “Solo compartir nuestros datos está bien, pero para acelerar la ciencia necesitamos también trabajar en la interoperabilidad y la reusabilidad de esos datos”.
-        10. “Compartir ideas y proyectos a través de ResearchGate es un buen medio de divulgación para nuestra investigación”.
-        11. “Las demandas de nuestros PIs son, probablemente, la principal razón por la cual los investigadores jóvenes no se involucran más en Ciencia Abierta”.
+        8. “No hay absolutamente ninguna razón para no difundir un documento en forma de  preprint, tan pronto como esté listo”
+        9. “Solo compartir nuestros datos está bien, pero para acelerar la ciencia necesitamos también trabajar en la interoperabilidad y la reusabilidad de esos datos”
+        10. “Compartir ideas y proyectos a través de ResearchGate es un buen medio de divulgación para nuestra investigación”
+        11. “Las demandas de nuestros PIs son, probablemente, la principal razón por la cual los investigadores jóvenes no se involucran más en Ciencia Abierta”
         12. “Deberíamos esforzarnos por crear una especie de ‘patrimonio común’ donde compartamos todos nuestros resultados/objetivos de investigación, para fomentar la colaboración y la reutilización”
 * Materiales y herramientas:
 
-    * Impresiones de temas de discusión.
+    * Impresión en papel de temas de discusión.
 * Nivel de conocimiento previo:
     * Cierta familiaridad con el sistema de investigación.
 * Elementos para tener en cuenta:
@@ -504,7 +504,7 @@ Plataformas Colaborativas</td>
 
 * Formato, tiempo necesario:
 
-    * Grupos pequeños, 1.5 hora.
+    * Grupos pequeños, 1,5 horas.
 
 * Tema:
 
@@ -512,8 +512,8 @@ Plataformas Colaborativas</td>
 
 * Objetivos de aprendizaje:
 
-    * Tener conocimiento de diferentes aspectos de la Ciencia Abierta.
-    * Conectar diferentes partes interesadas para discutir argumentos y temas.
+    * Tener conocimiento de diferentes aspectos de la Ciencia Abierta
+    * Conectar diferentes partes interesadas para discutir argumentos y temas afines
 
 * Materiales y herramientas:
 
@@ -537,7 +537,7 @@ Plataformas Colaborativas</td>
 * Tema:
 
     * [Conceptos y principios de lo abierto](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md).
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
     * Conocer los datos de investigación propios y los datos en su campo de investigación.
 * Descripción del ejercicio:
@@ -579,7 +579,7 @@ Plataformas Colaborativas</td>
 * Cómo adaptarlo a otros objetivos:
     * El mismo formato podría ser adaptado fácilmente a muchos otros elementos de Ciencia Abierta, por ejemplo, Acceso Abierto (¿Por qué no publicar en Acceso Abierto, etcétera). 
 
-**Ejemplo 8: Lotería "Pretexos de los Datos Abiertos"**
+**Ejemplo 8: Bingo "Pretexos para los Datos Abiertos"**
 
 * Formato, tiempo necesario:
 
@@ -589,7 +589,7 @@ Plataformas Colaborativas</td>
 
     * [Datos de investigación abierta](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
 
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
     * Desarrollar capacidades que permitan reconocer los estereotipos que impiden compartir datos de investigación, así como comprender las ventajas de abrir los datos de investigación.
 
@@ -599,7 +599,7 @@ Plataformas Colaborativas</td>
 
 * Materiales y herramientas:
 
-    * Hojas impresas de la [Lotería "Pretextos de los Datos Abiertos"](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
+    * Hojas impresas de la [Bingo "Pretextos para los Datos Abiertos"](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
 
 * Nivel de conocimiento previo:
 
@@ -623,9 +623,9 @@ Plataformas Colaborativas</td>
 
     * [Datos de investigación abierta](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
 
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
-    * Comprender qué son los datos y qué tipo de repositorio de preservación necesitas para almacenarlos adecuadamente.
+    * Entender  qué son los datos y qué tipo de repositorio de preservación necesitas para almacenarlos adecuadamente.
 
 * Descripción del ejercicio:
 
@@ -673,7 +673,7 @@ Plataformas Colaborativas</td>
     * Individual/parejas, 10–15 minutos.
 * Tema:
 
-    * [Datos de investigación abierta](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
+    * [Datos abiertos de investigación](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
 * Objetivos de aprendizaje:
 
     * Conciencizar a los participantes acerca de los repositorios de datos-específicos más apropiados
@@ -687,7 +687,7 @@ Plataformas Colaborativas</td>
 * Nivel de conocimiento previo:
 
     * Los participantes deben saber qué tipo de datos de investigación generan. 
-    * No aplica para estudiantes de licenciatura (pre-grado).
+    * No correponde para estudiantes de licenciatura (pre-grado).
 * Elementos para tener en cuenta:
     * Algunas personas no pueden encontrar un repositorio apropiado, así que prepara una lista de repositorios genéricos e institucionales que puedan ser utlizados para mostrarlos o explorarlos después
 * Cómo adaptarlos a otros objetivos:
@@ -705,7 +705,7 @@ Plataformas Colaborativas</td>
 
     * [Datos de investigación abierta](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
 
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
     * Recordar los pasos necesarios para una publicación de datos.
 
@@ -774,7 +774,7 @@ Plataformas Colaborativas</td>
 * Tema:
 
     * [Software Abierto de Investigación y Software de Código Abierto](/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
     * Aprender a usar herramientas y servicios frecuentes para compartir en abierto el código fuente de una investigación.
     * Ser capaces de elegir la licencia apropiada para su software y comprender la diferencia entre las licencias permisivas y no permisivas.
@@ -800,7 +800,7 @@ Plataformas Colaborativas</td>
     * Ninguno.
 * Cómo adpatarlo a otros objetivos:
 
-    * No aplica.
+    * No corresponde.
 
 **Ejemplo 14: Creación de un flujo de trabajo para el análisis de datos reproducibles**
 
@@ -812,7 +812,7 @@ Plataformas Colaborativas</td>
 
     * [Reproducibilidad de la Investigación y Análisis de Datos Abiertos](/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
 
-* Objetivos de aprendizaje: 
+* Objetivos del aprendizaje: 
 
     * Usar una (pequeña) tarea computacional relevante para tu disciplina/formación, y establecerla como un flujo de trabajo abierto y replicable.
     * Comprender los conceptos fundamentales, herramientas y servicios que son útiles en el contexto de la reproducibilidad.
