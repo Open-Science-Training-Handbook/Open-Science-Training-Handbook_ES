@@ -814,27 +814,27 @@ Plataformas Colaborativas</td>
 
 * Objetivos del aprendizaje: 
 
-    * Usar una (pequeña) tarea computacional relevante para tu disciplina/formación, y establecerla como un flujo de trabajo abierto y replicable.
-    * Comprender los conceptos fundamentales, herramientas y servicios que son útiles en el contexto de la reproducibilidad.
+    * Usar una (pequeña) tarea computacional relevante en tu disciplina, y establecela como un flujo de trabajo abierto y replicable.
+    * Conocer los conceptos fundamentales, herramientas y servicios que son útiles en el contexto de la reproducibilidad.
 
 * Descripción del ejercicio:
 
-    * Cada participante selecciona un conjunto de datos y el correspondiente proceso de análisis de datos que es relevante para su campo. Tanto el conjunto de datos, como el proceso de análisis deben ser lo suficientemente cortos como para concluir en pocos minutos. Además, para los propósitos de este ejercicio, el lenguaje de programación debe ser Python o R, pero puedes adaptar otros lenguajes con ligeros cambios en las herramientas básicas.
-    * El participante inicialmente ejecuta el proceso en la forma tradicional y luego le pide a alguno de los participantes que lo vuelva a ejecutar sin ayuda externa. Identifica tanto el tiempo requerido para que otra persona lo ejecute, como los obstáculos encontrados.
-    * Aplica el mismo proceso utilizando Jupyter, Git y MyBinder. Escribe el proceso como un cuaderno de Jupyter, carga el conjunto de datos y el cuaderno en un repositorio en GitHub, y luego conecta el repositorio a MyBinder. Después de ello, pide nuevamente a la misma persona que vuelva a correrlo (¡OJO!). Identifica el cambio en los tiempos y su accesibilidad.
+    * Cada participante selecciona un conjunto de datos y el correspondiente proceso de análisis de datos  relevante en su campo de trabajo. Tanto el conjunto de datos, como el proceso de análisis deben ser lo suficientemente cortos como para concluir en pocos minutos. Además, para alcanzar los objetivos de este ejercicio, el lenguaje de programación debe ser Python o R, pero puedes adaptar otros lenguajes con ligeros cambios en las herramientas subyacentes.
+    * El participante inicialmente ejecuta el proceso en la forma tradicional y luego le pide a alguno de los participantes que lo vuelva a ejecutar sin ayuda externa. Identifica tanto el tiempo requerido para que otra persona lo ejecute, como las dificultades encontradas.
+    * Aplica el mismo proceso utilizando Jupyter, Git y MyBinder. Escribe el proceso como un cuaderno de Jupyter, carga el conjunto de datos y el cuaderno en un repositorio en GitHub, y luego conecta el repositorio a MyBinder. Después de ello, pide nuevamente a la misma persona que vuelva a ejecutarlo. Identifica el cambio en los tiempos y su accesibilidad.
 
 * Materiales y herramientas:
 
-    * Jupyter y Git son necesarios (incluida una cuenta en GitHub). Dependiendo del idioma, puede ser necesario instalar *kérnels* adicionales de Jupyter. Finalmente, el capacitador puede decidir si proporciona un ejemplo común para todos los participantes o si les pide que traigan el suyo. La diferencia radica en la cantidad de tiempo requerido para la preparación, así como en la uniformidad de los antecedentes de los participantes.
+    * Jupyter y Git son necesarios (incluida una cuenta en GitHub). Dependiendo del idioma, puede ser necesario instalar *kérnels* adicionales de Jupyter. Finalmente, el capacitador puede decidir si proporciona un ejemplo común para todos los participantes o si les pide que traigan el suyo. La diferencia radica en la cantidad de tiempo requerido para la preparación, así como en la uniformidad de los conocimientos previos de los participantes.
 
 * Nivel de conocimiento previo:
 
-    * El taller se puede realizar a partir de diferentes niveles esperados de conocimiento previo que se irán adaptando con el tiempo. Por ejemplo, se puede incluir una breve introducción básica a Git, pero en todos los casos, los participantes deben ser conscientes de los requerimientos computacionales de su propio particular (¡OJO!).
+    * El taller se puede realizar con participantes con diferentes niveles de conocimiento previo, que se irá adaptando en función del tiempo. Por ejemplo, se puede incluir una breve introducción básica a Git, pero en todos los casos, los participantes deben conocer las particularidades de  analisis.
 
-* Elementos para tener en cuenta:
+* Elementos atener en cuenta:
 
-    * El concepto general es sencillo, pero presenta una curva de aprendizaje inicial en los componentes individuales. Por lo tanto, puedes considerar dedicarle al principio algún tiempo adicional para analizar cada herramienta, antes de conectarlas.
-    * Debes considerar otorgar a los participantes una explicación detallada del proceso de instalación (por ejemplo, para Jupyter y Git) antes del taller, a fin de minimizar posibles problemas técnicos.
+    * El concepto general es sencillo, pero presenta una fase de aprendizaje inicial de los componentes individuales. Por lo tanto, se debe considerar dedicar un tiempo al principio para analizar cada herramienta, antes de conectarlas.
+    * Debes tener en cuenta facilitar a los participantes una explicación detallada del proceso de instalación (por ejemplo, para Jupyter y Git) antes del taller, a fin de minimizar posibles problemas técnicos.
 
 * Cómo adaptarlo a otros objetivos:
 
@@ -850,7 +850,7 @@ Plataformas Colaborativas</td>
 
     * [Acceso Abierto a Publicaciones de Investigación](/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
 
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
     * Poder decidir cuál es la versión que se permite depositar en un repositorio y declarar su régimen de derechos de autor.
 
@@ -868,9 +868,9 @@ Plataformas Colaborativas</td>
     * Nociones básicas de Derecho de Autor.
     * Conocimientos sobre las diferentes versiones de un documento de investigación.
 
-* Elementos para tener en cuenta:
+* Elementos a tener en cuenta:
 
-    * El ejercicio se puede traducir a una versión en línea si se prepara un conjunto de encuestas.
+    * El ejercicio se puede hacer online si se previamente prepara un conjunto de consultas.
     * Utiliza una variedad de publicaciones que incluyan, por ejemplo, artículos publicados bajo modelos híbridos para mostrarles a los participantes que no es suficiente buscar en sitios con políticas de autoarchivo predeterminadas.
     * El número de casos determinará el tiempo del ejercicio.
 
@@ -888,7 +888,7 @@ Plataformas Colaborativas</td>
 
     * [Licencias Abiertas y Formatos de Archivos](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
     * Concientizar a los participantes acerca de los formatos de archivo que se utilizan en la vida cotidiana, y sus niveles de apertura.
 
@@ -928,7 +928,7 @@ Plataformas Colaborativas</td>
 
 * Descripción del ejercicio:
 
-    * Los participantes deben combinar dos licencias. Deja que el grupo descubra qué licencia de Creative Commons se crea mediante determinada combinación. Repite el ejercicio con otras combinaciones. Integra una combinación que no sea posible (por ejemplo, CC BY-SA y CC BY-NC) y señala los errores. Discute los resultados con los participantes.
+    * Los participantes deben combinar dos objetos con dos licencias. Deja que el grupo descubra qué licencia de Creative Commons se crea mediante determinada combinación. Repite el ejercicio con otras combinaciones. Integra una combinación que no sea posible (por ejemplo, CC BY-SA y CC BY-NC) y señala los errores. Discute los resultados con los participantes.
 
 * Materiales y herramientas:
 
