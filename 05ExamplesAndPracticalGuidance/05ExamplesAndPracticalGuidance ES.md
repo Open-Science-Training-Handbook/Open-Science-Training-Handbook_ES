@@ -814,7 +814,7 @@ Plataformas Colaborativas</td>
 
 * Objetivos del aprendizaje: 
 
-    * Usar una (pequeña) tarea computacional relevante en tu disciplina, y establecela como un flujo de trabajo abierto y replicable.
+    * Usar una (pequeña) tarea computacional relevante en tu disciplina, y establécela como un flujo de trabajo abierto y replicable.
     * Conocer los conceptos fundamentales, herramientas y servicios que son útiles en el contexto de la reproducibilidad.
 
 * Descripción del ejercicio:
@@ -932,7 +932,7 @@ Plataformas Colaborativas</td>
 
 * Materiales y herramientas:
 
-    * Ordenador con proyector, pizarrón, rotafolio u hojas de papel para todos los asistentes.
+    * Ordenador con proyector, pizarra, rotafolio u hojas de papel para todos los asistentes.
 
 * Nivel de conocimiento previo:
 
@@ -947,7 +947,7 @@ Plataformas Colaborativas</td>
     * Forma parejas y deja que resuelvan las combinaciones, luego analiza las soluciones con todo el grupo.
     * Usa otras licencias.
 
-##### **Ejemplo 18: OER Remix**
+##### **Ejemplo 18: Remezcla de Recursos de educación abiertos (OER)**
 
 * Formato, tiempo necesario: 
 
@@ -957,9 +957,9 @@ Plataformas Colaborativas</td>
 
     * [Licencias Abiertas y Formatos de Archivos](/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
 
-    * [Recursos de Educación Abierta](/02OpenScienceBasics/11OpenEducationalResources.md)
+    * [Recursos de Educación Abiertos](/02OpenScienceBasics/11OpenEducationalResources.md)
 
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
     * Ser capaz de distinguir los diferentes elementos de las licencias de Creative Commons.
     * Ser capaz de crear contenido, mezclando trabajos previos con múltiples licencias –incluso las de dominio público y aquellos con “todos los derechos reservados”– para determinar cuál será la licencia resultante.
@@ -967,7 +967,7 @@ Plataformas Colaborativas</td>
 * Descripción del ejercicio:
 
     * Está disponible una versión en línea: [http://www.opencontent.org/game/](http://www.opencontent.org/game/) y una versión impresa:  [http://www.opencontent.org/game/print/](http://www.opencontent.org/game/print/)
-    * Está disponible un conjunto de tarjetas marcadas con un tipo de contenido: texto, imagen, música y video; y cada tarjeta contiene un signo de derechos de autor que abarca desde aquellas con “todos los derechos reservados”, hasta las de dominio público, incluido el conjunto de licencias de Creative Commons y la Licencia de Documentación Libre de GNU.
+    * Está disponible un conjunto de tarjetas marcadas con un tipo de contenido: texto, imagen, música y video; y cada tarjeta contiene un signo de derechos de autor que abarca desde aquellas con “todos los derechos reservados”, hasta las de dominio público, incluido el conjunto de licencias de Creative Commons y la Licencia GNU de Documentación Libre.
     * Una persona del grupo toma 12 cartas y el resto del grupo tiene que combinarlas para construir un material con los cuatro tipos de contenido: texto, imagen, música y video. Una vez que eligen una combinación adecuada, tienen que decidir cuál es la posible licencia para este nuevo producto.
 
 * Materiales y herramientas:
@@ -998,9 +998,9 @@ Plataformas Colaborativas</td>
 
     * [Revisión por Pares Abierta, Métricas y Evaluación](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
-    * Practicar la redacción de revisiones por pares constructivas.
+    * Practicar la elaboración de revisiones por pares constructivas.
     * Reflexionar críticamente sobre las ventajas y desventajas de la revisión por pares abierta.
 
 * Descripción del ejercicio:
@@ -1013,7 +1013,7 @@ Plataformas Colaborativas</td>
 
 * Nivel de conocimiento previo:
 
-    * Ninguno, aunque los textos requerirán los conocimientos adquiridos en el taller anterior. ***¿Cuál taller, el anterior no es sobre revisión por pares abierta?***
+    * Ninguno, aunque los textos requerirán los conocimientos adquiridos previamente. 
 
 * Elementos para tener en cuenta:
 
@@ -1024,7 +1024,7 @@ Plataformas Colaborativas</td>
     * Cuando este ejemplo se utiliza en un taller de capacitación con un enfoque más amplio que la simple revisión por pares abierta, se podría utilizar para consolidar el aprendizaje sobre otros temas de Ciencia Abierta pidiendo a los participantes que primero escriban un texto sobre esos temas.
     * En lugar de lápiz y papel, este ejercicio también podría hacerse utilizando una herramienta de escritura colaborativa, como Google Docs, [Authorea](https://www.authorea.com), u [Overleaf](https://es.overleaf.com)/[ShareLaTeX](https://es.sharelatex.com). 
 
-**Ejemplo 20: Revisión por pares abierta: ¡va mi apuesta!**
+**Ejemplo 20: Revisión por pares abierta: ¡Mis dos céntimos!**
 
 * Formato, tiempo necesario:
 
@@ -1034,18 +1034,18 @@ Plataformas Colaborativas</td>
 
     * [Revisión por Pares Abierta, Métricas y Evaluación](/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 
-* Objetivos de aprendizaje:
+* Objetivos del aprendizaje:
 
-    * Comprender que hay muchos aspectos en torno a la revision por pares abierta, e identificar cuáles son.
+    * Entender que hay muchos aspectos en torno a la revision por pares abierta, e identificar cuáles son.
     * Formar una opinión sobre qué aspectos de la revision por pares abierta beneficiarían más a la ciencia.
     * Generar ideas acerca de los beneficios –y posibles inconvenientes– de los diferentes aspectos de la revision por pares abierta, desde las perspectivas lectores, autores y revisores.
 
 * Descripción del ejercicio:
 
     * Introducir diferentes aspectos de la revisión por pares, incluidos algunos ejemplos de revistas/plataformas donde se ponen en práctica.
-    * Pídales a los participantes que identifiquen individualmente de dos a tres aspectos de la revision por pares abierta que, a su juicio, contribuirían más a la Ciencia Abierta.
-    * En una gran copia impresa, los participantes colocan una moneda de baja denominación (OJO) sobre cada uno de los aspectos que seleccionaron en el paso anterior.
-    * Los resultados se observan juntos y se identifican los aspectos que fueron elegidos con mayor frecuencia.
+    * Solicite  a los participantes que identifiquen individualmente de dos a tres aspectos de la revision por pares abierta que, a su juicio, contribuirían más a la Ciencia Abierta.
+    * En una gran copia impresa, los participantes colocan una moneda de poco valor sobre cada uno de los aspectos que seleccionaron en el paso anterior.
+    * Se observan conjutnamente los resultados y se identifican los aspectos que elegidos con mayor frecuencia.
     * Después, en grupos pequeños, los participantes toman el papel de lector, autor o revisor (todos los papeles deben estar presentes en cada grupo).
     * A continuación, discuten uno de los aspectos de la revisión por pares abierta desde la perspectiva del papel que le correspondió a cada uno. ¿Cuáles son los beneficios y los posibles inconvenientes?
     * Posteriormente los grupos pequeños informan a todo el grupo, y se discuten perspectivas/puntos de vista adicionales. 
@@ -1056,7 +1056,7 @@ Plataformas Colaborativas</td>
 
     * Impresión en gran formato de [dimensiones de la revisión por pares](https://doi.org/10.6084/m9.figshare.4210293): una para cada
       participante y otra por equipo (está disponible una [presentación con diapositivas animadas](https://doi.org/10.6084/m9.figshare.4210254))
-    * Monedas de baja denominación.
+    * Monedas de bajo valor econónico.
 
 ![image alt text](/Images/image_14.png)
 
@@ -1064,15 +1064,15 @@ Plataformas Colaborativas</td>
 
     * Ninguno, sería de utilidad alguna familiaridad con el proceso tradicional de revisión por pares.
 
-* Elementos para tener en cuenta:
+* Elementos a tener en cuenta:
 
-    * Para las personas que no están familiarizadas con la forma en que opera la revisión por pares se podría requerir cierta explicación, en cuyo caso se deberá considerar el tiempo necesario para ello.
+    * Para las personas que no están familiarizadas con la la revisión por pares, podría requerirse una explicación previa, en cuyo caso se deberá considerar el tiempo necesario para ello.
     * En las discusiones, puede ser difícil para las personas separar su opinión de su papel asignado. Alienta y recuerda a las personas cuando sea necesario que se apeguen a su papel.
     * La cantidad de monedas por persona depende del número de participantes (por ejemplo, tres para grupos más pequeños, dos para grupos más grandes).
 
 * Cómo adaptarlo a otros objetivos:
 
-    * El concepto de votar con monedas se puede aplicar a otros temas, lo mismo que la asignación de
+    * El concepto de asignar monedas se puede aplicar a otros temas, lo mismo que la asignación de
       papeles en las discusiones en grupos pequeños.
 
 ##### **Ejemplo 21: Fijar una postura** 
@@ -1120,7 +1120,7 @@ Plataformas Colaborativas</td>
 
     * Este ejercicio se puede adaptar a muchas preguntas y temas diferentes
     * Una herramienta alternativa en línea (que también es de código abierto) para este tipo de ejercicios es [SimpleVote]([https://simplevote.ml](https://simplevote.ml)).
-    * Si la audiencia es heterogénea (es decir, investigadores, personas que apoyan la investigación, funcionarios públicos) sería informativo distinguir entre los diferentes grupos, por ejemplo, creando una pregunta separada para cada uno (en [Mentimeter]([https://www.mentimeter.com/](https://www.mentimeter.com/))), o usando círculos adhesivos de diferentes colores (sobre papel).
+    * Si la audiencia es heterogénea (es decir, investigadores, personas que apoyan la investigación, funcionarios públicos) sería conveniente distinguir entre los diferentes grupos, por ejemplo, creando una pregunta separada para cada uno (en [Mentimeter]([https://www.mentimeter.com/](https://www.mentimeter.com/))), o usando círculos adhesivos de diferentes colores (sobre papel).
     * Para los círculos adhesivos, elige una combinación amigable con el daltonismo.
 
 **Ejemplo 22: Explicaciones en lenguaje sencillo (en proceso)**
@@ -1135,7 +1135,7 @@ Plataformas Colaborativas</td>
 
     * [Plataformas Colaborativas](/02OpenScienceBasics/07CollaborativePlatforms.md)
 
-* Objetivos de aprendizaje: 
+* Objetivos del aprendizaje: 
 
 * Descripción del ejercicio:
 
@@ -1147,7 +1147,7 @@ Plataformas Colaborativas</td>
 
 * Cómo adaparlo a otros objetivos:
 
-**Ejemplo 23: El abogado del diablo: convenciendo a los escépticos**
+**Ejemplo 23: Abogado del diablo: convenciendo a los escépticos**
 
 * Formato, tiempo necesario: 
 
@@ -1164,7 +1164,7 @@ Plataformas Colaborativas</td>
 
 * Descripción del ejercicio:
 
-    * En grupos pequeños, de tres o cuatro personas, una o dos asumen el papel de “incrédulo” de la Ciencia Abierta, y los demás fungen como defensores.
+    * En grupos pequeños, de tres o cuatro personas, una o dos asumen el papel de “incrédulo” de la Ciencia Abierta, y los demás el de defensores.
     * Haz que los "defensores” de la Ciencia Abierta intenten convencer a los "incrédulos”.
     * Después de 10 minutos, haz que los participantes cambien de roles y tengan otra discusión (sin repetir los mismos argumentos).
     * Después de dos rondas, reúnete como grupo para compartir experiencias. ¿Qué argumentos fueron los más difíciles de rebatir? ¿Qué argumentos funcionaron mejor para convencer a los incrédulos? ¿Los participantes sienten que estos argumentos también serían útiles en situaciones de la vida real?
@@ -1188,7 +1188,7 @@ Plataformas Colaborativas</td>
 
 **¿FALTA EL 24 Y 25?**
 
-**Ejemplo 26: Configurar un proyecto OSF (Open Science Foundation) y vincularlo a otras plataformas**
+**Ejemplo 26: Configurar un proyecto OSF (Open Science Framework) y vincularlo a otras plataformas**
 
 * Crear un entorno de colaboración de datos [OSF](https://osf.io/dashboard/) para publicación
 
