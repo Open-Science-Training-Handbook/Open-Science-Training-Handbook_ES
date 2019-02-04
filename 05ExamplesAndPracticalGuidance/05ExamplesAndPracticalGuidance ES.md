@@ -1185,7 +1185,8 @@ Plataformas Colaborativas</td>
 * Cómo adaptarlo a otros objetivos:
 
     * Este ejercicio podría enfocarse en aspectos específicos de la Ciencia Abierta.
-**Ejemplo 24: Configure el proyecto OSF y el enlace a otras plataformas - en progreso**
+    
+#####**Ejemplo 24: Configure el proyecto OSF y el enlace a otras plataformas - en progreso**
 
    * Formato, tiempo necesario:
        * Individualmente o en parejas
@@ -1213,7 +1214,7 @@ Plataformas Colaborativas</td>
 
     * Cómo adaptarlo a otros objetivos:
 
-**Example 25: La trampa de publicación - en progreso**
+#####**Example 25: La trampa de publicación - en progreso**
 
     * Formato, tiempo necesario:
        * Grupos pequeños,2 h
