@@ -1185,8 +1185,60 @@ Plataformas Colaborativas</td>
 * Cómo adaptarlo a otros objetivos:
 
     * Este ejercicio podría enfocarse en aspectos específicos de la Ciencia Abierta.
+**Ejemplo 24: Configure el proyecto OSF y el enlace a otras plataformas - en progreso**
 
-**¿FALTA EL 24 Y 25?**
+   * Formato, tiempo necesario:
+       * Individualmente o en parejas
+
+   * Tema:
+       * Datos y Materiales de investigación abiertos
+
+   * Objetivos de aprendizaje:
+
+   * Descripción del ejercicio:
+
+       * Cree un entorno de colaboración OSF desde los datos hasta la publicación.
+
+           * Conecte su proyecto OSF a GitHub.
+
+           * Suba cualquier código en crudo, imágenes, datos, tablas para proyectar.
+
+           * Obtenga un identificador DOI y ARK para su proyecto.
+
+    * Materiales y herramientas:
+
+    * Nivel de conocimiento previo:
+
+    * Elementos para tener en cuenta:
+
+    * Cómo adaptarlo a otros objetivos:
+
+**Example 25: La trampa de publicación - en progreso**
+
+    * Formato, tiempo necesario:
+       * Grupos pequeños,2 h
+   * Tema:
+       Acceso abierto a los resultados de investigación publicados
+
+     * Objetivos de aprendizaje:
+        "El juego te permite explorar el impacto de las opciones de comunicación académica y discutir el papel del acceso abierto en la investigación siguiendo las vidas de cuatro investigadores, desde la investigación doctoral hasta sus legados académicos". blogs.kent.ac.uk
+
+    * Descripción del ejercicio:
+        "Juegan cuatro equipos de hasta cuatro personas, sentados alrededor de un tablero de juego y usando un libro de jugadas para guiar las decisiones que deben tomar los equipos. El líder del taller actúa como anfitrión y presenta los escenarios a los equipos durante cada ronda. Cada ronda implica tomar tres decisiones sobre las opciones de publicación. Después de escuchar la descripción del escenario, cada equipo elige entre las opciones predeterminadas. Al final de cada ronda, los equipos discuten las decisiones que han alcanzado y se les pide que justifiquen sus opciones ". copyrightliteracy.org
+
+    * Materiales y herramientas:
+        El tablero, las tarjetas, los folletos, los puntos y otros objetos deben descargarse, imprimirse y cortarse. También está previsto tener un juego producido profesionalmente disponible para comprar. Los materiales están disponibles aquí: copyrightliteracy.org
+
+     * Nivel de conocimiento previo:
+        "The Publishing Trap está dirigido a investigadores nóveles y académicos, así como a cualquier persona que tenga un gran interés en comprender cómo funciona el acceso a la información y cómo funciona todo el sistema de comunicación académica en la educación superior". copyrightliteracy.org
+
+     * Elementos para tener en cuenta:
+        Tal vez sea necesario estimular el debate durante el juego
+
+     * Cómo adaptarlo a otros objetivos:
+
+     * Condiciones de licencia
+        La versión beta del juego está licenciada bajo una licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0.
 
 **Ejemplo 26: Configurar un proyecto OSF (Open Science Framework) y vincularlo a otras plataformas**
 
