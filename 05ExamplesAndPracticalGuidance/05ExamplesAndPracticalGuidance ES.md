@@ -1186,7 +1186,7 @@ Plataformas Colaborativas</td>
 
     * Este ejercicio podría enfocarse en aspectos específicos de la Ciencia Abierta.
     
-#####**Ejemplo 24: Configure el proyecto OSF y el enlace a otras plataformas - en progreso**
+**Ejemplo 24: Configure el proyecto OSF y el enlace a otras plataformas - en progreso**
 
    * Formato, tiempo necesario:
        * Individualmente o en parejas
@@ -1206,28 +1206,28 @@ Plataformas Colaborativas</td>
 
            * Obtenga un identificador DOI y ARK para su proyecto.
 
-    * Materiales y herramientas:
+   * Materiales y herramientas:
 
-    * Nivel de conocimiento previo:
+   * Nivel de conocimiento previo:
 
-    * Elementos para tener en cuenta:
+   * Elementos para tener en cuenta:
 
-    * Cómo adaptarlo a otros objetivos:
+   * Cómo adaptarlo a otros objetivos:
 
-#####**Example 25: La trampa de publicación - en progreso**
+**Example 25: La trampa de publicación - en progreso**
 
-    * Formato, tiempo necesario:
+   * Formato, tiempo necesario:
        * Grupos pequeños,2 h
    * Tema:
        Acceso abierto a los resultados de investigación publicados
 
-     * Objetivos de aprendizaje:
+   * Objetivos de aprendizaje:
         "El juego te permite explorar el impacto de las opciones de comunicación académica y discutir el papel del acceso abierto en la investigación siguiendo las vidas de cuatro investigadores, desde la investigación doctoral hasta sus legados académicos". blogs.kent.ac.uk
 
-    * Descripción del ejercicio:
+   * Descripción del ejercicio:
         "Juegan cuatro equipos de hasta cuatro personas, sentados alrededor de un tablero de juego y usando un libro de jugadas para guiar las decisiones que deben tomar los equipos. El líder del taller actúa como anfitrión y presenta los escenarios a los equipos durante cada ronda. Cada ronda implica tomar tres decisiones sobre las opciones de publicación. Después de escuchar la descripción del escenario, cada equipo elige entre las opciones predeterminadas. Al final de cada ronda, los equipos discuten las decisiones que han alcanzado y se les pide que justifiquen sus opciones ". copyrightliteracy.org
 
-    * Materiales y herramientas:
+   * Materiales y herramientas:
         El tablero, las tarjetas, los folletos, los puntos y otros objetos deben descargarse, imprimirse y cortarse. También está previsto tener un juego producido profesionalmente disponible para comprar. Los materiales están disponibles aquí: copyrightliteracy.org
 
      * Nivel de conocimiento previo:
