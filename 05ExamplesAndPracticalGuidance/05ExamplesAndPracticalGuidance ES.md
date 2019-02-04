@@ -1222,16 +1222,16 @@ Plataformas Colaborativas</td>
        [Acceso abierto a los resultados de investigación publicados](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
 
    * Objetivos de aprendizaje:
-        "El juego te permite explorar el impacto de las opciones de comunicación académica y discutir el papel del acceso abierto en la investigación siguiendo las vidas de cuatro investigadores, desde la investigación doctoral hasta sus legados académicos". blogs.kent.ac.uk
+        "El juego te permite explorar el impacto de las opciones de comunicación académica y discutir el papel del acceso abierto en la investigación siguiendo las vidas de cuatro investigadores, desde la investigación doctoral hasta sus legados académicos". [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
 
    * Descripción del ejercicio:
-        "Juegan cuatro equipos de hasta cuatro personas, sentados alrededor de un tablero de juego y usando un libro de jugadas para guiar las decisiones que deben tomar los equipos. El líder del taller actúa como anfitrión y presenta los escenarios a los equipos durante cada ronda. Cada ronda implica tomar tres decisiones sobre las opciones de publicación. Después de escuchar la descripción del escenario, cada equipo elige entre las opciones predeterminadas. Al final de cada ronda, los equipos discuten las decisiones que han alcanzado y se les pide que justifiquen sus opciones ". copyrightliteracy.org
+        "Juegan cuatro equipos de hasta cuatro personas, sentados alrededor de un tablero de juego y usando un libro de jugadas para guiar las decisiones que deben tomar los equipos. El líder del taller actúa como anfitrión y presenta los escenarios a los equipos durante cada ronda. Cada ronda implica tomar tres decisiones sobre las opciones de publicación. Después de escuchar la descripción del escenario, cada equipo elige entre las opciones predeterminadas. Al final de cada ronda, los equipos discuten las decisiones que han alcanzado y se les pide que justifiquen sus opciones ". [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
 
    * Materiales y herramientas:
-        El tablero, las tarjetas, los folletos, los puntos y otros objetos deben descargarse, imprimirse y cortarse. También está previsto tener un juego producido profesionalmente disponible para comprar. Los materiales están disponibles aquí: copyrightliteracy.org
+        El tablero, las tarjetas, los folletos, los puntos y otros objetos deben descargarse, imprimirse y cortarse. También está previsto tener un juego producido profesionalmente disponible para comprar. Los materiales están disponibles aquí: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
 
      * Nivel de conocimiento previo:
-        "The Publishing Trap está dirigido a investigadores nóveles y académicos, así como a cualquier persona que tenga un gran interés en comprender cómo funciona el acceso a la información y cómo funciona todo el sistema de comunicación académica en la educación superior". copyrightliteracy.org
+        "The Publishing Trap está dirigido a investigadores nóveles y académicos, así como a cualquier persona que tenga un gran interés en comprender cómo funciona el acceso a la información y cómo funciona todo el sistema de comunicación académica en la educación superior". [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
 
      * Elementos para tener en cuenta:
         Tal vez sea necesario estimular el debate durante el juego
