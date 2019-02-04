@@ -17,7 +17,7 @@
 	* [Fomento del Acceso abierto](02OpenScienceBasics/12OpenAdvocacy_ES.md)
 * [Sobre la enseñanza y la formación](03OnLearningAndTraining/README_ES.md)
 * [Aspectos Organizacionales](04OrganizationalAspects/README.md)
-* [Ejemplos y Guía Práctica](05ExamplesAndPracticalGuidance ES/README.md)
+* [Ejemplos y Guía Práctica](05ExamplesAndPracticalGuidance_ES/README.md)
 * [Glosario](06Glossary/README.md)
 * [Referencias](07References/README.md)
 * [Acerca de los Autores y Facilitadores](08AboutTheAuthorsAndFacilitators/README.md)
