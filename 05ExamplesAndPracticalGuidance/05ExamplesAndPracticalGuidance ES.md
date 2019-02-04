@@ -1192,7 +1192,7 @@ Plataformas Colaborativas</td>
        * Individualmente o en parejas
 
    * Tema:
-       * Datos y Materiales de investigación abiertos
+       * [Datos y Materiales de investigación abiertos](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
 
    * Objetivos de aprendizaje:
 
@@ -1219,7 +1219,7 @@ Plataformas Colaborativas</td>
    * Formato, tiempo necesario:
        * Grupos pequeños,2 h
    * Tema:
-       Acceso abierto a los resultados de investigación publicados
+       [Acceso abierto a los resultados de investigación publicados](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
 
    * Objetivos de aprendizaje:
         "El juego te permite explorar el impacto de las opciones de comunicación académica y discutir el papel del acceso abierto en la investigación siguiendo las vidas de cuatro investigadores, desde la investigación doctoral hasta sus legados académicos". blogs.kent.ac.uk
