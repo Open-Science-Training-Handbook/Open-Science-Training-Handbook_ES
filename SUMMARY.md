@@ -15,7 +15,7 @@
 	* [Ciencia Ciudadana](02OpenScienceBasics/100CitizenScience.md)
 	* [Recursos Educativos Abiertos](02OpenScienceBasics/11OpenEducationalResources.md)
 	* [Fomento del Acceso abierto](02OpenScienceBasics/12OpenAdvocacy.md)
-* [Sobre la enseñanza y la formación](03OnLearningAndTraining/README.md)
+* [Sobre la enseñanza y la formación](03OpenLearningAndTraining/README.md)
 * [Aspectos Organizacionales](04OrganizationalAspects/README.md)
 * [Ejemplos y Guía Práctica](05ExamplesAndPracticalGuidance/README.md)
 * [Glosario](06Glossary/README.md)
