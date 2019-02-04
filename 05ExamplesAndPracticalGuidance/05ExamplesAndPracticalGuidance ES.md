@@ -1075,7 +1075,7 @@ Plataformas Colaborativas</td>
     * El concepto de asignar monedas se puede aplicar a otros temas, lo mismo que la asignación de
       papeles en las discusiones en grupos pequeños.
 
-##### **Ejemplo 21: Fijar una postura** 
+##### **Ejemplo 21: Adoptar una postura** 
 
 * Formato, tiempo necesario:
 
@@ -1087,7 +1087,7 @@ Plataformas Colaborativas</td>
 
 * Objetivos de aprendizaje:
 
-    * Hacer que los participantes fijen una postura sobre las políticas o principios de Ciencia Abierta.
+    * Hacer que los participantes adoptar una postura sobre las políticas o principios de Ciencia Abierta.
     * Identificar similitud o diversidad de opiniones entre los participantes. 
 
 * Descripción del ejercicio:
@@ -1186,7 +1186,7 @@ Plataformas Colaborativas</td>
 
     * Este ejercicio podría enfocarse en aspectos específicos de la Ciencia Abierta.
     
-**Ejemplo 24: Configure el proyecto OSF y el enlace a otras plataformas - en progreso**
+**Ejemplo 24: Configure el proyecto en en el entorno OSF (Open Science Framework) y el enlace a otras plataformas - en progreso**
 
    * Formato, tiempo necesario:
        * Individualmente o en parejas
@@ -1202,7 +1202,7 @@ Plataformas Colaborativas</td>
 
            * Conecte su proyecto OSF a GitHub.
 
-           * Suba cualquier código en crudo, imágenes, datos, tablas para proyectar.
+           * Suba un  código fuente, imágenes, datos, tablas para proyectar.
 
            * Obtenga un identificador DOI y ARK para su proyecto.
 
@@ -1214,15 +1214,15 @@ Plataformas Colaborativas</td>
 
    * Cómo adaptarlo a otros objetivos:
 
-**Example 25: La trampa de publicación - en progreso**
+**Example 25: El juego de Publishing Trap - en progreso**
 
    * Formato, tiempo necesario:
-       * Grupos pequeños,2 h
+       * Grupos pequeños, 2 h
    * Tema:
        [Acceso abierto a los resultados de investigación publicados](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
 
-   * Objetivos de aprendizaje:
-        "El juego te permite explorar el impacto de las opciones de comunicación académica y discutir el papel del acceso abierto en la investigación siguiendo las vidas de cuatro investigadores, desde la investigación doctoral hasta sus legados académicos". [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
+   * Objetivos del aprendizaje:
+        "El juego te permite explorar el impacto de las opciones de comunicación académica y discutir el papel del acceso abierto en la investigación siguiendo las vidas de cuatro investigadores, desde la la tesis doctoral hasta sus legados académicos". [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
 
    * Descripción del ejercicio:
         "Juegan cuatro equipos de hasta cuatro personas, sentados alrededor de un tablero de juego y usando un libro de jugadas para guiar las decisiones que deben tomar los equipos. El líder del taller actúa como anfitrión y presenta los escenarios a los equipos durante cada ronda. Cada ronda implica tomar tres decisiones sobre las opciones de publicación. Después de escuchar la descripción del escenario, cada equipo elige entre las opciones predeterminadas. Al final de cada ronda, los equipos discuten las decisiones que han alcanzado y se les pide que justifiquen sus opciones ". [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
@@ -1253,11 +1253,11 @@ Plataformas Colaborativas</td>
 
 #### **¿Qué herramientas y plataformas usar/recomendar?**
 
-Existen muchas herramientas y plataformas que admiten prácticas de Ciencia Abierta (ver la figura a continuación para una selección). Qué herramientas y plataformas usar (o aconsejar) depende de muchos factores, por ejemplo: si la herramienta está disponible (ya sea sin coste o con licencia para tu institución), si funciona en tu navegador o para tu sistema operativo, si está disponible en tu idioma y si cumple con tus requisitos de seguridad y privacidad. Más allá de las cuestiones técnicas, considera si una herramienta se adapta a tu forma de trabajo. ¿Funciona bien con otras herramientas y plataformas que usas? ¿Las personas con las que colaboras usan la misma herramienta para prácticas simlares, o al menos usan alguna que sea compatible con la que usas? Considera también el ciclo de aprendizaje: ¿necesitas invertir mucho tiempo en aprender la nueva herramienta y, de ser así, vale la pena? ¿Tienes soporte (ya sea en la vida real o en línea) que puede ayudarte a aprender a utilizar la herramienta?
+Existen muchas herramientas y plataformas que admiten prácticas de Ciencia Abierta (ver la figura a continuación para una selección). Qué herramientas y plataformas usar (o aconsejar) depende de muchos factores, por ejemplo: si la herramienta está disponible (ya sea sin coste o con licencia para tu institución), si funciona en tu navegador con tu sistema operativo, si está disponible en tu idioma y si cumple con tus requisitos de seguridad y privacidad. Más allá de las cuestiones técnicas, considera si una herramienta se adapta a tu forma de trabajo. ¿Funciona bien con otras herramientas y plataformas que usas? ¿Las personas con las que colaboras usan la misma herramienta para prácticas similares, o al menos usan alguna que sea compatible con la que usas? Considera también el ciclo de aprendizaje: ¿necesitas invertir mucho tiempo en aprender la nueva herramienta y, de ser así, vale la pena? ¿Tienes soporte (ya sea en la vida real o en línea) que puede ayudarte a aprender a utilizar la herramienta?
 
-Quizá el mejor consejo es, primero, considerar qué es lo que te gustaría hacer: ¿Cuál es la práctica de Ciencia Abierta que te gustaría implementar? Luego, explora qué herramientas/plataformas están disponibles, cuáles usan las personas de tu comunidad y por qué (¡pregunta por todas partes!). Entonces toma tu propia decisión. ¡No tengas miedo de experimentar y probar algo nuevo!
+Quizá el mejor consejo es, primero, considerar qué es lo que te gustaría hacer: ¿Cuál es la práctica de Ciencia Abierta que te gustaría implementar? Luego, explora qué herramientas/plataformas están disponibles, cuáles usan las personas de tu comunidad y por qué. Entonces toma tu propia decisión. ¡No tengas miedo de experimentar y probar algo nuevo!
 
-Por último: muchas herramientas y plataformas admiten prácticas de Ciencia Abierta sin que ellas mismas sean completamente abiertas. Por ejemplo, muchas herramientas de uso común no son de código abierto, pero proporcionan acceso a contenido (publicaciones, datos) que están abiertos. Deberás seguir tu propio juicio sobre si considerarás tales herramientas y plataformas o no. Otra consideración es si puedes exportar todos tus datos cuando quieras cambiar a otra herramienta, o si están bloqueados. ¿Y sabes qué sucederá con tus datos si la plataforma se lleagra a cerrar o vender a una empresa?
+Por último: muchas herramientas y plataformas admiten prácticas de Ciencia Abierta sin que ellas mismas sean completamente abiertas. Por ejemplo, muchas herramientas de uso común no son de código abierto, pero proporcionan acceso a contenido (publicaciones, datos) que están en abierto. Deberás seguir tu propio juicio sobre si considerarás tales herramientas y plataformas o no. Otra consideración es si puedes exportar todos tus datos cuando quieras cambiar a otra herramienta, o si están bloqueados. ¿Y sabes qué sucederá con tus datos si la plataforma se lleagra a cerrar o vender a una empresa?
 
 Listado de algunos recursos de herramientas y plataformas de investigación:
 
@@ -1270,7 +1270,7 @@ Listado de algunos recursos de herramientas y plataformas de investigación:
 ![image alt text](/Images/image_16.png)
 Figura x – Arcoíris de prácticas de Ciencia Abierta (disponible en Zenodo en diferentes formatos, se incluye como diapositiva editable:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
 
-#### Otros recursos (aún sin evaluar)
+#### Otros recursos
 
 * Recursos de Open Science MOOC [https://opensciencemooc.eu/open-science-resources/](https://opensciencemooc.eu/open-science-resources/)
 * "Open Science, Open Data, Open Source" (2017) 21st century skills for the life sciences [http://osodos.org](http://osodos.org)
@@ -1290,16 +1290,16 @@ Figura x – Arcoíris de prácticas de Ciencia Abierta (disponible en Zenodo en
 
 #### Lista de ejercicios –selección para ser colocada en el formato
 
-A la espera de algún formateo para ajustarse al modelo
+A la espera de formatear para ajustarse al modelo
 
 PF - 1 Mapas mentales y conceptuales
 
-Es posible conceptualizar temas de mayor complejidad, gracias a los recientes desarrollos de visualizaciones. Se puede generar mucho entusiasmo con herramientas simples de código abierto, tanto individual como colectivamente. El título general de este conjunto de técnicas es “mapa de ideas” y “mapa conceptual”. Un software relativamente simple como [X-Mind](http://www.xmind.net/) es una buena base para comenzar. 
+La conceptualización de temas de mayor complejidad se puede beneficiar de los conocimientos y habilidades obtenidos previamente. Se puede generar mucho entusiasmo cuando se utilizan  herramientas sencillas  de código abierto, tanto individual como colectivamente. Genericamente este conjunto de técnicas es se denominan mapeo de ideas o de conceptos. Un software relativamente simple como [X-Mind](http://www.xmind.net/) es una buena forma base de comenzar. 
 
 ![image alt text](/Images/image_17.png)
 
-Figura X Ejemplo de un mapa de ideas para representar el contenido en un curso de capacitación.
+Figura X. Ejemplo de un mapa de ideas para representar el contenido en un curso de capacitación.
 
 Nota: podemos reemplazar este por uno hecho para Ciencia Abierta o algún tema relacionado.
 
-La participación aumenta cuando los participantes comprenden el poder de visualizar ideas, conectarlas en diagramas, comparar diagramas entre participantes de un mismo grupo, comparar entre diferentes grupos, comparar los mapas de los participantes con los del instructor, etcétera.
+La participación aumenta cuando los participantes comprenden el poder de visualizar ideas, conectarlas en diagramas, el poder comparar diagramas entre participantes de un mismo grupo, comparar entre diferentes grupos, comparar los mapas de los participantes con los del instructor, etcétera.
