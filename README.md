@@ -1,5 +1,5 @@
 ![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
-## The Open Science Training Handbook - El Manual de Capacitación de Ciencia Abierta
+## Manual de Capacitación sobre Ciencia Abierta
 
 Un grupo de 14 autores se reunieron en febrero 2018 en la Biblioteca Nacional Alemana de Ciencia y Tecnología (TIB en alemán) en Hannover para crear un manual abierto y vivo de capacitación sobre Ciencia Abierta. Una capacitación de buena calidad es fundamental cuando se apunta a un cambio cultural hacia la implementación de los principios de Ciencia Abierta. Los recursos de aprendizaje proporcionan un gran apoyo a los instructores y capacitadores de Ciencia Abierta. El Manual de Capacitación de Ciencia Abierta será un recurso clave y un primer paso para desarrollar cursos de formación en Acceso Abierto y Ciencia Abierta. Apoyando y conectando a una comunidad emergente de Ciencia Abierta deseosa de transmitir sus conocimientos como multiplicadores, el Manual enriquecerá las actividades de capacitación y despertará todo el potencial de la comunidad.
 
