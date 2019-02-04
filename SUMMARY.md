@@ -12,7 +12,7 @@
 	* [Plataformas Colaborativas](02OpenScienceBasics/07CollaborativePlatforms.md)
 	* [Revisión Por Pares Abierta, Métricas y Evaluación](02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
 	* [Políticas de la Ciencia Abierta](02OpenScienceBasics/09OpenSciencePolicies_ES.md)
-	* [Ciencia Ciudadana](Open-Science-Training-Handbook_ES/02OpenScienceBasics/10CitizenScience_ES.md)
+	* [Ciencia Ciudadana](02OpenScienceBasics/10CitizenScience_ES.md)
 	* [Recursos Educativos Abiertos](02OpenScienceBasics/11OpenEducationalResources_ES.md)
 	* [Fomento del Acceso abierto](02OpenScienceBasics/12OpenAdvocacy_ES.md)
 * [Sobre la enseñanza y la formación](03OpenLearningAndTraining/README.md)
