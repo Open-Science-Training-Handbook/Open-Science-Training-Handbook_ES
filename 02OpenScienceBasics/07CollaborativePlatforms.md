@@ -57,7 +57,7 @@ Especialmente en la cultura de investigación "publicar o perecer" predominante 
 
 **Gestión de referencias y descubrimiento**
 
-Hay muchas herramientas que permiten a los grupos almacenar y administrar referencias. Los ejemplos incluyen [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/) and [CiteUlike](http://www.citeulike.org/). [Mendeley](http://www.mendeley.com/) iincorpora un administrador de referencias compartible, así como una red social y herramientas de visualización de artículos. En relación con esto, [BibSonomy](http://www.bibsonomy.org/) permite a los investigadores compartir marcadores y listas de literatura.
+Hay muchas herramientas que permiten a los grupos almacenar y administrar referencias. Los ejemplos incluyen [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/) and [CiteUlike](http://www.citeulike.org/). [Mendeley](http://www.mendeley.com/) incorpora un administrador de referencias compartible, así como una red social y herramientas de visualización de artículos. En relación con esto, [BibSonomy](http://www.bibsonomy.org/) permite a los investigadores compartir marcadores y listas de literatura.
 
 **Anotación y revisión**
 
