@@ -1,9 +1,9 @@
 ## <img src="/Images/Icons/open_data.png" width="200" height="200" />
 ## 2. Datos de investigación abiertos y materiales 
 
-### ¿En qué consisteN?
+### ¿En qué consisten?
 
-Los datos de investigación abiertos son datos de acceso gratuito que pueden ser reutilizados, remezclados y redistribuidos para la investigación académica y la docencia, entre otros. Idealmente, los datos abiertos no tienen restricciones para su reutilización y redistribución y cuentan con licencias acordes a ello. En casos excepcionales \(por ejemplo, para proteger la identidad de sujetos humanos\), se pueden incluir restricciones de acceso especiales o limitadas. Compartir los datos de manera abierta facilita su examen, supone la base para la reproducibilidad y verificación de la investigación, y abre un camino para promover la colaboración. Como máximo, los datos abiertos pueden estar sujetos a los requisitos de _atribución_ y de _compartir igual_ \(_sharealike_\) \(ver el [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\)
+Los datos de investigación abiertos son datos de acceso gratuito que pueden ser reutilizados, remezclados y redistribuidos para la investigación académica y la docencia, entre otros usos. Idealmente, los datos abiertos no tienen restricciones para su reutilización y redistribución y cuentan con licencias acordes a ello. En casos excepcionales \(por ejemplo, para proteger la identidad de sujetos humanos\), se pueden incluir restricciones de acceso especiales o limitadas. Compartir los datos de manera abierta facilita su examen, supone la base para la reproducibilidad y verificación de la investigación, y abre un camino para promover la colaboración. Como máximo, los datos abiertos pueden estar sujetos a los requisitos de _atribución_ y de _compartir igual_ \(_sharealike_\) \(ver el [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\)
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
 ### Justificación
@@ -22,7 +22,7 @@ Los datos de investigación son a menudo el producto más valioso de los proyect
 
 4. Ser capaz de utilizar un plan de gestión de datos de investigación y hacer que los resultados de tu investigación sean localizables y accesibles, incluso si contienen datos confidenciales.
 
-5. Comprender las ventajas y desventajas de compartir en abierto diferentes tipos de datos \(por ejemplo, referidas a la privacidad, confidencialidad, anoimización, y acceso mediado\).
+5. Comprender las ventajas y desventajas de compartir en abierto diferentes tipos de datos \(por ejemplo, referidas a la privacidad, confidencialidad, anonimización, y acceso mediado\).
 
 6. Comprender la importancia de la adecuación de los metadatos para el archivo sostenible de datos de investigación.
 
@@ -34,9 +34,9 @@ Los datos de investigación son a menudo el producto más valioso de los proyect
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 ##### Principios FAIR \(_FAIR principles_\)
 
-En 2014 se redactó un conjuntode principios para optimizar la reutilización de los datos de investigación. Fue denominado [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). Los principios representan un conjunto de directrices y buenas prácticas desarrolladas por los propios académicos  para garantizar que los datos \(o cualquier objeto digital\) sean _**F**indable_ \(localizables\), _**A**ccessible_ \(accesibles\), _**I**nteroperable_ \(interoperables\) y _**R**e-usable_ \(reutilizables\):
+En 2014 se redactó un conjunto de principios para optimizar la reutilización de los datos de investigación. Fue denominado [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). Los principios representan un conjunto de directrices y buenas prácticas desarrolladas por los propios académicos para garantizar que los datos \(o cualquier objeto digital\) sean _**F**indable_ \(localizables\), _**A**ccessible_ \(accesibles\), _**I**nteroperable_ \(interoperables\) y _**R**e-usable_ \(reutilizables\):
 
-**Localizables:** Para que los datos sean reutilizables, primero se deben localizar. Debería ser fácil encontrar los datos y los metadatos tanto para humanos como para las computadoras. El descubrimiento automático y fiable de conjuntos de datos y servicios depende de los identificadores persistentes \(PIDs\) legibles por máquinas y de sus  metadatos.
+**Localizables:** Para que los datos sean reutilizables, primero se deben localizar. Debería ser fácil encontrar los datos y los metadatos tanto para humanos como para las computadoras. El descubrimiento automático y fiable de conjuntos de datos y servicios depende de los identificadores persistentes \(PIDs\) legibles por máquinas y de sus metadatos.
 
 **Accesibles:** Los datos y metadatos deberían poder ser recuperados mediante su identificador utilizando un protocolo de comunicaciones abierto y estandarizado, que posiblemente incluya autenticación y autorización. Además, los metadatos deberían estar disponibles incluso si los datos ya no lo están.
 
@@ -51,7 +51,7 @@ A diferencia de las iniciativas entre pares que se centran en el investigador co
 
 ##### Publicación de datos
 
-La mayoría de los investigadores está más o menos familiarizada con la publicación en Acceso Abierto de artículos de investigación y libros \(véase el capítulo 5\). Más recientemente, y por las razones mencionadas anteriormente, la publicación de datos ha cautivado la atención. Cada vez más los financiadores de investigación esperan que los datos producidos en los proyectos de investigación que financian sean fáciles de encontrar, sean accesibles y lo más abiertos  posible.
+La mayoría de los investigadores está más o menos familiarizado con la publicación en Acceso Abierto de artículos de investigación y libros \(véase el capítulo 5\). Más recientemente, y por las razones mencionadas anteriormente, la publicación de datos ha cautivado la atención. Cada vez más los organismos financiadores de investigación esperan que los datos producidos en los proyectos de investigación que financian sean fáciles de encontrar, sean accesibles y lo más abiertos  posible.
 
 Hay diferentes formas para hacer que los datos de investigación sean accesibles, incluyendo \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
@@ -59,7 +59,7 @@ Hay diferentes formas para hacer que los datos de investigación sean accesibles
 
 * Alojar los datos en un sitio web de disponibilidad pública que permita acceder a los archivos para su descarga.
 
-* Depositar los datos en un repositorio siseñado  para la la publicación de datos, por ejemplo, [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repositorio)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
+* Depositar los datos en un repositorio diseñado  para la la publicación de datos, por ejemplo, [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repositorio)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
 
 * Existen un gran número de repositorios de datos generalistas y temáticos propios de alguna disciplina que pueden proporcionar apoyo adicional a los investigadores en el momento de depositar sus datos.
 
@@ -82,7 +82,7 @@ Dado que hay varias rutas para publicar tus datos, debes tener en cuenta que par
 
 * Estar adecuadamente documentado con metadatos
 
-* Revisarse  en relación con su calidad \(por ejemplo: contenido del estudio, metodología, relevancia, consistencia legal y documentación de los materiales\)
+* Revisarse en relación con su calidad \(por ejemplo: contenido del estudio, metodología, relevancia, consistencia legal y documentación de los materiales\)
 
 * Permitir su búsqueda y ser localizable en catálogos o bases de datos \(o bases de datos\)
 
@@ -91,9 +91,9 @@ Dado que hay varias rutas para publicar tus datos, debes tener en cuenta que par
 ## <img src="/Images/Icons/metadata.png" width="150" height="150" />
 ##### Citación de datos
 
-Los servicios de indexación de datos sirven de ayuda a los grupos de investigación a descubrir, identificar y citar datos de investigación \(y a menudo otros objetos de investigación\) con confianza. Esto implica, generalmente, la creación y asignación de identificadores de objetos digitales \(DOIs\) y metadatos, recuperables a través de servicios como [DataCite](https://www.datacite.org/), que puede integrarse con otros flujos de investigación y estándares. Este es un campo emergente e involucra aspectos tales como transmitir a las editoriales de revistas la importancia de la cita apropiada de los datos en los artículos, como también permitir que los artículos de investigación se vinculen a los datos subyacentes. De esta manera, los datos citables se convierten en contribuciones legítimas al proceso de comunicación académica, y pueden ayudar a allanar el camino para nuevas métricas y modelos de publicación que reconozcan y recompensen el intercambio de datos.
+Los servicios de indexación de datos sirven de ayuda a los grupos de investigación para descubrir, identificar y citar datos de investigación \(y a menudo otros objetos de investigación\) con confianza. Esto implica, generalmente, la creación y asignación de identificadores de objetos digitales \(DOIs\) y metadatos, recuperables a través de servicios como [DataCite](https://www.datacite.org/), que puede integrarse con otros flujos de investigación y estándares. Este es un campo emergente e involucra aspectos tales como transmitir a las editoriales de revistas la importancia de la cita apropiada de los datos en los artículos, como también permitir que los artículos de investigación se vinculen a los datos subyacentes. De esta manera, los datos citables se convierten en contribuciones legítimas al proceso de comunicación académica, y pueden ayudar a allanar el camino para nuevas métricas y modelos de publicación que reconozcan y recompensen el intercambio de datos.
 
-Como paso inicial hacia una buena práctica para la cita de datos, el Data Citation Synthesis Group de FORCE11 ha elaborado la Declaración Conjunta de Principios para la Cita de Datos [Joint Declaration of Data Citation Principles](https://doi.org/10.25490/a97f-egyk), dirigida a investigadores y proveedores de servicios de datos. Al adherirse a estos principios, los repositorios de datos generalmente proporcionan a los investigadores la referencia bibliográfica de como ditar cuando  se refieren a un set de datos específico.
+Como paso inicial hacia una buena práctica para la cita de datos, el Data Citation Synthesis Group de FORCE11 ha elaborado la Declaración Conjunta de Principios para la Cita de Datos [Joint Declaration of Data Citation Principles](https://doi.org/10.25490/a97f-egyk), dirigida a investigadores y proveedores de servicios de datos. Al adherirse a estos principios, los repositorios de datos generalmente proporcionan a los investigadores la referencia bibliográfica de como citar cuando se refieren a un set de datos específico.
 
 ## <img src="/Images/Icons/database.png" width="150" height="150" />
 ##### Empaquetamiento de datos
@@ -108,9 +108,9 @@ De acuerdo con la [Guía para el Empaquetado de Datos](https://github.com/saverk
 * La estructuración de metadatos sobre conjuntos de datos de una manera estándar y legible por máquinas fomenta la promoción, la capacidad de intercambio y la reutilización de los datos.
 
 ## <img src="/Images/Icons/privacy.png" width="150" height="150" />
-##### Cómo compartir  datos confidenciales o privados
+##### Cómo compartir datos confidenciales o privados
 
-Con una planificación adecuada de la gestión de datos, los datos confidenciales y privados pueden compartirse, reutilizarse y ser FAIR. Los metadatos casi siempre pueden compartirse. La forma y las prácticas para compartir datos confidenciales están reguladas en función de la regulación propia de cada región \(véase, por ejemplo, el [Companion material for Managing and Sharing Research Data handbook del UKDS](https://www.ukdataservice.ac.uk/manage-data/handbook)\). La [Asociación Internacional de Servicios y Tecnología de la Información en Ciencias Sociales (International Association for Social Science Information Services and Technology)](http://www.iassistdata.org/resources/data-management/best-practices) mantiene una lista de guías internacionales sobre gestión de datos que es un buen punto de partida. Hay diferentes enfoques e iniciativas para ayudar a los investigadores a lograr esto. [La herramienta DCC's DMPonline](http://www.dcc.ac.uk/dmponline) incluye plantillas que cumplen con los requisitos de financiadores de proyectos de investigación. [La Guía de Expertos en Gestión de Datos CESSDA](https://www.cessda.eu/Research-Infrastructure/Forining/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection) proporciona información y ejemplos prácticos sobre cómo compartir datos personales, temas relacionados con derechos de autor y con las  bases de datos en países europeos. La Guía también ofrece una descripción general del impacto del GDPR que armoniza la legislación sobre datos personales en Europa \(mayo de 2018\) y proporciona una visión general actualizada sobre la [diversidad en la UE en materia de protección de datos](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection).
+Con una planificación adecuada de la gestión de datos, los datos confidenciales y privados pueden compartirse, reutilizarse y ser FAIR. Los metadatos casi siempre pueden compartirse.La forma y las prácticas para compartir datos confidenciales están reguladas en función de la regulación propia de cada región \(véase, por ejemplo, el [Companion material for Managing and Sharing Research Data handbook del UKDS](https://www.ukdataservice.ac.uk/manage-data/handbook)\). La [Asociación Internacional de Servicios y Tecnología de la Información en Ciencias Sociales (International Association for Social Science Information Services and Technology)](http://www.iassistdata.org/resources/data-management/best-practices) mantiene una lista de guías internacionales sobre gestión de datos que es un buen punto de partida. Hay diferentes enfoques e iniciativas para ayudar a los investigadores a lograr esto. [La herramienta DCC's DMPonline](http://www.dcc.ac.uk/dmponline) incluye plantillas que cumplen con los requisitos de financiadores de proyectos de investigación. [La Guía de Expertos en Gestión de Datos CESSDA](https://www.cessda.eu/Research-Infrastructure/Forining/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection) proporciona información y ejemplos prácticos sobre cómo compartir datos personales, temas relacionados con derechos de autor y con las  bases de datos en países europeos. La Guía también ofrece una descripción general del impacto del GDPR que armoniza la legislación sobre datos personales en Europa \(mayo de 2018\) y proporciona una visión general actualizada sobre la [diversidad en la UE en materia de protección de datos](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection).
 
 ###### Broker de datos
 
@@ -119,9 +119,9 @@ Los broker de datos son entidades reconocidas e independientes que velan por los
 ## <img src="/Images/Icons/data.png" width="150" height="150" />
 ##### Portales de análisis
 
-Los portales de análisis son plataformas que aprueban el análisis de datos sin que se permita el pleno acceso \(visualización o descarga\) bien controlan desde dónde y quién tiene acceso. Algunos intermediarios de datos también usan portales de análisis. Los portales de análisis controlan qué conjuntos de datos adicionales se pueden combinar con los datos confidenciales, así como qué análisis se pueden ejecutar para garantizar que la información personal no se revele durante el nuevo análisis. Algunos ejemplos de portales de análisis virtuales son [Project Data Sphere](https://www.projectdatasphere.org/projectdatasphere/html/home), [Vivli](http://vivli.org/), [RAIRD](http://raird.no/), [Corpuscle](http://clarino.uib.no/korpuskel/page), y [INESS](http://clarino.uib.no/iness/page).
+Los portales de análisis son plataformas que aprueban el análisis de datos sin que se permita el pleno acceso \(visualización o descarga\) o controlando desde dónde y quién tiene acceso. Algunos intermediarios de datos también usan portales de análisis. Los portales de análisis controlan qué conjuntos de datos adicionales se pueden combinar con los datos confidenciales, así como qué análisis se pueden ejecutar para garantizar que la información personal no se revele durante el nuevo análisis. Algunos ejemplos de portales de análisis virtuales son [Project Data Sphere](https://www.projectdatasphere.org/projectdatasphere/html/home), [Vivli](http://vivli.org/), [RAIRD](http://raird.no/), [Corpuscle](http://clarino.uib.no/korpuskel/page), y [INESS](http://clarino.uib.no/iness/page).
 
-Las investigadores de ciencias sociales o de otra disciplina que emplean datos confidenciales usan generalmente un portal único para el análisis dónde se  accede mediante un régimen controlado. Los investigadores autorizados pueden acceder a los datos de forma segura con fines  científicos. Sin embargo, los metadatos que describen los datos deben estar disponibles en abierto y cumplir con  los principios FAIR.
+Las investigadores de ciencias sociales o de otra disciplina que emplean datos confidenciales usan generalmente un portal único para el análisis dónde se accede mediante un régimen controlado. Los investigadores autorizados pueden acceder a los datos de forma segura con fines científicos. Sin embargo, los metadatos que describen los datos deben estar disponibles en abierto y cumplir con  los principios FAIR.
 
 ##### Datos no identificables  y sintéticos
 
@@ -136,7 +136,7 @@ Como se mencionó anteriormente, el objetivo final de compartir tus datos de inv
 ## <img src="/Images/Icons/usb.png" width="150" height="150" />
 ##### Materiales abiertos
 
-Además de compartir los datos, la apertura de la investigación depende del intercambio de materiales. Los materiales que utilizan los investigadores son específicos de cada disciplina y, a veces, exclusivos de un laboratorio. A continuación se dan algunos ejemplos de materiales que puedes compartir, sin embargo,  consulta con pares de tu disciplina qué repositorios son los que se  utilizan. Cuando tengas materiales, datos y publicaciones del mismo proyecto de investigación compartidos en diferentes repositorios, haz una referencia cruzada con un enlace y un identificador único para que puedan localizarse fácilmente.
+Además de compartir los datos, la apertura de la investigación depende del intercambio de materiales. Los materiales que utilizan los investigadores son específicos de cada disciplina y, a veces, exclusivos de un laboratorio. A continuación se dan algunos ejemplos de materiales que puedes compartir, sin embargo,  consulta con colegas de tu disciplina qué repositorios son los que utilizan. Cuando tengas materiales, datos y publicaciones del mismo proyecto de investigación compartidos en diferentes repositorios, haz una referencia cruzada con un enlace y un identificador único para que puedan localizarse fácilmente.
 
 ###### Reactivos
 
@@ -154,7 +154,7 @@ El uso de la programación, la tecnología de contenedores y la virtualización 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Preguntas, obstáculos y malos entendidos  comunes
 
-P: "¿Es suficiente hacer que mis datos estén disponibles de manera abierta?"
+P: "¿Es suficiente con hacer que mis datos estén disponibles de manera abierta?"
 
 R: "No, la apertura es una condición necesaria pero no suficiente para una reutilización máxima. Los datos tienen que ser FAIR además de abiertos".
 
