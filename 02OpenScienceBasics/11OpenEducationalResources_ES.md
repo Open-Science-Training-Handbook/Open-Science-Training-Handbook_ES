@@ -9,10 +9,10 @@ Los REA incluyen cursos completos, materiales de curso, libros de texto, videos 
 
 ### Fundamentos
 
-En muchos casos los REA se construyen a partir de hallazgos de investigación. Si eres practicante de la Ciencia Abierta, sería lógico que tus recursos educativos mantengan el nivel de apertura de tu propia investigación; de esa forma, otros instructores pueden usar tu material para crear nuevos recursos, o adaptar los que ya existen. De hecho, la creación de recursos educativos puede ser vista como un ciclo similar al de investigación: encontrar, producir, adaptar, usar y compartir ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)[)](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle).
+En muchos casos los REA se construyen a partir de hallazgos de investigación. Si eres practicante de la Ciencia Abierta, sería lógico que tus recursos educativos mantengan el nivel de apertura de tu propia investigación; de esa forma, otros instructores pueden usar tu material para crear nuevos recursos, o adaptar los que ya existen. De hecho, la creación de recursos educativos puede ser vista como un ciclo similar al de investigación: localizar, producir, adaptar, usar y compartir ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)[)](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle).
 
 ## <img src="../Images/Icons/finish.png" width="150" height="150" />
-### Objetivos de aprendizaje
+### Objetivos del aprendizaje
 
 1. Los participantes deben comprender la diferencia entre Recursos Educativos Abiertos y no-abiertos.
 2. La licencia es una parte esencial e indica cómo usar y combinar los REA fácilmente.
