@@ -38,9 +38,9 @@ Este manual está diseñado de forma modular. Puede elegir libremente los capít
 
 En el Capítulo 2 se profundiza en los contenidos dirigidos a la capacitación. En esta parte del manual se presentan y explican todos los temas relacionados con la Ciencia Abierta. ¿Ya estás familiarizado con uno o dos temas? Genial, entonces  echa un vistazo a otros aspectos de los que quizás aún no hayas oído hablar. Incluso si no planeas impartir ninguna actividad  de capacitación sobre esos temas en cuestión, es probable que los encuentres de utilidad- ya que hay mucha  coincidencia con  temas de la Ciencia Abierta. 
 
-Si tiene poco o ningún conocimiento previo sobre capacitación en general, eche un vistazo al Capítulo 3: "Sobre el aprendizaje y la capacitación". Le brinda una descripción general de las técnicas de capacitación, así como consejos prácticos para diseñar su entrenamiento. Si ya tiene alguna experiencia, también puede usarla para aprender sobre diferentes enfoques sobre la enseñanza y actualizar su conocimiento.  
+Si tienes poco o ningún conocimiento previo sobre capacitación en general, echa un vistazo al Capítulo 3: "Sobre el aprendizaje y la capacitación", que brinda una descripción general de las técnicas de capacitación, así como consejos prácticos para diseñar su entrenamiento. Si ya tiene alguna experiencia, también puede usarla para aprender sobre diferentes enfoques sobre la enseñanza y actualizar su conocimiento.  
 
-Los talleres o seminarios grandes y los eventos de información pueden requerir mucha planificación. Hacer que su evento sea un éxito implicará tomar una gran cantidad de decisiones, en un tiempo determinado. El Capítulo 4 brinda información útil sobre aspectos organizacionales. También ofrece una lista de verificación útil para ayudar a planificar su evento de formación.  
+Los talleres o seminarios grandes y los eventos de formación pueden requerir mucha planificación. Hacer que su evento sea un éxito implicará tomar una gran cantidad de decisiones. El Capítulo 4 ofrece información útil sobre aspectos organizacionales. También ofrece una lista de verificación útil para ayudar a planificar su evento.  
 
 Los eventos de capacitación  interactivos necesitan de actividades en los que participen los alumnos. Los ejemplos de ejercicios y recursos adicionales estan pensados para involucrar a su audiencia, proporcionar información práctica sobre los temas tratados o recibir  comentarios de sus participantes. El Capítulo 5 le ofrece una gama de ejercicios y recursos probados y aprobados por expertos en capacitación de Ciencia Abierta. ¡Pruebalos, reutilizarlos y adaptalos libremente! 
 
@@ -48,7 +48,7 @@ Como cualquier otro campo emergente, la Ciencia Abierta usa bastante terminolog�
 
 Este manual se ha creado para ser un recurso vivo. Esto significa que se actualizará periódicamente debido a los nuevos avances en temas de la ciencia abierta, así como en respuesta a los comentarios y sugerencias de otros capacitadores  del tema y de nuestra audiencia. Por favor, no dude en agregar  sus mejores prácticas, ejemplos, recursos, opiniones o experiencias a través de GitBook.
 
-¡Esperamos que disfrute al leer este manual y le deseamos lo mejor para su futura capacitación sobre ciencia abierta!
+¡Esperamos que disfrutes al leer este manual y te deseamos lo mejor para una futura capacitación sobre ciencia abierta!
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
 
