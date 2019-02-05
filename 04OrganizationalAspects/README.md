@@ -457,7 +457,7 @@ Sube al sitio web todo el material utilizado durante el evento (presentaciones, 
 
 Prepara un informe para el financiador o la institución, y si es necesario hazlo público (ej. Vía blog, Twitter, sitio web).
 
-## <img src="/Images/Icons/coffee_break.png" width="150" height="150" /> <img src="/Images/Icons/toilets.png" width="150" height="150" />
+## <img src="/Images/Icons/coffee_break.png" width="150" height="150" /> 
 ## Checklist
 
 <table>
@@ -684,7 +684,7 @@ Prepara un informe para el financiador o la institución, y si es necesario hazl
 </table>
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-## Referencias
+## Bibliografía
 
 Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62: [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
 
