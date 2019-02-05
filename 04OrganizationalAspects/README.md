@@ -373,7 +373,7 @@ Para asegurarte que el curso de capacitación es amigable, inclusivo y de un amb
 
 * [FORCE2017 Conference Code of Conduct](https://www.force2017.org/information/code_of_conduct.html)
 
-* [The Carpentries Code of Conduct](https://software-carpentry.org/conduct/)
+* [The Carpenty Code of Conduct](https://software-carpentry.org/conduct/)
 
 * [Mozilla Science Lab: Getting Started with Codes of Conduct](http://mozillascience.github.io/working-open-workshop/code_of_conduct/)
 
@@ -455,7 +455,7 @@ Lee y contabiliza las preguntas de la hoja de evaluación. Recuerda hacer una au
 
 Sube al sitio web todo el material utilizado durante el evento (presentaciones, documentos) en caso de que no estuvieran disponibles previamente. Asegúrate de proveer licencias abiertas en lo posible y asegúrate de que los participantes no sean identificables (ej. Dentro de un documento de notas).
 
-Prepara un informe para el financiador o la institución y si es necesario hazlo público (ej. Vía blog, Twitter, sitio web).
+Prepara un informe para el financiador o la institución, y si es necesario hazlo público (ej. Vía blog, Twitter, sitio web).
 
 ## <img src="/Images/Icons/coffee_break.png" width="150" height="150" /> <img src="/Images/Icons/toilets.png" width="150" height="150" />
 ## Checklist
