@@ -13,16 +13,16 @@ El apoyo a los movimientos vinculados a la ciencia abierta (advocacy) busca aseg
 
 La promoción de lo abierto implica también acciones de apoyo, influencia, cambio, toma de decisiones, persuasión, cabildeo, y llamar la atención acerca de la importancia de estos temas.
 
-El apoyo a los movimientos abiertos se enfoca a la promoción en favor de la Ciencia Abierta en diversos niveles, como por ejemplo: contribuir a destacar y enfatizar las ventajas personales y profesionales que conlleva. 
+El apoyo a los movimientos por "loa abierto"  se centra en la promoción  de la Ciencia Abierta a diversos niveles, como por ejemplo: contribuir a destacar y enfatizar las ventajas personales y profesionales que este nueva concepción conlleva. 
 
 ### Fundamentos
 
 La capacitación (talleres, seminarios, presentaciones) puede ser usada como herramientas de promoción. Un enfoque estructurado de las prácticas en defensa de la Ciencia Abierta ayuda a atender todo aquello que el capacitador debe recordar, por ejemplo: recurrir a estrategias que incentiven cambios específicos, y desarrollar habilidades básicas para utilizar herramientas de promoción (por ejemplo, campañas, reuniones con los responsables de las políticas). La capacitación aquí se considera una herramienta para efectuar cambios específicos para lograr una defensa comunitaria de la Ciencia Abierta.
 
 ## <img src="../Images/Icons/finish.png" width="150" height="150" />
-### Objetivos de aprendizaje
+### Objetivos del aprendizaje
 
-1. Entender el contexto y metas del programa de promoción.
+1. Entender el contexto y metas del programa de promoción de la ciencia.
 2. Comunicarse de manera efectiva con sus audiencias y llamar la atención de la comunidad hacia asuntos importantes, así como dirigir a los tomadores de decisiones hacia una solución.
 
 ### Componentes esenciales
@@ -30,7 +30,7 @@ La capacitación (talleres, seminarios, presentaciones) puede ser usada como her
 ## <img src="../Images/Icons/brain.png" width="150" height="150" />
 #### Conocimiento
 
-##### Objectivos a lograr
+##### Objectivos
 
 *SMART* es un acrónimo que puede ayudar a recordar cuáles deben ser sus objetivos:
 
@@ -64,7 +64,7 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 
 - Mantener la participación tanto de quienes toman decisiones, como del público en general, para difundir la información acerca de logros actuales y futuros.
 
-**Pasos para un adecuado apoyo a lo abierto:**
+**Pasos para un adecuado apoyo a "lo abierto":**
 
 1. Definir objetivos
    1. ¿Qué cambios se necesitan?
@@ -110,7 +110,7 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 
 **Indirectos:** estimula a los participantes a actuar por sí mismos.
 
-**Directos:** cabildea con los responsables de las decisiones, por medio de representantes en nombre de terceros.
+**Directos:** ganar partidarios entre los responsables de las decisiones, por medio de representantes en nombre de terceros.
 
 **Con campañas:** genera respuesta de un público amplio por medio de técnicas diversas, tales como: 
 
@@ -135,11 +135,11 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 ## <img src="../Images/Icons/gears.png" width="150" height="150" />
 #### Habilidades
 
-* Envíaun escrito a un boletín o un foro de tu comunidad académica acerca de la importancia del Acceso Abierto. 
+* Envía un escrito a un boletín o un foro de tu comunidad académica acerca de la importancia del Acceso Abierto. 
 * Elabora tu propio modelo de respuesta acerca de sólo hacer revisión por pares para revistas científicas en acceso abierto, etc.
-* Reúsa (o recupera) los modelos que ya están disponibles.
+* Reutiliza (o recupera) los modelos que ya están disponibles.
 * Esboza soluciones y beneficios concretos que el Acceso Abierto puede traer para los ‘dolores de cabeza’ que sufren los administradores de tu universidad.
-* Encuentra un grupo local de promoción a lo abierto y házte voluntario.
+* Encuentra un grupo local de promoción de lo abierto y házte voluntario.
 
 ## <img src="../Images/Icons/questions.png" width="150" height="150" />
 ### Preguntas, obstáculos y conceptos erróneos comunes
