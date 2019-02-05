@@ -22,7 +22,7 @@ En este manual, definimos al "formador" como cualquier persona que desee realiza
 
 ## ¿Qué es la Ciencia Abierta?
 
-De acuerdo con la [taxonomía FOSTER] (https://www.fosteropenscience.eu/taxonomy/term/7), "La ciencia abierta es el movimiento para hacer que la investigación científica, los datos y su difusión sean accesibles a una sociedad ávida de conocimiento". Se puede definir como una agrupación de principios y prácticas:
+De acuerdo con la taxonomía FOSTER (https://www.fosteropenscience.eu/taxonomy/term/7), "La ciencia abierta es el movimiento para hacer que la investigación científica, los datos y su difusión sean accesibles a una sociedad ávida de conocimiento". Se puede definir como una agrupación de principios y prácticas:
 
 * Principios : La ciencia abierta  trata de mayor transparencia, reutilización, participación, cooperación, responsabilidad y reproducibilidad de la investigación. Su objetivo es mejorar la calidad y la fiabilidad de la investigación a través de principios como la inclusión, la justicia, la equidad y el intercambio. La ciencia abierta se puede ver simplemente como una investigación realizada correctamente, y se extiende a través de las Ciencias Físicas y de la vida, Ingeniería, Matemáticas, Ciencias Sociales y Humanidades \ ([Open Science MOOC].(https://docs.google.com/document/d/1KuTSECSYHXZmZX15GDjyD65pJ90eRMhHVEZ-1trsw30/edit?usp=sharing)\).
 
