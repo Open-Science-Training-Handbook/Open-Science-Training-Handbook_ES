@@ -15,7 +15,7 @@ Dado que el principal motor de la Ciencia Abierta es la política establecida po
 
 ![imagen 2](../Images/Icons/finish.png)
 
-### Objetivos de aprendizaje
+### Objetivos del aprendizaje
 
 1.	Dependiendo del público, los objetivos de la sesión de capacitación serán diferentes. Podemos dividir de manera general a investigadores (en sentido amplio) y responsables de políticas (dentro de una institución o patrocinadores – en un sentido amplio).
 
