@@ -194,7 +194,7 @@ Para facilitarte una orientación inicial acerca de los posibles tipos de capaci
 
 ### Audiencia, instructor invitado y colaboradores
 
-Antes de comprometerte con el evento debes estar seguro de que tienes bien definida tu [audiencia](/03OnLearningAndTraining/#target-audience) y que eres consciente de sus necesidades. Considera el núemro de asistentes y el número o área de competencia de los instructores. 
+Antes de comprometerte con el evento debes estar seguro de que tienes bien definida tu [audiencia](/03OnLearningAndTraining/#target-audience) y que eres consciente de sus necesidades. Considera el número de asistentes y el número o área de competencia de los instructores. 
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
 #### Cooperación
