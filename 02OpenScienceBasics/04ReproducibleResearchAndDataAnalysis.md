@@ -28,7 +28,7 @@ Cada uno de estos pasos debe estar informado con claridad,  con una  documentaci
 
 Los factores generales pueden contribuir a las causas de no-reproducibilidad, pero también pueden impulsar la implementación de medidas específicas para abordar dichas causas. La cultura y el ambiente en que se desarrolla la investigación son factores generales de  'arriba-abajo' importantes. Desde una perspectiva 'abajo-arriba', la educación y capacitación continuas de los investigadores pueden crear conciencia y diseminar buenas prácticas.
 
-Aunque entender el amplio rango de factores que contribuyen a la reproducibilidad es importante, también puede ser difícil desglosar estos factores en medidas que puedan ser adoptadas inmediatamente en programas de investigación ya existentes para mejorar inmediatamente su reproducibilidad. Uno de los primeros pasos a seguir es evaluar el estado actual de las cosas y monitorear las mejoras a medida que toman decisiones para aumentar aún más la reproducibilidad. Algunos de los temas más comunes relacionados con la reproducibilidad de la investigación se muestran en la siguiente figura.
+Aunque entender el amplio rango de factores que contribuyen a la reproducibilidad es importante, también puede ser difícil desglosar estos factores en medidas que puedan ser adoptadas inmediatamente en programas de investigación ya existentes para mejorar rapidamente su reproducibilidad. Uno de los primeros pasos a seguir es evaluar el estado actual de las cosas y monitorear las mejoras a medida que se toman decisiones para aumentar aún más la reproducibilidad. Algunos de los temas más comunes relacionados con la reproducibilidad de la investigación se muestran en la siguiente figura.
 
 ![](/Images/image_2.png)
 
