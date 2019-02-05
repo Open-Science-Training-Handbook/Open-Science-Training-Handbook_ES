@@ -20,7 +20,7 @@ El concepto de reproducibilidad se aplica directamente al método científico, l
 
 5.Informe del estudio
 
-Cada uno de estos pasos debe estar informado con claridad,  con una  documentación clara y accesible, que faciltie la transparencia y la reproducibilidad del estudio.
+Cada uno de estos pasos debe estar informado con claridad,  con una  documentación clara y accesible, que facilite la transparencia y la reproducibilidad del estudio.
 
 ![](/Images/02%20Open%20Science%20Basics/02_reproducible_research_data_analysis.png)
 
