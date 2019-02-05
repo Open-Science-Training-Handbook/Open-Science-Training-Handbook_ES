@@ -9,7 +9,7 @@ Una licencia es un documento legal que otorga derechos específicos al usuario p
 
 Un formato de archivo es una forma estándar en que la información se codifica para el almacenamiento en un archivo de computadora; sin embargo, no todos los formatos tienen documentos de especificación disponibles gratuitamente, en parte porque algunos desarrolladores consideran sus documentos de especificación como secretos comerciales.
 
-![](/Images/02 Open Science Basics/02_open_licensing.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_licensing.png)
 
 ### Justificación
 
