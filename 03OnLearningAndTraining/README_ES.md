@@ -152,7 +152,7 @@ Una buena manera de comenzar con tu entrenamiento sobre Ciencia Abierta es dirig
 
 La investigación académica es practicada por adultos. Por lo tanto, es probable que los participantes de cualquier capacitación en Ciencia Abierta sean adultos que poseen, a menudo, un primer o segundo título de grado. Por ende, es interesante ver hasta qué punto difiere la enseñanza de niños o adolescentes \(pedagogía\) de la enseñanza de adultos \(andragogía\). La Red Canadiense de Alfabetización y Aprendizaje (The Canadian Literacy and Learning Network) realizó un trabajo interesante sobre esta diferencia y la recapituló en siete principios:
 
-1. **Los adultos deben querer aprender.** Esto significa que la motivación intrínseca y los valores agrgados son decisivos y que podría valer la pena conocerlos antes de comenzar el curso.
+1. **Los adultos deben querer aprender.** Esto significa que la motivación intrínseca y los valores agregados son decisivos y que podría valer la pena conocerlos antes de comenzar el curso.
 
 2. **Los adultos solo aprenderán lo que sientan que necesitan aprender.** Los adultos son prácticos en su enfoque de aprendizaje; quieren saber, "¿Cómo me va a ayudar esto ahora?" Por lo tanto, deberías ser práctico y directo.
 
