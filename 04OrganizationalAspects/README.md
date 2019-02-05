@@ -289,20 +289,20 @@ Envía un recordatorio vía redes sociales y lista de correos. Recuerda colocar 
 
 #### Durante el evento
 
-Publica imágenes y videos cortos del evento en tu sitio web y redes sociales. Indíca a los participantes el hashtag para la capacitación e invítalos a enviar por lo menos un tweet o mensaje durante el evento. Recolecta las razones de asistencia al evento para emlearlos en la publicidad de eventos futuros.
+Publica imágenes y videos cortos del evento en tu sitio web y redes sociales. Indica a los participantes el hashtag para la capacitación e invítalos a enviar por lo menos un tweet o mensaje durante el evento. Recolecta las razones de asistencia al evento para emlearlos en la publicidad de eventos futuros.
 
 ## <img src="/Images/Icons/check.png" width="150" height="150" />
 ### Registro
 
 #### Mucho antes del evento
 
-Configura un registro para el evento utilizando un servicio como [Eventbrite](https://www.eventbrite.com) o [Event Smart](https://eventsmart.com) (ambos son gratuitos siempre y cuando el evento sea libre de cuotas, pero pueden incluir un ligero coste si el evento tiene coste de registro), o puedes utilizar Google Forms para capturar información básica. Para eventos pequeños podrías incluso registrar a los asistentes vía correo electrónico, pero no olvides enviarles un correo de confirmación cuando se registren y un recordatorio poco antes del evento.
+Configura un sitema de inscripción para el evento utilizando un servicio como [Eventbrite](https://www.eventbrite.com) o [Event Smart](https://eventsmart.com) (ambos son gratuitos siempre y cuando el evento sea gratuito, pero pueden incluir un ligero coste si el evento tiene cuota de inscripción), o puedes utilizar Google Forms para recopilar la información básica. Para eventos pequeños podrías incluso registrar a los asistentes vía correo electrónico, pero no olvides enviarles un correo de confirmación cuando se registren y un recordatorio poco antes del evento.
 
-Piensa acerca de la cuota que esperas o necesitas cobrar (ver financiación). Piensa acerca de los créditos que los estudiantes pueden obtener, ¿Es necesario un certificado? (ver certificado de asistencia).
+Piensa sobre la cuota que esperas o necesitas cobrar (ver financiación). Piensa en los créditos que los estudiantes pueden obtener, ¿Es necesario un certificado? (ver certificado de asistencia).
 
-Debes ser sensible y transparente acerca de la información que vas a recopilar. Si necesitas información como el género, edad o nacionalidad, debes tener en cuenta que esto no siempre es tan sencillo como parece- siempre ofrece la opción de un campo en blanco. No utilices la distinción entre Sra. y Srta., por favor.
+Debes ser sensible y transparente acerca de la información que vas a recopilar. Si necesitas información como el género, edad o nacionalidad, debes tener en cuenta que esto no siempre es tan sencillo como parece- siempre ofrece la opción de un campo en blanco. No utilices la distinción entre Sra. y Srta.
 
-Puedes hacer una pequeña encuesta para medir el conocimiento de los participantes acerca del tema (sus conocimientos previos). Esto te ayudará a preparar el material de capacitación. Debes dejar muy claro qué datos se compartirán o retendrán y por qué. Siempre debes ofrecer la opción de que la gente diga que no y mantenga toda la información proporcionada archivada de forma segura. Considera crear una lista de participantes interesados en boletines informativos o para estar en contacto, debes ser conocedor de la protección de datos (como la General Data Protection Regulation de la Unión Europea (Regulation (EU) 2016/679))
+Puedes hacer una pequeña encuesta para medir el conocimiento de los participantes acerca del tema (sus conocimientos previos). Esto te ayudará a preparar el material de formación. Debes dejar muy claro qué datos se compartirán o retendrán y por qué. Siempre debes ofrecer la opción de que la gente diga que no y mantenga toda la información proporcionada archivada de forma segura. Considera crear una lista de participantes interesados en boletines informativos o para estar en contacto, debes ser conocedor de la protección de datos (como la General Data Protection Regulation de la Unión Europea (Regulation (EU) 2016/679))
 
 #### Poco antes del evento
 
