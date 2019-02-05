@@ -16,7 +16,7 @@ Para prepararte mejor para futuros eventos deberías reflexionar acerca de qué 
 
 ## Algunas reflexiones antes de comenzar
 
-A continuación nos enfocaremos, principalmente, en el primer aspecto \(preparación\) y luego te guiaremos en la planificación y la gestión de tu curso. Para empezar, hablaremos sobre algunos asuntos teóricos que te darán una idea de qué significa enseñar y aprender y cómo la enseñanza de adultos se diferencia de la enseñanza de adolescenetes o niños.
+A continuación nos enfocaremos, principalmente, en el primer aspecto \(preparación\) y luego te guiaremos en la planificación y la gestión de tu curso. Para empezar, hablaremos sobre algunos asuntos teóricos que te darán una idea de qué significa enseñar y aprender y cómo la enseñanza de adultos se diferencia de la enseñanza de adolescentes o niños.
 
 ### Capacitación *versus* enseñanza
 
