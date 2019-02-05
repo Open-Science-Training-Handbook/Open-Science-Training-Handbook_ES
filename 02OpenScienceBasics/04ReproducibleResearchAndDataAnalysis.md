@@ -136,7 +136,7 @@ Licencia tu código para informar cómo puede ser \(re\)utilizado. Comparte cuad
 Informa y publica tus métodos e intervenciones de modo explícito, transparente, y completo para permitir su reproducción. Las guías de la [Equator Network](http://www.equator-network.org/), herramientas como [Protocols.io](https://www.protocols.io/), o procesos como [Registered Reports](https://cos.io/rr/) pueden ayudarte a reportar la reproducibilidad. Recuerda publicar tus resultados en tu plataforma de registro público \(como [ClinicalTrials.gov](https://www.socialscienceregistry.org/) o el [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) dentro del año de finalización de tu estudio, sin importar la naturaleza o rumbo de tus resultados.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos y malas interpretaciones  comunes
+### Preguntas, obstáculos e  interpretaciones erróneas  comunes
 
 Q: "Todo está en el papel; cualquiera puede reproducirlo desde allí!"
 
@@ -148,7 +148,7 @@ A: Además del número significativo de servicios gratuitos y disponibles en lí
 
 Q: "Las terminologías que describen la reproducibilidad son desafiantes."
 
-A: Mira Barba \(2018\) para una discusión sobre la terminología que describe la reproducibilidad y la replicabilidad.
+A: Consulta el artículo de Lorena Barba ( https://arxiv.org/abs/1802.03311(2018\) para una discusión sobre la terminología que describe la reproducibilidad y la replicabilidad.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Resultados del aprendizaje
