@@ -5,7 +5,7 @@
 
 Las plataformas de colaboración en línea conectan a investigadores geográficamente dispersos para permitirles cooperar sin problemas en su investigación, compartiendo objetos de investigación, así como ideas y experiencias. Las plataformas colaborativas suelen ser servicios en línea que proporcionan un entorno virtual al que varias personas pueden conectarse y trabajar simultáneamente en la misma tarea. Estas pueden abarcar desde entornos virtuales de investigación (EVI) extensos que abarcan una gran cantidad de herramientas para facilitar el intercambio y la colaboración, incluidos foros y wikis, alojamiento de documentos de colaboración y herramientas específicas por disciplina como el análisis o visualización de datos, hasta herramientas específicas que permiten a los investigadores trabajar juntos en tiempo real aspectos específicos de la investigación (como la escritura o el análisis).
 
-![](/Images/02 Open Science Basics/02_collaborative_platforms.png)
+![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
 ### Justificación
 
