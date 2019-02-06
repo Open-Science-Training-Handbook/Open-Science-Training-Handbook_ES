@@ -68,7 +68,7 @@ El poder de la Web permite nuevos modos de revisión colaborativa posterior a la
 Los investigadores han utilizado durante mucho tiempo la Web para hacer redes, ya sea a través de redes sociales comunes como [Twitter](https://twitter.com/), [Facebook ](https://www.facebook.com/) y [Linkedin](https://www.linkedin.com/) o redes sociales académicas como [ResearchGate](https://www.researchgate.net/), [Academia.edu](http://www.academia.edu/) y [Loop](http://community.frontiersin.org/).
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos y conceptos erróneos comunes
+### Preguntas, obstáculos e interpretaciones erróneas comunes
 
 P: "¿Por qué debería agregar otra capa de complejidad a mi proceso de colaboración? ¡Compartir el archivo doc es suficiente!"
 
