@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/open_licenses.png" width="200" height="200" />
-## 6. Licencias abiertas y formatos de archivo
+## 6. Licencias abiertas y formatos de los ficheros
 
 ### ¿Qué son?
 
@@ -7,7 +7,7 @@ Una licencia es un documento legal que otorga derechos específicos al usuario p
 
 [Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) son licencias que otorgan permiso para acceder, reutilizar y redistribuir el material con pocas o ninguna restricción. Esas licencias van desde muy abiertas a muy restrictivas. Cuantas más restricciones, más difícil se vuelve combinar el contenido de las licencias de forma diferente, lo que potencialmente impide la interoperabilidad.
 
-Un formato de archivo es una forma estándar en que la información se codifica para el almacenamiento en un archivo de computadora; sin embargo, no todos los formatos tienen documentos de especificación disponibles gratuitamente, en parte porque algunos desarrolladores consideran sus documentos de especificación como secretos comerciales.
+El formato de fichero es una forma estándar en que la información se codifica para el almacenamiento en un archivo digital; sin embargo, no todos los formatos tienen documentos de especificación disponibles gratuitamente, en parte porque algunos desarrolladores consideran sus documentos de especificación como secretos comerciales.
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_licensing.png)
 
@@ -78,7 +78,7 @@ En el contexto de Ciencia Abierta, y para un preservación óptima a largo plazo
 Algunos formatos de ficheros no se pueden convertir a formatos abiertos, pero aún así se archivan. A menudo son específicos de algún dispositivo, pero tienen una amplia comunidad de usuarios. Compruebe si el repositorio en el que desea depositar una publicación tiene una lista de formatos preferidos.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos y conceptos erróneos comunes
+### Preguntas, obstáculos e interpretaciones erróneas comunes
 
 P: "¿Por qué debo usar la licencia CC-BY para mi documento u otra obra creativa?"
 
