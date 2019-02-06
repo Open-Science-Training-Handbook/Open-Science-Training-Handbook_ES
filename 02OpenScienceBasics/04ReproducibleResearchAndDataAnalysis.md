@@ -160,7 +160,7 @@ A: Consulta el artículo de Lorena Barba ( https://arxiv.org/abs/1802.03311(2018
 3. Conocer herramientas que pueden contribuyen con la investigación reproducible.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Lecturas complementarias
+### Lecturas adicionales
 
 * Calcula tu poder: [Button et al. \(2013\) study of the relationship between reproducibility and power.](https://www.nature.com/articles/nrn3475)
 
