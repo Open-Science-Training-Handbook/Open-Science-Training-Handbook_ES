@@ -1045,7 +1045,7 @@ Plataformas Colaborativas</td>
     * Introducir diferentes aspectos de la revisión por pares, incluidos algunos ejemplos de revistas/plataformas donde se ponen en práctica.
     * Solicite  a los participantes que identifiquen individualmente de dos a tres aspectos de la revision por pares abierta que, a su juicio, contribuirían más a la Ciencia Abierta.
     * En una gran copia impresa, los participantes colocan una moneda de poco valor sobre cada uno de los aspectos que seleccionaron en el paso anterior.
-    * Se observan conjutnamente los resultados y se identifican los aspectos que elegidos con mayor frecuencia.
+    * Se observan conjuntamente los resultados y se identifican los aspectos que elegidos con mayor frecuencia.
     * Después, en grupos pequeños, los participantes toman el papel de lector, autor o revisor (todos los papeles deben estar presentes en cada grupo).
     * A continuación, discuten uno de los aspectos de la revisión por pares abierta desde la perspectiva del papel que le correspondió a cada uno. ¿Cuáles son los beneficios y los posibles inconvenientes?
     * Posteriormente los grupos pequeños informan a todo el grupo, y se discuten perspectivas/puntos de vista adicionales. 
