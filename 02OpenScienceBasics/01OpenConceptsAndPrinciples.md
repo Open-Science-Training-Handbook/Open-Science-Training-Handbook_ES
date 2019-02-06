@@ -37,8 +37,6 @@ La Ciencia Abierta, como se definió anteriormente, abarca una gran cantidad de 
 3. Obtener información sobre los desarrollos en torno a la Ciencia Abierta y el impacto personal que estos pueden tener en los investigadores, la investigación y la sociedad en general.
 
 ### Componentes clave
-![](/Images/02 Open Science Basics/02_open_concepts_and_principles.png)
-
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Habilidades y conocimiento
 
