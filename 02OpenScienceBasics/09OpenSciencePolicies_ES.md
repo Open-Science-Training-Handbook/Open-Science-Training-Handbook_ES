@@ -56,7 +56,7 @@ Puedes mostrarles cómo los investigadores pueden cumplir con las diferentes pol
 Las personas que estén participando de un proceso de capacitación en materia de Ciencia Abierta necesitan saber cómo definir los propósitos principales de dicha política, así como establecer las metas o cambios que se persiguen. Una vez definidos dichos propósitos, los participantes deben identificar indicadores clave del desempeño para medir si la política ha conseguido sus objetivos; asimismo, deben ser capaces de revisar y actualizar la política en caso de que los objetivos no se llegaran a cumplir.
 
 ## <img src="../Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos y conceptos erróneos comunes
+### Preguntas, obstáculos e interpretaciones erróneas comunes
 
 En las sesiones de capacitación sobre Ciencia Abierta, la pregunta más común por parte de los investigadores es: cómo pueden cumplir con los requisitos, sin perder la libertad de decidir dónde publicar. En este caso, tú como capacitador puedes describir todas las opciones disponibles para los investigadores porque, en general, las políticas de Ciencia Abierta ofrecen un amplio rango de opciones. 
 
