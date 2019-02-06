@@ -84,7 +84,7 @@ A: Esto es incorrecto; aunque parezca que está introduciendo herramientas y pla
 3. El investigador podrá colaborar con colegas para escribir documentos en colaboración, anotar artículos y compartir esta discusión.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Otras lecturas
+### Lecturas adicionales
 
 * Open Science Framework. The promise of Open Science collaboration: [https://osf.io/vmrgu/wiki/home/](https://osf.io/vmrgu/wiki/home/)
 
