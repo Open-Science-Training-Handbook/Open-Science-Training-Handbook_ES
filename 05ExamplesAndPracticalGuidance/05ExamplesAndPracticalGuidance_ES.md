@@ -318,7 +318,7 @@ Plataformas Colaborativas</td>
 
 
 
-****Ejemplo 1: ¡Alinéandose!** 
+**Ejemplo 1: ¡Alinéandose!** 
 
 * Formato, tiempo necesario: 
 
