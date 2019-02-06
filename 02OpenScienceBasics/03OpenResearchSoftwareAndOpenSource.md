@@ -78,7 +78,7 @@ Los principios de Código Abierto descritos anteriormente se extienden al hardwa
 * Cita de manera apropiada el software utilizado en los artículos de investigación.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos y malinterpretaciones comunes
+### Preguntas, obstáculos e interpretaciones erróneas comunes
 
 Q: "No puedo compartir mi software, está muy desordenado / no tiene una buena documentación / no dejé buenos comentarios"
 
