@@ -31,8 +31,7 @@ Obtenga más información sobre los autores y los facilitadores del sprint del l
 
 ## <img src="/Images/Icons/heart.png" width="150" height="150" />
 
-## Gracias a tí
-
+## Gracias a 
 * Gwen Franck \(EIFL, Bélgica\) para cubrir las redes sociales durante el sprint del libro y mantenernos motivados con energizantes.
 
 * Patrick Hochstenbach \(University of Gent, Universidad de Gent, Bélgica\) para dibujar las impresionantes caricaturas e imágenes
