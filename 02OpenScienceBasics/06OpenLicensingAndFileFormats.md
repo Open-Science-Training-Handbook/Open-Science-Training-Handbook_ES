@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/open_licenses.png" width="200" height="200" />
-## 6. Licencias abiertas y formatos de los ficheros
+## 6. Licencias abiertas y formatos de ficheros
 
 ### ¿Qué son?
 
