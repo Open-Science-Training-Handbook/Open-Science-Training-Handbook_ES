@@ -142,7 +142,7 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 * Encuentra un grupo local de promoción de lo abierto y házte voluntario.
 
 ## <img src="../Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos y conceptos erróneos comunes
+### Preguntas, obstáculos  e interpretaciones erróneas comunes
 
 Falta de interés del público. Falta de entendimiento del valor que implica.
 
