@@ -152,7 +152,7 @@ El uso de la programación, la tecnología de contenedores y la virtualización 
 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos y malos entendidos  comunes
+### Preguntas, obstáculos e interpretaciones erróneas comunes
 
 P: "¿Es suficiente con hacer que mis datos estén disponibles de manera abierta?"
 
