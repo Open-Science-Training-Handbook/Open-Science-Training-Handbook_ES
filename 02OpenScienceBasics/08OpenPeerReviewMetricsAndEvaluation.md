@@ -98,7 +98,7 @@ A: La evaluación de la investigación es tan justa como lo son sus métodos y t
 2. Los estudiantes conocerán un rango de métricas, sus ventajas y desventajas. 
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Bibliografía sugerida
+### Lecturas adicionales 
 
 * Peer Review the Nuts and Bolts. [A Guide for Early Career Researchers.](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
 
