@@ -1,9 +1,9 @@
 ## <img src="/Images/Icons/open_access.png" width="200" height="200" />
-## 5. Acceso abierto a los resultados de investigación publicados 
+## 5. Acceso abierto a las publicaciones de los resultados de investigación
 
 ### ¿Qué es?
 
-El acceso abierto a publicaciones significa que se pueden acceder en línea, sin costo alguno para cualquier usuario, sin obstáculos técnicos (como el registro obligatorio o el inicio de sesión en plataformas específicas) a las publicaciones de investigación como artículos y libros. Como mínimo, estas publicaciones se pueden leer en línea, descargar e imprimir. Lo ideal es que también se proporcionen derechos adicionales como el derecho de copiar, distribuir, buscar, vincular, rastrear y realizar minería. El acceso abierto se puede realizar a través de dos rutas principales no exclusivas:
+El acceso abierto significa que se puede acceder en línea, sin costo alguno para cualquier usuario, sin obstáculos técnicos (como el registro obligatorio o el inicio de sesión en plataformas específicas) a las publicaciones resultado de la  investigación como son los artículos y los libros. Como mínimo, estas publicaciones se pueden leer en línea, descargar e imprimir. Lo ideal es que también se proporcionen derechos adicionales como el derecho de copiar, distribuir, buscar, vincular, rastrear y realizar minería. El acceso abierto se puede realizar a través de dos rutas principales no exclusivas:
 
 * Acceso Abierto Verde (autoarchivo): el autor o un representante puede acceder libre y abiertamente al trabajo publicado o al manuscrito final revisado por pares que haya sido aceptado para publicación, en un repositorio en línea. Algunos editores solicitan que el acceso abierto se conceda sólo después de que haya transcurrido un período de embargo. Este período de embargo puede durar entre varios meses y varios años. Para las publicaciones que han sido depositadas en un repositorio pero que están bajo embargo, generalmente al menos los metadatos son accesibles de manera abierta.
 
