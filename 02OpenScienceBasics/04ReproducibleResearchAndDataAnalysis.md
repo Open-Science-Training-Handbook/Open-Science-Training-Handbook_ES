@@ -4,7 +4,7 @@
 
 ### ¿En qué consiste?
 
-Reproducibilidad significa que los datos y el código de investigación están disponibles para que otros sean capaces de obtener los mismos resultados que se exponen en los trabajos publicados. Este concepto está íntimamente relacionado con el de replicabilidad, el acto de repetir una metodología científica con el objetivo de alcanzar conclusiones similares. Estos conceptos son elementos centrales de la investigación empírica.
+Reproducibilidad significa que los datos y el código de investigación están disponibles para que otros sean capaces de obtener los mismos resultados alcanzados en sus trabajos. Este concepto está íntimamente relacionado con el de replicabilidad, el acto de repetir una metodología científica con el objetivo de alcanzar conclusiones similares. Estos conceptos son elementos centrales de la investigación empírica.
 
 Mejorar la reproducibilidad conduce a aumentar el rigor y la calidad de los trabajos científicos y, por tanto, a una mayor confianza en la ciencia. Existe una creciente necesidad y deseo de exponer los flujos de trabajo de la investigación desde el comienzo de un proyecto y la recolección de datos, hasta la interpretación y el informe  de los resultados. Estos desarrollos presentan desafíos propios, que incluyen el diseño de flujos de trabajo integrados que pueden ser adoptados por los colaboradores a la vez que se mantienen altos estándares de integridad.
 
