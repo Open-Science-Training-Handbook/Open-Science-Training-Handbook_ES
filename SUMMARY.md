@@ -4,7 +4,7 @@
 * [Introducción](01Introduction/README.md)
 * [Conceptos Básicos de la Ciencia Abierta](02OpenScienceBasics/README.md)
 	* [Conceptos y Principios](02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
-	* [Materiales y Datos Abiertos de Investigación](02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+	* [Datos Abiertos de Investigación y Materiales](02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 	* [Software abierto de investigación y Código abierto](02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
 	* [Investigación Reproducible y Análisis de Datos](02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
 	* [Acceso Abierto a  las publicaciones de los Resultados de Investigaciones](02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
