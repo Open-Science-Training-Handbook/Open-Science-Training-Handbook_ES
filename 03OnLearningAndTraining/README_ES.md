@@ -507,7 +507,7 @@ Se pueden aplicar ejercicios similares para capacitar a diferentes audiencias, p
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 
-### Lecturas adicionales recomendadas
+### Lecturas adicionales
 
 **Acerca de la Taxonomía de Bloom:**
 
@@ -520,7 +520,7 @@ Se pueden aplicar ejercicios similares para capacitar a diferentes audiencias, p
 * [http://documents.manchester.ac.uk/display.aspx?DocID=7582](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
 * [https://www.thebalance.com/top-ice-breakers-1918426](https://www.thebalance.com/top-ice-breakers-1918426)
 
-**Referencias**
+**Bibliografía**
 
 * Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer. [How learning works](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4.
 
