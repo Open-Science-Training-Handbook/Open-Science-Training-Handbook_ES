@@ -54,7 +54,8 @@ Los participantes del proceso de capacitación podrán:
 3. Encontrar, usar y crear Recursos Educativos Abiertos. 
 
 ## <img src="../Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Lecturas recomendadas
+
+### Lecturas adicionales
 - Butcher, Neil (2015): A Basic Guide to Open Educational Resources (OER): [hdl.handle.net/11599/36](http://hdl.handle.net/11599/36)
 
 - Miao, Fengchun; Mishra, Sanjaya; McGreal, Rory (2016): Open Educational Resources: Policy, Costs and Transformation: [hdl.handle.net/11599/2306](http://hdl.handle.net/11599/2306)
