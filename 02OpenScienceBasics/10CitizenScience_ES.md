@@ -50,7 +50,7 @@ Pese a que no existe consenso acerca de cómo evaluar algunas de las activiades 
 - Proveer diferentes soluciones acerca de cómo compartir resultados de investigación.
 
 ## <img src="../Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos y conceptos erróneos comunes
+### Preguntas, obstáculos e interpretaciones erróneas comunes
 
 * Una de las controversias que usualmente se suscitan en los proyectos ciudadanos es cómo los investigadores ponen a disposición del público los datos generados por los ciudadanos. Los investigadores deben ser conscientes que estos datos pueden compartirse tomando en consideración aspectos éticos y legales.
 * La falta de recompensa para los ciudadanos que participan en el proyecto, sobre todo si no son parte de los productos “tradicionales” de investigación (coautores en artículos, en ponencias de congresos, etcétera). Este no es un tema que se aborde durante la capacitación en materia de Ciencia Ciudadana. Probablemente una forma de superar este problema es empezar una conversación acerca de cómo les gustaría a los participantes ser recompensados, y qué métodos proponen.
@@ -62,7 +62,7 @@ Pese a que no existe consenso acerca de cómo evaluar algunas de las activiades 
 2. Los participantes en las sesiones de capacitación aprenderán cómo involucrar a los ciudadanos en su investigación en cualquier punto del proceso.
 
 ## <img src="../Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Lecturas recomendadas
+### Lecturas adicionales
 
 * [White Paper on Citizen Science for Europe](http://www.socientize.eu/sites/default/files/white-paper_0.pdf)
 
