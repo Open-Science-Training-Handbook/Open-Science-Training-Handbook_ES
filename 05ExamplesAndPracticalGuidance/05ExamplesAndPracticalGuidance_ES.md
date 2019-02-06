@@ -890,7 +890,7 @@ Plataformas Colaborativas</td>
 
 * Objetivos del aprendizaje:
 
-    * Concientizar a los participantes acerca de los formatos de archivo que se utilizan en la vida cotidiana, y sus niveles de apertura.
+    * Concienciar a los participantes acerca de los formatos de archivo que se utilizan en la vida cotidiana, y sus niveles de apertura.
 
 * Descripción del ejercicio:
 
