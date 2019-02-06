@@ -1087,7 +1087,7 @@ Plataformas Colaborativas</td>
 
 * Objetivos de aprendizaje:
 
-    * Hacer que los participantes adoptar una postura sobre las políticas o principios de Ciencia Abierta.
+    * Hacer que los participantes adopten una postura sobre las políticas o principios de Ciencia Abierta.
     * Identificar similitud o diversidad de opiniones entre los participantes. 
 
 * Descripción del ejercicio:
