@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/cloud.png" width="200" height="200" />
-## 1. Conceptos abiertos y principios
+## 1. Conceptos y principios
 
 ### ¿Qué es?
 
