@@ -92,7 +92,7 @@ Q: "Si comparto mi código en un repositorio online, recibiré un número excesi
 
 A: Aunque pueden haber usuarios que podrían pedirte ayuda, ya sea vía correo electrónico o, por ejemplo, a través de mensajes en el repositorio online, no tienes ninguna obligación de atender estas demandas si no puedes o prefieres no hacerlo. Una licencia apropiada  incluso, puede protegerte de hacerlo \(por ejemplo, la cláusula de no garantías de la [licencia MIT](https://choosealicense.com/licenses/mit/)\).
 
-Una idea errónea muy común: la simple colocación del código en línea hace que un software sea de Código Abierto. En realidad, a menos que el software esté acompañado de una licencia que concede permiso a otros para su uso, copia, modificación y/o distribución, los desarrolladores mantienen derechos de autor exclusivos sobre el software. Para que un código sea de Código Abierto debe ser acompañado de una licencia de Código Abierto.
+Una idea errónea muy común: la simple disposición del código en línea hace que un software sea de Código Abierto. En realidad, a menos que el software esté acompañado de una licencia que concede permiso a otros para su uso, copia, modificación y/o distribución, los desarrolladores mantienen derechos de autor exclusivos sobre el software. Para que un código sea de Código Abierto debe ir acompañado de una licencia de Código Abierto.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Resultados del aprendizaje
