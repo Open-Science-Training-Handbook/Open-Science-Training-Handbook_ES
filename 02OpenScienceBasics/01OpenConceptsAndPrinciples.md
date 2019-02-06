@@ -92,7 +92,7 @@ R: Es mejor tener demasiada información y tratar con ella, que tener muy poca y
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Los resultados del aprendizaje
 
-1. Ser capaz de explicar los principios y conceptos académicos, económicos y sociales que subyacen y respaldan la Ciencia Abierta, y por qué esto es importante para usted en términos de impacto más amplios.
+1. Ser capaz de explicar los principios y conceptos académicos, económicos y sociales que subyacen y respaldan la Ciencia Abierta, y por qué  es importante en términos más amplios.
 
 2. Comprender las numerosas dimensiones de la Ciencia Abierta, y algunas de las herramientas y prácticas involucradas en ello.
 
