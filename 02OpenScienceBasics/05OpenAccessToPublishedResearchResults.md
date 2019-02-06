@@ -51,7 +51,7 @@ Con respecto a la versión, algunas revistas permiten la difusión de la versió
 
 En relación con el momento de poner el periódico a disposición del público, muchas revistas establecen un período de tiempo desde su publicación original: el período de embargo, que puede ir de cero a 60 meses. Algunas revistas incluyen o excluyen embargos dependiendo de las versiones. Por ejemplo, la versión aceptada podría estar disponible públicamente después de la publicación, pero la versión publicada debe esperar 12 meses.
 
-![](/Images/02 Open Science Basics/02_open_access_archives.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_access_archives.png)
 
 **Publicación de acceso abierto**
 
