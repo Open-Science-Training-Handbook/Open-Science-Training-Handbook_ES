@@ -60,7 +60,7 @@ El trabajo realizado por [Software Carpentry](https://carpentries.github.io/inst
 
 El reciente movimiento llamado "Connected Curriculum Framework" tiene como meta modernizar los enfoques de aprendizaje y adaptarlos al estudiante del siglo XXI. El objetivo general del Framework es mejorar las relaciones entre la educación de los estudiantes y las prácticas de investigación eliminando  divisiones innecesarias. El Framework valora el diálogo enriquecedor, la investigación activa, la colaboración y las interacciones tanto entre estudiantes e investigadores como entre las universidades y otras comunidades más amplias. Esto resulta prometedor para las áreas de la Ciencia Abierta y la Ciencia Ciudadana, la Colaboración Masiva, etc. Para mas información sobre el "Connected Curriculum Framework" puedes consultar la siguiente fuente: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
-### ¿Qué relevante es esto para ti?
+### ¿Es esto relevante para ti?
 
 Lo que es importante saber es que existen diferentes enfoques y que no debes sentirte obligado a seguir sólo una estrategia. Más bien se trata de decidir en qué punto de tu capacitación debes aplicar cada estrategia para enseñar y evaluar.
 
