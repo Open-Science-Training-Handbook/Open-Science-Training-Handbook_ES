@@ -85,7 +85,7 @@ Ejemplos de posibles ejercicios
 * Uso de servicios bibliométricos o de  altmétricas  \(ej. Impactstory, Paperbuzz, Altmetric bookmarklet, Dimensions.ai\) para analizar las  métricas de un artículo, para después facilitar una breve explicación de cómo se han calculado las distintas métricas \(es más difícil de lo que piensas; supone el desafío de encontrar la documentación sobre el cálculo de las métricas incluso para aquellos servicios  más transparentes\)
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Preguntas, obstáculos e ideas equivocadas comunes 
+### Preguntas, obstáculos e interpretaciones erróneas comunes 
 Q: ¿Es justa la evaluación de la investigación?
 
 A: La evaluación de la investigación es tan justa como lo son sus métodos y técnicas de evaluación. Las métricas y altmétricas tratan de medir la calidad de la investigación teniendo en cuenta la cantidad de los resultados de la investigación, lo que puede ser preciso, pero no necesariamente. 
