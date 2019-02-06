@@ -77,7 +77,7 @@ Las personas que estén siendo formadas en el diseño de políticas de Ciencia A
 4.	Planear una política de Ciencia Abierta estableciendo objetivos e indicadores para medir su implementación. 
 
 ## <img src="../Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Lecturas recomendadas
+### Lecturas adicionales
 
 * EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science. [ec.europa.eu](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg)
 
