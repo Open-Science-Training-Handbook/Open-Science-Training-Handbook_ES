@@ -2,7 +2,7 @@
 
 ## Objetivo del manual
 
-Cuando todos los investigadores conocen el significado de la Ciencia abierta, reciben capacitación, apoyo y orientación en todas las etapas de su carrera para practicar una ciencia abierta, se propicia el entorno para un cambio sustancial en  la forma en que se realiza y difunde la investigación, fomentando un ecosistema científico en el que la investigación gana una mayor visibilidad, se comparte de manera más eficiente y se lleva a cabo con una mayor integridad de la investigación ([Informe del grupo de trabajo de habilidades de la ciencia abierta](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \, 2017\).
+Cuando los investigadores conocen el significado de la Ciencia abierta, reciben capacitación, apoyo y orientación en todas las etapas de su carrera para practicar una ciencia abierta, se propicia el entorno para un cambio sustancial en  la forma en que se realiza y difunde la investigación, fomentando un ecosistema científico en el que la investigación gana una mayor visibilidad, se comparte de manera más eficiente y se lleva a cabo con una mayor integridad de la investigación ([Informe del grupo de trabajo de habilidades de la ciencia abierta](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \, 2017\).
 
 La Ciencia Abierta, el movimiento para hacer que los resultados  y procesos científicos sean accesibles y reutilizables, tiene que ver con la cultura y el conocimiento, tanto como con las tecnologías y los servicios. Convencer a los investigadores de los beneficios de cambiar sus prácticas y dotarlas de las habilidades y los conocimientos necesarios para hacerlo, es, por lo tanto, una tarea importante.
 
