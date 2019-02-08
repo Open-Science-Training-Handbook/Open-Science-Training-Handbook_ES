@@ -9,11 +9,11 @@ El Manual se enfoca en apoyar a los educadores de Ciencia Abierta reuniendo mét
 
 ## Ayúdanos a mejorar el manual
 
-Agradecemos el recibir comentarios y retroalimentación de todos, independientemente de su experiencia o antecedentes. La forma más sencilla de hacerlo es dejar un comentario [aquí] (https://book.fosteropenscience.eu/) marcando cualquier párrafo con el puntero del mouse y luego haciendo clic en el signo más que aparece al lado de ese párrafo. Además, puede crear solicitudes par ala incorporación o corrección de texto, ya sea desde el sitio web o aplicación de Gitbook, o con cualquier herramienta que desee. El contenido del manual se mantiene como [este repositorio de GitHub] (https://github.com/Open-Science- Training-Handbook).
+Agradecemos el recibir comentarios y retroalimentación de todos, independientemente de su experiencia o antecedentes. La forma más sencilla de hacerlo es dejar un comentario [aquí](https://book.fosteropenscience.eu/) marcando cualquier párrafo con el puntero del mouse y luego haciendo clic en el signo más que aparece al lado de ese párrafo. Además, puede crear solicitudes par ala incorporación o corrección de texto, ya sea desde el sitio web o aplicación de Gitbook, o con cualquier herramienta que desee. El contenido del manual se mantiene como [este repositorio de GitHub](https://github.com/Open-Science- Training-Handbook).
 
 ## Vamos a preparar juntos un evento de formación sobre la  Ciencia Abierta
 
-¿Está interesado en impartir o asistir a capacitaciones o seminarios web que hagan uso del Manual de capacitación de Open Science? Póngase en contacto con nosotros en [elearning@fosteropenscience.eu] (mailto: elearning@fosteropenscience.eu) - nos encantaría saber de usted.
+¿Está interesado en impartir o asistir a capacitaciones o seminarios web que hagan uso del Manual de capacitación de Open Science? Póngase en contacto con nosotros en elearning@fosteropenscience.eu - nos encantaría saber de usted.
 
 ## <img src="/Images/Icons/research_group.png" width="150" height="150" />
 
@@ -46,7 +46,7 @@ Obtenga más información sobre los autores y los facilitadores del sprint del l
 
 El Open Science Training Handbook es un recurso educativo abierto, y por lo tanto está disponible bajo la licencia [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). No tiene que pedir permiso para volver a utilizar y copiar la información de este manual. Tenga en cuenta que algunos de los materiales a los que se hace referencia en este libro pueden estar protegidos por derechos de autor, de ser así, esto se indicará en el texto.
 
-Hemos tratado de reconocer todas nuestras fuentes. Si por alguna razón nos hemos olvidado de proporcionarle los créditos adecuados, no se ha hecho con mala intención. No dude en contactar con nosotros en  [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) para cualquier corrección.
+Hemos tratado de reconocer todas nuestras fuentes. Si por alguna razón nos hemos olvidado de proporcionarle los créditos adecuados, no se ha hecho con mala intención. No dude en contactar con nosotros en  elearning@fosteropenscience.eu para cualquier corrección.
 
 ## Financiación
 
