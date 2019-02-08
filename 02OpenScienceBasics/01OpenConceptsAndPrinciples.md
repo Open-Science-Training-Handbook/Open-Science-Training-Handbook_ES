@@ -7,19 +7,19 @@ La Ciencia Abierta es la práctica de la ciencia de forma que otros puedan colab
 
 La Ciencia Abierta se refiere a un mayor rigor, responsabilidad y reproducibilidad para la investigación. Se basa en los principios de inclusión, imparcialidad, equidad y distribución, y en última instancia busca cambiar la forma en que se realiza la investigación, quién participa y cómo se valora. Su objetivo es hacer que la investigación sea más abierta a la participación, revisión, refutación, mejora y reutilización para que el mundo se beneficie.
 
-Hay varias definiciones de "apertura" con respecto a varios aspectos de la ciencia; el proyecto Open Definition (http://opendefinition.org/) la define así: "Los datos y el contenido abiertos pueden ser utilizados, modificados y compartidos libremente por cualquier persona para cualquier propósito". El Acceso Abierto abarca una variedad de prácticas, que generalmente incluyen áreas como acceso abierto a publicaciones, datos abiertos de investigación, software / herramientas de código abierto, flujos de trabajo abiertos, ciencia ciudadana, recursos educativos abiertos y métodos alternativos para la evaluación de la investigación, incluida la revisión por pares abierta. ([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
+Hay varias definiciones de "apertura" con respecto a varios aspectos de la ciencia; el proyecto [Open Definition](http://opendefinition.org/) la define así: "Los datos y el contenido abiertos pueden ser utilizados, modificados y compartidos libremente por cualquier persona para cualquier propósito". El Acceso Abierto abarca una variedad de prácticas, que generalmente incluyen áreas como acceso abierto a publicaciones, datos abiertos de investigación, software / herramientas de código abierto, flujos de trabajo abiertos, ciencia ciudadana, recursos educativos abiertos y métodos alternativos para la evaluación de la investigación, incluida la revisión por pares abierta. ([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
 
-Fecher & Friesike \ ([2013] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036) \) analizan los objetivos y supuestos que subyacen en el impulso para implementar estas prácticas. En la literatura encontramos cinco grandes concepciones, o "escuelas de pensamiento" que son:
+Fecher & Friesike \ ([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036) \) analizan los objetivos y supuestos que subyacen en el impulso para implementar estas prácticas. En la literatura encontramos cinco grandes concepciones, o "escuelas de pensamiento" que son:
 
-* ** Escuela democrática: ** Al creer que existe una distribución desigual del acceso al conocimiento, esta  escuela  se preocupa por hacer que el conocimiento académico (incluyendo publicaciones y datos) esté disponible gratuitamente para todos.
+* **Escuela democrática:** Al creer que existe una distribución desigual del acceso al conocimiento, esta  escuela  se preocupa por hacer que el conocimiento académico (incluyendo publicaciones y datos) esté disponible gratuitamente para todos.
 
-* ** Escuela pragmática: ** Siguiendo el principio de que la creación de conocimiento es hace más eficiente a través de la colaboración y se fortalece a través de la crítica, esta escuela busca aprovechar los efectos de la red al conectar a los académicos y hacer que los métodos académicos sean transparentes.
+* **Escuela pragmática:** Siguiendo el principio de que la creación de conocimiento es hace más eficiente a través de la colaboración y se fortalece a través de la crítica, esta escuela busca aprovechar los efectos de la red al conectar a los académicos y hacer que los métodos académicos sean transparentes.
 
-* ** Escuela de infraestructura: ** Esta concepción viene apoyada por el hecho de que una investigación eficiente requiere plataformas, herramientas y servicios fácilmente disponibles para la difusión y la colaboración.
+* **Escuela de infraestructura:** Esta concepción viene apoyada por el hecho de que una investigación eficiente requiere plataformas, herramientas y servicios fácilmente disponibles para la difusión y la colaboración.
 
-* ** Escuela pública: ** Basado en el reconocimiento de que el verdadero impacto social requiere un compromiso social en la investigación y una comunicación de resultados científicos fácilmente comprensible, esta escuela busca atraer al público a colaborar en la investigación a través de la ciencia ciudadana, y hacer que los estudios sean más fáciles de entender A través de resúmenes laicos, blogs y otros métodos comunicativos menos formales.
+* **Escuela pública:** Basado en el reconocimiento de que el verdadero impacto social requiere un compromiso social en la investigación y una comunicación de resultados científicos fácilmente comprensible, esta escuela busca atraer al público a colaborar en la investigación a través de la ciencia ciudadana, y hacer que los estudios sean más fáciles de entender A través de resúmenes laicos, blogs y otros métodos comunicativos menos formales.
 
-* ** Escuela de la métrica: ** Basado en el reconocimiento de que las métricas tradicionales para medir el impacto científico han demostrado ser problemáticas (al centrarse demasiado en las publicaciones, a menudo solo a nivel de revista, por ejemplo), este capítulo busca "métricas alternativas"que pueden hacer uso de las nuevas posibilidades de las herramientas digitalizadas en red para rastrear y medir el impacto de la beca a través de actividades antes invisibles.
+* **Escuela de la métrica:** Basado en el reconocimiento de que las métricas tradicionales para medir el impacto científico han demostrado ser problemáticas (al centrarse demasiado en las publicaciones, a menudo solo a nivel de revista, por ejemplo), este capítulo busca "métricas alternativas"que pueden hacer uso de las nuevas posibilidades de las herramientas digitalizadas en red para rastrear y medir el impacto de la beca a través de actividades antes invisibles.
 
 ### Justificación
 
@@ -62,7 +62,7 @@ La Ciencia Abierta, como se definió anteriormente, abarca una gran cantidad de 
 
 * Diferencias y puntos en común dentro de las prácticas, los principios y las comunidades de Open Science.
 
-  * En general, se acepta que la Ciencia Abierta conlleva un mayor impacto asociado con un uso y una reutilización más amplios \ (por ejemplo, la llamada "[ventaja de citas de acceso abierto] (https://sparceurope.org/what-we-do/ open-access / sparc-europe-open-access-resources / open-access-citation-advantage-service-oaca / oaca-list /) "\).
+  * En general, se acepta que la Ciencia Abierta conlleva un mayor impacto asociado con un uso y una reutilización más amplios \ (por ejemplo, la llamada "[ventaja de citas de acceso abierto](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list /) "\).
 
   * La Ciencia Abierta podría aumentar la confianza en la ciencia y en la fiabilidad de los resultados científicos.
 
