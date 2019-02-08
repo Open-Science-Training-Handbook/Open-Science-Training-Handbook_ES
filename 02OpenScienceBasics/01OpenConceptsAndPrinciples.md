@@ -62,7 +62,7 @@ La Ciencia Abierta, como se definió anteriormente, abarca una gran cantidad de 
 
 * Diferencias y puntos en común dentro de las prácticas, los principios y las comunidades de Open Science.
 
-  * En general, se acepta que la Ciencia Abierta conlleva un mayor impacto asociado con un uso y una reutilización más amplios \ (por ejemplo, la llamada [ventaja de citas de acceso abierto](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list)).
+  * En general, se acepta que la Ciencia Abierta conlleva un mayor impacto asociado con un uso y una reutilización más amplios (por ejemplo, la llamada [ventaja de citas de acceso abierto](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list)).
 
   * La Ciencia Abierta podría aumentar la confianza en la ciencia y en la fiabilidad de los resultados científicos.
 
