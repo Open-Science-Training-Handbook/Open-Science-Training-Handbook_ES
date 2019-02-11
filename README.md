@@ -9,7 +9,7 @@ El Manual se enfoca en apoyar a los educadores de Ciencia Abierta reuniendo mét
 
 ## Ayúdanos a mejorar el manual
 
-Agradecemos el recibir comentarios y retroalimentación de todos, independientemente de su experiencia o antecedentes. La forma más sencilla de hacerlo es dejar un comentario [aquí](https://book.fosteropenscience.eu/) marcando cualquier párrafo con el puntero del mouse y luego haciendo clic en el signo más que aparece al lado de ese párrafo. Además, puede crear solicitudes par ala incorporación o corrección de texto, ya sea desde el sitio web o aplicación de Gitbook, o con cualquier herramienta que desee. El contenido del manual se mantiene como [este repositorio de GitHub](https://github.com/Open-Science-Training-Handbook).
+Agradecemos el recibir comentarios y retroalimentación de todos, independientemente de su experiencia o antecedentes. La forma más sencilla de hacerlo es dejar un comentario [aquí](https://book.fosteropenscience.eu/) marcando cualquier párrafo con el puntero del mouse y luego haciendo clic en el signo más que aparece al lado de ese párrafo. Además, puede crear solicitudes par ala incorporación o corrección de texto, ya sea desde el sitio web o aplicación de Gitbook, o con cualquier herramienta que desee. El contenido del manual se mantiene como [este repositorio de GitHub](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES).
 
 ## Vamos a preparar juntos un evento de formación sobre la  Ciencia Abierta
 
