@@ -1,6 +1,94 @@
 ## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
 # Acerca de los autores, facilitadores y traductores de la versión al español
 
+## Acerca de los traductores de la versión al español
+
+### Paloma Bougeois Garrido -  [pbg.034@gmail.com](mailto:pbg.034@gmail.com)
+
+* Licenciada en Literatura y Filosofía - Universidad Iberoamericana Puebla (México)
+
+Editora de la revista Salud Pública de México, donde se dedica a la corrección de estilo, en especial a la edición en digital de la Revista. Asimismo, monitorea los indicadores de Factor de Impacto (FI) y diversas métricas de SCOPUS, SCImago, Google Scholar. Participa y promueve a través de su trabajo el movimiento de acceso abierto para incrementar la visibilidad de las publicaciones a través de la correcta utilización de metadatos; y facilitar la citación dentro de los gestores de referencias y repositorios, para finalmente hacer que la literatura científica esté disponible en línea y sin barreras para todos.
+
+### Benito Castro Pérez – bibliobenito@gmail.com [bibliobenito@gmail.com](mailto:bibliobenito@gmail.com)
+
+* Licenciado en Biblioteconomía - Escuela Nacional de Biblioteconomía y Archivonomía de México.
+
+Trabaja en la Revista Latinoamericana de Investigación en Matemática Educativa (RELIME) lo que lo vincula al mundo de las publicaciones científicas y la comunicación de la ciencia. Se dedica a la Alfabetización Informacional de estudiantes de educación media superior, fomentando el uso de herramientas de acceso abierto y el uso ético de la información.
+
+### Lourdes Feria Basurto - lourdesferia@hotmail.com [lourdesferia@hotmail.com](mailto:lourdesferia@hotmail.com)
+
+* Licenciada en Bibliotecología –Universidad Nacional Autónoma de México.  Maestra en Educación por la Universidad de Colima de México. Doctora –Cum laude- en Ciencias de la Documentación - Universidad Complutense de Madrid, España.
+
+Consultora internacional en Gestión de Conocimiento, e-Learning y Bibliotecología. Actualmente es docente en el Posgrado en Bibliotecología y Ciencias de la Información en la Universidad Nacional Autónoma de México.
+
+### Alicia Fátima Gómez Sánchez – [aliciaf.gomez@yahoo.com](mailto:aliciaf.gomez@yahoo.com)
+
+* University of Hertfordshire, Reino Unido
+* [aliciaf.gomez@yahoo.com](mailto:aliciaf.gomez@yahoo.com)
+* [@fagomsan](https://twitter.com/fagomsan)
+* [0000-0003-4898-1680](https://orcid.org/0000-0003-4898-1680)
+
+Doctora en Lingüística por la Universidad el País Vasco y Master en Bibliotecas Digitales por la Universidad Carlos III de Madrid. Tiene amplia experiencia en diversos aspectos relacionados con la comunicación académica, la gestión y evaluación de la investigación, y la ciencia abierta. En la actualidad trabaja como Research & Scholarly Communications Information Manager en la Universidad de Hertfordshire (Reino Unido) donde entre otras tareas se encarga de asesorar en materia de acceso abierto y gestión de datos de investigación. En su puesto anterior en España gestionó la puesta en marcha del servicio de asesoramiento en acceso abierto, y participó en el diseño y desarrollo del repositorio institucional. Es docente en cursos de grado y posgrado.
+
+### Ricardo Hartley - aufschieben@icloud.com [aufschieben@icloud.com](mailto:aufschieben@icloud.com)
+* Doctor en Biología Molecular Aplicada y Magíster en Ciencias Biológicas, Universidad de La Frontera. Magíster en Biología Celular y del Desarrollo, Universidad de Tarapacá. Tecnólogo Médico, Universidad de Chile.
+
+Actualmente trabaja en la Universidad Central como Coordinador Ejecutivo de I3S. Participa activamente en diversas iniciativas de acceso abierto y ciencia abierta a nivel regional e internacional; y colabora con diversos en la difusión y capacitación sobre sus conceptos y principios.
+
+### Ivonne Lujano- ivonne@doaj.org [ivonne@doaj.org](mailto:ivonne@doaj.org)
+
+* Embajadora de DOAJ en América Latina. Tiene una Maestría en Ciencias Sociales por FLACSO Argentina, así como las licenciaturas en Educación por la Universidad Autónoma del Estado de México. Es profesora en la Universidad Autónoma del Estado de México, Facultad de Ciencias de la Conducta.
+
+Ha trabajado con algunas iniciativas de comunicación académica a nivel regional e internacional como Force11, Latindex, Redalyc, SciELO y SPARC desarrollando proyectos sobre las mejores prácticas en la publicación de revistas de acceso abierto. Ivonne escribe sobre temas relacionados con la comunicación académica, el acceso abierto, las políticas científicas y de investigación y la educación superior. Tiene experiencia en la impartición de cursos sobre comunicación académica y uso de la información científica para estudiantes de posgrado, docentes, bibliotecario/as e investigadore/as.
+
+### Paula Martínez Lavanchy
+
+
+* Reasearch Data Officer - Biblioteca Universidad Técnica de Delft, Holanda (en transición)
+* [paml@dtu.dk](mailto:p.m.martinezlavanchy@tudelft.nl)
+* [@paulammartinez2](https://twitter.com/paulammartinez2)
+* [0000-0002-6595-0969](https://orcid.org/0000-0002-6595-0969)
+
+Biotecnóloga y doctora en Microbiología. Ha trabajado en los últimos tres años desarrollando y coordinando servicios de asistencia en gestión de datos de investigación en la Universidad Técnica de Dianamarca; y pronta a comenzar un nuevo desafío en la Biblioteca de la Universidad Técnica de Delft. Su acercamiento a la Ciencia Abierta ha sido a través del acceso abierto a datos de investigación y su promoción entre los investigadores de la Universidad. Este primer acercamiento le hizo adquirir interés en aprender acerca de las otras áreas de la Ciencia Abierta. Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
+
+
+## Equipo de Revisores
+
+### Nicolás Alessandroni
+
+* Departamento Interfacultativo de Psicología Evolutiva y de la Educación, Facultad de Psicología, Universidad Autónoma de Madrid (UAM), España.
+* [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
+* [@nalessandroni](https://twitter.com/nalessandroni)
+* [0000-0002-6595-0969](https://orcid.org/0000-0002-6595-0969)
+
+Es Magister en Psicología Cognitiva y Aprendizaje (UAM) y Profesor en Psicología (UNLP, Argentina). Trabaja en la Facultad de Psicología (UAM) con un contrato FPU del Ministerio de Educación de España para realizar la investigación “_El desarrollo de los primeros conceptos de objeto en la Escuela Infantil 0-1_”. Tiene experiencia en la traducción inglés-español de textos académicos y en la edición académica tanto de libros y documentos de trabajo como de revistas científicas de Acceso Abierto (i.e. [Revista de Psicología UNLP](https://revistas.unlp.edu.ar/revpsi); [Epistemus, Revista de Estudios en Música, Cognición y Cultura](https://revistas.unlp.edu.ar/Epistemus)). Recientemente ha sido ganador de la _OpenUP Blog Competition for Early Career Researchers and Students_ por su ensayo breve [_Open Science, bureaucratisation and learning curves: some practical ideas_](https://www.openuphub.eu/community/blog/item/open-science-bureaucratisation-and-learning-curves-some-practical-ideas). Anteriormente, en Argentina, ha sido investigador de la UNLP y del CONICET en diferentes institutos y laboratorios (IIF-SADAF, LIPPSI-UNLP, y LEEM-UNLP).
+
+### Rosario Rogel – [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx)
+
+* Universidad Autónoma del Estado de México, México
+* [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx )
+* [@rosariorogel](https://twitter.com/rosariorogel)
+* [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)
+
+
+* Socióloga, doctora en Ciencias Sociales, especialista en teoría social de sistemas, procesos editoriales científicos, acceso abierto y comunicación científica temas acerca de los cuales cuenta con diversas publicaciones en libros y revistas especializadas. Profesora de la Facultad de Ciencias Políticas y Sociales en la Universidad Autónoma del Estado de México e Investigadora visitante en la Dirección General de Cómputo y de Tecnologías de Información y Comunicación UNAM.
+
+Directora y fundadora de diversas revistas de científicas. Participa como integrante del comité editorial de muchas otras, tanto en México como en el extranjero. Posee experiencia en temas de acceso abierto, tanto desde la investigación como de la promoción de iniciativas legislativas en su país.
+
+### Claudia Vilches – [claudia.vilches@cepal.org](mailto:claudia.vilches@cepal.org)
+Coordinadora del equipo de traductores 
+
+* Licenciada en Bibliotecología y Documentación – Universidad Tecnológica Metropolitana, Santiago Chile. Diploma en Biblioteca Digitales – Pontificia Universidad Católica de Chile.
+
+Punto focal de asistencia a divisiones de investigación de la CEPAL relacionadas con los temas de gobierno abierto, economía digital y sociedad del conocimiento. Participa en el Proyecto LEARN (2015-2017) financiado por el programa de investigación e innovación Horizon 2020 de la Unión Europea, que promueve el desarrollo de políticas a nivel institucional sobre Gestión de Datos de Investigación (GDI). Co-autora de la guía “Gestión de Datos de Investigación” en el marco del mismo Proyecto y traductora de diverso material sobre GDI de The University of Edinburgh y Digital Curation Center (DCC), del Reino Unido. Colabora permanentemente en la promoción de eventos sobre GDI, acceso a la información y ciencia abierta.
+
+## Revisora externa de la traducción al español
+
+### Remedios Melero -  [rmelero@iata.csic.es](mailto:rmelero@iata.csic.es)
+
+* Doctora en Ciencias Químicas - Universidad de Valencia, España. Es investigadora en el Instituto de Agroquímica y Tecnología de Alimentos, del Consejo Superior de Investigaciones Científicas (CSIC) y editora de la revista científica “Food Science and International Technology”. Además, es editora del Directory of Open Access Journals (DOAJ) y miembro del comité científico de Redalyc y de Scielo España. Coordinadora del grupo de trabajo español de Acceso Abierto a la Ciencia que en la actualidad trabaja en un proyecto nacional relacionado con los datos de investigación y la ciencia abierta. Es miembro de la red temática MAREDATA, y socia en el proyecto FOSTER+ (Facilitate Open Science Training for European Research) para la promoción de las políticas europeas en  materia de ciencia abierta y la formación en temas afines.
+
+
 ## Autores del manual
 
 ### Sonja Bezjak
@@ -219,90 +307,3 @@ Soy bibliotecario de formación y trabajo como especialista en el área de de la
 
 Al impartir talleres \(por ejemplo, un taller de medio día para estudiantes de doctorado y postdoctorado de Leibniz Research Association en Alemania en 2017, sobre el tema del perfil académico y los servicios de redacción colaborativa\), siempre es un placer aprovechar la curiosidad de los alumnos. Incluso el estudiante más ocupado tiene experiencias, preguntas e imagina cómo las cosas podrían funcionar mejor para ellos. ¡Me encanta hacer uso de esta energía positiva! Y hace que sea mucho más fácil para un instructor dirigir una sesión de capacitación.
 
-
-## Acerca de los traductores de la versión al español
-
-### Paloma Bougeois Garrido -  [pbg.034@gmail.com](mailto:pbg.034@gmail.com)
-
-* Licenciada en Literatura y Filosofía - Universidad Iberoamericana Puebla (México)
-
-Editora de la revista Salud Pública de México, donde se dedica a la corrección de estilo, en especial a la edición en digital de la Revista. Asimismo, monitorea los indicadores de Factor de Impacto (FI) y diversas métricas de SCOPUS, SCImago, Google Scholar. Participa y promueve a través de su trabajo el movimiento de acceso abierto para incrementar la visibilidad de las publicaciones a través de la correcta utilización de metadatos; y facilitar la citación dentro de los gestores de referencias y repositorios, para finalmente hacer que la literatura científica esté disponible en línea y sin barreras para todos.
-
-### Benito Castro Pérez – bibliobenito@gmail.com [bibliobenito@gmail.com](mailto:bibliobenito@gmail.com)
-
-* Licenciado en Biblioteconomía - Escuela Nacional de Biblioteconomía y Archivonomía de México.
-
-Trabaja en la Revista Latinoamericana de Investigación en Matemática Educativa (RELIME) lo que lo vincula al mundo de las publicaciones científicas y la comunicación de la ciencia. Se dedica a la Alfabetización Informacional de estudiantes de educación media superior, fomentando el uso de herramientas de acceso abierto y el uso ético de la información.
-
-### Lourdes Feria Basurto - lourdesferia@hotmail.com [lourdesferia@hotmail.com](mailto:lourdesferia@hotmail.com)
-
-* Licenciada en Bibliotecología –Universidad Nacional Autónoma de México.  Maestra en Educación por la Universidad de Colima de México. Doctora –Cum laude- en Ciencias de la Documentación - Universidad Complutense de Madrid, España.
-
-Consultora internacional en Gestión de Conocimiento, e-Learning y Bibliotecología. Actualmente es docente en el Posgrado en Bibliotecología y Ciencias de la Información en la Universidad Nacional Autónoma de México.
-
-### Alicia Fátima Gómez Sánchez – [aliciaf.gomez@yahoo.com](mailto:aliciaf.gomez@yahoo.com)
-
-* University of Hertfordshire, Reino Unido
-* [aliciaf.gomez@yahoo.com](mailto:aliciaf.gomez@yahoo.com)
-* [@fagomsan](https://twitter.com/fagomsan)
-* [0000-0003-4898-1680](https://orcid.org/0000-0003-4898-1680)
-
-Doctora en Lingüística por la Universidad el País Vasco y Master en Bibliotecas Digitales por la Universidad Carlos III de Madrid. Tiene amplia experiencia en diversos aspectos relacionados con la comunicación académica, la gestión y evaluación de la investigación, y la ciencia abierta. En la actualidad trabaja como Research & Scholarly Communications Information Manager en la Universidad de Hertfordshire (Reino Unido) donde entre otras tareas se encarga de asesorar en materia de acceso abierto y gestión de datos de investigación. En su puesto anterior en España gestionó la puesta en marcha del servicio de asesoramiento en acceso abierto, y participó en el diseño y desarrollo del repositorio institucional. Es docente en cursos de grado y posgrado.
-
-### Ricardo Hartley - aufschieben@icloud.com [aufschieben@icloud.com](mailto:aufschieben@icloud.com)
-* Doctor en Biología Molecular Aplicada y Magíster en Ciencias Biológicas, Universidad de La Frontera. Magíster en Biología Celular y del Desarrollo, Universidad de Tarapacá. Tecnólogo Médico, Universidad de Chile.
-
-Actualmente trabaja en la Universidad Central como Coordinador Ejecutivo de I3S. Participa activamente en diversas iniciativas de acceso abierto y ciencia abierta a nivel regional e internacional; y colabora con diversos en la difusión y capacitación sobre sus conceptos y principios.
-
-### Ivonne Lujano- ivonne@doaj.org [ivonne@doaj.org](mailto:ivonne@doaj.org)
-
-* Embajadora de DOAJ en América Latina. Tiene una Maestría en Ciencias Sociales por FLACSO Argentina, así como las licenciaturas en Educación por la Universidad Autónoma del Estado de México. Es profesora en la Universidad Autónoma del Estado de México, Facultad de Ciencias de la Conducta.
-
-Ha trabajado con algunas iniciativas de comunicación académica a nivel regional e internacional como Force11, Latindex, Redalyc, SciELO y SPARC desarrollando proyectos sobre las mejores prácticas en la publicación de revistas de acceso abierto. Ivonne escribe sobre temas relacionados con la comunicación académica, el acceso abierto, las políticas científicas y de investigación y la educación superior. Tiene experiencia en la impartición de cursos sobre comunicación académica y uso de la información científica para estudiantes de posgrado, docentes, bibliotecario/as e investigadore/as.
-
-### Paula Martínez Lavanchy
-
-
-* Reasearch Data Officer - Biblioteca Universidad Técnica de Delft, Holanda (en transición)
-* [paml@dtu.dk](mailto:p.m.martinezlavanchy@tudelft.nl)
-* [@paulammartinez2](https://twitter.com/paulammartinez2)
-* [0000-0002-6595-0969](https://orcid.org/0000-0002-6595-0969)
-
-Biotecnóloga y doctora en Microbiología. Ha trabajado en los últimos tres años desarrollando y coordinando servicios de asistencia en gestión de datos de investigación en la Universidad Técnica de Dianamarca; y pronta a comenzar un nuevo desafío en la Biblioteca de la Universidad Técnica de Delft. Su acercamiento a la Ciencia Abierta ha sido a través del acceso abierto a datos de investigación y su promoción entre los investigadores de la Universidad. Este primer acercamiento le hizo adquirir interés en aprender acerca de las otras áreas de la Ciencia Abierta. Coautora de Libro Data Management in Practice http://ebooks.au.dk/index.php/aul/catalog/book/243
-
-
-## Equipo de Revisores
-
-### Nicolás Alessandroni
-
-* Departamento Interfacultativo de Psicología Evolutiva y de la Educación, Facultad de Psicología, Universidad Autónoma de Madrid (UAM), España.
-* [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
-* [@nalessandroni](https://twitter.com/nalessandroni)
-* [0000-0002-6595-0969](https://orcid.org/0000-0002-6595-0969)
-
-Es Magister en Psicología Cognitiva y Aprendizaje (UAM) y Profesor en Psicología (UNLP, Argentina). Trabaja en la Facultad de Psicología (UAM) con un contrato FPU del Ministerio de Educación de España para realizar la investigación “_El desarrollo de los primeros conceptos de objeto en la Escuela Infantil 0-1_”. Tiene experiencia en la traducción inglés-español de textos académicos y en la edición académica tanto de libros y documentos de trabajo como de revistas científicas de Acceso Abierto (i.e. [Revista de Psicología UNLP](https://revistas.unlp.edu.ar/revpsi); [Epistemus, Revista de Estudios en Música, Cognición y Cultura](https://revistas.unlp.edu.ar/Epistemus)). Recientemente ha sido ganador de la _OpenUP Blog Competition for Early Career Researchers and Students_ por su ensayo breve [_Open Science, bureaucratisation and learning curves: some practical ideas_](https://www.openuphub.eu/community/blog/item/open-science-bureaucratisation-and-learning-curves-some-practical-ideas). Anteriormente, en Argentina, ha sido investigador de la UNLP y del CONICET en diferentes institutos y laboratorios (IIF-SADAF, LIPPSI-UNLP, y LEEM-UNLP).
-
-### Rosario Rogel – [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx)
-
-* Universidad Autónoma del Estado de México, México
-* [rrogels@uaemex.mx](mailto:rrogels@uaemex.mx )
-* [@rosariorogel](https://twitter.com/rosariorogel)
-* [0000-0002-6018-0635](https://orcid.org/0000-0002-6018-0635)
-
-
-* Socióloga, doctora en Ciencias Sociales, especialista en teoría social de sistemas, procesos editoriales científicos, acceso abierto y comunicación científica temas acerca de los cuales cuenta con diversas publicaciones en libros y revistas especializadas. Profesora de la Facultad de Ciencias Políticas y Sociales en la Universidad Autónoma del Estado de México e Investigadora visitante en la Dirección General de Cómputo y de Tecnologías de Información y Comunicación UNAM.
-
-Directora y fundadora de diversas revistas de científicas. Participa como integrante del comité editorial de muchas otras, tanto en México como en el extranjero. Posee experiencia en temas de acceso abierto, tanto desde la investigación como de la promoción de iniciativas legislativas en su país.
-
-### Claudia Vilches – [claudia.vilches@cepal.org](mailto:claudia.vilches@cepal.org)
-Coordinadora del equipo de traductores 
-
-* Licenciada en Bibliotecología y Documentación – Universidad Tecnológica Metropolitana, Santiago Chile. Diploma en Biblioteca Digitales – Pontificia Universidad Católica de Chile.
-
-Punto focal de asistencia a divisiones de investigación de la CEPAL relacionadas con los temas de gobierno abierto, economía digital y sociedad del conocimiento. Participa en el Proyecto LEARN (2015-2017) financiado por el programa de investigación e innovación Horizon 2020 de la Unión Europea, que promueve el desarrollo de políticas a nivel institucional sobre Gestión de Datos de Investigación (GDI). Co-autora de la guía “Gestión de Datos de Investigación” en el marco del mismo Proyecto y traductora de diverso material sobre GDI de The University of Edinburgh y Digital Curation Center (DCC), del Reino Unido. Colabora permanentemente en la promoción de eventos sobre GDI, acceso a la información y ciencia abierta.
-
-## Revisora externa de la traducción al español
-
-### Remedios Melero -  [rmelero@iata.csic.es](mailto:rmelero@iata.csic.es)
-
-* Doctora en Ciencias Químicas - Universidad de Valencia, España. Es investigadora en el Instituto de Agroquímica y Tecnología de Alimentos, del Consejo Superior de Investigaciones Científicas (CSIC) y editora de la revista científica “Food Science and International Technology”. Además, es editora del Directory of Open Access Journals (DOAJ) y miembro del comité científico de Redalyc y de Scielo España. Coordinadora del grupo de trabajo español de Acceso Abierto a la Ciencia que en la actualidad trabaja en un proyecto nacional relacionado con los datos de investigación y la ciencia abierta. Es miembro de la red temática MAREDATA, y socia en el proyecto FOSTER+ (Facilitate Open Science Training for European Research) para la promoción de las políticas europeas en  materia de ciencia abierta y la formación en temas afines.
