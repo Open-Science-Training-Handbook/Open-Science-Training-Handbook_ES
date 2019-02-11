@@ -23,7 +23,7 @@ Considere citar el manual cuando use el contenido. Para citar el libro, le recom
 
 * https://book.fosteropenscience.eu/, que es la manera más amigable de leer el libro (también disponible como [PDF](https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book), [ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book) y [Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)), para comentar y sugerir cambios, o 
 
-* https://doi.org/10.5281/zenodo.1212496, que es un DOI citable que se refiere a un (apenas comprensible) tiradero archivado del libro.
+* https://doi.org/10.5281/zenodo.1212496, que es el DOI del archivo depositado en Zenodo (algo menos comprensible) y que puede utilizarse para su cita 
 
 ## Los autores y facilitadores del Book Sprint
 
