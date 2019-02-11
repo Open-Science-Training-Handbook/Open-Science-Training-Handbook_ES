@@ -148,7 +148,7 @@ A: Además del número significativo de servicios gratuitos y disponibles en lí
 
 Q: "Las terminologías que describen la reproducibilidad son desafiantes."
 
-A: Consulta el artículo de Lorena Barba ( https://arxiv.org/abs/1802.03311(2018\) para una discusión sobre la terminología que describe la reproducibilidad y la replicabilidad.
+A: Consulta el artículo de Lorena Barba [(2018)](https://arxiv.org/abs/1802.03311) para una discusión sobre la terminología que describe la reproducibilidad y la replicabilidad.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Resultados del aprendizaje
