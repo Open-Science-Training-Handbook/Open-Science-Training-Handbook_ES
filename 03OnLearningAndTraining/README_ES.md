@@ -511,14 +511,14 @@ Se pueden aplicar ejercicios similares para capacitar a diferentes audiencias, p
 
 **Acerca de la Taxonomía de Bloom:**
 
-* [pearsoened.com/using-blooms-taxonomy-to-write-learning-outcomes/](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
+* [pearsoened.com/using-blooms-taxonomy-to-write-learning-outcomes](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
 * [clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
 **Recursos/ejercicios para romper el hielo**
 
-* [mindtools.com/pages/article/newLDR\_76.htm](https://www.mindtools.com/pages/article/newLDR_76.htm)
-* [documents.manchester.ac.uk/display.aspx?DocID=7582](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
-* [thebalance.com/top-ice-breakers-1918426](https://www.thebalance.com/top-ice-breakers-1918426)
+* [mindtools.com](https://www.mindtools.com/pages/article/newLDR_76.htm)
+* [documents.manchester.ac.uk](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
+* [thebalance.com](https://www.thebalance.com/top-ice-breakers-1918426)
 
 **Bibliografía**
 
