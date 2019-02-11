@@ -86,7 +86,7 @@ A: Esto es incorrecto; aunque parezca que está introduciendo herramientas y pla
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Lecturas adicionales
 
-* Open Science Framework. The promise of Open Science collaboration: [https://osf.io/vmrgu/wiki/home/](https://osf.io/vmrgu/wiki/home/)
+* Open Science Framework. The promise of Open Science collaboration: [osf.io/vmrgu/wiki/home/](https://osf.io/vmrgu/wiki/home/)
 
 * Alexander Voss, Rob Procter \(2009\) ["Virtual research environments in scholarly work and communications"](https://www.emeraldinsight.com/doi/abs/10.1108/07378830910968146), Library Hi Tech, Vol. 27 Issue: 2, pp.174-190: [doi.org/10.1108/07378830910968146](https://doi.org/10.1108/07378830910968146)
 
