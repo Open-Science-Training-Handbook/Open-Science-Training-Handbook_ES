@@ -98,7 +98,7 @@ Los objetivos pueden ser de corto o largo plazo. Las actividades de largo plazo 
 
 - Abogar por tus propios derechos como autor.
 
-- Sigue estos pasos básicos para conseguir cambio en la cultural local <http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html>.
+- Sigue estos pasos básicos para conseguir cambio en la cultural local [study.com/academy/lesson/kotters-8-step-change-model-of-management](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html).
 
 - Aboga por tus pares. Escribe cartas y artículos abogando por la apertura.
 
@@ -159,7 +159,7 @@ El capacitador será capaz de considerar el curso de capacitación en el context
 * [Starting Open Projects From Scratch](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) \(CC0, Crowdsourced by OpenCon attendees\)
 * SPARC adenda del autor - [advocate for your own rights as an author w/ a journal](https://sparcopen.org/our-work/author-rights/)
 * Bolick et al. artículo escrito en Journal of Wildlife Management
-  para refutar un articulo engañoso / que propagaba miedo acerca de AA: [https://kuscholarworks.ku.edu/handle/1808/22672](https://kuscholarworks.ku.edu/handle/1808/22672?utm_content=buffer40244&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  para refutar un articulo engañoso / que propagaba miedo acerca de AA: [kuscholarworks.ku.edu/handle/1808/22672](https://kuscholarworks.ku.edu/handle/1808/22672?utm_content=buffer40244&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * Quizá algunos de los artículos de Lingua/Glosa acerca de su separación de de Elsevier, y su activismo como editores en una organización editorial 
 * Otro ejemplo de una carta a una sociedad académica que pugna por el Acceso Abierto:  [Jackie Smith to the American Sociological Association](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html)  y [otro artículo](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons).
 * Webinar: eLife ECR, miércoles, Mayo 31, acerca de activismo en favor de la Ciencia Abierta (en breve el video estará disponible en Youtube), con la participación de Gary McDowell, Nick Shockey, Osman Aldirdiri, Corina Logan, Brianne Kent. Asesoría orientada a investigadores en formación.
