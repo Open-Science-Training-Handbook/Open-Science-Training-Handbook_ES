@@ -54,7 +54,7 @@ Transcrito de:
 
 [onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/)
 
-El trabajo realizado por [Software Carpentry](https://carpentries.github.io/instructor-training/01-welcome/index.html) también ayuda a comprender los procesos de aprendizaje: [carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
+El trabajo realizado por [Software Carpentry](https://carpentries.github.io/instructor-training/01-welcome/index.html) también ayuda a comprender los procesos de aprendizaje: [carpentries.github.io/instructor-training](https://carpentries.github.io/instructor-training/)
 
 ### El Marco Curricular Conectado (Connected Curriculum Framework)
 
