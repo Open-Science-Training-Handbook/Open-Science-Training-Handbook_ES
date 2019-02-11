@@ -52,13 +52,13 @@ Este diagrama simplificado resume sus principales características en términos 
 
 Transcrito de:
 
-[https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/)
+[onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/)
 
-El trabajo realizado por [Software Carpentry](https://carpentries.github.io/instructor-training/01-welcome/index.html) también ayuda a comprender los procesos de aprendizaje: [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
+El trabajo realizado por [Software Carpentry](https://carpentries.github.io/instructor-training/01-welcome/index.html) también ayuda a comprender los procesos de aprendizaje: [carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
 
 ### El Marco Curricular Conectado (Connected Curriculum Framework)
 
-El reciente movimiento llamado "Connected Curriculum Framework" tiene como meta modernizar los enfoques de aprendizaje y adaptarlos al estudiante del siglo XXI. El objetivo general del Framework es mejorar las relaciones entre la educación de los estudiantes y las prácticas de investigación eliminando  divisiones innecesarias. El Framework valora el diálogo enriquecedor, la investigación activa, la colaboración y las interacciones tanto entre estudiantes e investigadores como entre las universidades y otras comunidades más amplias. Esto resulta prometedor para las áreas de la Ciencia Abierta y la Ciencia Ciudadana, la Colaboración Masiva, etc. Para mas información sobre el "Connected Curriculum Framework" puedes consultar la siguiente fuente: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
+El reciente movimiento llamado "Connected Curriculum Framework" tiene como meta modernizar los enfoques de aprendizaje y adaptarlos al estudiante del siglo XXI. El objetivo general del Framework es mejorar las relaciones entre la educación de los estudiantes y las prácticas de investigación eliminando  divisiones innecesarias. El Framework valora el diálogo enriquecedor, la investigación activa, la colaboración y las interacciones tanto entre estudiantes e investigadores como entre las universidades y otras comunidades más amplias. Esto resulta prometedor para las áreas de la Ciencia Abierta y la Ciencia Ciudadana, la Colaboración Masiva, etc. Para mas información sobre el "Connected Curriculum Framework" puedes consultar la siguiente fuente: [ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
 ### ¿Es esto relevante para ti?
 
