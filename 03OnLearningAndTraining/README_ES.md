@@ -182,7 +182,7 @@ Los resultados del aprendizaje son a menudo el medio más específico para estab
 
 Especificar los resultados forma parte de la gestión de la capacitación como proceso cognitivo. En 1956, Benjamin Bloom creó una taxonomía de niveles cognitivos que ha sido modificada a través del tiempo. Se trata de una herramienta muy útil para construir resultados de aprendizaje consistentes y reutilizables en cualquier área temática. Las transiciones entre niveles cognitivos no contiguos no es, generalmente, aceptable. La taxonomía ayuda a detectar situaciones potencialmente difíciles en las que la evaluación puede fallar porque el nivel cognitivo empleado en la enseñanza no es el mismo que el nivel cognitivo empleado durante la evaluación.## <img src="/Images/03 On Learning and Training/03_bloom_s_taxonomy.png" width="300" height="300" />
 
-Una versión actual \(desde 2001\) puede encontrarse, también, aquí: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
+Una versión actual \(desde 2001\) puede encontrarse, también, aquí: [thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
 
 La Taxonomía de Bloom es un método de clasificación con seis niveles. El esfuerzo de usar la Taxonomía de Bloom vale la pena porque representa un paso significativo hacia el deseo de construir una capacitación y una enseñanza robustas. Junto con la Taxonomía de Bloom puedes encontrar varios tipos de ayudas para el diseño tales como terminologías comentadas y verbos para usar o evitar durante la planificación del curso y la formulación de pregunteas para la evaluación, etc.
 
@@ -222,9 +222,9 @@ Aquí un intento de aclarar esta situación y eliminar ambigüedades:
 
 * Los resultados son indicadores claros y medibles para guiar los procesos de enseñanza, aprendizaje y evaluación en el curso.
 
-\(Adaptado de[ http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
+\(Adaptado de [provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
 
-Para objetivos de aprendizaje de Ciencia Abierta, mira este documento de FOSTER:[https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(páginas 13 y 14\)
+Para objetivos de aprendizaje de Ciencia Abierta, mira este documento de FOSTER:[doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(páginas 13 y 14\)
 
 **Ejemplo de un objetivo de capacitación:**
 
@@ -240,7 +240,7 @@ Para objetivos de aprendizaje de Ciencia Abierta, mira este documento de FOSTER:
 
 Uno de los componentes clave en un evento de capacitación es asegurarse de que la falta de confianza que los participantes puedan tener cuando se les introduce a un nuevo campo \(Ciencia Abierta, en este caso\) no los desanime a seguir adelante. Incluso si algunos participantes están familiarizados con los conceptos presentados en el evento de capacitación, es importante reconocer cuándo las personas empiezan a confundirse. Reconocer que sus equivocaciones son válidas es clave para alentar una mentalidad de crecimiento y motivarlos a aceptar y apoyar las prácticas de Ciencia Abierta.
 
-A través del evento de capcitación pueden emplearse varias estrategias para motivar a los participantes. \(Tomado de Carpentry Instructor Training, [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
+A través del evento de capcitación pueden emplearse varias estrategias para motivar a los participantes. \(Tomado de Carpentry Instructor Training, [carpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
 
 * **Estrategias para establecer el valor de la capacitación**
 
@@ -268,7 +268,7 @@ A través del evento de capcitación pueden emplearse varias estrategias para mo
 
 ## Guía práctica
 
-Encontrarás más información sobre la planificación y la ejecución concretas de una capacitación sobre Ciencia Abierta en los capítulos sobre los [Aspectos Organizacionales](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit) y los  [Ejemplos y Guías Prácticas](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit).
+Encontrarás más información sobre la planificación y la ejecución concretas de una capacitación sobre Ciencia Abierta en los capítulos sobre los [Aspectos Organizacionales](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES/tree/master/04OrganizationalAspects) y los  [Ejemplos y Guías Prácticas](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES/blob/master/05ExamplesAndPracticalGuidance/05ExamplesAndPracticalGuidance_ES.md).
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
 
@@ -282,7 +282,7 @@ SMART es una técnica interesante para especificar metas u objetivos que tambié
 
 * Tu objetivo es **simple** si puede ser comprendido por una persona que no está familiarizada con el tema. Es decir que puedes explicar a tus alumnos, de antemano, qué es lo que van a aprender. Por lo general, es una buena idea presentar tu objetivo al comienzo de una lección. Simple significa que la meta se puede resumir en no más de una oración concisa.
 
-* Tu meta es **medible** si puedes determinar objetivamente si se ha alcanzado. La capacidad de medición evita objetivos imprecisos como "los estudiantes entienden la Ciencia Abierta" que es demasiado amplio y difícil de medir, ya que involucra muchos componentes distintos. En su lugar, utiliza verbos prácticos: identificar, dibujar, nombrar, explicar, calcular, etc. Los verbos de los buenos objetivos de enseñanza han sido categorizados por la taxonomía de dominios cognitivos de Bloom \([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). La medición te ayudará a ti y a tus estudiantes a evaluar o autoevaluar el progreso.
+* Tu meta es **medible** si puedes determinar objetivamente si se ha alcanzado. La capacidad de medición evita objetivos imprecisos como "los estudiantes entienden la Ciencia Abierta" que es demasiado amplio y difícil de medir, ya que involucra muchos componentes distintos. En su lugar, utiliza verbos prácticos: identificar, dibujar, nombrar, explicar, calcular, etc. Los verbos de los buenos objetivos de enseñanza han sido categorizados por la taxonomía de dominios cognitivos de Bloom \([clinton.edu/curriculumcommittee/listofmeasurableverbs](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). La medición te ayudará a ti y a tus estudiantes a evaluar o autoevaluar el progreso.
 
 * Tu objetivo es **ambicioso** si desafías a tus estudiantes. ¿Hay un beneficio claro para ellos? ¿Quieres que la lección amplíe su horizonte? ¿De qué manera esto les da una ventaja? Ser ambicioso significa tener una respuesta a la pregunta: ¿Qué aprenderán los estudiantes que no podrían aprender por otros medios? Si sientes el deseo de adoptar un posicionamiento y defender tu punto de vista, probablemente se trate de un objetivo ambicioso.
 
@@ -302,11 +302,11 @@ Usa el diseño de instrucción invertido, conocido como Diseño en Retrospectiva
 
 3. Elige el mejor formato y diseño de contenido para preparar a la audiencia para lo que tendrán que hacer durante la evaluación sumativa.
 
-4. Organiza el contenido en orden creciente de complejidad y luego proporciona el contenido y la motivación que necesitan para cerrar la brecha entre lo que saben y lo que necesitan saber para completar la evaluación sumativa. \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/)\)
+4. Organiza el contenido en orden creciente de complejidad y luego proporciona el contenido y la motivación que necesitan para cerrar la brecha entre lo que saben y lo que necesitan saber para completar la evaluación sumativa. \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons)\)
 
 El Diseño en Retrospectiva desafía los métodos "tradicionales" de planificación curricular. En la planificación del currículo tradicional, se crea y/o selecciona una lista de contenido que se enseñará. [\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) En el Diseño en Retrospectiva, el educador comienza con objetivos, crea o planifica [evaluaciones](https://en.wikipedia.org/wiki/Educational_assessment) y finalmente prepara [unidades didácticas](https://es.wikipedia.org/wiki/Unidad_did%C3%A1ctica). Los partidarios del Diseño en Retrospectiva asemejan el proceso con el uso de un "mapa de ruta". [\[5\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) En este caso, primero se elige el destino y luego el 'mapa de ruta' se utiliza para planificar el viaje al destino deseado. En contraste, en la planificación del currículo tradicional no hay un destino formal identificado antes de que comience el viaje.
 
-La idea en el Diseño en Retrospectiva es enseñar tendiendo hacia el "punto final" o los objetivos de aprendizaje, lo que generalmente garantiza que el contenido enseñado permanezca enfocado y organizado. Esto, a su vez, apunta a promover una mejor comprensión del contenido o los procesos a enseñar a los estudiantes. El capacitador puede concentrarse en lo que los estudiantes necesitan aprender, en los datos que se pueden recopilar para demostrar que los estudiantes han alcanzado los resultados deseados \(o [estándares de aprendizaje] (https://en.wikipedia.org/wiki/Learning_standards)\) y en cómo asegurar que los alumnos aprendan.
+La idea en el Diseño en Retrospectiva es enseñar tendiendo hacia el "punto final" o los objetivos de aprendizaje, lo que generalmente garantiza que el contenido enseñado permanezca enfocado y organizado. Esto, a su vez, apunta a promover una mejor comprensión del contenido o los procesos a enseñar a los estudiantes. El capacitador puede concentrarse en lo que los estudiantes necesitan aprender, en los datos que se pueden recopilar para demostrar que los estudiantes han alcanzado los resultados deseados \(o [estándares de aprendizaje](https://en.wikipedia.org/wiki/Learning_standards)\) y en cómo asegurar que los alumnos aprendan.
 
 ## <img src="/Images/Icons/journal.png" width="150" height="150" />
 
@@ -316,7 +316,7 @@ La idea en el Diseño en Retrospectiva es enseñar tendiendo hacia el "punto fin
 
 Antes de comenzar a enseñar tendrás que recopilar y preparar el contenido. Hoy en día el contenido está disponible masivamente. Por ende, ya no se trata de la búsqueda o la creación de contenido sino de la búsqueda de contenido apropiado o de hacer que el contenido que se ha encontrado sea apropiado para las necesidades y capacidades de tu audiencia destinataria.
 
-Por favor, revisa el capítulo acerca de [Ejemplos y Guía Práctica](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) que contiene información útil sobre cómo adoptar, adaptar y desarrollar contenido.
+Por favor, revisa el capítulo acerca de [Ejemplos y Guía Práctica](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_ES/blob/master/05ExamplesAndPracticalGuidance/05ExamplesAndPracticalGuidance_ES.md) que contiene información útil sobre cómo adoptar, adaptar y desarrollar contenido.
 
 #### Reducción de contenido
 
@@ -405,9 +405,9 @@ En cualquier caso, debes tener una idea de qué hacer cuando surge una conversac
 
 #### Retroalimentacion instantánea
 
-Al final de cada módulo, solicita retroalimentación de los participantes bajo la forma de "uno arriba/uno abajo" (esto es, que indiquen una cosa que fue útil/buena en el módulo y una cosa que no estuvo clara/podría mejorarse). Esto también puede hacerse de modo más graduado/estandarizado. [Aquí] (http://www.academis.eu/posts/fist_or_five) hay un ejemplo de retroalimentación con 6 grados.
+Al final de cada módulo, solicita retroalimentación de los participantes bajo la forma de "uno arriba/uno abajo" (esto es, que indiquen una cosa que fue útil/buena en el módulo y una cosa que no estuvo clara/podría mejorarse). Esto también puede hacerse de modo más graduado/estandarizado. [Aquí](http://www.academis.eu/posts/fist_or_five) hay un ejemplo de retroalimentación con 6 grados.
 
-Otra forma de obtener retroalimentación instantánea, especialmente en puntos predefinidos, es a través de encuestas continuas. Por ejemplo, Slack puede emplearse para proporcionar retroalimentación anónima sobre la marcha, proveyendo a los miembros de un canal la opción de cambiar su elección en una encuesta en cualquier momento. Los casos de retroalimentación deben  mostrarse  a los participantes. Mostrar números totales o gráficos puede actuar como un incentivo. Las herramientas en línea basadas en la nube generan mayor participación, especialmente porque la dependencia de dispositivos como los mandos para presentaciones está desapareciendo. Los estudiantes pueden usar dispositivos móviles conectados a Internet y sentirse empoderados. Los ejemplos de esto son abundantes. Debes probar los métodos antes de usarlos con una audiencia real, y comenzar con los sistemas que tengan pasos de familiarización más simples, como [Socrative](https://www.socrative.com/) y [Learning](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html)[Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), o [Directpoll. ](http://directpoll.com/).
+Otra forma de obtener retroalimentación instantánea, especialmente en puntos predefinidos, es a través de encuestas continuas. Por ejemplo, Slack puede emplearse para proporcionar retroalimentación anónima sobre la marcha, proveyendo a los miembros de un canal la opción de cambiar su elección en una encuesta en cualquier momento. Los casos de retroalimentación deben  mostrarse  a los participantes. Mostrar números totales o gráficos puede actuar como un incentivo. Las herramientas en línea basadas en la nube generan mayor participación, especialmente porque la dependencia de dispositivos como los mandos para presentaciones está desapareciendo. Los estudiantes pueden usar dispositivos móviles conectados a Internet y sentirse empoderados. Los ejemplos de esto son abundantes. Debes probar los métodos antes de usarlos con una audiencia real, y comenzar con los sistemas que tengan pasos de familiarización más simples, como [Socrative](https://www.socrative.com/) y [Learning](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html)[Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), o [Directpoll](http://directpoll.com/).
 
 Algunas otras estrategias de retroalimentación instantáneas se pueden encontrar en [teachthought.com](https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)
 
@@ -457,7 +457,7 @@ Para evaluar un curso debes establecer, primero, con qué quieres que tus alumno
 
 ### Técnica de evaluación del entrenamiento de Kirkpatrick
 
-[El modelo de evaluación del entrenamiento en cuatro niveles de Kirkpatrick] (https://www.mindtools.com/pages/article/kirkpatrick.htm) es una forma estandarizada de analizar la efectividad y el impacto de tu entrenamiento.
+[El modelo de evaluación del entrenamiento en cuatro niveles de Kirkpatrick](https://www.mindtools.com/pages/article/kirkpatrick.htm) es una forma estandarizada de analizar la efectividad y el impacto de tu entrenamiento.
 
 **Ejercicios**
 
@@ -511,14 +511,14 @@ Se pueden aplicar ejercicios similares para capacitar a diferentes audiencias, p
 
 **Acerca de la Taxonomía de Bloom:**
 
-* [https://www.pearsoened.com/using-blooms-taxonomy-to-write-learning-outcomes/](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
-* [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
+* [pearsoened.com/using-blooms-taxonomy-to-write-learning-outcomes/](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
+* [clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
 **Recursos/ejercicios para romper el hielo**
 
-* [https://www.mindtools.com/pages/article/newLDR\_76.htm](https://www.mindtools.com/pages/article/newLDR_76.htm)
-* [http://documents.manchester.ac.uk/display.aspx?DocID=7582](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
-* [https://www.thebalance.com/top-ice-breakers-1918426](https://www.thebalance.com/top-ice-breakers-1918426)
+* [mindtools.com/pages/article/newLDR\_76.htm](https://www.mindtools.com/pages/article/newLDR_76.htm)
+* [documents.manchester.ac.uk/display.aspx?DocID=7582](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
+* [thebalance.com/top-ice-breakers-1918426](https://www.thebalance.com/top-ice-breakers-1918426)
 
 **Bibliografía**
 
