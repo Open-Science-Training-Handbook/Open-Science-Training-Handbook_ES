@@ -3,7 +3,7 @@
 
 ### ¿Qué es?
 
-La Ciencia Ciudadana es el involucramiento del público no académico en procesos de investigación científica, ya sea investigación impulsada por la comunidad o investigaciones globales ([citizenscience.org](http://citizenscience.org/)[)](http://citizenscience.org/). Los ciudadanos también realizan trabajo científico –con frecuencia trabajando junto con expertos o instituciones científicas–, apoyan en la recolección, análisis o descripción de datos de investigación y con ello realizan una valiosa contribución a la ciencia. El primer proyecto documentado de Ciencia Ciudadana se llevó a cabo en los Estados Unidos durante la Navidad de 1900, cuando la **National Audubon Society** llevó a cabo un recuento de Aves en Navidad[.](http://www.audubon.org/conservation/science/christmas-bird-count) Por su parte [“](https://www.galaxyzoo.org)[Galaxy Zoo](https://www.galaxyzoo.org)”, con más de 150 mil participantes que clasificaron galaxias en un solo año, ha sido probablemente el proyecto de Ciencia Ciudadana más exitoso hasta el momento.
+La Ciencia Ciudadana es el involucramiento del público no académico en procesos de investigación científica, ya sea investigación impulsada por la comunidad o investigaciones globales ([citizenscience.org](http://citizenscience.org)). Los ciudadanos también realizan trabajo científico –con frecuencia trabajando junto con expertos o instituciones científicas–, apoyan en la recolección, análisis o descripción de datos de investigación y con ello realizan una valiosa contribución a la ciencia. El primer proyecto documentado de Ciencia Ciudadana se llevó a cabo en los Estados Unidos durante la Navidad de 1900, cuando la **National Audubon Society** llevó a cabo un [recuento de Aves en Navidad](http://www.audubon.org/conservation/science/christmas-bird-count) Por su parte “[Galaxy Zoo](https://www.galaxyzoo.org)”, con más de 150 mil participantes que clasificaron galaxias en un solo año, ha sido probablemente el proyecto de Ciencia Ciudadana más exitoso hasta el momento.
 
 En esencia, la Ciencia Ciudadana es el resultado directo de la comunicación científica y de la participación pública. En la época de tecnologías digitales en red, los investigadores tienen abundantes canales de comunicación a través de los cuales pueden ampliar la audiencia de su trabajo hacia públicos no académicos. Si bien tradicionalmente la investigación científica se ha difundido de manera restringida mediante documentos de conferencias, artículos de investigación y publicaciones de libros, ahora los investigadores pueden usar blogs, redes sociales y sitios en Internet para alojar vídeos, y también cuentan con una amplia red medios digitales para dirigir y ampliar la difusión de sus actividades.
 
@@ -74,11 +74,11 @@ Pese a que no existe consenso acerca de cómo evaluar algunas de las activiades 
 
 * Panorama de proyectos de Ciencia Ciudadana:
 
-  * [http://socientize.eu/](http://socientize.eu/)
+  * [socientize.eu/](http://socientize.eu/)
 
-  * [https://www.zooniverse.org/projects](https://www.zooniverse.org/projects)
+  * [zooniverse.org/projects](https://www.zooniverse.org/projects)
 
-  * [https://crowdcrafting.org/](https://crowdcrafting.org/)
+  * [crowdcrafting.org/](https://crowdcrafting.org/)
 
 * François Grey, Daniel Wyler, Judith Fröhlich, Katrien Maes 2016: [Citizen science at universities. Trends, guidelines and recommendations ](https://www.leru.org/publications/citizen-science-at-universities-trends-guidelines-and-recommendations)
 
