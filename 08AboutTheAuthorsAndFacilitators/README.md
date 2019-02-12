@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
-# Acerca de los autores, facilitadores y traductores de la versión al español
+# Acerca de los autores, facilitadores y traductores de la versión en español
 
 ## Acerca de los traductores de la versión al español
 
