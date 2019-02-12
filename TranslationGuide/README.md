@@ -202,7 +202,7 @@ Total de palabras del Manual: 43.243.
     <td>RRogel lo revisó y subió. Faltan imágenes</td>
     <td>Rosario Rogel</td>
     <td>Revisado por RR 10-Ene</td>
-    <td></td> 
+    <td>Revisado RM</td> 
   </tr>
   <tr>
     <td>Glossary</td>
