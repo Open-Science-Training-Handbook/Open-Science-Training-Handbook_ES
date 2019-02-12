@@ -94,7 +94,7 @@ Total de palabras del Manual: 43.243.
     <td>24-09</td>
     <td>Nicolás Alessandroni</td>
     <td>Revisado por NA 11-Dic</td>
-    <td></td>
+    <td>Revisado RM</td>
   </tr>
   <tr>
     <td>Reproducible Research and Data Analysis</td>
@@ -193,7 +193,7 @@ Total de palabras del Manual: 43.243.
     <td>26-10</td>
     <td>Rosario Rogel</td>
     <td>Revisado por RRS 16 Ene</td>
-    <td></td>
+    <td>Revisado RM</td>
   </tr>
   <tr>
     <td>Examples and Practical Guidance</td>
