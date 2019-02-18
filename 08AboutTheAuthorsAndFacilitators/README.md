@@ -9,13 +9,13 @@
 
 Editora de la revista Salud Pública de México, donde se dedica a la corrección de estilo, en especial a la edición en digital de la Revista. Asimismo, monitorea los indicadores de Factor de Impacto (FI) y diversas métricas de SCOPUS, SCImago, Google Scholar. Participa y promueve a través de su trabajo el movimiento de acceso abierto para incrementar la visibilidad de las publicaciones a través de la correcta utilización de metadatos; y facilitar la citación dentro de los gestores de referencias y repositorios, para finalmente hacer que la literatura científica esté disponible en línea y sin barreras para todos.
 
-### Benito Castro Pérez – bibliobenito@gmail.com [bibliobenito@gmail.com](mailto:bibliobenito@gmail.com)
+### Benito Castro Pérez – [bibliobenito@gmail.com](mailto:bibliobenito@gmail.com)
 
 * Licenciado en Biblioteconomía - Escuela Nacional de Biblioteconomía y Archivonomía de México.
 
 Trabaja en la Revista Latinoamericana de Investigación en Matemática Educativa (RELIME) lo que lo vincula al mundo de las publicaciones científicas y la comunicación de la ciencia. Se dedica a la Alfabetización Informacional de estudiantes de educación media superior, fomentando el uso de herramientas de acceso abierto y el uso ético de la información.
 
-### Lourdes Feria Basurto - lourdesferia@hotmail.com [lourdesferia@hotmail.com](mailto:lourdesferia@hotmail.com)
+### Lourdes Feria Basurto - [lourdesferia@hotmail.com](mailto:lourdesferia@hotmail.com)
 
 * Licenciada en Bibliotecología –Universidad Nacional Autónoma de México.  Maestra en Educación por la Universidad de Colima de México. Doctora –Cum laude- en Ciencias de la Documentación - Universidad Complutense de Madrid, España.
 
@@ -30,18 +30,18 @@ Consultora internacional en Gestión de Conocimiento, e-Learning y Bibliotecolog
 
 Doctora en Lingüística por la Universidad el País Vasco y Master en Bibliotecas Digitales por la Universidad Carlos III de Madrid. Tiene amplia experiencia en diversos aspectos relacionados con la comunicación académica, la gestión y evaluación de la investigación, y la ciencia abierta. En la actualidad trabaja como Research & Scholarly Communications Information Manager en la Universidad de Hertfordshire (Reino Unido) donde entre otras tareas se encarga de asesorar en materia de acceso abierto y gestión de datos de investigación. En su puesto anterior en España gestionó la puesta en marcha del servicio de asesoramiento en acceso abierto, y participó en el diseño y desarrollo del repositorio institucional. Es docente en cursos de grado y posgrado.
 
-### Ricardo Hartley - aufschieben@icloud.com [aufschieben@icloud.com](mailto:aufschieben@icloud.com)
+### Ricardo Hartley - [aufschieben@icloud.com](mailto:aufschieben@icloud.com)
 * Doctor en Biología Molecular Aplicada y Magíster en Ciencias Biológicas, Universidad de La Frontera. Magíster en Biología Celular y del Desarrollo, Universidad de Tarapacá. Tecnólogo Médico, Universidad de Chile.
 
 Actualmente trabaja en la Universidad Central como Coordinador Ejecutivo de I3S. Participa activamente en diversas iniciativas de acceso abierto y ciencia abierta a nivel regional e internacional; y colabora con diversos en la difusión y capacitación sobre sus conceptos y principios.
 
-### Ivonne Lujano- ivonne@doaj.org [ivonne@doaj.org](mailto:ivonne@doaj.org)
+### Ivonne Lujano - [ivonne@doaj.org](mailto:ivonne@doaj.org)
 
 * Embajadora de DOAJ en América Latina. Tiene una Maestría en Ciencias Sociales por FLACSO Argentina, así como las licenciaturas en Educación por la Universidad Autónoma del Estado de México. Es profesora en la Universidad Autónoma del Estado de México, Facultad de Ciencias de la Conducta.
 
 Ha trabajado con algunas iniciativas de comunicación académica a nivel regional e internacional como Force11, Latindex, Redalyc, SciELO y SPARC desarrollando proyectos sobre las mejores prácticas en la publicación de revistas de acceso abierto. Ivonne escribe sobre temas relacionados con la comunicación académica, el acceso abierto, las políticas científicas y de investigación y la educación superior. Tiene experiencia en la impartición de cursos sobre comunicación académica y uso de la información científica para estudiantes de posgrado, docentes, bibliotecario/as e investigadore/as.
 
-### Paula Martínez Lavanchy
+### Paula Martínez Lavanchy - [paml@dtu.dk](mailto:p.m.martinezlavanchy@tudelft.nl)
 
 
 * Reasearch Data Officer - Biblioteca Universidad Técnica de Delft, Holanda (en transición)
@@ -54,7 +54,7 @@ Biotecnóloga y doctora en Microbiología. Ha trabajado en los últimos tres añ
 
 ## Equipo de Revisores
 
-### Nicolás Alessandroni
+### Nicolás Alessandroni - [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
 
 * Departamento Interfacultativo de Psicología Evolutiva y de la Educación, Facultad de Psicología, Universidad Autónoma de Madrid (UAM), España.
 * [nicolas.alessandroni@uam.es](mailto:nicolas.alessandroni@uam.es)
