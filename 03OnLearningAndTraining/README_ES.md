@@ -370,9 +370,9 @@ El aprendizaje activo ayuda a eludir la diversidad en los estilos de aprendizaje
 
 ## <img src="/Images/Icons/gamification.png" width="300" height="300" />
 
-#### Ludificación
+#### Gamificación
 
-Los fundamentos de la metodología del Aprendizaje Activo se encuentran en las teorías modernas del aprendizaje \(en parte en el constructivismo y en el conectivismo\) e incorporan técnicas de involucramiento con el aprendizaje para romper barreras y sortear tantos obstáculos como sea posible. Por ejemplo, ludificar una instancia de aprendizaje puede alejar a los alumnos de la adquisición pasiva de contenido hacia un compromiso total, lo que conduce al reposicionamiento del alumno como alguien que da un paso atrás y observa el proceso de aprendizaje y cómo funciona. Aquí se muestra un ejemplo de ludificación en  el entrenamiento: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), un juego de aprendizaje para la consolidación conceptual. Un ejemplo adicional se puede encontrar en [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
+Los fundamentos de la metodología del Aprendizaje Activo se encuentran en las teorías modernas del aprendizaje \(en parte en el constructivismo y en el conectivismo\) e incorporan técnicas de involucramiento con el aprendizaje para romper barreras y sortear tantos obstáculos como sea posible. Por ejemplo, incluir juegos en el  aprendizaje puede alejar a los alumnos de la adquisición pasiva de contenido hacia una implicación total, lo que conduce al reposicionamiento del alumno como alguien que  observa el proceso de aprendizaje y cómo funciona. Aquí se muestra un ejemplo de gamificación en  la formación: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), un juego de aprendizaje para la consolidación conceptual. Un ejemplo adicional se puede encontrar en [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
 
 #### Participación inclusiva
 
