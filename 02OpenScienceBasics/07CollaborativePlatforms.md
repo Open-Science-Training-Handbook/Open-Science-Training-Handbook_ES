@@ -31,7 +31,7 @@ Los entornos virtuales de investigación (EVI) y las plataformas colaborativas p
 
 Los entornos virtuales de investigación se han definido como " entornos innovadores, dinámicos y ubicuos que respaldan la investigación, en los que los científicos que se encuentran dispersos pueden acceder sin problemas a través de su navegador a datos, software y recursos de procesamiento gestionados por diversos sistemas en dominios de administración separados" \(Candela, Castelli and Pagano, 2013\).
 
-Un aspecto importante aquí es la naturaleza disciplinaria específica de muchas de estas herramientas. La Comisión Europea ha financiado una gama de VRE específicos para la comunidad bajo su flujo de fondos de infraestructura electrónica, para permitir a los investigadores realizar tareas complejas en colaboración, como la integración de datos heterogéneos de múltiples fuentes, modelos, simulación, exploración de datos, minería y visualización:
+Un aspecto importante aquí es la naturaleza disciplinaria específica de muchas de estas herramientas. La Comisión Europea ha financiado una gama de EVI específicos para la comunidad bajo su flujo de fondos de infraestructura electrónica, para permitir a los investigadores realizar tareas complejas en colaboración, como la integración de datos heterogéneos de múltiples fuentes, modelos, simulación, exploración de datos, minería y visualización:
 
 * [VI-SEEM](https://vi-seem.eu/) - EVI para comunidades interdisciplinarias regionales en el sureste de Europa y el Mediterráneo oriental
 
