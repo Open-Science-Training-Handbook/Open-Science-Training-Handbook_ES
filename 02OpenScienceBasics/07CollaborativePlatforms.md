@@ -31,7 +31,7 @@ Los entornos virtuales de investigación (EVI) y las plataformas colaborativas p
 
 Los entornos virtuales de investigación se han definido como " entornos innovadores, dinámicos y ubicuos que respaldan la investigación, en los que los científicos que se encuentran dispersos pueden acceder sin problemas a través de su navegador a datos, software y recursos de procesamiento gestionados por diversos sistemas en dominios de administración separados" \(Candela, Castelli and Pagano, 2013\).
 
-Un aspecto importante aquí es la naturaleza disciplinaria específica de muchas de estas herramientas. La Comisión Europea ha financiado una gama de VRE específicos para la comunidad bajo su flujo de fondos de infraestructura electrónica, para permitir a los investigadores realizar tareas complejas en colaboración, como la integración de datos heterogéneos de múltiples fuentes, modelos, simulación, exploración de datos, minería y visualización:
+Un aspecto importante aquí es la naturaleza disciplinaria específica de muchas de estas herramientas. La Comisión Europea ha financiado una gama de EVI específicos para la comunidad bajo su flujo de fondos de infraestructura electrónica, para permitir a los investigadores realizar tareas complejas en colaboración, como la integración de datos heterogéneos de múltiples fuentes, modelos, simulación, exploración de datos, minería y visualización:
 
 * [VI-SEEM](https://vi-seem.eu/) - EVI para comunidades interdisciplinarias regionales en el sureste de Europa y el Mediterráneo oriental
 
@@ -47,7 +47,7 @@ Un aspecto importante aquí es la naturaleza disciplinaria específica de muchas
 
 ![](/Images/Icons/datamining.png)
 
-Algunas bibliotecas ya ofrecen VRE personalizados para proyectos específicos. Por ejemplo, la [Biblioteca de la Universidad de Leiden](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools) ofrece EVI para todos los proyectos con financiamiento externo de más de cinco personas.
+Algunas bibliotecas ya ofrecen EVI personalizados para proyectos específicos. Por ejemplo, la [Biblioteca de la Universidad de Leiden](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools) ofrece EVI para todos los proyectos con financiamiento externo de más de cinco personas.
 
 Una plataforma de colaboración especialmente importante en el contexto de Ciencia Abierta [Open Science Framework](https://osf.io/) \(OSF\). ). Basado en tecnologías de código abierto y creado por el [Center for Open Science](https://cos.io/), la OSF se califica como "una comunidad académica para conectar todo el ciclo de investigación". La OSF permite a los investigadores trabajar en proyectos en privado con un número limitado de colaboradores y hacer pública cualquier parte o la totalidad de su proyecto. Se conecta directamente con muchos otros sistemas de colaboración como Dropbox, GitHub y Google Docs, y se puede usar para almacenar y archivar datos de investigación, protocolos y materiales.
 
