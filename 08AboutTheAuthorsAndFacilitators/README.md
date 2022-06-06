@@ -30,10 +30,10 @@ Consultora internacional en Gestión de Conocimiento, e-Learning y Bibliotecolog
 
 Doctora en Lingüística por la Universidad el País Vasco y Master en Bibliotecas Digitales por la Universidad Carlos III de Madrid. Tiene amplia experiencia en diversos aspectos relacionados con la comunicación académica, la gestión y evaluación de la investigación, y la ciencia abierta. En la actualidad trabaja como Research & Scholarly Communications Information Manager en la Universidad de Hertfordshire (Reino Unido) donde entre otras tareas se encarga de asesorar en materia de acceso abierto y gestión de datos de investigación. En su puesto anterior en España gestionó la puesta en marcha del servicio de asesoramiento en acceso abierto, y participó en el diseño y desarrollo del repositorio institucional. Es docente en cursos de grado y posgrado.
 
-### Ricardo Hartley - [aufschieben@icloud.com](mailto:aufschieben@icloud.com)
+### Ricardo Hartley - [aufschieben@icloud.com](mailto:rijdho@proton.me)
 * Doctor en Biología Molecular Aplicada y Magíster en Ciencias Biológicas, Universidad de La Frontera. Magíster en Biología Celular y del Desarrollo, Universidad de Tarapacá. Tecnólogo Médico, Universidad de Chile.
 
-Actualmente trabaja en la Universidad Central como Coordinador Ejecutivo de I3S. Participa activamente en diversas iniciativas de acceso abierto y ciencia abierta a nivel regional e internacional; y colabora con diversos en la difusión y capacitación sobre sus conceptos y principios.
+Actualmente trabaja en la Universidad Central de Chile. Participa activamente en diversas iniciativas de acceso abierto y ciencia abierta a nivel regional e internacional; y colabora con diversos en la difusión y capacitación sobre sus conceptos y principios.
 
 ### Ivonne Lujano - [ivonne@doaj.org](mailto:ivonne@doaj.org)
 
